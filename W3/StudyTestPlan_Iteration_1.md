@@ -1,74 +1,127 @@
-# Non-Technical Study Test Plan (Iteration 1) — Draft (Simplified)
+# Non-Technical Study Test Plan (Iteration 1) — Draft
 
-## 1. Overview
-This formative (non-technical) study explores how **viewpoint** affects **collaboration behaviour** during a shared tabletop task. We use a physical **Tangram silhouette** task and compare:
+## 1. Aim
 
-- **Condition A (Natural / baseline):** participants collaborate with a normal, direct view of the tabletop.
-- **Condition B (Shared external camera view / third-person analogue):** participants are not allowed to look at the tabletop directly; they collaborate while watching a **live overhead camera feed** on a shared screen.
-
-Findings will inform the later VR prototype (camera rules, task design, and what measures to log).
+This early formative study investigates how an externally mediated shared view affects collaboration during a simple two-person tabletop task. The purpose is not to produce a final controlled result, but to test feasibility, observe collaboration patterns, and generate design inputs for a later VR prototype.
 
 ## 2. Research Question
-Compared with natural viewing, how does a shared external camera view influence:
-- **coordination**, **communication**, and **workspace awareness**
-during a two-person collaborative task?
 
-## 3. Participants
-- 2 participants per session (a pair)
-- Target: 2–6 pairs (formative feasibility)
+How does restricting collaborators to a shared external camera view, rather than natural direct viewing, affect coordination, communication, and workspace awareness in a two-person Tangram task?
 
-## 4. Task
-- Physical Tangram puzzle using **silhouette targets**
-- Each condition uses one silhouette (two silhouettes total, similar difficulty)
+## 3. Study Type
 
-## 5. Study Design
-- **Within-subjects**: each pair completes both conditions A and B
-- **Counterbalanced order**: half do A→B, half do B→A (to reduce order effects)
+This is a formative, non-technical feasibility study intended to inform later prototype design and user testing.
 
-## 6. Apparatus & Setup
-- Tangram set on a table
-- Phone mounted above the table as an **overhead camera**
-- Mac/iPad displays the **live camera feed** for both participants to see
+## 4. Participants
 
-**Condition B rule:** participants must not look at the tabletop directly (no direct view).
+- 2 participants per session (1 pair)
+- Target: approximately 2–6 pairs
 
-## 7. Procedure (per pair)
-1. **Briefing (2–3 min)**: explain the task and rules; answer questions.
-2. **Warm-up (1–2 min)**: quick familiarisation with Tangram pieces.
-3. **Condition 1 (5–6 min max)**: complete silhouette; record time and observations.
-4. **Short break (1 min)**
-5. **Condition 2 (5–6 min max)**: complete the other silhouette; record time and observations.
-6. **Post-task feedback (3–5 min)**: short ratings + a few open questions.
+This small sample is intended to identify recurring behavioural patterns and practical issues, rather than support statistical generalisation.
 
-## 8. Measures (Minimal)
-**Performance**
+## 5. Task
+
+Participants work together to complete a physical Tangram silhouette task.
+
+- One silhouette is completed in each condition
+- Two silhouettes will be selected to be as similar in difficulty as possible
+- The warm-up puzzle will be different from both study silhouettes
+
+## 6. Conditions
+
+### Condition A — Natural View (Baseline)
+Participants collaborate with a normal direct view of the tabletop and Tangram pieces.
+
+### Condition B — Shared External Camera View
+Participants are not allowed to look directly at the tabletop. Instead, they collaborate while watching a live overhead camera feed displayed on a shared screen.
+
+This condition is intended as a simple non-technical analogue of externally mediated or third-person-like viewing, rather than a pure isolation of third-person perspective alone.
+
+## 7. Study Design
+
+- Within-subjects design
+- Each pair completes both conditions
+- Order is counterbalanced:
+  - Half of pairs complete A → B
+  - Half of pairs complete B → A
+
+## 8. Apparatus and Setup
+
+- Physical Tangram set
+- Tabletop workspace
+- Phone mounted above the table as an overhead camera
+- Mac/iPad displaying the live camera feed
+- Researcher observation sheet for timing and behaviour notes
+
+## 9. Procedure
+
+### 1. Briefing (2–3 min)
+Participants are introduced to the task and condition rules.
+
+### 2. Warm-up (1–2 min)
+Participants complete a short practice puzzle to familiarise themselves with the Tangram pieces.
+
+### 3. Condition 1 (max 5–6 min)
+Participants complete the first silhouette under the assigned first condition.
+
+### 4. Short Break (1 min)
+
+### 5. Condition 2 (max 5–6 min)
+Participants complete the second silhouette under the remaining condition.
+
+### 6. Post-task Feedback (3–5 min)
+Participants provide short ratings and brief verbal feedback about the experience.
+
+## 10. Measures
+
+### A. Performance
+- Completion status (completed / not completed within time limit)
 - Completion time
-- Completion (yes/no)
-- Rework count (obvious dismantle-and-redo moments)
+- Number of major rearrangement episodes
 
-**Collaboration / Communication (lightweight)**
-- Clarification count (e.g., “Which piece/where exactly?”)
-- Notes on coordination patterns (turn-taking, dominant control, conflicts)
+### B. Communication and Coordination
+- Number of clarification utterances (e.g. requests for positional clarification)
+- Observed coordination style (e.g. balanced collaboration, one-person-led, frequent negotiation)
+- Number of visible disagreement or repair episodes
 
-**Workspace awareness (lightweight)**
-- “Lost in workspace” moments (e.g., “I can’t tell the overall shape now”)
+### C. Workspace Awareness
+- Observed moments of uncertainty about the shared spatial layout or piece placement
+- Participant rating of how aware they felt of the overall puzzle state
 
-**Rule adherence (Condition B)**
-- Direct-view violations (if any)
+### D. Rule Adherence
+- Number of direct-view violations in Condition B
 
-**Short subjective ratings (1–7)**
-- Task difficulty
-- Collaboration smoothness
-- Viewpoint clarity
-- Workspace awareness
+### E. Subjective Ratings (1–7)
+Possible items include:
+- The task felt difficult
+- Collaboration felt smooth
+- The viewpoint was clear and usable
+- I was aware of the overall state of the puzzle
 
-## 9. Expected Outcomes (Iteration 1)
-- Validate feasibility of Condition B (participants can complete tasks using the camera feed).
-- Identify where collaboration breaks down or changes under the external viewpoint.
-- Produce practical design inputs for the VR prototype (camera constraints, UI hints, logging needs).
+## 11. What This Study Is Looking For
 
-## 10. Notes / To Decide
-- Time cap per condition (suggest 5–6 min)
-- Which two silhouettes to use (match difficulty)
-- Whether to record audio/video (recommended if feasible)
-- Overhead vs slight oblique camera angle (keep constant across sessions)
+This study is intended to identify:
+
+- Whether pairs can successfully complete the task under the external-view condition
+- How communication changes when direct viewing is removed
+- Whether collaborators rely more on explicit clarification and turn-taking in Condition B
+- What kinds of breakdowns or frictions emerge under screen-mediated viewing
+- What practical implications this has for a later VR prototype
+
+## 12. Expected Outcomes
+
+The study is expected to:
+
+- Validate the feasibility of a non-technical external-view collaboration task
+- Reveal early differences in coordination and workspace awareness across conditions
+- Provide concrete design inputs for the VR prototype, such as:
+  - camera/viewpoint constraints
+  - possible interface cues
+  - useful behavioural measures to log later
+
+## 13. Notes / To Finalise
+
+- Final time cap per condition
+- Final silhouette selection
+- Whether sessions will be audio/video recorded, subject to ethics approval
+- Whether the camera angle should be strictly overhead or slightly oblique (to remain constant across all sessions)
