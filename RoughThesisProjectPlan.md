@@ -13,13 +13,11 @@ This is a very rough working plan based on my current understanding of the thesi
 
 ## Week 6
 ### Main focus
-- Finalise and submit the Topic Definition requirements
 - Finalise and submit the initial ethics materials
 - Confirm the core set of 15 references for the proposal
 - Continue clarifying how the key papers inform the research direction and study design
 
 ### Expected output
-- Topic Definition submitted
 - Initial ethics package submitted
 - Core proposal reference set established
 - Clearer literature-to-design connection
@@ -270,4 +268,3 @@ If ethics approval is delayed beyond the expected Week 9 timeframe:
 - Conduct only informal internal testing where appropriate
 - Start formal participant testing only after approval is confirmed
 
-This is important because, although the proposal is formally submitted in Week 8, it still functions as a working thesis scaffold and may need to be extended, clarified, or revised as the project develops.
