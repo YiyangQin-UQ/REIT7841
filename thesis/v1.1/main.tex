@@ -1,0 +1,65 @@
+% !TEX program = tectonic
+\documentclass[12pt,a4paper,oneside,openany]{book}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage[a4paper,margin=25mm,footskip=12mm]{geometry}
+\usepackage{setspace,microtype,graphicx,xcolor,booktabs,longtable,tabularx,array,caption,placeins,amsmath,pdflscape,multirow,amssymb}
+\usepackage{xurl}
+\usepackage[hidelinks,unicode,pdfencoding=auto]{hyperref}
+\hypersetup{pdftitle={Collaborative Tangram in Shared Overhead VR: Shape Judgment and the Coordination of Construction},pdfauthor={Yiyang Qin},pdfsubject={REIT7841 v1.1},pdfkeywords={collaborative VR, Tangram, shared overhead view, shape judgment}}
+\onehalfspacing
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{4pt plus 1pt minus 1pt}
+\setlength{\emergencystretch}{2em}
+\setcounter{tocdepth}{2}
+\setcounter{secnumdepth}{2}
+\captionsetup{hypcap=false,font={small,stretch=1.05},labelfont=bf,justification=justified,singlelinecheck=false}
+\captionsetup[table]{position=top}
+\setlength{\LTcapwidth}{\textwidth}
+\renewcommand{\topfraction}{0.88}
+\renewcommand{\bottomfraction}{0.8}
+\renewcommand{\textfraction}{0.12}
+\renewcommand{\floatpagefraction}{0.7}
+\widowpenalty=10000
+\clubpenalty=10000
+\displaywidowpenalty=10000
+\raggedbottom
+\pagestyle{plain}
+
+% Keep each figure with its local explanation at a paragraph boundary.
+\newsavebox{\figureunitbox}
+\newenvironment{figureunit}[1]{%
+  \def\figureunitid{#1}%
+  \par\addvspace{8pt}\noindent
+  \begin{lrbox}{\figureunitbox}\begin{minipage}{\linewidth}%
+  \setlength{\parskip}{4pt plus 1pt minus 1pt}%
+}{%
+  \end{minipage}\end{lrbox}%
+  \typeout{LAYOUTUNIT \figureunitid: \the\dimexpr\ht\figureunitbox+\dp\figureunitbox\relax}%
+  \usebox{\figureunitbox}\par\addvspace{8pt}%
+}
+\brokenpenalty=10000
+
+\begin{document}
+\input{frontmatter}
+\mainmatter
+\input{chapters/01_introduction}
+\input{chapters/02_related_research}
+\input{chapters/03_prototype}
+\input{chapters/04_method}
+\input{chapters/05_results}
+\input{chapters/06_discussion}
+\input{chapters/07_conclusion}
+\clearpage
+\phantomsection\addcontentsline{toc}{chapter}{Bibliography}
+\begingroup\singlespacing\small
+\bibliographystyle{unsrt}
+\bibliography{references}
+\endgroup
+\appendix
+\input{appendices/A}
+\input{appendices/B}
+\input{appendices/C}
+\input{appendices/D}
+\end{document}
