@@ -1,0 +1,192 @@
+{
+  "original_measurements": {
+    "metrics": [
+      {
+        "slot": "G03_R03",
+        "active_elapsed_s": 145,
+        "a_m": 0.4402327962870955,
+        "b_m": 0.44029956898598366,
+        "b_over_a": 1.0001516758847848,
+        "upper_piece": "S6",
+        "lower_pieces": [
+          "S5"
+        ],
+        "source_lines": {
+          "S6": "5290",
+          "S5": "5901"
+        },
+        "lower_extent": [
+          -0.22107071879730592,
+          0.21922885018867777
+        ],
+        "lower_min_y": -0.45628164412894817
+      },
+      {
+        "slot": "G04_R03",
+        "active_elapsed_s": 115,
+        "a_m": 0.44056947726894014,
+        "b_m": 0.4402007223899561,
+        "b_over_a": 0.9991630040254492,
+        "upper_piece": "S5",
+        "lower_pieces": [
+          "S6"
+        ],
+        "source_lines": {
+          "S5": "1874",
+          "S6": "1818"
+        },
+        "lower_extent": [
+          -0.2259121880119056,
+          0.2142885343780505
+        ],
+        "lower_min_y": -0.4249006118320199
+      },
+      {
+        "slot": "G06_R03",
+        "active_elapsed_s": 214,
+        "a_m": 0.4402260359244668,
+        "b_m": 0.6123707852869487,
+        "b_over_a": 1.3910371838889106,
+        "upper_piece": "S6",
+        "lower_pieces": [
+          "S1",
+          "S5",
+          "S3"
+        ],
+        "source_lines": {
+          "S6": "6114",
+          "S1": "7070",
+          "S5": "6940",
+          "S3": "6773"
+        },
+        "lower_extent": [
+          -0.28144030273967646,
+          0.3309304825472722
+        ],
+        "lower_min_y": -0.41547202521067744
+      }
+    ],
+    "display_ratios": [
+      "1.00",
+      "1.00",
+      "1.39"
+    ],
+    "reconstruction_max_absolute_difference_m": 3.3306690738754696e-16,
+    "target_pixel_spans": [
+      364,
+      364,
+      364,
+      364
+    ]
+  },
+  "display": {
+    "target": "1.00",
+    "G03": "1.00",
+    "G04": "1.00",
+    "G06": "1.39"
+  },
+  "definition": {
+    "a": "Maximum distance between two vertices of the upper large-triangle x/z convex hull; S6 for G03 and G06, S5 for G04.",
+    "b": "Extent of the selected lower hulls projected along the direction of a; S5 for G03, S6 for G04, S1+S5+S3 for G06.",
+    "alignment": "Rigid translation and rotation of each complete layout; common world scale. Target is uniformly scaled only for visual comparison."
+  },
+  "G04_projection_diagnostic": {
+    "raw_ratio": 0.9991630040254492,
+    "mesh_checks": {
+      "S5": {
+        "source_line": "1874",
+        "vertex_count": 145,
+        "scaled_bbox_min": [
+          -0.22010037,
+          -0.2250000525,
+          -0.0225000075
+        ],
+        "scaled_bbox_max": [
+          0.22010037,
+          -0.0021966993,
+          0.0225000075
+        ],
+        "three_dimensional_mesh_diameter_m": 0.44154229170274406,
+        "world_plane_normal": [
+          -0.008302843180178085,
+          -0.9998575740757846,
+          0.014693344017352561
+        ],
+        "mesh_plane_tilt_to_table_deg": 0.9670241233207271
+      },
+      "S6": {
+        "source_line": "1818",
+        "vertex_count": 161,
+        "scaled_bbox_min": [
+          -0.2250000075,
+          -0.2201004225,
+          -0.0225000075
+        ],
+        "scaled_bbox_max": [
+          -0.002196699,
+          0.2201004225,
+          0.0225000075
+        ],
+        "three_dimensional_mesh_diameter_m": 0.4415423963837194,
+        "world_plane_normal": [
+          -0.004899878051346784,
+          -0.9997475082480217,
+          -0.02192968187076122
+        ],
+        "mesh_plane_tilt_to_table_deg": 1.2875685690686869
+      }
+    },
+    "zero_local_thickness_only_diagnostic": {
+      "a_m": 0.44017125823851283,
+      "b_m": 0.44017950655835647,
+      "ratio": 1.0000187388878516,
+      "description": "Set local mesh z to zero for this diagnostic only; retain recorded quaternion, translation, scale and x/y mesh coordinates. NOT used in the published figure."
+    },
+    "interpretation": "The two large meshes have effectively equal nominal dimensions. Their full-thickness world projections under small logged tilts yield the original 0.999163 ratio. Removing local thickness for diagnosis gives 1.000019. The third-decimal departure is chiefly mesh/pose projection, not evidence of a meaningful puzzle error; describing it solely as floating-point rounding would be inaccurate."
+  },
+  "scientific_role": "Auxiliary check of one body-proportion relation. Not the main contribution, a global shape-error percentage, or an independent criterion of whole-silhouette correctness.",
+  "inputs": [
+    {
+      "path": "source-workspace/outputs/thesis_v1_1_20261102/revision/figure_inputs/geometry/00_vela-5_silhouette.png",
+      "sha256": "96c752b033bdb5672893fb0528c8c7d1c37090bcafec0f8e402501c1a21dbbf0"
+    },
+    {
+      "path": "source-workspace/outputs/thesis_v1_1_20261102/revision/figure_inputs/geometry/01_上下外沿测量及来源.json",
+      "sha256": "5052042d7a82d88564735af2748f32c387384f84efe3f189bef3b859d680de8b"
+    },
+    {
+      "path": "source-workspace/outputs/thesis_v1_1_20261102/revision/figure_inputs/geometry/G03_R03.csv",
+      "sha256": "4d387aaf38d0e370731f116adc750c4c9fa6228ccc5f0d23bd34a0a0c7cf78ab"
+    },
+    {
+      "path": "source-workspace/outputs/thesis_v1_1_20261102/revision/figure_inputs/geometry/G04_R03.csv",
+      "sha256": "23049ede73d1cc0191577c79d89985c7c053c6c764a7abf9f06de8d845f9fed4"
+    },
+    {
+      "path": "source-workspace/outputs/thesis_v1_1_20261102/revision/figure_inputs/geometry/G06_R03.csv",
+      "sha256": "875d9d274868717b4f982fd8338479aa5965eb3e620fba330e9bb0c6de225f33"
+    },
+    {
+      "path": "source-workspace/outputs/thesis_v1_1_20261102/revision/figure_inputs/geometry/G06_R03_00945.000.jpg",
+      "sha256": "3b0a87595a277fdc846a3cfec8531ccd8d70a775a4e2dee2338d20284c828b54"
+    },
+    {
+      "path": "source-workspace/outputs/thesis_v1_1_20261102/revision/figure_inputs/geometry/G06_candle_sequence.json",
+      "sha256": "a31e2b77d772fe3c8402f82299f7489990d0fe5ca19ba60b20865ea523f4f050"
+    },
+    {
+      "path": "source-workspace/outputs/thesis_v1_1_20261102/revision/figure_inputs/geometry/geometry_from_backup.json",
+      "sha256": "8d93f9dd4bbfcbb1c49513f16bfcbb4f43eb981c731d4e2c353984c7c15938d8"
+    },
+    {
+      "path": "source-workspace/outputs/thesis_v1_1_20261102/revision/figure_inputs/geometry/source_index.json",
+      "sha256": "20c607a44382121e8cc606ddc06121ccad4c9d3d86fe8d862f849e17b780e5dc"
+    },
+    {
+      "path": "source-workspace/outputs/thesis_v1_1_20261102/revision/figure_inputs/geometry/three_candle_outcomes.json",
+      "sha256": "d3e8833a973711c8c455569e7ad6bf0084be02ba724ca2a89d72a93a69c26574"
+    }
+  ],
+  "original_geometry_preserved": true,
+  "diagnostic_hulls_not_used_in_figure": true
+}

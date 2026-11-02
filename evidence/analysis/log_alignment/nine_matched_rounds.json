@@ -1,0 +1,5728 @@
+[
+  {
+    "slot": "G01_R03",
+    "log": "L03",
+    "round": "TECHNICAL_TEST-R02",
+    "start_line": 1000,
+    "end_line": 4959,
+    "condition": "VR_FIRST_PERSON",
+    "task": "01_silla-1",
+    "event_counts": {
+      "round_start": 1,
+      "piece_initial": 7,
+      "control_action": 1,
+      "participant_pose": 1145,
+      "grab_request": 108,
+      "grab_accepted": 103,
+      "piece_motion_start": 103,
+      "piece_pose": 1589,
+      "release_request": 103,
+      "piece_release": 103,
+      "piece_settle_pose": 600,
+      "piece_settled": 91,
+      "grab_denied": 5,
+      "time_limit": 1
+    },
+    "piece_grab_sequences": {
+      "S7": [
+        {
+          "t": "8.386781",
+          "wall_t": "8.386781",
+          "actor": "P2",
+          "line": 1041,
+          "manipulation": "TECHNICAL_TEST-R02-S7-M0009"
+        },
+        {
+          "t": "36.915833",
+          "wall_t": "36.915833",
+          "actor": "P1",
+          "line": 1450,
+          "manipulation": "TECHNICAL_TEST-R02-S7-M0010"
+        },
+        {
+          "t": "42.372743",
+          "wall_t": "42.372743",
+          "actor": "P2",
+          "line": 1528,
+          "manipulation": "TECHNICAL_TEST-R02-S7-M0011"
+        },
+        {
+          "t": "50.179491",
+          "wall_t": "50.179491",
+          "actor": "P1",
+          "line": 1707,
+          "manipulation": "TECHNICAL_TEST-R02-S7-M0012"
+        },
+        {
+          "t": "109.707407",
+          "wall_t": "109.707407",
+          "actor": "P2",
+          "line": 2299,
+          "manipulation": "TECHNICAL_TEST-R02-S7-M0013"
+        },
+        {
+          "t": "111.804456",
+          "wall_t": "111.804456",
+          "actor": "P2",
+          "line": 2352,
+          "manipulation": "TECHNICAL_TEST-R02-S7-M0014"
+        },
+        {
+          "t": "129.679939",
+          "wall_t": "129.679939",
+          "actor": "P2",
+          "line": 2621,
+          "manipulation": "TECHNICAL_TEST-R02-S7-M0015"
+        },
+        {
+          "t": "130.166301",
+          "wall_t": "130.166301",
+          "actor": "P2",
+          "line": 2637,
+          "manipulation": "TECHNICAL_TEST-R02-S7-M0016"
+        },
+        {
+          "t": "133.582245",
+          "wall_t": "133.582245",
+          "actor": "P1",
+          "line": 2697,
+          "manipulation": "TECHNICAL_TEST-R02-S7-M0017"
+        },
+        {
+          "t": "148.637743",
+          "wall_t": "148.637743",
+          "actor": "P2",
+          "line": 2867,
+          "manipulation": "TECHNICAL_TEST-R02-S7-M0018"
+        },
+        {
+          "t": "197.888119",
+          "wall_t": "197.888119",
+          "actor": "P1",
+          "line": 3389,
+          "manipulation": "TECHNICAL_TEST-R02-S7-M0019"
+        },
+        {
+          "t": "200.609948",
+          "wall_t": "200.609948",
+          "actor": "P1",
+          "line": 3444,
+          "manipulation": "TECHNICAL_TEST-R02-S7-M0020"
+        },
+        {
+          "t": "213.512986",
+          "wall_t": "213.512986",
+          "actor": "P2",
+          "line": 3657,
+          "manipulation": "TECHNICAL_TEST-R02-S7-M0021"
+        },
+        {
+          "t": "262.526987",
+          "wall_t": "262.526987",
+          "actor": "P2",
+          "line": 4393,
+          "manipulation": "TECHNICAL_TEST-R02-S7-M0022"
+        }
+      ],
+      "S4": [
+        {
+          "t": "14.082880",
+          "wall_t": "14.082880",
+          "actor": "P1",
+          "line": 1095,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0013"
+        },
+        {
+          "t": "17.220706",
+          "wall_t": "17.220706",
+          "actor": "P1",
+          "line": 1136,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0014"
+        },
+        {
+          "t": "20.012484",
+          "wall_t": "20.012484",
+          "actor": "P1",
+          "line": 1176,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0015"
+        },
+        {
+          "t": "20.999160",
+          "wall_t": "20.999160",
+          "actor": "P2",
+          "line": 1194,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0016"
+        },
+        {
+          "t": "39.651169",
+          "wall_t": "39.651169",
+          "actor": "P1",
+          "line": 1489,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0017"
+        },
+        {
+          "t": "51.428643",
+          "wall_t": "51.428643",
+          "actor": "P1",
+          "line": 1736,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0018"
+        },
+        {
+          "t": "95.818306",
+          "wall_t": "95.818306",
+          "actor": "P2",
+          "line": 2152,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0019"
+        },
+        {
+          "t": "157.638585",
+          "wall_t": "157.638585",
+          "actor": "P2",
+          "line": 2938,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0020"
+        },
+        {
+          "t": "159.456964",
+          "wall_t": "159.456964",
+          "actor": "P2",
+          "line": 2967,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0021"
+        },
+        {
+          "t": "162.763418",
+          "wall_t": "162.763418",
+          "actor": "P2",
+          "line": 3012,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0022"
+        },
+        {
+          "t": "179.235044",
+          "wall_t": "179.235044",
+          "actor": "P2",
+          "line": 3172,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0023"
+        },
+        {
+          "t": "190.304728",
+          "wall_t": "190.304728",
+          "actor": "P2",
+          "line": 3298,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0024"
+        },
+        {
+          "t": "195.152226",
+          "wall_t": "195.152226",
+          "actor": "P2",
+          "line": 3355,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0025"
+        },
+        {
+          "t": "228.457771",
+          "wall_t": "228.457771",
+          "actor": "P1",
+          "line": 3883,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0026"
+        },
+        {
+          "t": "236.415985",
+          "wall_t": "236.415985",
+          "actor": "P2",
+          "line": 3997,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0027"
+        },
+        {
+          "t": "238.902307",
+          "wall_t": "238.902307",
+          "actor": "P2",
+          "line": 4050,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0028"
+        },
+        {
+          "t": "240.429861",
+          "wall_t": "240.429861",
+          "actor": "P1",
+          "line": 4077,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0029"
+        },
+        {
+          "t": "266.775933",
+          "wall_t": "266.775933",
+          "actor": "P2",
+          "line": 4478,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0030"
+        },
+        {
+          "t": "293.941890",
+          "wall_t": "293.941890",
+          "actor": "P1",
+          "line": 4891,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0031"
+        }
+      ],
+      "S3": [
+        {
+          "t": "22.762803",
+          "wall_t": "22.762803",
+          "actor": "P1",
+          "line": 1217,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0007"
+        },
+        {
+          "t": "32.637162",
+          "wall_t": "32.637162",
+          "actor": "P1",
+          "line": 1393,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0008"
+        },
+        {
+          "t": "33.900577",
+          "wall_t": "33.900577",
+          "actor": "P1",
+          "line": 1415,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0009"
+        },
+        {
+          "t": "44.471410",
+          "wall_t": "44.471410",
+          "actor": "P1",
+          "line": 1592,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0010"
+        },
+        {
+          "t": "98.748962",
+          "wall_t": "98.748962",
+          "actor": "P2",
+          "line": 2189,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0011"
+        },
+        {
+          "t": "102.138343",
+          "wall_t": "102.138343",
+          "actor": "P2",
+          "line": 2228,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0012"
+        },
+        {
+          "t": "140.220939",
+          "wall_t": "140.220939",
+          "actor": "P2",
+          "line": 2790,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0013"
+        },
+        {
+          "t": "143.318150",
+          "wall_t": "143.318150",
+          "actor": "P2",
+          "line": 2823,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0014"
+        },
+        {
+          "t": "150.999253",
+          "wall_t": "150.999253",
+          "actor": "P2",
+          "line": 2896,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0015"
+        },
+        {
+          "t": "222.166148",
+          "wall_t": "222.166148",
+          "actor": "P2",
+          "line": 3789,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0016"
+        },
+        {
+          "t": "225.624125",
+          "wall_t": "225.624125",
+          "actor": "P2",
+          "line": 3837,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0017"
+        },
+        {
+          "t": "264.512972",
+          "wall_t": "264.512972",
+          "actor": "P2",
+          "line": 4434,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0018"
+        },
+        {
+          "t": "272.137394",
+          "wall_t": "272.137394",
+          "actor": "P2",
+          "line": 4582,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0019"
+        },
+        {
+          "t": "279.804091",
+          "wall_t": "279.804091",
+          "actor": "P1",
+          "line": 4682,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0020"
+        },
+        {
+          "t": "284.332244",
+          "wall_t": "284.332244",
+          "actor": "P2",
+          "line": 4755,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0021"
+        },
+        {
+          "t": "288.568037",
+          "wall_t": "288.568037",
+          "actor": "P2",
+          "line": 4820,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0022"
+        }
+      ],
+      "S6": [
+        {
+          "t": "42.275751",
+          "wall_t": "42.275751",
+          "actor": "P1",
+          "line": 1523,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0008"
+        },
+        {
+          "t": "50.679306",
+          "wall_t": "50.679306",
+          "actor": "P2",
+          "line": 1717,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0009"
+        },
+        {
+          "t": "77.444332",
+          "wall_t": "77.444332",
+          "actor": "P1",
+          "line": 2015,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0010"
+        },
+        {
+          "t": "105.471614",
+          "wall_t": "105.471614",
+          "actor": "P2",
+          "line": 2267,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0011"
+        },
+        {
+          "t": "128.596505",
+          "wall_t": "128.596505",
+          "actor": "P2",
+          "line": 2589,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0012"
+        },
+        {
+          "t": "180.916321",
+          "wall_t": "180.916321",
+          "actor": "P2",
+          "line": 3197,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0013"
+        },
+        {
+          "t": "183.040833",
+          "wall_t": "183.040833",
+          "actor": "P2",
+          "line": 3229,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0014"
+        },
+        {
+          "t": "185.805199",
+          "wall_t": "185.805199",
+          "actor": "P2",
+          "line": 3263,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0015"
+        },
+        {
+          "t": "261.206048",
+          "wall_t": "261.206048",
+          "actor": "P2",
+          "line": 4363,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0016"
+        }
+      ],
+      "S2": [
+        {
+          "t": "60.402820",
+          "wall_t": "60.402820",
+          "actor": "P2",
+          "line": 1816,
+          "manipulation": "TECHNICAL_TEST-R02-S2-M0005"
+        },
+        {
+          "t": "169.247749",
+          "wall_t": "169.247749",
+          "actor": "P2",
+          "line": 3084,
+          "manipulation": "TECHNICAL_TEST-R02-S2-M0006"
+        },
+        {
+          "t": "176.540486",
+          "wall_t": "176.540486",
+          "actor": "P2",
+          "line": 3142,
+          "manipulation": "TECHNICAL_TEST-R02-S2-M0007"
+        },
+        {
+          "t": "206.249807",
+          "wall_t": "206.249807",
+          "actor": "P2",
+          "line": 3518,
+          "manipulation": "TECHNICAL_TEST-R02-S2-M0008"
+        },
+        {
+          "t": "211.512290",
+          "wall_t": "211.512290",
+          "actor": "P2",
+          "line": 3617,
+          "manipulation": "TECHNICAL_TEST-R02-S2-M0009"
+        },
+        {
+          "t": "247.109989",
+          "wall_t": "247.109989",
+          "actor": "P2",
+          "line": 4169,
+          "manipulation": "TECHNICAL_TEST-R02-S2-M0010"
+        },
+        {
+          "t": "275.832645",
+          "wall_t": "275.832645",
+          "actor": "P2",
+          "line": 4621,
+          "manipulation": "TECHNICAL_TEST-R02-S2-M0011"
+        },
+        {
+          "t": "285.554505",
+          "wall_t": "285.554505",
+          "actor": "P1",
+          "line": 4777,
+          "manipulation": "TECHNICAL_TEST-R02-S2-M0012"
+        }
+      ],
+      "S1": [
+        {
+          "t": "67.069728",
+          "wall_t": "67.069728",
+          "actor": "P2",
+          "line": 1879,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0009"
+        },
+        {
+          "t": "87.804854",
+          "wall_t": "87.804854",
+          "actor": "P2",
+          "line": 2092,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0010"
+        },
+        {
+          "t": "111.637432",
+          "wall_t": "111.637432",
+          "actor": "P1",
+          "line": 2343,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0011"
+        },
+        {
+          "t": "112.929815",
+          "wall_t": "112.929815",
+          "actor": "P1",
+          "line": 2379,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0012"
+        },
+        {
+          "t": "115.776348",
+          "wall_t": "115.776348",
+          "actor": "P1",
+          "line": 2427,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0013"
+        },
+        {
+          "t": "117.082448",
+          "wall_t": "117.082448",
+          "actor": "P1",
+          "line": 2449,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0014"
+        },
+        {
+          "t": "127.817905",
+          "wall_t": "127.817905",
+          "actor": "P1",
+          "line": 2575,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0015"
+        },
+        {
+          "t": "129.206731",
+          "wall_t": "129.206731",
+          "actor": "P1",
+          "line": 2609,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0016"
+        },
+        {
+          "t": "166.040518",
+          "wall_t": "166.040518",
+          "actor": "P2",
+          "line": 3045,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0017"
+        },
+        {
+          "t": "197.485749",
+          "wall_t": "197.485749",
+          "actor": "P2",
+          "line": 3382,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0018"
+        },
+        {
+          "t": "201.555010",
+          "wall_t": "201.555010",
+          "actor": "P2",
+          "line": 3462,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0019"
+        },
+        {
+          "t": "204.749278",
+          "wall_t": "204.749278",
+          "actor": "P1",
+          "line": 3494,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0020"
+        },
+        {
+          "t": "227.124872",
+          "wall_t": "227.124872",
+          "actor": "P1",
+          "line": 3861,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0021"
+        },
+        {
+          "t": "231.749309",
+          "wall_t": "231.749309",
+          "actor": "P1",
+          "line": 3926,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0022"
+        },
+        {
+          "t": "234.333014",
+          "wall_t": "234.333014",
+          "actor": "P1",
+          "line": 3962,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0023"
+        },
+        {
+          "t": "235.624518",
+          "wall_t": "235.624518",
+          "actor": "P1",
+          "line": 3984,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0024"
+        },
+        {
+          "t": "241.845916",
+          "wall_t": "241.845916",
+          "actor": "P2",
+          "line": 4101,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0025"
+        },
+        {
+          "t": "243.984408",
+          "wall_t": "243.984408",
+          "actor": "P1",
+          "line": 4136,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0026"
+        },
+        {
+          "t": "267.914589",
+          "wall_t": "267.914589",
+          "actor": "P1",
+          "line": 4507,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0027"
+        },
+        {
+          "t": "275.332501",
+          "wall_t": "275.332501",
+          "actor": "P1",
+          "line": 4612,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0028"
+        }
+      ],
+      "S5": [
+        {
+          "t": "69.596489",
+          "wall_t": "69.596489",
+          "actor": "P2",
+          "line": 1912,
+          "manipulation": "TECHNICAL_TEST-R02-S5-M0015"
+        },
+        {
+          "t": "72.568518",
+          "wall_t": "72.568518",
+          "actor": "P2",
+          "line": 1951,
+          "manipulation": "TECHNICAL_TEST-R02-S5-M0016"
+        },
+        {
+          "t": "74.832848",
+          "wall_t": "74.832848",
+          "actor": "P2",
+          "line": 1982,
+          "manipulation": "TECHNICAL_TEST-R02-S5-M0017"
+        },
+        {
+          "t": "110.456899",
+          "wall_t": "110.456899",
+          "actor": "P1",
+          "line": 2310,
+          "manipulation": "TECHNICAL_TEST-R02-S5-M0018"
+        },
+        {
+          "t": "120.776521",
+          "wall_t": "120.776521",
+          "actor": "P2",
+          "line": 2480,
+          "manipulation": "TECHNICAL_TEST-R02-S5-M0019"
+        },
+        {
+          "t": "125.693817",
+          "wall_t": "125.693817",
+          "actor": "P2",
+          "line": 2545,
+          "manipulation": "TECHNICAL_TEST-R02-S5-M0020"
+        },
+        {
+          "t": "131.443949",
+          "wall_t": "131.443949",
+          "actor": "P2",
+          "line": 2663,
+          "manipulation": "TECHNICAL_TEST-R02-S5-M0021"
+        },
+        {
+          "t": "133.040655",
+          "wall_t": "133.040655",
+          "actor": "P2",
+          "line": 2688,
+          "manipulation": "TECHNICAL_TEST-R02-S5-M0022"
+        },
+        {
+          "t": "136.359949",
+          "wall_t": "136.359949",
+          "actor": "P2",
+          "line": 2754,
+          "manipulation": "TECHNICAL_TEST-R02-S5-M0023"
+        },
+        {
+          "t": "206.943884",
+          "wall_t": "206.943884",
+          "actor": "P1",
+          "line": 3528,
+          "manipulation": "TECHNICAL_TEST-R02-S5-M0024"
+        },
+        {
+          "t": "219.694179",
+          "wall_t": "219.694179",
+          "actor": "P2",
+          "line": 3757,
+          "manipulation": "TECHNICAL_TEST-R02-S5-M0025"
+        },
+        {
+          "t": "223.554252",
+          "wall_t": "223.554252",
+          "actor": "P2",
+          "line": 3810,
+          "manipulation": "TECHNICAL_TEST-R02-S5-M0026"
+        },
+        {
+          "t": "258.651649",
+          "wall_t": "258.651649",
+          "actor": "P1",
+          "line": 4308,
+          "manipulation": "TECHNICAL_TEST-R02-S5-M0027"
+        },
+        {
+          "t": "269.902240",
+          "wall_t": "269.902240",
+          "actor": "P1",
+          "line": 4558,
+          "manipulation": "TECHNICAL_TEST-R02-S5-M0028"
+        },
+        {
+          "t": "289.068192",
+          "wall_t": "289.068192",
+          "actor": "P1",
+          "line": 4834,
+          "manipulation": "TECHNICAL_TEST-R02-S5-M0029"
+        },
+        {
+          "t": "290.776220",
+          "wall_t": "290.776220",
+          "actor": "P1",
+          "line": 4865,
+          "manipulation": "TECHNICAL_TEST-R02-S5-M0030"
+        },
+        {
+          "t": "297.540212",
+          "wall_t": "297.540212",
+          "actor": "P1",
+          "line": 4936,
+          "manipulation": "TECHNICAL_TEST-R02-S5-M0031"
+        }
+      ]
+    },
+    "reasoning_limit": "Sequences describe ownership/operation only, not intentions, agreement or a surplus-piece event."
+  },
+  {
+    "slot": "G03_R03",
+    "log": "L07",
+    "round": "TECHNICAL_TEST-R02",
+    "start_line": 4094,
+    "end_line": 5990,
+    "condition": "VR_FIRST_PERSON",
+    "task": "00_vela-5",
+    "event_counts": {
+      "round_start": 1,
+      "piece_initial": 7,
+      "control_action": 1,
+      "participant_pose": 572,
+      "grab_request": 57,
+      "grab_accepted": 56,
+      "piece_motion_start": 56,
+      "piece_pose": 611,
+      "release_request": 56,
+      "piece_release": 56,
+      "piece_settle_pose": 372,
+      "piece_settled": 50,
+      "grab_denied": 1,
+      "round_end_manual": 1
+    },
+    "piece_grab_sequences": {
+      "S3": [
+        {
+          "t": "15.537748",
+          "wall_t": "15.537748",
+          "actor": "P2",
+          "line": 4163,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0021"
+        },
+        {
+          "t": "42.735437",
+          "wall_t": "42.735437",
+          "actor": "P2",
+          "line": 4531,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0022"
+        },
+        {
+          "t": "48.071195",
+          "wall_t": "48.071195",
+          "actor": "P2",
+          "line": 4630,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0023"
+        },
+        {
+          "t": "69.328783",
+          "wall_t": "69.328783",
+          "actor": "P2",
+          "line": 4895,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0024"
+        },
+        {
+          "t": "83.724572",
+          "wall_t": "83.724572",
+          "actor": "P2",
+          "line": 5050,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0025"
+        },
+        {
+          "t": "86.529145",
+          "wall_t": "86.529145",
+          "actor": "P2",
+          "line": 5088,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0026"
+        },
+        {
+          "t": "93.555288",
+          "wall_t": "93.555288",
+          "actor": "P1",
+          "line": 5227,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0027"
+        },
+        {
+          "t": "100.595480",
+          "wall_t": "100.595480",
+          "actor": "P1",
+          "line": 5351,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0028"
+        },
+        {
+          "t": "118.442267",
+          "wall_t": "118.442267",
+          "actor": "P2",
+          "line": 5706,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0029"
+        },
+        {
+          "t": "122.609696",
+          "wall_t": "122.609696",
+          "actor": "P2",
+          "line": 5765,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0030"
+        },
+        {
+          "t": "126.500698",
+          "wall_t": "126.500698",
+          "actor": "P1",
+          "line": 5807,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0031"
+        },
+        {
+          "t": "128.232546",
+          "wall_t": "128.232546",
+          "actor": "P1",
+          "line": 5837,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0032"
+        }
+      ],
+      "S4": [
+        {
+          "t": "17.765888",
+          "wall_t": "17.765888",
+          "actor": "P1",
+          "line": 4188,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0029"
+        },
+        {
+          "t": "30.018048",
+          "wall_t": "30.018048",
+          "actor": "P1",
+          "line": 4309,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0030"
+        },
+        {
+          "t": "34.430310",
+          "wall_t": "34.430310",
+          "actor": "P1",
+          "line": 4365,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0031"
+        },
+        {
+          "t": "36.314633",
+          "wall_t": "36.314633",
+          "actor": "P1",
+          "line": 4397,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0032"
+        },
+        {
+          "t": "52.058693",
+          "wall_t": "52.058693",
+          "actor": "P1",
+          "line": 4678,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0033"
+        },
+        {
+          "t": "54.121258",
+          "wall_t": "54.121258",
+          "actor": "P1",
+          "line": 4703,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0034"
+        },
+        {
+          "t": "72.875522",
+          "wall_t": "72.875522",
+          "actor": "P2",
+          "line": 4939,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0035"
+        },
+        {
+          "t": "83.201882",
+          "wall_t": "83.201882",
+          "actor": "P1",
+          "line": 5037,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0036"
+        },
+        {
+          "t": "133.485884",
+          "wall_t": "133.485884",
+          "actor": "P1",
+          "line": 5909,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0037"
+        }
+      ],
+      "S1": [
+        {
+          "t": "20.735348",
+          "wall_t": "20.735348",
+          "actor": "P2",
+          "line": 4236,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0007"
+        },
+        {
+          "t": "36.135915",
+          "wall_t": "36.135915",
+          "actor": "P2",
+          "line": 4392,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0008"
+        },
+        {
+          "t": "67.376311",
+          "wall_t": "67.376311",
+          "actor": "P2",
+          "line": 4855,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0009"
+        },
+        {
+          "t": "96.291451",
+          "wall_t": "96.291451",
+          "actor": "P1",
+          "line": 5296,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0010"
+        },
+        {
+          "t": "104.129088",
+          "wall_t": "104.129088",
+          "actor": "P1",
+          "line": 5408,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0011"
+        },
+        {
+          "t": "105.325152",
+          "wall_t": "105.325152",
+          "actor": "P1",
+          "line": 5442,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0012"
+        },
+        {
+          "t": "106.879111",
+          "wall_t": "106.879111",
+          "actor": "P1",
+          "line": 5475,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0013"
+        },
+        {
+          "t": "109.697809",
+          "wall_t": "109.697809",
+          "actor": "P1",
+          "line": 5543,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0014"
+        },
+        {
+          "t": "111.086673",
+          "wall_t": "111.086673",
+          "actor": "P1",
+          "line": 5566,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0015"
+        },
+        {
+          "t": "112.035400",
+          "wall_t": "112.035400",
+          "actor": "P1",
+          "line": 5585,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0016"
+        },
+        {
+          "t": "112.681132",
+          "wall_t": "112.681132",
+          "actor": "P1",
+          "line": 5599,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0017"
+        },
+        {
+          "t": "115.733684",
+          "wall_t": "115.733684",
+          "actor": "P1",
+          "line": 5651,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0018"
+        },
+        {
+          "t": "118.290758",
+          "wall_t": "118.290758",
+          "actor": "P1",
+          "line": 5700,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0019"
+        }
+      ],
+      "S7": [
+        {
+          "t": "39.971705",
+          "wall_t": "39.971705",
+          "actor": "P1",
+          "line": 4458,
+          "manipulation": "TECHNICAL_TEST-R02-S7-M0019"
+        },
+        {
+          "t": "55.317154",
+          "wall_t": "55.317154",
+          "actor": "P2",
+          "line": 4724,
+          "manipulation": "TECHNICAL_TEST-R02-S7-M0020"
+        },
+        {
+          "t": "77.894975",
+          "wall_t": "77.894975",
+          "actor": "P2",
+          "line": 4982,
+          "manipulation": "TECHNICAL_TEST-R02-S7-M0021"
+        },
+        {
+          "t": "82.143351",
+          "wall_t": "82.143351",
+          "actor": "P1",
+          "line": 5019,
+          "manipulation": "TECHNICAL_TEST-R02-S7-M0022"
+        }
+      ],
+      "S5": [
+        {
+          "t": "41.484208",
+          "wall_t": "41.484208",
+          "actor": "P1",
+          "line": 4496,
+          "manipulation": "TECHNICAL_TEST-R02-S5-M0032"
+        },
+        {
+          "t": "58.025380",
+          "wall_t": "58.025380",
+          "actor": "P2",
+          "line": 4751,
+          "manipulation": "TECHNICAL_TEST-R02-S5-M0033"
+        },
+        {
+          "t": "63.318382",
+          "wall_t": "63.318382",
+          "actor": "P1",
+          "line": 4798,
+          "manipulation": "TECHNICAL_TEST-R02-S5-M0034"
+        },
+        {
+          "t": "103.317496",
+          "wall_t": "103.317496",
+          "actor": "P2",
+          "line": 5387,
+          "manipulation": "TECHNICAL_TEST-R02-S5-M0035"
+        },
+        {
+          "t": "114.812070",
+          "wall_t": "114.812070",
+          "actor": "P1",
+          "line": 5631,
+          "manipulation": "TECHNICAL_TEST-R02-S5-M0036"
+        },
+        {
+          "t": "116.930153",
+          "wall_t": "116.930153",
+          "actor": "P1",
+          "line": 5673,
+          "manipulation": "TECHNICAL_TEST-R02-S5-M0037"
+        },
+        {
+          "t": "130.955884",
+          "wall_t": "130.955884",
+          "actor": "P1",
+          "line": 5882,
+          "manipulation": "TECHNICAL_TEST-R02-S5-M0038"
+        }
+      ],
+      "S6": [
+        {
+          "t": "42.597984",
+          "wall_t": "42.597984",
+          "actor": "P1",
+          "line": 4526,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0029"
+        },
+        {
+          "t": "65.395665",
+          "wall_t": "65.395665",
+          "actor": "P1",
+          "line": 4829,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0030"
+        },
+        {
+          "t": "88.358422",
+          "wall_t": "88.358422",
+          "actor": "P1",
+          "line": 5115,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0031"
+        },
+        {
+          "t": "91.396794",
+          "wall_t": "91.396794",
+          "actor": "P1",
+          "line": 5176,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0032"
+        },
+        {
+          "t": "94.916793",
+          "wall_t": "94.916793",
+          "actor": "P1",
+          "line": 5269,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0033"
+        }
+      ],
+      "S2": [
+        {
+          "t": "45.706345",
+          "wall_t": "45.706345",
+          "actor": "P1",
+          "line": 4582,
+          "manipulation": "TECHNICAL_TEST-R02-S2-M0019"
+        },
+        {
+          "t": "88.550403",
+          "wall_t": "88.550403",
+          "actor": "P2",
+          "line": 5123,
+          "manipulation": "TECHNICAL_TEST-R02-S2-M0020"
+        },
+        {
+          "t": "93.884541",
+          "wall_t": "93.884541",
+          "actor": "P2",
+          "line": 5238,
+          "manipulation": "TECHNICAL_TEST-R02-S2-M0021"
+        },
+        {
+          "t": "105.050054",
+          "wall_t": "105.050054",
+          "actor": "P2",
+          "line": 5434,
+          "manipulation": "TECHNICAL_TEST-R02-S2-M0022"
+        },
+        {
+          "t": "108.020840",
+          "wall_t": "108.020840",
+          "actor": "P2",
+          "line": 5503,
+          "manipulation": "TECHNICAL_TEST-R02-S2-M0023"
+        },
+        {
+          "t": "129.965211",
+          "wall_t": "129.965211",
+          "actor": "P1",
+          "line": 5863,
+          "manipulation": "TECHNICAL_TEST-R02-S2-M0024"
+        }
+      ]
+    },
+    "reasoning_limit": "Sequences describe ownership/operation only, not intentions, agreement or a surplus-piece event."
+  },
+  {
+    "slot": "G03_R04",
+    "log": "L07",
+    "round": "TECHNICAL_TEST-R06",
+    "start_line": 7393,
+    "end_line": 12620,
+    "condition": "VR_EXTERNAL",
+    "task": "01_silla-1",
+    "event_counts": {
+      "round_start": 1,
+      "piece_initial": 7,
+      "control_action": 1,
+      "participant_pose": 2026,
+      "grab_request": 81,
+      "grab_accepted": 79,
+      "piece_pose": 2074,
+      "piece_motion_start": 79,
+      "release_request": 79,
+      "piece_release": 79,
+      "piece_settle_pose": 642,
+      "piece_settled": 77,
+      "grab_denied": 2,
+      "round_end_manual": 1
+    },
+    "piece_grab_sequences": {
+      "S6": [
+        {
+          "t": "10.014120",
+          "wall_t": "10.014120",
+          "actor": "P1",
+          "line": 7441,
+          "manipulation": "TECHNICAL_TEST-R06-S6-M0036"
+        },
+        {
+          "t": "43.361117",
+          "wall_t": "43.361117",
+          "actor": "P2",
+          "line": 7738,
+          "manipulation": "TECHNICAL_TEST-R06-S6-M0037"
+        },
+        {
+          "t": "57.597147",
+          "wall_t": "57.597147",
+          "actor": "P1",
+          "line": 7916,
+          "manipulation": "TECHNICAL_TEST-R06-S6-M0038"
+        },
+        {
+          "t": "62.958592",
+          "wall_t": "62.958592",
+          "actor": "P1",
+          "line": 7964,
+          "manipulation": "TECHNICAL_TEST-R06-S6-M0039"
+        },
+        {
+          "t": "75.472405",
+          "wall_t": "75.472405",
+          "actor": "P1",
+          "line": 8083,
+          "manipulation": "TECHNICAL_TEST-R06-S6-M0040"
+        },
+        {
+          "t": "82.750215",
+          "wall_t": "82.750215",
+          "actor": "P2",
+          "line": 8148,
+          "manipulation": "TECHNICAL_TEST-R06-S6-M0041"
+        },
+        {
+          "t": "91.305794",
+          "wall_t": "91.305794",
+          "actor": "P2",
+          "line": 8237,
+          "manipulation": "TECHNICAL_TEST-R06-S6-M0042"
+        },
+        {
+          "t": "103.652636",
+          "wall_t": "103.652636",
+          "actor": "P2",
+          "line": 8326,
+          "manipulation": "TECHNICAL_TEST-R06-S6-M0043"
+        },
+        {
+          "t": "120.278014",
+          "wall_t": "120.278014",
+          "actor": "P1",
+          "line": 8486,
+          "manipulation": "TECHNICAL_TEST-R06-S6-M0044"
+        },
+        {
+          "t": "125.680306",
+          "wall_t": "125.680306",
+          "actor": "P1",
+          "line": 8550,
+          "manipulation": "TECHNICAL_TEST-R06-S6-M0045"
+        },
+        {
+          "t": "379.680428",
+          "wall_t": "379.680428",
+          "actor": "P1",
+          "line": 11140,
+          "manipulation": "TECHNICAL_TEST-R06-S6-M0046"
+        }
+      ],
+      "S5": [
+        {
+          "t": "11.472487",
+          "wall_t": "11.472487",
+          "actor": "P2",
+          "line": 7461,
+          "manipulation": "TECHNICAL_TEST-R06-S5-M0047"
+        },
+        {
+          "t": "48.278064",
+          "wall_t": "48.278064",
+          "actor": "P1",
+          "line": 7794,
+          "manipulation": "TECHNICAL_TEST-R06-S5-M0048"
+        },
+        {
+          "t": "52.458493",
+          "wall_t": "52.458493",
+          "actor": "P1",
+          "line": 7860,
+          "manipulation": "TECHNICAL_TEST-R06-S5-M0049"
+        },
+        {
+          "t": "67.528033",
+          "wall_t": "67.528033",
+          "actor": "P2",
+          "line": 8012,
+          "manipulation": "TECHNICAL_TEST-R06-S5-M0050"
+        },
+        {
+          "t": "109.541958",
+          "wall_t": "109.541958",
+          "actor": "P1",
+          "line": 8383,
+          "manipulation": "TECHNICAL_TEST-R06-S5-M0051"
+        },
+        {
+          "t": "115.861101",
+          "wall_t": "115.861101",
+          "actor": "P1",
+          "line": 8431,
+          "manipulation": "TECHNICAL_TEST-R06-S5-M0052"
+        },
+        {
+          "t": "117.902909",
+          "wall_t": "117.902909",
+          "actor": "P1",
+          "line": 8460,
+          "manipulation": "TECHNICAL_TEST-R06-S5-M0053"
+        },
+        {
+          "t": "123.305757",
+          "wall_t": "123.305757",
+          "actor": "P1",
+          "line": 8523,
+          "manipulation": "TECHNICAL_TEST-R06-S5-M0054"
+        },
+        {
+          "t": "387.611010",
+          "wall_t": "387.611010",
+          "actor": "P1",
+          "line": 11225,
+          "manipulation": "TECHNICAL_TEST-R06-S5-M0055"
+        },
+        {
+          "t": "396.666718",
+          "wall_t": "396.666718",
+          "actor": "P1",
+          "line": 11341,
+          "manipulation": "TECHNICAL_TEST-R06-S5-M0056"
+        },
+        {
+          "t": "496.791878",
+          "wall_t": "496.791878",
+          "actor": "P2",
+          "line": 12277,
+          "manipulation": "TECHNICAL_TEST-R06-S5-M0057"
+        }
+      ],
+      "S3": [
+        {
+          "t": "87.430717",
+          "wall_t": "87.430717",
+          "actor": "P2",
+          "line": 8194,
+          "manipulation": "TECHNICAL_TEST-R06-S3-M0033"
+        },
+        {
+          "t": "232.361587",
+          "wall_t": "232.361587",
+          "actor": "P2",
+          "line": 9633,
+          "manipulation": "TECHNICAL_TEST-R06-S3-M0034"
+        },
+        {
+          "t": "246.902441",
+          "wall_t": "246.902441",
+          "actor": "P1",
+          "line": 9755,
+          "manipulation": "TECHNICAL_TEST-R06-S3-M0035"
+        },
+        {
+          "t": "299.527818",
+          "wall_t": "299.527818",
+          "actor": "P1",
+          "line": 10361,
+          "manipulation": "TECHNICAL_TEST-R06-S3-M0036"
+        },
+        {
+          "t": "361.180195",
+          "wall_t": "361.180195",
+          "actor": "P1",
+          "line": 10942,
+          "manipulation": "TECHNICAL_TEST-R06-S3-M0037"
+        },
+        {
+          "t": "432.180528",
+          "wall_t": "432.180528",
+          "actor": "P2",
+          "line": 11664,
+          "manipulation": "TECHNICAL_TEST-R06-S3-M0038"
+        },
+        {
+          "t": "494.680877",
+          "wall_t": "494.680877",
+          "actor": "P1",
+          "line": 12249,
+          "manipulation": "TECHNICAL_TEST-R06-S3-M0039"
+        },
+        {
+          "t": "505.708374",
+          "wall_t": "505.708374",
+          "actor": "P2",
+          "line": 12414,
+          "manipulation": "TECHNICAL_TEST-R06-S3-M0040"
+        }
+      ],
+      "S7": [
+        {
+          "t": "127.305630",
+          "wall_t": "127.305630",
+          "actor": "P2",
+          "line": 8573,
+          "manipulation": "TECHNICAL_TEST-R06-S7-M0024"
+        },
+        {
+          "t": "140.347350",
+          "wall_t": "140.347350",
+          "actor": "P2",
+          "line": 8761,
+          "manipulation": "TECHNICAL_TEST-R06-S7-M0025"
+        },
+        {
+          "t": "152.278083",
+          "wall_t": "152.278083",
+          "actor": "P1",
+          "line": 8907,
+          "manipulation": "TECHNICAL_TEST-R06-S7-M0026"
+        },
+        {
+          "t": "156.513851",
+          "wall_t": "156.513851",
+          "actor": "P1",
+          "line": 8952,
+          "manipulation": "TECHNICAL_TEST-R06-S7-M0027"
+        },
+        {
+          "t": "195.847368",
+          "wall_t": "195.847368",
+          "actor": "P2",
+          "line": 9308,
+          "manipulation": "TECHNICAL_TEST-R06-S7-M0028"
+        },
+        {
+          "t": "203.569686",
+          "wall_t": "203.569686",
+          "actor": "P2",
+          "line": 9389,
+          "manipulation": "TECHNICAL_TEST-R06-S7-M0029"
+        },
+        {
+          "t": "285.250274",
+          "wall_t": "285.250274",
+          "actor": "P1",
+          "line": 10158,
+          "manipulation": "TECHNICAL_TEST-R06-S7-M0030"
+        },
+        {
+          "t": "373.055577",
+          "wall_t": "373.055577",
+          "actor": "P1",
+          "line": 11087,
+          "manipulation": "TECHNICAL_TEST-R06-S7-M0031"
+        },
+        {
+          "t": "502.514281",
+          "wall_t": "502.514281",
+          "actor": "P2",
+          "line": 12378,
+          "manipulation": "TECHNICAL_TEST-R06-S7-M0032"
+        }
+      ],
+      "S1": [
+        {
+          "t": "131.305942",
+          "wall_t": "131.305942",
+          "actor": "P1",
+          "line": 8623,
+          "manipulation": "TECHNICAL_TEST-R06-S1-M0020"
+        },
+        {
+          "t": "134.305894",
+          "wall_t": "134.305894",
+          "actor": "P1",
+          "line": 8678,
+          "manipulation": "TECHNICAL_TEST-R06-S1-M0021"
+        },
+        {
+          "t": "139.500125",
+          "wall_t": "139.500125",
+          "actor": "P1",
+          "line": 8744,
+          "manipulation": "TECHNICAL_TEST-R06-S1-M0022"
+        },
+        {
+          "t": "288.735866",
+          "wall_t": "288.735866",
+          "actor": "P1",
+          "line": 10225,
+          "manipulation": "TECHNICAL_TEST-R06-S1-M0023"
+        },
+        {
+          "t": "389.138868",
+          "wall_t": "389.138868",
+          "actor": "P1",
+          "line": 11248,
+          "manipulation": "TECHNICAL_TEST-R06-S1-M0024"
+        },
+        {
+          "t": "500.236517",
+          "wall_t": "500.236517",
+          "actor": "P2",
+          "line": 12346,
+          "manipulation": "TECHNICAL_TEST-R06-S1-M0025"
+        }
+      ],
+      "S4": [
+        {
+          "t": "142.652760",
+          "wall_t": "142.652760",
+          "actor": "P1",
+          "line": 8787,
+          "manipulation": "TECHNICAL_TEST-R06-S4-M0038"
+        },
+        {
+          "t": "159.583128",
+          "wall_t": "159.583128",
+          "actor": "P1",
+          "line": 8983,
+          "manipulation": "TECHNICAL_TEST-R06-S4-M0039"
+        },
+        {
+          "t": "189.708724",
+          "wall_t": "189.708724",
+          "actor": "P1",
+          "line": 9234,
+          "manipulation": "TECHNICAL_TEST-R06-S4-M0040"
+        },
+        {
+          "t": "199.361165",
+          "wall_t": "199.361165",
+          "actor": "P1",
+          "line": 9336,
+          "manipulation": "TECHNICAL_TEST-R06-S4-M0041"
+        },
+        {
+          "t": "219.541307",
+          "wall_t": "219.541307",
+          "actor": "P1",
+          "line": 9550,
+          "manipulation": "TECHNICAL_TEST-R06-S4-M0042"
+        },
+        {
+          "t": "249.430898",
+          "wall_t": "249.430898",
+          "actor": "P2",
+          "line": 9792,
+          "manipulation": "TECHNICAL_TEST-R06-S4-M0043"
+        },
+        {
+          "t": "325.055603",
+          "wall_t": "325.055603",
+          "actor": "P1",
+          "line": 10698,
+          "manipulation": "TECHNICAL_TEST-R06-S4-M0044"
+        },
+        {
+          "t": "349.374856",
+          "wall_t": "349.374856",
+          "actor": "P1",
+          "line": 10831,
+          "manipulation": "TECHNICAL_TEST-R06-S4-M0045"
+        },
+        {
+          "t": "357.625133",
+          "wall_t": "357.625133",
+          "actor": "P1",
+          "line": 10893,
+          "manipulation": "TECHNICAL_TEST-R06-S4-M0046"
+        },
+        {
+          "t": "406.930857",
+          "wall_t": "406.930857",
+          "actor": "P2",
+          "line": 11449,
+          "manipulation": "TECHNICAL_TEST-R06-S4-M0047"
+        },
+        {
+          "t": "414.583234",
+          "wall_t": "414.583234",
+          "actor": "P1",
+          "line": 11517,
+          "manipulation": "TECHNICAL_TEST-R06-S4-M0048"
+        },
+        {
+          "t": "419.472501",
+          "wall_t": "419.472501",
+          "actor": "P1",
+          "line": 11579,
+          "manipulation": "TECHNICAL_TEST-R06-S4-M0049"
+        },
+        {
+          "t": "447.889228",
+          "wall_t": "447.889228",
+          "actor": "P2",
+          "line": 11788,
+          "manipulation": "TECHNICAL_TEST-R06-S4-M0050"
+        },
+        {
+          "t": "458.264028",
+          "wall_t": "458.264028",
+          "actor": "P2",
+          "line": 11865,
+          "manipulation": "TECHNICAL_TEST-R06-S4-M0051"
+        },
+        {
+          "t": "469.541928",
+          "wall_t": "469.541928",
+          "actor": "P2",
+          "line": 11966,
+          "manipulation": "TECHNICAL_TEST-R06-S4-M0052"
+        },
+        {
+          "t": "480.347558",
+          "wall_t": "480.347558",
+          "actor": "P1",
+          "line": 12069,
+          "manipulation": "TECHNICAL_TEST-R06-S4-M0053"
+        },
+        {
+          "t": "484.542055",
+          "wall_t": "484.542055",
+          "actor": "P1",
+          "line": 12127,
+          "manipulation": "TECHNICAL_TEST-R06-S4-M0054"
+        }
+      ],
+      "S2": [
+        {
+          "t": "162.180698",
+          "wall_t": "162.180698",
+          "actor": "P1",
+          "line": 9020,
+          "manipulation": "TECHNICAL_TEST-R06-S2-M0025"
+        },
+        {
+          "t": "174.694346",
+          "wall_t": "174.694346",
+          "actor": "P1",
+          "line": 9109,
+          "manipulation": "TECHNICAL_TEST-R06-S2-M0026"
+        },
+        {
+          "t": "184.611614",
+          "wall_t": "184.611614",
+          "actor": "P1",
+          "line": 9177,
+          "manipulation": "TECHNICAL_TEST-R06-S2-M0027"
+        },
+        {
+          "t": "186.416459",
+          "wall_t": "186.416459",
+          "actor": "P1",
+          "line": 9206,
+          "manipulation": "TECHNICAL_TEST-R06-S2-M0028"
+        },
+        {
+          "t": "293.388974",
+          "wall_t": "293.388974",
+          "actor": "P2",
+          "line": 10293,
+          "manipulation": "TECHNICAL_TEST-R06-S2-M0029"
+        },
+        {
+          "t": "308.166509",
+          "wall_t": "308.166509",
+          "actor": "P1",
+          "line": 10502,
+          "manipulation": "TECHNICAL_TEST-R06-S2-M0030"
+        },
+        {
+          "t": "309.708559",
+          "wall_t": "309.708559",
+          "actor": "P1",
+          "line": 10525,
+          "manipulation": "TECHNICAL_TEST-R06-S2-M0031"
+        },
+        {
+          "t": "312.361833",
+          "wall_t": "312.361833",
+          "actor": "P1",
+          "line": 10556,
+          "manipulation": "TECHNICAL_TEST-R06-S2-M0032"
+        },
+        {
+          "t": "313.986347",
+          "wall_t": "313.986347",
+          "actor": "P1",
+          "line": 10583,
+          "manipulation": "TECHNICAL_TEST-R06-S2-M0033"
+        },
+        {
+          "t": "320.555831",
+          "wall_t": "320.555831",
+          "actor": "P1",
+          "line": 10640,
+          "manipulation": "TECHNICAL_TEST-R06-S2-M0034"
+        },
+        {
+          "t": "368.694468",
+          "wall_t": "368.694468",
+          "actor": "P1",
+          "line": 11033,
+          "manipulation": "TECHNICAL_TEST-R06-S2-M0035"
+        },
+        {
+          "t": "381.069509",
+          "wall_t": "381.069509",
+          "actor": "P1",
+          "line": 11162,
+          "manipulation": "TECHNICAL_TEST-R06-S2-M0036"
+        },
+        {
+          "t": "382.971933",
+          "wall_t": "382.971933",
+          "actor": "P1",
+          "line": 11187,
+          "manipulation": "TECHNICAL_TEST-R06-S2-M0037"
+        },
+        {
+          "t": "399.764338",
+          "wall_t": "399.764338",
+          "actor": "P1",
+          "line": 11369,
+          "manipulation": "TECHNICAL_TEST-R06-S2-M0038"
+        },
+        {
+          "t": "402.556104",
+          "wall_t": "402.556104",
+          "actor": "P2",
+          "line": 11395,
+          "manipulation": "TECHNICAL_TEST-R06-S2-M0039"
+        },
+        {
+          "t": "488.388844",
+          "wall_t": "488.388844",
+          "actor": "P1",
+          "line": 12174,
+          "manipulation": "TECHNICAL_TEST-R06-S2-M0040"
+        },
+        {
+          "t": "491.236534",
+          "wall_t": "491.236534",
+          "actor": "P1",
+          "line": 12214,
+          "manipulation": "TECHNICAL_TEST-R06-S2-M0041"
+        }
+      ]
+    },
+    "reasoning_limit": "Sequences describe ownership/operation only, not intentions, agreement or a surplus-piece event."
+  },
+  {
+    "slot": "G04_R03",
+    "log": "L08",
+    "round": "TECHNICAL_TEST-R01",
+    "start_line": 403,
+    "end_line": 2179,
+    "condition": "VR_FIRST_PERSON",
+    "task": "00_vela-5",
+    "event_counts": {
+      "round_start": 1,
+      "piece_initial": 7,
+      "control_action": 1,
+      "participant_pose": 459,
+      "grab_request": 40,
+      "grab_accepted": 39,
+      "piece_motion_start": 39,
+      "piece_pose": 837,
+      "release_request": 39,
+      "piece_release": 39,
+      "piece_settle_pose": 239,
+      "piece_settled": 35,
+      "grab_denied": 1,
+      "round_end_manual": 1
+    },
+    "piece_grab_sequences": {
+      "S6": [
+        {
+          "t": "19.834197",
+          "wall_t": "19.834197",
+          "actor": "P1",
+          "line": 489,
+          "manipulation": "TECHNICAL_TEST-R01-S6-M0003"
+        },
+        {
+          "t": "25.944291",
+          "wall_t": "25.944291",
+          "actor": "P1",
+          "line": 631,
+          "manipulation": "TECHNICAL_TEST-R01-S6-M0004"
+        },
+        {
+          "t": "33.193966",
+          "wall_t": "33.193966",
+          "actor": "P1",
+          "line": 821,
+          "manipulation": "TECHNICAL_TEST-R01-S6-M0005"
+        },
+        {
+          "t": "63.889864",
+          "wall_t": "63.889864",
+          "actor": "P1",
+          "line": 1262,
+          "manipulation": "TECHNICAL_TEST-R01-S6-M0006"
+        },
+        {
+          "t": "67.180499",
+          "wall_t": "67.180499",
+          "actor": "P1",
+          "line": 1325,
+          "manipulation": "TECHNICAL_TEST-R01-S6-M0007"
+        },
+        {
+          "t": "69.820738",
+          "wall_t": "69.820738",
+          "actor": "P1",
+          "line": 1382,
+          "manipulation": "TECHNICAL_TEST-R01-S6-M0008"
+        },
+        {
+          "t": "71.722655",
+          "wall_t": "71.722655",
+          "actor": "P1",
+          "line": 1427,
+          "manipulation": "TECHNICAL_TEST-R01-S6-M0009"
+        },
+        {
+          "t": "90.555695",
+          "wall_t": "90.555695",
+          "actor": "P1",
+          "line": 1794,
+          "manipulation": "TECHNICAL_TEST-R01-S6-M0010"
+        }
+      ],
+      "S7": [
+        {
+          "t": "20.181393",
+          "wall_t": "20.181393",
+          "actor": "P2",
+          "line": 497,
+          "manipulation": "TECHNICAL_TEST-R01-S7-M0002"
+        },
+        {
+          "t": "80.070854",
+          "wall_t": "80.070854",
+          "actor": "P2",
+          "line": 1579,
+          "manipulation": "TECHNICAL_TEST-R01-S7-M0003"
+        }
+      ],
+      "S3": [
+        {
+          "t": "24.361970",
+          "wall_t": "24.361970",
+          "actor": "P2",
+          "line": 586,
+          "manipulation": "TECHNICAL_TEST-R01-S3-M0002"
+        },
+        {
+          "t": "42.972645",
+          "wall_t": "42.972645",
+          "actor": "P2",
+          "line": 983,
+          "manipulation": "TECHNICAL_TEST-R01-S3-M0003"
+        },
+        {
+          "t": "51.125521",
+          "wall_t": "51.125521",
+          "actor": "P2",
+          "line": 1141,
+          "manipulation": "TECHNICAL_TEST-R01-S3-M0004"
+        },
+        {
+          "t": "93.430567",
+          "wall_t": "93.430567",
+          "actor": "P2",
+          "line": 1859,
+          "manipulation": "TECHNICAL_TEST-R01-S3-M0005"
+        },
+        {
+          "t": "104.708524",
+          "wall_t": "104.708524",
+          "actor": "P1",
+          "line": 2049,
+          "manipulation": "TECHNICAL_TEST-R01-S3-M0006"
+        },
+        {
+          "t": "106.903386",
+          "wall_t": "106.903386",
+          "actor": "P1",
+          "line": 2081,
+          "manipulation": "TECHNICAL_TEST-R01-S3-M0007"
+        },
+        {
+          "t": "111.904311",
+          "wall_t": "111.904311",
+          "actor": "P1",
+          "line": 2116,
+          "manipulation": "TECHNICAL_TEST-R01-S3-M0008"
+        }
+      ],
+      "S5": [
+        {
+          "t": "27.389111",
+          "wall_t": "27.389111",
+          "actor": "P1",
+          "line": 666,
+          "manipulation": "TECHNICAL_TEST-R01-S5-M0004"
+        },
+        {
+          "t": "29.320569",
+          "wall_t": "29.320569",
+          "actor": "P2",
+          "line": 713,
+          "manipulation": "TECHNICAL_TEST-R01-S5-M0005"
+        },
+        {
+          "t": "30.028417",
+          "wall_t": "30.028417",
+          "actor": "P1",
+          "line": 732,
+          "manipulation": "TECHNICAL_TEST-R01-S5-M0006"
+        },
+        {
+          "t": "32.125180",
+          "wall_t": "32.125180",
+          "actor": "P1",
+          "line": 791,
+          "manipulation": "TECHNICAL_TEST-R01-S5-M0007"
+        },
+        {
+          "t": "34.070249",
+          "wall_t": "34.070249",
+          "actor": "P1",
+          "line": 845,
+          "manipulation": "TECHNICAL_TEST-R01-S5-M0008"
+        },
+        {
+          "t": "42.638966",
+          "wall_t": "42.638966",
+          "actor": "P1",
+          "line": 971,
+          "manipulation": "TECHNICAL_TEST-R01-S5-M0009"
+        },
+        {
+          "t": "58.626634",
+          "wall_t": "58.626634",
+          "actor": "P1",
+          "line": 1193,
+          "manipulation": "TECHNICAL_TEST-R01-S5-M0010"
+        },
+        {
+          "t": "91.653238",
+          "wall_t": "91.653238",
+          "actor": "P1",
+          "line": 1822,
+          "manipulation": "TECHNICAL_TEST-R01-S5-M0011"
+        }
+      ],
+      "S4": [
+        {
+          "t": "30.555997",
+          "wall_t": "30.555997",
+          "actor": "P2",
+          "line": 747,
+          "manipulation": "TECHNICAL_TEST-R01-S4-M0004"
+        },
+        {
+          "t": "35.333903",
+          "wall_t": "35.333903",
+          "actor": "P1",
+          "line": 870,
+          "manipulation": "TECHNICAL_TEST-R01-S4-M0005"
+        },
+        {
+          "t": "36.945077",
+          "wall_t": "36.945077",
+          "actor": "P1",
+          "line": 896,
+          "manipulation": "TECHNICAL_TEST-R01-S4-M0006"
+        },
+        {
+          "t": "45.194770",
+          "wall_t": "45.194770",
+          "actor": "P1",
+          "line": 1030,
+          "manipulation": "TECHNICAL_TEST-R01-S4-M0007"
+        },
+        {
+          "t": "48.403168",
+          "wall_t": "48.403168",
+          "actor": "P1",
+          "line": 1101,
+          "manipulation": "TECHNICAL_TEST-R01-S4-M0008"
+        },
+        {
+          "t": "65.444803",
+          "wall_t": "65.444803",
+          "actor": "P2",
+          "line": 1284,
+          "manipulation": "TECHNICAL_TEST-R01-S4-M0009"
+        },
+        {
+          "t": "88.556366",
+          "wall_t": "88.556366",
+          "actor": "P2",
+          "line": 1753,
+          "manipulation": "TECHNICAL_TEST-R01-S4-M0010"
+        }
+      ],
+      "S1": [
+        {
+          "t": "73.986842",
+          "wall_t": "73.986842",
+          "actor": "P1",
+          "line": 1469,
+          "manipulation": "TECHNICAL_TEST-R01-S1-M0001"
+        },
+        {
+          "t": "76.833340",
+          "wall_t": "76.833340",
+          "actor": "P1",
+          "line": 1532,
+          "manipulation": "TECHNICAL_TEST-R01-S1-M0002"
+        },
+        {
+          "t": "95.903764",
+          "wall_t": "95.903764",
+          "actor": "P1",
+          "line": 1899,
+          "manipulation": "TECHNICAL_TEST-R01-S1-M0003"
+        },
+        {
+          "t": "112.889745",
+          "wall_t": "112.889745",
+          "actor": "P1",
+          "line": 2134,
+          "manipulation": "TECHNICAL_TEST-R01-S1-M0004"
+        }
+      ],
+      "S2": [
+        {
+          "t": "79.125990",
+          "wall_t": "79.125990",
+          "actor": "P1",
+          "line": 1564,
+          "manipulation": "TECHNICAL_TEST-R01-S2-M0003"
+        },
+        {
+          "t": "83.819734",
+          "wall_t": "83.819734",
+          "actor": "P1",
+          "line": 1650,
+          "manipulation": "TECHNICAL_TEST-R01-S2-M0004"
+        },
+        {
+          "t": "86.500932",
+          "wall_t": "86.500932",
+          "actor": "P1",
+          "line": 1707,
+          "manipulation": "TECHNICAL_TEST-R01-S2-M0005"
+        }
+      ]
+    },
+    "reasoning_limit": "Sequences describe ownership/operation only, not intentions, agreement or a surplus-piece event."
+  },
+  {
+    "slot": "G04_R04",
+    "log": "L08",
+    "round": "TECHNICAL_TEST-R04",
+    "start_line": 4192,
+    "end_line": 7078,
+    "condition": "VR_EXTERNAL",
+    "task": "03_persona-nadando",
+    "event_counts": {
+      "round_start": 1,
+      "piece_initial": 7,
+      "control_action": 1,
+      "participant_pose": 948,
+      "grab_request": 52,
+      "grab_accepted": 51,
+      "piece_pose": 1206,
+      "piece_motion_start": 51,
+      "grab_denied": 1,
+      "release_request": 51,
+      "piece_release": 51,
+      "piece_settle_pose": 417,
+      "piece_settled": 49,
+      "round_end_manual": 1
+    },
+    "piece_grab_sequences": {
+      "S5": [
+        {
+          "t": "3.972648",
+          "wall_t": "3.972648",
+          "actor": "P1",
+          "line": 4217,
+          "manipulation": "TECHNICAL_TEST-R04-S5-M0016"
+        },
+        {
+          "t": "101.472915",
+          "wall_t": "101.472915",
+          "actor": "P2",
+          "line": 5383,
+          "manipulation": "TECHNICAL_TEST-R04-S5-M0017"
+        },
+        {
+          "t": "104.500391",
+          "wall_t": "104.500391",
+          "actor": "P2",
+          "line": 5436,
+          "manipulation": "TECHNICAL_TEST-R04-S5-M0018"
+        },
+        {
+          "t": "107.181179",
+          "wall_t": "107.181179",
+          "actor": "P2",
+          "line": 5487,
+          "manipulation": "TECHNICAL_TEST-R04-S5-M0019"
+        },
+        {
+          "t": "116.403022",
+          "wall_t": "116.403022",
+          "actor": "P1",
+          "line": 5589,
+          "manipulation": "TECHNICAL_TEST-R04-S5-M0020"
+        },
+        {
+          "t": "170.153643",
+          "wall_t": "170.153643",
+          "actor": "P1",
+          "line": 6152,
+          "manipulation": "TECHNICAL_TEST-R04-S5-M0021"
+        },
+        {
+          "t": "172.333675",
+          "wall_t": "172.333675",
+          "actor": "P1",
+          "line": 6186,
+          "manipulation": "TECHNICAL_TEST-R04-S5-M0022"
+        },
+        {
+          "t": "178.681242",
+          "wall_t": "178.681242",
+          "actor": "P1",
+          "line": 6276,
+          "manipulation": "TECHNICAL_TEST-R04-S5-M0023"
+        },
+        {
+          "t": "182.459001",
+          "wall_t": "182.459001",
+          "actor": "P1",
+          "line": 6326,
+          "manipulation": "TECHNICAL_TEST-R04-S5-M0024"
+        }
+      ],
+      "S6": [
+        {
+          "t": "7.389241",
+          "wall_t": "7.389241",
+          "actor": "P1",
+          "line": 4263,
+          "manipulation": "TECHNICAL_TEST-R04-S6-M0016"
+        },
+        {
+          "t": "18.375957",
+          "wall_t": "18.375957",
+          "actor": "P1",
+          "line": 4339,
+          "manipulation": "TECHNICAL_TEST-R04-S6-M0017"
+        },
+        {
+          "t": "22.097472",
+          "wall_t": "22.097472",
+          "actor": "P1",
+          "line": 4382,
+          "manipulation": "TECHNICAL_TEST-R04-S6-M0018"
+        },
+        {
+          "t": "25.653474",
+          "wall_t": "25.653474",
+          "actor": "P1",
+          "line": 4419,
+          "manipulation": "TECHNICAL_TEST-R04-S6-M0019"
+        },
+        {
+          "t": "27.917135",
+          "wall_t": "27.917135",
+          "actor": "P1",
+          "line": 4445,
+          "manipulation": "TECHNICAL_TEST-R04-S6-M0020"
+        },
+        {
+          "t": "30.514176",
+          "wall_t": "30.514176",
+          "actor": "P1",
+          "line": 4491,
+          "manipulation": "TECHNICAL_TEST-R04-S6-M0021"
+        },
+        {
+          "t": "34.667092",
+          "wall_t": "34.667092",
+          "actor": "P1",
+          "line": 4580,
+          "manipulation": "TECHNICAL_TEST-R04-S6-M0022"
+        },
+        {
+          "t": "180.583762",
+          "wall_t": "180.583762",
+          "actor": "P1",
+          "line": 6300,
+          "manipulation": "TECHNICAL_TEST-R04-S6-M0023"
+        }
+      ],
+      "S3": [
+        {
+          "t": "29.528422",
+          "wall_t": "29.528422",
+          "actor": "P2",
+          "line": 4468,
+          "manipulation": "TECHNICAL_TEST-R04-S3-M0011"
+        },
+        {
+          "t": "150.070012",
+          "wall_t": "150.070012",
+          "actor": "P2",
+          "line": 5921,
+          "manipulation": "TECHNICAL_TEST-R04-S3-M0012"
+        },
+        {
+          "t": "183.792154",
+          "wall_t": "183.792154",
+          "actor": "P2",
+          "line": 6348,
+          "manipulation": "TECHNICAL_TEST-R04-S3-M0013"
+        },
+        {
+          "t": "208.361685",
+          "wall_t": "208.361685",
+          "actor": "P1",
+          "line": 6717,
+          "manipulation": "TECHNICAL_TEST-R04-S3-M0014"
+        },
+        {
+          "t": "214.847795",
+          "wall_t": "214.847795",
+          "actor": "P1",
+          "line": 6801,
+          "manipulation": "TECHNICAL_TEST-R04-S3-M0015"
+        },
+        {
+          "t": "224.944935",
+          "wall_t": "224.944935",
+          "actor": "P1",
+          "line": 6894,
+          "manipulation": "TECHNICAL_TEST-R04-S3-M0016"
+        },
+        {
+          "t": "231.973226",
+          "wall_t": "231.973226",
+          "actor": "P1",
+          "line": 6946,
+          "manipulation": "TECHNICAL_TEST-R04-S3-M0017"
+        }
+      ],
+      "S1": [
+        {
+          "t": "47.000537",
+          "wall_t": "47.000537",
+          "actor": "P1",
+          "line": 4745,
+          "manipulation": "TECHNICAL_TEST-R04-S1-M0010"
+        },
+        {
+          "t": "62.861549",
+          "wall_t": "62.861549",
+          "actor": "P1",
+          "line": 5008,
+          "manipulation": "TECHNICAL_TEST-R04-S1-M0011"
+        },
+        {
+          "t": "125.792237",
+          "wall_t": "125.792237",
+          "actor": "P1",
+          "line": 5665,
+          "manipulation": "TECHNICAL_TEST-R04-S1-M0012"
+        },
+        {
+          "t": "131.750500",
+          "wall_t": "131.750500",
+          "actor": "P1",
+          "line": 5734,
+          "manipulation": "TECHNICAL_TEST-R04-S1-M0013"
+        },
+        {
+          "t": "141.890092",
+          "wall_t": "141.890092",
+          "actor": "P1",
+          "line": 5852,
+          "manipulation": "TECHNICAL_TEST-R04-S1-M0014"
+        },
+        {
+          "t": "159.708957",
+          "wall_t": "159.708957",
+          "actor": "P1",
+          "line": 6039,
+          "manipulation": "TECHNICAL_TEST-R04-S1-M0015"
+        },
+        {
+          "t": "191.389516",
+          "wall_t": "191.389516",
+          "actor": "P1",
+          "line": 6486,
+          "manipulation": "TECHNICAL_TEST-R04-S1-M0016"
+        },
+        {
+          "t": "240.389780",
+          "wall_t": "240.389780",
+          "actor": "P1",
+          "line": 7027,
+          "manipulation": "TECHNICAL_TEST-R04-S1-M0017"
+        }
+      ],
+      "S2": [
+        {
+          "t": "49.028293",
+          "wall_t": "49.028293",
+          "actor": "P1",
+          "line": 4787,
+          "manipulation": "TECHNICAL_TEST-R04-S2-M0010"
+        },
+        {
+          "t": "79.194970",
+          "wall_t": "79.194970",
+          "actor": "P1",
+          "line": 5147,
+          "manipulation": "TECHNICAL_TEST-R04-S2-M0011"
+        },
+        {
+          "t": "94.264418",
+          "wall_t": "94.264418",
+          "actor": "P1",
+          "line": 5283,
+          "manipulation": "TECHNICAL_TEST-R04-S2-M0012"
+        },
+        {
+          "t": "99.125503",
+          "wall_t": "99.125503",
+          "actor": "P1",
+          "line": 5347,
+          "manipulation": "TECHNICAL_TEST-R04-S2-M0013"
+        },
+        {
+          "t": "102.708143",
+          "wall_t": "102.708143",
+          "actor": "P1",
+          "line": 5410,
+          "manipulation": "TECHNICAL_TEST-R04-S2-M0014"
+        },
+        {
+          "t": "114.792196",
+          "wall_t": "114.792196",
+          "actor": "P1",
+          "line": 5563,
+          "manipulation": "TECHNICAL_TEST-R04-S2-M0015"
+        }
+      ],
+      "S7": [
+        {
+          "t": "50.430817",
+          "wall_t": "50.430817",
+          "actor": "P1",
+          "line": 4820,
+          "manipulation": "TECHNICAL_TEST-R04-S7-M0006"
+        },
+        {
+          "t": "109.694972",
+          "wall_t": "109.694972",
+          "actor": "P1",
+          "line": 5511,
+          "manipulation": "TECHNICAL_TEST-R04-S7-M0007"
+        },
+        {
+          "t": "187.375591",
+          "wall_t": "187.375591",
+          "actor": "P1",
+          "line": 6414,
+          "manipulation": "TECHNICAL_TEST-R04-S7-M0008"
+        }
+      ],
+      "S4": [
+        {
+          "t": "53.361941",
+          "wall_t": "53.361941",
+          "actor": "P1",
+          "line": 4875,
+          "manipulation": "TECHNICAL_TEST-R04-S4-M0016"
+        },
+        {
+          "t": "64.611649",
+          "wall_t": "64.611649",
+          "actor": "P1",
+          "line": 5030,
+          "manipulation": "TECHNICAL_TEST-R04-S4-M0017"
+        },
+        {
+          "t": "71.389240",
+          "wall_t": "71.389240",
+          "actor": "P1",
+          "line": 5072,
+          "manipulation": "TECHNICAL_TEST-R04-S4-M0018"
+        },
+        {
+          "t": "80.430797",
+          "wall_t": "80.430797",
+          "actor": "P2",
+          "line": 5168,
+          "manipulation": "TECHNICAL_TEST-R04-S4-M0019"
+        },
+        {
+          "t": "88.416939",
+          "wall_t": "88.416939",
+          "actor": "P1",
+          "line": 5231,
+          "manipulation": "TECHNICAL_TEST-R04-S4-M0020"
+        },
+        {
+          "t": "120.667343",
+          "wall_t": "120.667343",
+          "actor": "P1",
+          "line": 5626,
+          "manipulation": "TECHNICAL_TEST-R04-S4-M0021"
+        },
+        {
+          "t": "131.848032",
+          "wall_t": "131.848032",
+          "actor": "P2",
+          "line": 5738,
+          "manipulation": "TECHNICAL_TEST-R04-S4-M0022"
+        },
+        {
+          "t": "134.555841",
+          "wall_t": "134.555841",
+          "actor": "P2",
+          "line": 5790,
+          "manipulation": "TECHNICAL_TEST-R04-S4-M0023"
+        },
+        {
+          "t": "174.875287",
+          "wall_t": "174.875287",
+          "actor": "P1",
+          "line": 6223,
+          "manipulation": "TECHNICAL_TEST-R04-S4-M0024"
+        },
+        {
+          "t": "184.181123",
+          "wall_t": "184.181123",
+          "actor": "P1",
+          "line": 6356,
+          "manipulation": "TECHNICAL_TEST-R04-S4-M0025"
+        }
+      ]
+    },
+    "reasoning_limit": "Sequences describe ownership/operation only, not intentions, agreement or a surplus-piece event."
+  },
+  {
+    "slot": "G05_R03",
+    "log": "L09",
+    "round": "TECHNICAL_TEST-R02",
+    "start_line": 1182,
+    "end_line": 9959,
+    "condition": "VR_FIRST_PERSON",
+    "task": "01_silla-1",
+    "event_counts": {
+      "round_start": 1,
+      "piece_initial": 7,
+      "control_action": 2,
+      "participant_pose": 2382,
+      "grab_request": 294,
+      "grab_accepted": 289,
+      "piece_motion_start": 289,
+      "piece_pose": 2945,
+      "release_request": 289,
+      "piece_release": 289,
+      "piece_settle_pose": 1730,
+      "piece_settled": 254,
+      "grab_denied": 5,
+      "pause_state": 1,
+      "round_end_manual": 1
+    },
+    "piece_grab_sequences": {
+      "S5": [
+        {
+          "t": "6.235903",
+          "wall_t": "6.235903",
+          "actor": "P1",
+          "line": 1216,
+          "manipulation": "TECHNICAL_TEST-R02-S5-M0044"
+        },
+        {
+          "t": "7.207677",
+          "wall_t": "7.207677",
+          "actor": "P1",
+          "line": 1236,
+          "manipulation": "TECHNICAL_TEST-R02-S5-M0045"
+        },
+        {
+          "t": "13.721442",
+          "wall_t": "13.721442",
+          "actor": "P1",
+          "line": 1323,
+          "manipulation": "TECHNICAL_TEST-R02-S5-M0046"
+        },
+        {
+          "t": "41.082281",
+          "wall_t": "41.082281",
+          "actor": "P1",
+          "line": 1785,
+          "manipulation": "TECHNICAL_TEST-R02-S5-M0047"
+        },
+        {
+          "t": "41.943478",
+          "wall_t": "41.943478",
+          "actor": "P1",
+          "line": 1810,
+          "manipulation": "TECHNICAL_TEST-R02-S5-M0048"
+        },
+        {
+          "t": "47.456844",
+          "wall_t": "47.456844",
+          "actor": "P1",
+          "line": 1936,
+          "manipulation": "TECHNICAL_TEST-R02-S5-M0049"
+        },
+        {
+          "t": "49.915544",
+          "wall_t": "49.915544",
+          "actor": "P1",
+          "line": 2006,
+          "manipulation": "TECHNICAL_TEST-R02-S5-M0050"
+        },
+        {
+          "t": "55.304492",
+          "wall_t": "55.304492",
+          "actor": "P1",
+          "line": 2108,
+          "manipulation": "TECHNICAL_TEST-R02-S5-M0051"
+        },
+        {
+          "t": "56.096465",
+          "wall_t": "56.096465",
+          "actor": "P1",
+          "line": 2134,
+          "manipulation": "TECHNICAL_TEST-R02-S5-M0052"
+        },
+        {
+          "t": "62.790351",
+          "wall_t": "62.790351",
+          "actor": "P1",
+          "line": 2263,
+          "manipulation": "TECHNICAL_TEST-R02-S5-M0053"
+        },
+        {
+          "t": "97.208787",
+          "wall_t": "97.208787",
+          "actor": "P2",
+          "line": 2718,
+          "manipulation": "TECHNICAL_TEST-R02-S5-M0054"
+        },
+        {
+          "t": "104.236080",
+          "wall_t": "104.236080",
+          "actor": "P2",
+          "line": 2791,
+          "manipulation": "TECHNICAL_TEST-R02-S5-M0055"
+        },
+        {
+          "t": "116.457813",
+          "wall_t": "116.457813",
+          "actor": "P1",
+          "line": 3078,
+          "manipulation": "TECHNICAL_TEST-R02-S5-M0056"
+        },
+        {
+          "t": "118.179800",
+          "wall_t": "118.179800",
+          "actor": "P1",
+          "line": 3134,
+          "manipulation": "TECHNICAL_TEST-R02-S5-M0057"
+        },
+        {
+          "t": "128.693924",
+          "wall_t": "128.693924",
+          "actor": "P1",
+          "line": 3290,
+          "manipulation": "TECHNICAL_TEST-R02-S5-M0058"
+        },
+        {
+          "t": "130.498489",
+          "wall_t": "130.498489",
+          "actor": "P1",
+          "line": 3329,
+          "manipulation": "TECHNICAL_TEST-R02-S5-M0059"
+        },
+        {
+          "t": "131.845595",
+          "wall_t": "131.845595",
+          "actor": "P1",
+          "line": 3382,
+          "manipulation": "TECHNICAL_TEST-R02-S5-M0060"
+        },
+        {
+          "t": "134.318387",
+          "wall_t": "134.318387",
+          "actor": "P1",
+          "line": 3435,
+          "manipulation": "TECHNICAL_TEST-R02-S5-M0061"
+        },
+        {
+          "t": "253.555668",
+          "wall_t": "253.555668",
+          "actor": "P2",
+          "line": 5000,
+          "manipulation": "TECHNICAL_TEST-R02-S5-M0062"
+        },
+        {
+          "t": "357.234446",
+          "wall_t": "357.234446",
+          "actor": "P1",
+          "line": 6256,
+          "manipulation": "TECHNICAL_TEST-R02-S5-M0063"
+        },
+        {
+          "t": "362.069003",
+          "wall_t": "362.069003",
+          "actor": "P1",
+          "line": 6375,
+          "manipulation": "TECHNICAL_TEST-R02-S5-M0064"
+        },
+        {
+          "t": "370.985372",
+          "wall_t": "370.985372",
+          "actor": "P1",
+          "line": 6521,
+          "manipulation": "TECHNICAL_TEST-R02-S5-M0065"
+        },
+        {
+          "t": "445.304531",
+          "wall_t": "445.304531",
+          "actor": "P1",
+          "line": 7465,
+          "manipulation": "TECHNICAL_TEST-R02-S5-M0066"
+        },
+        {
+          "t": "495.151746",
+          "wall_t": "495.151746",
+          "actor": "P1",
+          "line": 8287,
+          "manipulation": "TECHNICAL_TEST-R02-S5-M0067"
+        }
+      ],
+      "S4": [
+        {
+          "t": "7.151623",
+          "wall_t": "7.151623",
+          "actor": "P2",
+          "line": 1234,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0004"
+        },
+        {
+          "t": "10.402011",
+          "wall_t": "10.402011",
+          "actor": "P2",
+          "line": 1278,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0005"
+        },
+        {
+          "t": "18.721924",
+          "wall_t": "18.721924",
+          "actor": "P1",
+          "line": 1415,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0006"
+        },
+        {
+          "t": "21.582688",
+          "wall_t": "21.582688",
+          "actor": "P1",
+          "line": 1460,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0007"
+        },
+        {
+          "t": "22.457505",
+          "wall_t": "22.457505",
+          "actor": "P1",
+          "line": 1482,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0008"
+        },
+        {
+          "t": "28.082492",
+          "wall_t": "28.082492",
+          "actor": "P1",
+          "line": 1606,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0009"
+        },
+        {
+          "t": "31.333299",
+          "wall_t": "31.333299",
+          "actor": "P1",
+          "line": 1638,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0010"
+        },
+        {
+          "t": "33.221168",
+          "wall_t": "33.221168",
+          "actor": "P1",
+          "line": 1679,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0011"
+        },
+        {
+          "t": "39.430941",
+          "wall_t": "39.430941",
+          "actor": "P2",
+          "line": 1758,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0012"
+        },
+        {
+          "t": "41.873055",
+          "wall_t": "41.873055",
+          "actor": "P2",
+          "line": 1806,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0013"
+        },
+        {
+          "t": "43.887587",
+          "wall_t": "43.887587",
+          "actor": "P2",
+          "line": 1858,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0014"
+        },
+        {
+          "t": "65.707851",
+          "wall_t": "65.707851",
+          "actor": "P1",
+          "line": 2332,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0015"
+        },
+        {
+          "t": "71.457028",
+          "wall_t": "71.457028",
+          "actor": "P1",
+          "line": 2421,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0016"
+        },
+        {
+          "t": "73.109758",
+          "wall_t": "73.109758",
+          "actor": "P1",
+          "line": 2445,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0017"
+        },
+        {
+          "t": "93.597486",
+          "wall_t": "93.597486",
+          "actor": "P2",
+          "line": 2685,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0018"
+        },
+        {
+          "t": "105.639236",
+          "wall_t": "105.639236",
+          "actor": "P1",
+          "line": 2823,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0019"
+        },
+        {
+          "t": "113.138154",
+          "wall_t": "113.138154",
+          "actor": "P1",
+          "line": 2963,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0020"
+        },
+        {
+          "t": "114.651735",
+          "wall_t": "114.651735",
+          "actor": "P2",
+          "line": 3012,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0021"
+        },
+        {
+          "t": "116.374242",
+          "wall_t": "116.374242",
+          "actor": "P2",
+          "line": 3075,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0022"
+        },
+        {
+          "t": "130.331702",
+          "wall_t": "130.331702",
+          "actor": "P2",
+          "line": 3322,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0023"
+        },
+        {
+          "t": "132.819212",
+          "wall_t": "132.819212",
+          "actor": "P2",
+          "line": 3414,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0024"
+        },
+        {
+          "t": "141.152067",
+          "wall_t": "141.152067",
+          "actor": "P2",
+          "line": 3563,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0025"
+        },
+        {
+          "t": "144.249575",
+          "wall_t": "144.249575",
+          "actor": "P2",
+          "line": 3605,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0026"
+        },
+        {
+          "t": "145.624257",
+          "wall_t": "145.624257",
+          "actor": "P2",
+          "line": 3626,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0027"
+        },
+        {
+          "t": "147.748767",
+          "wall_t": "147.748767",
+          "actor": "P2",
+          "line": 3649,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0028"
+        },
+        {
+          "t": "149.318624",
+          "wall_t": "149.318624",
+          "actor": "P2",
+          "line": 3672,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0029"
+        },
+        {
+          "t": "152.597426",
+          "wall_t": "152.597426",
+          "actor": "P1",
+          "line": 3716,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0030"
+        },
+        {
+          "t": "153.665224",
+          "wall_t": "153.665224",
+          "actor": "P1",
+          "line": 3738,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0031"
+        },
+        {
+          "t": "172.167652",
+          "wall_t": "172.167652",
+          "actor": "P2",
+          "line": 3895,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0032"
+        },
+        {
+          "t": "190.805606",
+          "wall_t": "190.805606",
+          "actor": "P1",
+          "line": 4055,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0033"
+        },
+        {
+          "t": "192.152033",
+          "wall_t": "192.152033",
+          "actor": "P1",
+          "line": 4077,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0034"
+        },
+        {
+          "t": "193.332565",
+          "wall_t": "193.332565",
+          "actor": "P1",
+          "line": 4098,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0035"
+        },
+        {
+          "t": "197.332138",
+          "wall_t": "197.332138",
+          "actor": "P1",
+          "line": 4186,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0036"
+        },
+        {
+          "t": "200.346193",
+          "wall_t": "200.346193",
+          "actor": "P1",
+          "line": 4256,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0037"
+        },
+        {
+          "t": "246.055898",
+          "wall_t": "246.055898",
+          "actor": "P1",
+          "line": 4942,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0038"
+        },
+        {
+          "t": "248.222150",
+          "wall_t": "248.222150",
+          "actor": "P1",
+          "line": 4965,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0039"
+        },
+        {
+          "t": "255.402773",
+          "wall_t": "255.402773",
+          "actor": "P2",
+          "line": 5033,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0040"
+        },
+        {
+          "t": "262.264085",
+          "wall_t": "262.264085",
+          "actor": "P2",
+          "line": 5086,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0041"
+        },
+        {
+          "t": "270.569303",
+          "wall_t": "270.569303",
+          "actor": "P1",
+          "line": 5174,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0042"
+        },
+        {
+          "t": "273.776712",
+          "wall_t": "273.776712",
+          "actor": "P1",
+          "line": 5233,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0043"
+        },
+        {
+          "t": "274.582956",
+          "wall_t": "274.582956",
+          "actor": "P1",
+          "line": 5262,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0044"
+        },
+        {
+          "t": "276.110158",
+          "wall_t": "276.110158",
+          "actor": "P1",
+          "line": 5298,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0045"
+        },
+        {
+          "t": "279.624684",
+          "wall_t": "279.624684",
+          "actor": "P1",
+          "line": 5374,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0046"
+        },
+        {
+          "t": "283.972255",
+          "wall_t": "283.972255",
+          "actor": "P1",
+          "line": 5452,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0047"
+        },
+        {
+          "t": "297.084436",
+          "wall_t": "297.084436",
+          "actor": "P2",
+          "line": 5591,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0048"
+        },
+        {
+          "t": "299.195105",
+          "wall_t": "299.195105",
+          "actor": "P2",
+          "line": 5623,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0049"
+        },
+        {
+          "t": "301.597432",
+          "wall_t": "301.597432",
+          "actor": "P2",
+          "line": 5650,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0050"
+        },
+        {
+          "t": "303.333522",
+          "wall_t": "303.333522",
+          "actor": "P2",
+          "line": 5674,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0051"
+        },
+        {
+          "t": "305.084134",
+          "wall_t": "305.084134",
+          "actor": "P2",
+          "line": 5697,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0052"
+        },
+        {
+          "t": "325.028337",
+          "wall_t": "325.028337",
+          "actor": "P2",
+          "line": 5881,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0053"
+        },
+        {
+          "t": "326.833490",
+          "wall_t": "326.833490",
+          "actor": "P2",
+          "line": 5906,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0054"
+        },
+        {
+          "t": "330.430894",
+          "wall_t": "330.430894",
+          "actor": "P2",
+          "line": 5955,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0055"
+        },
+        {
+          "t": "343.278200",
+          "wall_t": "343.278200",
+          "actor": "P2",
+          "line": 6124,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0056"
+        },
+        {
+          "t": "376.625522",
+          "wall_t": "376.625522",
+          "actor": "P2",
+          "line": 6596,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0057"
+        },
+        {
+          "t": "380.055121",
+          "wall_t": "380.055121",
+          "actor": "P1",
+          "line": 6644,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0058"
+        },
+        {
+          "t": "381.944343",
+          "wall_t": "381.944343",
+          "actor": "P1",
+          "line": 6670,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0059"
+        },
+        {
+          "t": "386.291748",
+          "wall_t": "386.291748",
+          "actor": "P1",
+          "line": 6743,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0060"
+        },
+        {
+          "t": "390.235513",
+          "wall_t": "390.235513",
+          "actor": "P1",
+          "line": 6775,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0061"
+        },
+        {
+          "t": "395.013485",
+          "wall_t": "395.013485",
+          "actor": "P1",
+          "line": 6834,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0062"
+        },
+        {
+          "t": "397.290286",
+          "wall_t": "397.290286",
+          "actor": "P1",
+          "line": 6885,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0063"
+        },
+        {
+          "t": "420.083329",
+          "wall_t": "420.083329",
+          "actor": "P1",
+          "line": 7248,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0064"
+        },
+        {
+          "t": "440.777673",
+          "wall_t": "440.777673",
+          "actor": "P2",
+          "line": 7410,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0065"
+        },
+        {
+          "t": "448.193790",
+          "wall_t": "448.193790",
+          "actor": "P2",
+          "line": 7531,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0066"
+        },
+        {
+          "t": "450.291652",
+          "wall_t": "450.291652",
+          "actor": "P2",
+          "line": 7572,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0067"
+        },
+        {
+          "t": "454.249761",
+          "wall_t": "454.249761",
+          "actor": "P1",
+          "line": 7622,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0068"
+        },
+        {
+          "t": "459.582598",
+          "wall_t": "459.582598",
+          "actor": "P1",
+          "line": 7719,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0069"
+        },
+        {
+          "t": "462.139507",
+          "wall_t": "462.139507",
+          "actor": "P1",
+          "line": 7753,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0070"
+        },
+        {
+          "t": "466.318868",
+          "wall_t": "466.318868",
+          "actor": "P1",
+          "line": 7834,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0071"
+        },
+        {
+          "t": "491.679724",
+          "wall_t": "491.679724",
+          "actor": "P1",
+          "line": 8216,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0072"
+        },
+        {
+          "t": "501.653223",
+          "wall_t": "501.653223",
+          "actor": "P2",
+          "line": 8356,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0073"
+        },
+        {
+          "t": "506.819091",
+          "wall_t": "506.819091",
+          "actor": "P1",
+          "line": 8447,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0074"
+        },
+        {
+          "t": "508.471671",
+          "wall_t": "508.471671",
+          "actor": "P1",
+          "line": 8476,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0075"
+        },
+        {
+          "t": "534.470930",
+          "wall_t": "534.470930",
+          "actor": "P2",
+          "line": 8828,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0076"
+        },
+        {
+          "t": "565.720529",
+          "wall_t": "565.720529",
+          "actor": "P1",
+          "line": 9240,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0077"
+        },
+        {
+          "t": "578.846969",
+          "wall_t": "578.846969",
+          "actor": "P2",
+          "line": 9434,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0078"
+        },
+        {
+          "t": "581.388573",
+          "wall_t": "581.388573",
+          "actor": "P2",
+          "line": 9469,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0079"
+        },
+        {
+          "t": "583.916714",
+          "wall_t": "583.916714",
+          "actor": "P2",
+          "line": 9497,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0080"
+        },
+        {
+          "t": "595.235885",
+          "wall_t": "595.235885",
+          "actor": "P2",
+          "line": 9635,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0081"
+        },
+        {
+          "t": "597.611087",
+          "wall_t": "597.611087",
+          "actor": "P2",
+          "line": 9660,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0082"
+        },
+        {
+          "t": "604.026898",
+          "wall_t": "604.026898",
+          "actor": "P2",
+          "line": 9753,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0083"
+        },
+        {
+          "t": "605.929926",
+          "wall_t": "605.929926",
+          "actor": "P2",
+          "line": 9786,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0084"
+        },
+        {
+          "t": "607.736546",
+          "wall_t": "607.736546",
+          "actor": "P2",
+          "line": 9811,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0085"
+        },
+        {
+          "t": "609.013839",
+          "wall_t": "609.013839",
+          "actor": "P2",
+          "line": 9831,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0086"
+        },
+        {
+          "t": "612.846544",
+          "wall_t": "612.846544",
+          "actor": "P2",
+          "line": 9897,
+          "manipulation": "TECHNICAL_TEST-R02-S4-M0087"
+        }
+      ],
+      "S7": [
+        {
+          "t": "14.957767",
+          "wall_t": "14.957767",
+          "actor": "P1",
+          "line": 1345,
+          "manipulation": "TECHNICAL_TEST-R02-S7-M0002"
+        },
+        {
+          "t": "16.958255",
+          "wall_t": "16.958255",
+          "actor": "P1",
+          "line": 1391,
+          "manipulation": "TECHNICAL_TEST-R02-S7-M0003"
+        },
+        {
+          "t": "26.443823",
+          "wall_t": "26.443823",
+          "actor": "P1",
+          "line": 1561,
+          "manipulation": "TECHNICAL_TEST-R02-S7-M0004"
+        },
+        {
+          "t": "26.499517",
+          "wall_t": "26.499517",
+          "actor": "P1",
+          "line": 1569,
+          "manipulation": "TECHNICAL_TEST-R02-S7-M0005"
+        },
+        {
+          "t": "60.278332",
+          "wall_t": "60.278332",
+          "actor": "P2",
+          "line": 2207,
+          "manipulation": "TECHNICAL_TEST-R02-S7-M0006"
+        },
+        {
+          "t": "81.639206",
+          "wall_t": "81.639206",
+          "actor": "P1",
+          "line": 2530,
+          "manipulation": "TECHNICAL_TEST-R02-S7-M0007"
+        },
+        {
+          "t": "114.332456",
+          "wall_t": "114.332456",
+          "actor": "P1",
+          "line": 2995,
+          "manipulation": "TECHNICAL_TEST-R02-S7-M0008"
+        },
+        {
+          "t": "131.471130",
+          "wall_t": "131.471130",
+          "actor": "P2",
+          "line": 3367,
+          "manipulation": "TECHNICAL_TEST-R02-S7-M0009"
+        },
+        {
+          "t": "184.207531",
+          "wall_t": "184.207531",
+          "actor": "P2",
+          "line": 3957,
+          "manipulation": "TECHNICAL_TEST-R02-S7-M0010"
+        },
+        {
+          "t": "189.375340",
+          "wall_t": "189.375340",
+          "actor": "P2",
+          "line": 4032,
+          "manipulation": "TECHNICAL_TEST-R02-S7-M0011"
+        },
+        {
+          "t": "211.804947",
+          "wall_t": "211.804947",
+          "actor": "P2",
+          "line": 4486,
+          "manipulation": "TECHNICAL_TEST-R02-S7-M0012"
+        },
+        {
+          "t": "244.305442",
+          "wall_t": "244.305442",
+          "actor": "P2",
+          "line": 4920,
+          "manipulation": "TECHNICAL_TEST-R02-S7-M0013"
+        },
+        {
+          "t": "259.236690",
+          "wall_t": "259.236690",
+          "actor": "P2",
+          "line": 5060,
+          "manipulation": "TECHNICAL_TEST-R02-S7-M0014"
+        },
+        {
+          "t": "270.388436",
+          "wall_t": "270.388436",
+          "actor": "P2",
+          "line": 5170,
+          "manipulation": "TECHNICAL_TEST-R02-S7-M0015"
+        },
+        {
+          "t": "288.958352",
+          "wall_t": "288.958352",
+          "actor": "P2",
+          "line": 5531,
+          "manipulation": "TECHNICAL_TEST-R02-S7-M0016"
+        },
+        {
+          "t": "346.028549",
+          "wall_t": "346.028549",
+          "actor": "P2",
+          "line": 6149,
+          "manipulation": "TECHNICAL_TEST-R02-S7-M0017"
+        },
+        {
+          "t": "403.651478",
+          "wall_t": "403.651478",
+          "actor": "P2",
+          "line": 7030,
+          "manipulation": "TECHNICAL_TEST-R02-S7-M0018"
+        },
+        {
+          "t": "404.554708",
+          "wall_t": "404.554708",
+          "actor": "P1",
+          "line": 7056,
+          "manipulation": "TECHNICAL_TEST-R02-S7-M0019"
+        },
+        {
+          "t": "411.332696",
+          "wall_t": "411.332696",
+          "actor": "P1",
+          "line": 7178,
+          "manipulation": "TECHNICAL_TEST-R02-S7-M0020"
+        },
+        {
+          "t": "436.847081",
+          "wall_t": "436.847081",
+          "actor": "P1",
+          "line": 7364,
+          "manipulation": "TECHNICAL_TEST-R02-S7-M0021"
+        },
+        {
+          "t": "447.902030",
+          "wall_t": "447.902030",
+          "actor": "P1",
+          "line": 7523,
+          "manipulation": "TECHNICAL_TEST-R02-S7-M0022"
+        },
+        {
+          "t": "475.318663",
+          "wall_t": "475.318663",
+          "actor": "P1",
+          "line": 7995,
+          "manipulation": "TECHNICAL_TEST-R02-S7-M0023"
+        },
+        {
+          "t": "494.040540",
+          "wall_t": "494.040540",
+          "actor": "P1",
+          "line": 8268,
+          "manipulation": "TECHNICAL_TEST-R02-S7-M0024"
+        },
+        {
+          "t": "531.541197",
+          "wall_t": "531.541197",
+          "actor": "P2",
+          "line": 8769,
+          "manipulation": "TECHNICAL_TEST-R02-S7-M0025"
+        },
+        {
+          "t": "543.847327",
+          "wall_t": "543.847327",
+          "actor": "P2",
+          "line": 8988,
+          "manipulation": "TECHNICAL_TEST-R02-S7-M0026"
+        },
+        {
+          "t": "557.680334",
+          "wall_t": "557.680334",
+          "actor": "P1",
+          "line": 9193,
+          "manipulation": "TECHNICAL_TEST-R02-S7-M0027"
+        },
+        {
+          "t": "568.874753",
+          "wall_t": "568.874753",
+          "actor": "P1",
+          "line": 9294,
+          "manipulation": "TECHNICAL_TEST-R02-S7-M0028"
+        },
+        {
+          "t": "572.986134",
+          "wall_t": "572.986134",
+          "actor": "P2",
+          "line": 9367,
+          "manipulation": "TECHNICAL_TEST-R02-S7-M0029"
+        },
+        {
+          "t": "603.902338",
+          "wall_t": "603.902338",
+          "actor": "P1",
+          "line": 9748,
+          "manipulation": "TECHNICAL_TEST-R02-S7-M0030"
+        },
+        {
+          "t": "613.986271",
+          "wall_t": "613.986271",
+          "actor": "P1",
+          "line": 9913,
+          "manipulation": "TECHNICAL_TEST-R02-S7-M0031"
+        }
+      ],
+      "S6": [
+        {
+          "t": "15.527261",
+          "wall_t": "15.527261",
+          "actor": "P1",
+          "line": 1355,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0017"
+        },
+        {
+          "t": "20.763373",
+          "wall_t": "20.763373",
+          "actor": "P1",
+          "line": 1445,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0018"
+        },
+        {
+          "t": "45.638919",
+          "wall_t": "45.638919",
+          "actor": "P1",
+          "line": 1908,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0019"
+        },
+        {
+          "t": "84.720694",
+          "wall_t": "84.720694",
+          "actor": "P1",
+          "line": 2568,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0020"
+        },
+        {
+          "t": "104.832545",
+          "wall_t": "104.832545",
+          "actor": "P1",
+          "line": 2801,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0021"
+        },
+        {
+          "t": "111.249572",
+          "wall_t": "111.249572",
+          "actor": "P1",
+          "line": 2927,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0022"
+        },
+        {
+          "t": "112.193204",
+          "wall_t": "112.193204",
+          "actor": "P1",
+          "line": 2945,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0023"
+        },
+        {
+          "t": "113.721632",
+          "wall_t": "113.721632",
+          "actor": "P1",
+          "line": 2978,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0024"
+        },
+        {
+          "t": "120.513436",
+          "wall_t": "120.513436",
+          "actor": "P1",
+          "line": 3191,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0025"
+        },
+        {
+          "t": "151.540859",
+          "wall_t": "151.540859",
+          "actor": "P1",
+          "line": 3698,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0026"
+        },
+        {
+          "t": "157.151698",
+          "wall_t": "157.151698",
+          "actor": "P2",
+          "line": 3770,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0027"
+        },
+        {
+          "t": "158.596379",
+          "wall_t": "158.596379",
+          "actor": "P2",
+          "line": 3792,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0028"
+        },
+        {
+          "t": "160.359871",
+          "wall_t": "160.359871",
+          "actor": "P2",
+          "line": 3819,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0029"
+        },
+        {
+          "t": "186.250073",
+          "wall_t": "186.250073",
+          "actor": "P2",
+          "line": 3987,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0030"
+        },
+        {
+          "t": "187.834085",
+          "wall_t": "187.834085",
+          "actor": "P2",
+          "line": 4009,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0031"
+        },
+        {
+          "t": "201.429788",
+          "wall_t": "201.429788",
+          "actor": "P2",
+          "line": 4276,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0032"
+        },
+        {
+          "t": "203.624312",
+          "wall_t": "203.624312",
+          "actor": "P2",
+          "line": 4316,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0033"
+        },
+        {
+          "t": "205.026373",
+          "wall_t": "205.026373",
+          "actor": "P2",
+          "line": 4349,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0034"
+        },
+        {
+          "t": "206.625116",
+          "wall_t": "206.625116",
+          "actor": "P2",
+          "line": 4398,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0035"
+        },
+        {
+          "t": "211.402924",
+          "wall_t": "211.402924",
+          "actor": "P1",
+          "line": 4475,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0036"
+        },
+        {
+          "t": "213.499362",
+          "wall_t": "213.499362",
+          "actor": "P1",
+          "line": 4526,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0037"
+        },
+        {
+          "t": "216.790781",
+          "wall_t": "216.790781",
+          "actor": "P1",
+          "line": 4593,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0038"
+        },
+        {
+          "t": "219.736034",
+          "wall_t": "219.736034",
+          "actor": "P1",
+          "line": 4659,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0039"
+        },
+        {
+          "t": "221.778130",
+          "wall_t": "221.778130",
+          "actor": "P1",
+          "line": 4708,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0040"
+        },
+        {
+          "t": "225.984359",
+          "wall_t": "225.984359",
+          "actor": "P1",
+          "line": 4775,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0041"
+        },
+        {
+          "t": "360.651866",
+          "wall_t": "360.651866",
+          "actor": "P1",
+          "line": 6337,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0042"
+        },
+        {
+          "t": "362.040834",
+          "wall_t": "362.040834",
+          "actor": "P1",
+          "line": 6372,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0043"
+        },
+        {
+          "t": "372.095833",
+          "wall_t": "372.095833",
+          "actor": "P1",
+          "line": 6540,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0044"
+        },
+        {
+          "t": "383.804291",
+          "wall_t": "383.804291",
+          "actor": "P1",
+          "line": 6695,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0045"
+        },
+        {
+          "t": "394.221349",
+          "wall_t": "394.221349",
+          "actor": "P1",
+          "line": 6819,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0046"
+        },
+        {
+          "t": "396.637399",
+          "wall_t": "396.637399",
+          "actor": "P1",
+          "line": 6866,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0047"
+        },
+        {
+          "t": "398.207992",
+          "wall_t": "398.207992",
+          "actor": "P1",
+          "line": 6906,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0048"
+        },
+        {
+          "t": "398.914953",
+          "wall_t": "398.914953",
+          "actor": "P1",
+          "line": 6926,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0049"
+        },
+        {
+          "t": "409.638494",
+          "wall_t": "409.638494",
+          "actor": "P1",
+          "line": 7151,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0050"
+        },
+        {
+          "t": "411.638096",
+          "wall_t": "411.638096",
+          "actor": "P2",
+          "line": 7185,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0051"
+        },
+        {
+          "t": "490.623969",
+          "wall_t": "490.623969",
+          "actor": "P1",
+          "line": 8198,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0052"
+        },
+        {
+          "t": "496.096526",
+          "wall_t": "496.096526",
+          "actor": "P1",
+          "line": 8307,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0053"
+        },
+        {
+          "t": "504.804728",
+          "wall_t": "504.804728",
+          "actor": "P1",
+          "line": 8396,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0054"
+        },
+        {
+          "t": "517.666340",
+          "wall_t": "517.666340",
+          "actor": "P1",
+          "line": 8579,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0055"
+        },
+        {
+          "t": "518.888586",
+          "wall_t": "518.888586",
+          "actor": "P1",
+          "line": 8602,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0056"
+        },
+        {
+          "t": "523.638530",
+          "wall_t": "523.638530",
+          "actor": "P1",
+          "line": 8672,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0057"
+        },
+        {
+          "t": "533.901858",
+          "wall_t": "533.901858",
+          "actor": "P1",
+          "line": 8818,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0058"
+        },
+        {
+          "t": "536.513670",
+          "wall_t": "536.513670",
+          "actor": "P1",
+          "line": 8876,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0059"
+        },
+        {
+          "t": "541.179958",
+          "wall_t": "541.179958",
+          "actor": "P1",
+          "line": 8953,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0060"
+        },
+        {
+          "t": "551.041298",
+          "wall_t": "551.041298",
+          "actor": "P2",
+          "line": 9103,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0061"
+        },
+        {
+          "t": "552.957947",
+          "wall_t": "552.957947",
+          "actor": "P1",
+          "line": 9132,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0062"
+        },
+        {
+          "t": "566.680369",
+          "wall_t": "566.680369",
+          "actor": "P2",
+          "line": 9258,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0063"
+        },
+        {
+          "t": "567.693875",
+          "wall_t": "567.693875",
+          "actor": "P1",
+          "line": 9276,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0064"
+        },
+        {
+          "t": "570.388762",
+          "wall_t": "570.388762",
+          "actor": "P1",
+          "line": 9326,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0065"
+        },
+        {
+          "t": "576.708158",
+          "wall_t": "576.708158",
+          "actor": "P2",
+          "line": 9414,
+          "manipulation": "TECHNICAL_TEST-R02-S6-M0066"
+        }
+      ],
+      "S3": [
+        {
+          "t": "22.749321",
+          "wall_t": "22.749321",
+          "actor": "P1",
+          "line": 1492,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0002"
+        },
+        {
+          "t": "24.582738",
+          "wall_t": "24.582738",
+          "actor": "P1",
+          "line": 1524,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0003"
+        },
+        {
+          "t": "25.915895",
+          "wall_t": "25.915895",
+          "actor": "P1",
+          "line": 1549,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0004"
+        },
+        {
+          "t": "27.471508",
+          "wall_t": "27.471508",
+          "actor": "P1",
+          "line": 1591,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0005"
+        },
+        {
+          "t": "32.401699",
+          "wall_t": "32.401699",
+          "actor": "P2",
+          "line": 1654,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0006"
+        },
+        {
+          "t": "34.791643",
+          "wall_t": "34.791643",
+          "actor": "P2",
+          "line": 1706,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0007"
+        },
+        {
+          "t": "36.916603",
+          "wall_t": "36.916603",
+          "actor": "P2",
+          "line": 1734,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0008"
+        },
+        {
+          "t": "69.666265",
+          "wall_t": "69.666265",
+          "actor": "P2",
+          "line": 2396,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0009"
+        },
+        {
+          "t": "75.334127",
+          "wall_t": "75.334127",
+          "actor": "P1",
+          "line": 2473,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0010"
+        },
+        {
+          "t": "106.971901",
+          "wall_t": "106.971901",
+          "actor": "P2",
+          "line": 2859,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0011"
+        },
+        {
+          "t": "114.943692",
+          "wall_t": "114.943692",
+          "actor": "P1",
+          "line": 3021,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0012"
+        },
+        {
+          "t": "118.762966",
+          "wall_t": "118.762966",
+          "actor": "P1",
+          "line": 3150,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0013"
+        },
+        {
+          "t": "136.790142",
+          "wall_t": "136.790142",
+          "actor": "P1",
+          "line": 3496,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0014"
+        },
+        {
+          "t": "193.986249",
+          "wall_t": "193.986249",
+          "actor": "P1",
+          "line": 4108,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0015"
+        },
+        {
+          "t": "195.790845",
+          "wall_t": "195.790845",
+          "actor": "P1",
+          "line": 4145,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0016"
+        },
+        {
+          "t": "197.303922",
+          "wall_t": "197.303922",
+          "actor": "P1",
+          "line": 4184,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0017"
+        },
+        {
+          "t": "240.527833",
+          "wall_t": "240.527833",
+          "actor": "P2",
+          "line": 4868,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0018"
+        },
+        {
+          "t": "265.264150",
+          "wall_t": "265.264150",
+          "actor": "P2",
+          "line": 5116,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0019"
+        },
+        {
+          "t": "268.097735",
+          "wall_t": "268.097735",
+          "actor": "P2",
+          "line": 5144,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0020"
+        },
+        {
+          "t": "272.444680",
+          "wall_t": "272.444680",
+          "actor": "P2",
+          "line": 5213,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0021"
+        },
+        {
+          "t": "273.776712",
+          "wall_t": "273.776712",
+          "actor": "P2",
+          "line": 5235,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0022"
+        },
+        {
+          "t": "275.319937",
+          "wall_t": "275.319937",
+          "actor": "P2",
+          "line": 5276,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0023"
+        },
+        {
+          "t": "282.693583",
+          "wall_t": "282.693583",
+          "actor": "P2",
+          "line": 5413,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0024"
+        },
+        {
+          "t": "285.513211",
+          "wall_t": "285.513211",
+          "actor": "P2",
+          "line": 5481,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0025"
+        },
+        {
+          "t": "287.069848",
+          "wall_t": "287.069848",
+          "actor": "P2",
+          "line": 5507,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0026"
+        },
+        {
+          "t": "294.416543",
+          "wall_t": "294.416543",
+          "actor": "P2",
+          "line": 5567,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0027"
+        },
+        {
+          "t": "315.541557",
+          "wall_t": "315.541557",
+          "actor": "P2",
+          "line": 5765,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0028"
+        },
+        {
+          "t": "317.153345",
+          "wall_t": "317.153345",
+          "actor": "P2",
+          "line": 5789,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0029"
+        },
+        {
+          "t": "318.597697",
+          "wall_t": "318.597697",
+          "actor": "P2",
+          "line": 5808,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0030"
+        },
+        {
+          "t": "322.403023",
+          "wall_t": "322.403023",
+          "actor": "P2",
+          "line": 5854,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0031"
+        },
+        {
+          "t": "328.834179",
+          "wall_t": "328.834179",
+          "actor": "P2",
+          "line": 5934,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0032"
+        },
+        {
+          "t": "333.959098",
+          "wall_t": "333.959098",
+          "actor": "P2",
+          "line": 6002,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0033"
+        },
+        {
+          "t": "335.625591",
+          "wall_t": "335.625591",
+          "actor": "P2",
+          "line": 6027,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0034"
+        },
+        {
+          "t": "337.791439",
+          "wall_t": "337.791439",
+          "actor": "P2",
+          "line": 6050,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0035"
+        },
+        {
+          "t": "339.972798",
+          "wall_t": "339.972798",
+          "actor": "P2",
+          "line": 6075,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0036"
+        },
+        {
+          "t": "341.847465",
+          "wall_t": "341.847465",
+          "actor": "P2",
+          "line": 6105,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0037"
+        },
+        {
+          "t": "349.361262",
+          "wall_t": "349.361262",
+          "actor": "P2",
+          "line": 6186,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0038"
+        },
+        {
+          "t": "359.236168",
+          "wall_t": "359.236168",
+          "actor": "P1",
+          "line": 6309,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0039"
+        },
+        {
+          "t": "368.248972",
+          "wall_t": "368.248972",
+          "actor": "P1",
+          "line": 6471,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0040"
+        },
+        {
+          "t": "373.428990",
+          "wall_t": "373.428990",
+          "actor": "P1",
+          "line": 6566,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0041"
+        },
+        {
+          "t": "445.568231",
+          "wall_t": "445.568231",
+          "actor": "P1",
+          "line": 7472,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0042"
+        },
+        {
+          "t": "539.069233",
+          "wall_t": "539.069233",
+          "actor": "P2",
+          "line": 8910,
+          "manipulation": "TECHNICAL_TEST-R02-S3-M0043"
+        }
+      ],
+      "S1": [
+        {
+          "t": "44.012762",
+          "wall_t": "44.012762",
+          "actor": "P1",
+          "line": 1864,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0001"
+        },
+        {
+          "t": "48.804507",
+          "wall_t": "48.804507",
+          "actor": "P1",
+          "line": 1973,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0002"
+        },
+        {
+          "t": "50.693045",
+          "wall_t": "50.693045",
+          "actor": "P1",
+          "line": 2032,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0003"
+        },
+        {
+          "t": "54.443748",
+          "wall_t": "54.443748",
+          "actor": "P1",
+          "line": 2091,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0004"
+        },
+        {
+          "t": "63.901016",
+          "wall_t": "63.901016",
+          "actor": "P1",
+          "line": 2292,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0005"
+        },
+        {
+          "t": "77.415988",
+          "wall_t": "77.415988",
+          "actor": "P1",
+          "line": 2496,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0006"
+        },
+        {
+          "t": "117.540738",
+          "wall_t": "117.540738",
+          "actor": "P1",
+          "line": 3115,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0007"
+        },
+        {
+          "t": "119.151389",
+          "wall_t": "119.151389",
+          "actor": "P1",
+          "line": 3160,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0008"
+        },
+        {
+          "t": "129.721071",
+          "wall_t": "129.721071",
+          "actor": "P1",
+          "line": 3310,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0009"
+        },
+        {
+          "t": "131.179272",
+          "wall_t": "131.179272",
+          "actor": "P1",
+          "line": 3353,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0010"
+        },
+        {
+          "t": "135.235001",
+          "wall_t": "135.235001",
+          "actor": "P1",
+          "line": 3458,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0011"
+        },
+        {
+          "t": "205.082048",
+          "wall_t": "205.082048",
+          "actor": "P1",
+          "line": 4351,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0012"
+        },
+        {
+          "t": "215.429986",
+          "wall_t": "215.429986",
+          "actor": "P2",
+          "line": 4558,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0013"
+        },
+        {
+          "t": "220.083178",
+          "wall_t": "220.083178",
+          "actor": "P2",
+          "line": 4669,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0014"
+        },
+        {
+          "t": "222.235826",
+          "wall_t": "222.235826",
+          "actor": "P2",
+          "line": 4719,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0015"
+        },
+        {
+          "t": "223.722514",
+          "wall_t": "223.722514",
+          "actor": "P2",
+          "line": 4745,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0016"
+        },
+        {
+          "t": "242.165134",
+          "wall_t": "242.165134",
+          "actor": "P2",
+          "line": 4890,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0017"
+        },
+        {
+          "t": "400.124959",
+          "wall_t": "400.124959",
+          "actor": "P1",
+          "line": 6954,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0018"
+        },
+        {
+          "t": "403.248907",
+          "wall_t": "403.248907",
+          "actor": "P1",
+          "line": 7019,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0019"
+        },
+        {
+          "t": "405.720662",
+          "wall_t": "405.720662",
+          "actor": "P2",
+          "line": 7080,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0020"
+        },
+        {
+          "t": "408.860641",
+          "wall_t": "408.860641",
+          "actor": "P1",
+          "line": 7136,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0021"
+        },
+        {
+          "t": "426.903234",
+          "wall_t": "426.903234",
+          "actor": "P2",
+          "line": 7310,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0022"
+        },
+        {
+          "t": "439.916949",
+          "wall_t": "439.916949",
+          "actor": "P1",
+          "line": 7394,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0023"
+        },
+        {
+          "t": "456.512437",
+          "wall_t": "456.512437",
+          "actor": "P2",
+          "line": 7666,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0024"
+        },
+        {
+          "t": "476.874749",
+          "wall_t": "476.874749",
+          "actor": "P2",
+          "line": 8036,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0025"
+        },
+        {
+          "t": "511.097378",
+          "wall_t": "511.097378",
+          "actor": "P2",
+          "line": 8510,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0026"
+        },
+        {
+          "t": "520.694218",
+          "wall_t": "520.694218",
+          "actor": "P1",
+          "line": 8638,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0027"
+        },
+        {
+          "t": "609.555862",
+          "wall_t": "609.555862",
+          "actor": "P1",
+          "line": 9840,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0028"
+        },
+        {
+          "t": "611.319075",
+          "wall_t": "611.319075",
+          "actor": "P2",
+          "line": 9876,
+          "manipulation": "TECHNICAL_TEST-R02-S1-M0029"
+        }
+      ],
+      "S2": [
+        {
+          "t": "47.401928",
+          "wall_t": "47.401928",
+          "actor": "P2",
+          "line": 1934,
+          "manipulation": "TECHNICAL_TEST-R02-S2-M0003"
+        },
+        {
+          "t": "49.554178",
+          "wall_t": "49.554178",
+          "actor": "P2",
+          "line": 1995,
+          "manipulation": "TECHNICAL_TEST-R02-S2-M0004"
+        },
+        {
+          "t": "51.053422",
+          "wall_t": "51.053422",
+          "actor": "P2",
+          "line": 2045,
+          "manipulation": "TECHNICAL_TEST-R02-S2-M0005"
+        },
+        {
+          "t": "55.596845",
+          "wall_t": "55.596845",
+          "actor": "P2",
+          "line": 2119,
+          "manipulation": "TECHNICAL_TEST-R02-S2-M0006"
+        },
+        {
+          "t": "86.249192",
+          "wall_t": "86.249192",
+          "actor": "P2",
+          "line": 2590,
+          "manipulation": "TECHNICAL_TEST-R02-S2-M0007"
+        },
+        {
+          "t": "123.569515",
+          "wall_t": "123.569515",
+          "actor": "P1",
+          "line": 3216,
+          "manipulation": "TECHNICAL_TEST-R02-S2-M0008"
+        },
+        {
+          "t": "127.332121",
+          "wall_t": "127.332121",
+          "actor": "P1",
+          "line": 3267,
+          "manipulation": "TECHNICAL_TEST-R02-S2-M0009"
+        },
+        {
+          "t": "202.984331",
+          "wall_t": "202.984331",
+          "actor": "P1",
+          "line": 4300,
+          "manipulation": "TECHNICAL_TEST-R02-S2-M0010"
+        },
+        {
+          "t": "226.526981",
+          "wall_t": "226.526981",
+          "actor": "P1",
+          "line": 4796,
+          "manipulation": "TECHNICAL_TEST-R02-S2-M0011"
+        },
+        {
+          "t": "254.554825",
+          "wall_t": "254.554825",
+          "actor": "P2",
+          "line": 5017,
+          "manipulation": "TECHNICAL_TEST-R02-S2-M0012"
+        },
+        {
+          "t": "283.499024",
+          "wall_t": "283.499024",
+          "actor": "P1",
+          "line": 5436,
+          "manipulation": "TECHNICAL_TEST-R02-S2-M0013"
+        },
+        {
+          "t": "355.623806",
+          "wall_t": "355.623806",
+          "actor": "P1",
+          "line": 6234,
+          "manipulation": "TECHNICAL_TEST-R02-S2-M0014"
+        },
+        {
+          "t": "358.749451",
+          "wall_t": "358.749451",
+          "actor": "P1",
+          "line": 6297,
+          "manipulation": "TECHNICAL_TEST-R02-S2-M0015"
+        },
+        {
+          "t": "365.194236",
+          "wall_t": "365.194236",
+          "actor": "P1",
+          "line": 6424,
+          "manipulation": "TECHNICAL_TEST-R02-S2-M0016"
+        },
+        {
+          "t": "366.693957",
+          "wall_t": "366.693957",
+          "actor": "P1",
+          "line": 6448,
+          "manipulation": "TECHNICAL_TEST-R02-S2-M0017"
+        },
+        {
+          "t": "368.998234",
+          "wall_t": "368.998234",
+          "actor": "P1",
+          "line": 6483,
+          "manipulation": "TECHNICAL_TEST-R02-S2-M0018"
+        },
+        {
+          "t": "399.276988",
+          "wall_t": "399.276988",
+          "actor": "P1",
+          "line": 6936,
+          "manipulation": "TECHNICAL_TEST-R02-S2-M0019"
+        },
+        {
+          "t": "402.096773",
+          "wall_t": "402.096773",
+          "actor": "P2",
+          "line": 7000,
+          "manipulation": "TECHNICAL_TEST-R02-S2-M0020"
+        },
+        {
+          "t": "407.097356",
+          "wall_t": "407.097356",
+          "actor": "P1",
+          "line": 7113,
+          "manipulation": "TECHNICAL_TEST-R02-S2-M0021"
+        },
+        {
+          "t": "452.139197",
+          "wall_t": "452.139197",
+          "actor": "P2",
+          "line": 7594,
+          "manipulation": "TECHNICAL_TEST-R02-S2-M0022"
+        },
+        {
+          "t": "461.486578",
+          "wall_t": "461.486578",
+          "actor": "P2",
+          "line": 7741,
+          "manipulation": "TECHNICAL_TEST-R02-S2-M0023"
+        },
+        {
+          "t": "469.388613",
+          "wall_t": "469.388613",
+          "actor": "P2",
+          "line": 7873,
+          "manipulation": "TECHNICAL_TEST-R02-S2-M0024"
+        },
+        {
+          "t": "473.084096",
+          "wall_t": "473.084096",
+          "actor": "P2",
+          "line": 7946,
+          "manipulation": "TECHNICAL_TEST-R02-S2-M0025"
+        },
+        {
+          "t": "511.097378",
+          "wall_t": "511.097378",
+          "actor": "P1",
+          "line": 8508,
+          "manipulation": "TECHNICAL_TEST-R02-S2-M0026"
+        },
+        {
+          "t": "519.791296",
+          "wall_t": "519.791296",
+          "actor": "P1",
+          "line": 8618,
+          "manipulation": "TECHNICAL_TEST-R02-S2-M0027"
+        },
+        {
+          "t": "588.721977",
+          "wall_t": "588.721977",
+          "actor": "P2",
+          "line": 9555,
+          "manipulation": "TECHNICAL_TEST-R02-S2-M0028"
+        },
+        {
+          "t": "592.028068",
+          "wall_t": "592.028068",
+          "actor": "P2",
+          "line": 9594,
+          "manipulation": "TECHNICAL_TEST-R02-S2-M0029"
+        },
+        {
+          "t": "599.347723",
+          "wall_t": "599.347723",
+          "actor": "P2",
+          "line": 9683,
+          "manipulation": "TECHNICAL_TEST-R02-S2-M0030"
+        },
+        {
+          "t": "600.485271",
+          "wall_t": "600.485271",
+          "actor": "P2",
+          "line": 9701,
+          "manipulation": "TECHNICAL_TEST-R02-S2-M0031"
+        },
+        {
+          "t": "602.652631",
+          "wall_t": "602.652631",
+          "actor": "P2",
+          "line": 9729,
+          "manipulation": "TECHNICAL_TEST-R02-S2-M0032"
+        }
+      ]
+    },
+    "reasoning_limit": "Sequences describe ownership/operation only, not intentions, agreement or a surplus-piece event."
+  },
+  {
+    "slot": "G05_R04",
+    "log": "L09",
+    "round": "TECHNICAL_TEST-R03",
+    "start_line": 10027,
+    "end_line": 11263,
+    "condition": "VR_EXTERNAL",
+    "task": "02_senora",
+    "event_counts": {
+      "round_start": 1,
+      "piece_initial": 7,
+      "control_action": 1,
+      "participant_pose": 465,
+      "grab_request": 27,
+      "grab_accepted": 27,
+      "piece_pose": 435,
+      "piece_motion_start": 27,
+      "release_request": 27,
+      "piece_release": 27,
+      "piece_settle_pose": 169,
+      "piece_settled": 23,
+      "round_end_manual": 1
+    },
+    "piece_grab_sequences": {
+      "S5": [
+        {
+          "t": "1.930368",
+          "wall_t": "1.930368",
+          "actor": "P1",
+          "line": 10045,
+          "manipulation": "TECHNICAL_TEST-R03-S5-M0068"
+        },
+        {
+          "t": "31.499600",
+          "wall_t": "31.499600",
+          "actor": "P1",
+          "line": 10230,
+          "manipulation": "TECHNICAL_TEST-R03-S5-M0069"
+        },
+        {
+          "t": "33.166236",
+          "wall_t": "33.166236",
+          "actor": "P1",
+          "line": 10255,
+          "manipulation": "TECHNICAL_TEST-R03-S5-M0070"
+        },
+        {
+          "t": "35.278042",
+          "wall_t": "35.278042",
+          "actor": "P1",
+          "line": 10287,
+          "manipulation": "TECHNICAL_TEST-R03-S5-M0071"
+        },
+        {
+          "t": "44.513540",
+          "wall_t": "44.513540",
+          "actor": "P1",
+          "line": 10412,
+          "manipulation": "TECHNICAL_TEST-R03-S5-M0072"
+        },
+        {
+          "t": "48.194149",
+          "wall_t": "48.194149",
+          "actor": "P1",
+          "line": 10506,
+          "manipulation": "TECHNICAL_TEST-R03-S5-M0073"
+        },
+        {
+          "t": "109.943709",
+          "wall_t": "109.943709",
+          "actor": "P1",
+          "line": 11146,
+          "manipulation": "TECHNICAL_TEST-R03-S5-M0074"
+        },
+        {
+          "t": "111.041214",
+          "wall_t": "111.041214",
+          "actor": "P1",
+          "line": 11166,
+          "manipulation": "TECHNICAL_TEST-R03-S5-M0075"
+        },
+        {
+          "t": "113.777428",
+          "wall_t": "113.777428",
+          "actor": "P1",
+          "line": 11203,
+          "manipulation": "TECHNICAL_TEST-R03-S5-M0076"
+        }
+      ],
+      "S4": [
+        {
+          "t": "9.068983",
+          "wall_t": "9.068983",
+          "actor": "P2",
+          "line": 10093,
+          "manipulation": "TECHNICAL_TEST-R03-S4-M0088"
+        },
+        {
+          "t": "66.985071",
+          "wall_t": "66.985071",
+          "actor": "P1",
+          "line": 10650,
+          "manipulation": "TECHNICAL_TEST-R03-S4-M0089"
+        },
+        {
+          "t": "116.360772",
+          "wall_t": "116.360772",
+          "actor": "P1",
+          "line": 11230,
+          "manipulation": "TECHNICAL_TEST-R03-S4-M0090"
+        }
+      ],
+      "S6": [
+        {
+          "t": "42.054686",
+          "wall_t": "42.054686",
+          "actor": "P1",
+          "line": 10357,
+          "manipulation": "TECHNICAL_TEST-R03-S6-M0067"
+        },
+        {
+          "t": "68.569065",
+          "wall_t": "68.569065",
+          "actor": "P1",
+          "line": 10672,
+          "manipulation": "TECHNICAL_TEST-R03-S6-M0068"
+        },
+        {
+          "t": "97.471731",
+          "wall_t": "97.471731",
+          "actor": "P1",
+          "line": 10943,
+          "manipulation": "TECHNICAL_TEST-R03-S6-M0069"
+        },
+        {
+          "t": "99.694117",
+          "wall_t": "99.694117",
+          "actor": "P1",
+          "line": 10994,
+          "manipulation": "TECHNICAL_TEST-R03-S6-M0070"
+        },
+        {
+          "t": "107.235990",
+          "wall_t": "107.235990",
+          "actor": "P1",
+          "line": 11120,
+          "manipulation": "TECHNICAL_TEST-R03-S6-M0071"
+        }
+      ],
+      "S3": [
+        {
+          "t": "42.054686",
+          "wall_t": "42.054686",
+          "actor": "P2",
+          "line": 10360,
+          "manipulation": "TECHNICAL_TEST-R03-S3-M0044"
+        },
+        {
+          "t": "102.929965",
+          "wall_t": "102.929965",
+          "actor": "P1",
+          "line": 11042,
+          "manipulation": "TECHNICAL_TEST-R03-S3-M0045"
+        }
+      ],
+      "S2": [
+        {
+          "t": "57.388562",
+          "wall_t": "57.388562",
+          "actor": "P1",
+          "line": 10572,
+          "manipulation": "TECHNICAL_TEST-R03-S2-M0033"
+        },
+        {
+          "t": "59.554490",
+          "wall_t": "59.554490",
+          "actor": "P1",
+          "line": 10605,
+          "manipulation": "TECHNICAL_TEST-R03-S2-M0034"
+        },
+        {
+          "t": "70.596806",
+          "wall_t": "70.596806",
+          "actor": "P1",
+          "line": 10716,
+          "manipulation": "TECHNICAL_TEST-R03-S2-M0035"
+        }
+      ],
+      "S7": [
+        {
+          "t": "76.930192",
+          "wall_t": "76.930192",
+          "actor": "P1",
+          "line": 10780,
+          "manipulation": "TECHNICAL_TEST-R03-S7-M0032"
+        },
+        {
+          "t": "77.180003",
+          "wall_t": "77.180003",
+          "actor": "P1",
+          "line": 10790,
+          "manipulation": "TECHNICAL_TEST-R03-S7-M0033"
+        }
+      ],
+      "S1": [
+        {
+          "t": "90.582879",
+          "wall_t": "90.582879",
+          "actor": "P1",
+          "line": 10880,
+          "manipulation": "TECHNICAL_TEST-R03-S1-M0031"
+        },
+        {
+          "t": "98.068933",
+          "wall_t": "98.068933",
+          "actor": "P2",
+          "line": 10957,
+          "manipulation": "TECHNICAL_TEST-R03-S1-M0032"
+        },
+        {
+          "t": "102.068795",
+          "wall_t": "102.068795",
+          "actor": "P2",
+          "line": 11029,
+          "manipulation": "TECHNICAL_TEST-R03-S1-M0033"
+        }
+      ]
+    },
+    "reasoning_limit": "Sequences describe ownership/operation only, not intentions, agreement or a surplus-piece event."
+  },
+  {
+    "slot": "G06_R03",
+    "log": "L12",
+    "round": "TECHNICAL_TEST-R01",
+    "start_line": 4112,
+    "end_line": 7133,
+    "condition": "VR_FIRST_PERSON",
+    "task": "00_vela-5",
+    "event_counts": {
+      "round_start": 1,
+      "piece_initial": 7,
+      "control_action": 1,
+      "participant_pose": 881,
+      "grab_request": 82,
+      "grab_accepted": 79,
+      "piece_pose": 1182,
+      "piece_motion_start": 79,
+      "release_request": 79,
+      "piece_release": 79,
+      "piece_settle_pose": 474,
+      "piece_settled": 74,
+      "grab_denied": 3,
+      "round_end_manual": 1
+    },
+    "piece_grab_sequences": {
+      "S6": [
+        {
+          "t": "13.582175",
+          "wall_t": "13.582175",
+          "actor": "P1",
+          "line": 4175,
+          "manipulation": "TECHNICAL_TEST-R01-S6-M0009"
+        },
+        {
+          "t": "16.068209",
+          "wall_t": "16.068209",
+          "actor": "P1",
+          "line": 4219,
+          "manipulation": "TECHNICAL_TEST-R01-S6-M0010"
+        },
+        {
+          "t": "17.650901",
+          "wall_t": "17.650901",
+          "actor": "P1",
+          "line": 4256,
+          "manipulation": "TECHNICAL_TEST-R01-S6-M0011"
+        },
+        {
+          "t": "61.540800",
+          "wall_t": "61.540800",
+          "actor": "P1",
+          "line": 4952,
+          "manipulation": "TECHNICAL_TEST-R01-S6-M0012"
+        },
+        {
+          "t": "65.999028",
+          "wall_t": "65.999028",
+          "actor": "P1",
+          "line": 5032,
+          "manipulation": "TECHNICAL_TEST-R01-S6-M0013"
+        },
+        {
+          "t": "77.846219",
+          "wall_t": "77.846219",
+          "actor": "P1",
+          "line": 5234,
+          "manipulation": "TECHNICAL_TEST-R01-S6-M0014"
+        },
+        {
+          "t": "79.777074",
+          "wall_t": "79.777074",
+          "actor": "P1",
+          "line": 5279,
+          "manipulation": "TECHNICAL_TEST-R01-S6-M0015"
+        },
+        {
+          "t": "116.665343",
+          "wall_t": "116.665343",
+          "actor": "P2",
+          "line": 5776,
+          "manipulation": "TECHNICAL_TEST-R01-S6-M0016"
+        },
+        {
+          "t": "135.110376",
+          "wall_t": "135.110376",
+          "actor": "P2",
+          "line": 5963,
+          "manipulation": "TECHNICAL_TEST-R01-S6-M0017"
+        },
+        {
+          "t": "139.206947",
+          "wall_t": "139.206947",
+          "actor": "P1",
+          "line": 6017,
+          "manipulation": "TECHNICAL_TEST-R01-S6-M0018"
+        },
+        {
+          "t": "142.332498",
+          "wall_t": "142.332498",
+          "actor": "P1",
+          "line": 6093,
+          "manipulation": "TECHNICAL_TEST-R01-S6-M0019"
+        }
+      ],
+      "S7": [
+        {
+          "t": "15.401366",
+          "wall_t": "15.401366",
+          "actor": "P2",
+          "line": 4201,
+          "manipulation": "TECHNICAL_TEST-R01-S7-M0006"
+        },
+        {
+          "t": "30.526459",
+          "wall_t": "30.526459",
+          "actor": "P2",
+          "line": 4488,
+          "manipulation": "TECHNICAL_TEST-R01-S7-M0007"
+        },
+        {
+          "t": "32.540222",
+          "wall_t": "32.540222",
+          "actor": "P2",
+          "line": 4528,
+          "manipulation": "TECHNICAL_TEST-R01-S7-M0008"
+        },
+        {
+          "t": "35.179039",
+          "wall_t": "35.179039",
+          "actor": "P2",
+          "line": 4587,
+          "manipulation": "TECHNICAL_TEST-R01-S7-M0009"
+        },
+        {
+          "t": "58.193130",
+          "wall_t": "58.193130",
+          "actor": "P2",
+          "line": 4903,
+          "manipulation": "TECHNICAL_TEST-R01-S7-M0010"
+        }
+      ],
+      "S5": [
+        {
+          "t": "19.707625",
+          "wall_t": "19.707625",
+          "actor": "P1",
+          "line": 4297,
+          "manipulation": "TECHNICAL_TEST-R01-S5-M0028"
+        },
+        {
+          "t": "21.970873",
+          "wall_t": "21.970873",
+          "actor": "P1",
+          "line": 4348,
+          "manipulation": "TECHNICAL_TEST-R01-S5-M0029"
+        },
+        {
+          "t": "76.901693",
+          "wall_t": "76.901693",
+          "actor": "P1",
+          "line": 5208,
+          "manipulation": "TECHNICAL_TEST-R01-S5-M0030"
+        },
+        {
+          "t": "128.067742",
+          "wall_t": "128.067742",
+          "actor": "P2",
+          "line": 5912,
+          "manipulation": "TECHNICAL_TEST-R01-S5-M0031"
+        },
+        {
+          "t": "141.374093",
+          "wall_t": "141.374093",
+          "actor": "P1",
+          "line": 6072,
+          "manipulation": "TECHNICAL_TEST-R01-S5-M0032"
+        },
+        {
+          "t": "145.138418",
+          "wall_t": "145.138418",
+          "actor": "P2",
+          "line": 6122,
+          "manipulation": "TECHNICAL_TEST-R01-S5-M0033"
+        },
+        {
+          "t": "148.096667",
+          "wall_t": "148.096667",
+          "actor": "P1",
+          "line": 6164,
+          "manipulation": "TECHNICAL_TEST-R01-S5-M0034"
+        },
+        {
+          "t": "150.776884",
+          "wall_t": "150.776884",
+          "actor": "P1",
+          "line": 6205,
+          "manipulation": "TECHNICAL_TEST-R01-S5-M0035"
+        },
+        {
+          "t": "152.818766",
+          "wall_t": "152.818766",
+          "actor": "P2",
+          "line": 6229,
+          "manipulation": "TECHNICAL_TEST-R01-S5-M0036"
+        },
+        {
+          "t": "155.374338",
+          "wall_t": "155.374338",
+          "actor": "P2",
+          "line": 6272,
+          "manipulation": "TECHNICAL_TEST-R01-S5-M0037"
+        },
+        {
+          "t": "157.610456",
+          "wall_t": "157.610456",
+          "actor": "P2",
+          "line": 6315,
+          "manipulation": "TECHNICAL_TEST-R01-S5-M0038"
+        },
+        {
+          "t": "164.693465",
+          "wall_t": "164.693465",
+          "actor": "P1",
+          "line": 6363,
+          "manipulation": "TECHNICAL_TEST-R01-S5-M0039"
+        },
+        {
+          "t": "168.529736",
+          "wall_t": "168.529736",
+          "actor": "P1",
+          "line": 6444,
+          "manipulation": "TECHNICAL_TEST-R01-S5-M0040"
+        },
+        {
+          "t": "170.598485",
+          "wall_t": "170.598485",
+          "actor": "P1",
+          "line": 6475,
+          "manipulation": "TECHNICAL_TEST-R01-S5-M0041"
+        },
+        {
+          "t": "174.905651",
+          "wall_t": "174.905651",
+          "actor": "P1",
+          "line": 6528,
+          "manipulation": "TECHNICAL_TEST-R01-S5-M0042"
+        },
+        {
+          "t": "183.206975",
+          "wall_t": "183.206975",
+          "actor": "P1",
+          "line": 6631,
+          "manipulation": "TECHNICAL_TEST-R01-S5-M0043"
+        },
+        {
+          "t": "193.610583",
+          "wall_t": "193.610583",
+          "actor": "P2",
+          "line": 6779,
+          "manipulation": "TECHNICAL_TEST-R01-S5-M0044"
+        },
+        {
+          "t": "200.540168",
+          "wall_t": "200.540168",
+          "actor": "P1",
+          "line": 6866,
+          "manipulation": "TECHNICAL_TEST-R01-S5-M0045"
+        },
+        {
+          "t": "202.332146",
+          "wall_t": "202.332146",
+          "actor": "P1",
+          "line": 6909,
+          "manipulation": "TECHNICAL_TEST-R01-S5-M0046"
+        }
+      ],
+      "S4": [
+        {
+          "t": "24.540610",
+          "wall_t": "24.540610",
+          "actor": "P2",
+          "line": 4397,
+          "manipulation": "TECHNICAL_TEST-R01-S4-M0022"
+        },
+        {
+          "t": "37.651987",
+          "wall_t": "37.651987",
+          "actor": "P2",
+          "line": 4638,
+          "manipulation": "TECHNICAL_TEST-R01-S4-M0023"
+        },
+        {
+          "t": "40.721856",
+          "wall_t": "40.721856",
+          "actor": "P2",
+          "line": 4690,
+          "manipulation": "TECHNICAL_TEST-R01-S4-M0024"
+        },
+        {
+          "t": "42.765284",
+          "wall_t": "42.765284",
+          "actor": "P2",
+          "line": 4717,
+          "manipulation": "TECHNICAL_TEST-R01-S4-M0025"
+        },
+        {
+          "t": "80.624053",
+          "wall_t": "80.624053",
+          "actor": "P2",
+          "line": 5291,
+          "manipulation": "TECHNICAL_TEST-R01-S4-M0026"
+        },
+        {
+          "t": "88.610587",
+          "wall_t": "88.610587",
+          "actor": "P2",
+          "line": 5438,
+          "manipulation": "TECHNICAL_TEST-R01-S4-M0027"
+        },
+        {
+          "t": "95.054383",
+          "wall_t": "95.054383",
+          "actor": "P2",
+          "line": 5521,
+          "manipulation": "TECHNICAL_TEST-R01-S4-M0028"
+        },
+        {
+          "t": "103.262426",
+          "wall_t": "103.262426",
+          "actor": "P2",
+          "line": 5612,
+          "manipulation": "TECHNICAL_TEST-R01-S4-M0029"
+        },
+        {
+          "t": "107.387217",
+          "wall_t": "107.387217",
+          "actor": "P2",
+          "line": 5668,
+          "manipulation": "TECHNICAL_TEST-R01-S4-M0030"
+        },
+        {
+          "t": "109.081879",
+          "wall_t": "109.081879",
+          "actor": "P2",
+          "line": 5695,
+          "manipulation": "TECHNICAL_TEST-R01-S4-M0031"
+        },
+        {
+          "t": "136.984772",
+          "wall_t": "136.984772",
+          "actor": "P2",
+          "line": 5988,
+          "manipulation": "TECHNICAL_TEST-R01-S4-M0032"
+        },
+        {
+          "t": "204.026500",
+          "wall_t": "204.026500",
+          "actor": "P1",
+          "line": 6952,
+          "manipulation": "TECHNICAL_TEST-R01-S4-M0033"
+        },
+        {
+          "t": "205.887688",
+          "wall_t": "205.887688",
+          "actor": "P1",
+          "line": 6994,
+          "manipulation": "TECHNICAL_TEST-R01-S4-M0034"
+        }
+      ],
+      "S2": [
+        {
+          "t": "25.776735",
+          "wall_t": "25.776735",
+          "actor": "P2",
+          "line": 4419,
+          "manipulation": "TECHNICAL_TEST-R01-S2-M0040"
+        },
+        {
+          "t": "47.124490",
+          "wall_t": "47.124490",
+          "actor": "P2",
+          "line": 4759,
+          "manipulation": "TECHNICAL_TEST-R01-S2-M0041"
+        },
+        {
+          "t": "51.013113",
+          "wall_t": "51.013113",
+          "actor": "P2",
+          "line": 4804,
+          "manipulation": "TECHNICAL_TEST-R01-S2-M0042"
+        },
+        {
+          "t": "60.720901",
+          "wall_t": "60.720901",
+          "actor": "P2",
+          "line": 4941,
+          "manipulation": "TECHNICAL_TEST-R01-S2-M0043"
+        },
+        {
+          "t": "64.247847",
+          "wall_t": "64.247847",
+          "actor": "P2",
+          "line": 5008,
+          "manipulation": "TECHNICAL_TEST-R01-S2-M0044"
+        },
+        {
+          "t": "81.429623",
+          "wall_t": "81.429623",
+          "actor": "P1",
+          "line": 5313,
+          "manipulation": "TECHNICAL_TEST-R01-S2-M0045"
+        },
+        {
+          "t": "153.845113",
+          "wall_t": "153.845113",
+          "actor": "P1",
+          "line": 6246,
+          "manipulation": "TECHNICAL_TEST-R01-S2-M0046"
+        },
+        {
+          "t": "164.985911",
+          "wall_t": "164.985911",
+          "actor": "P2",
+          "line": 6370,
+          "manipulation": "TECHNICAL_TEST-R01-S2-M0047"
+        },
+        {
+          "t": "178.790917",
+          "wall_t": "178.790917",
+          "actor": "P2",
+          "line": 6574,
+          "manipulation": "TECHNICAL_TEST-R01-S2-M0048"
+        },
+        {
+          "t": "183.498928",
+          "wall_t": "183.498928",
+          "actor": "P2",
+          "line": 6642,
+          "manipulation": "TECHNICAL_TEST-R01-S2-M0049"
+        }
+      ],
+      "S3": [
+        {
+          "t": "27.054721",
+          "wall_t": "27.054721",
+          "actor": "P2",
+          "line": 4439,
+          "manipulation": "TECHNICAL_TEST-R01-S3-M0023"
+        },
+        {
+          "t": "36.095977",
+          "wall_t": "36.095977",
+          "actor": "P1",
+          "line": 4608,
+          "manipulation": "TECHNICAL_TEST-R01-S3-M0024"
+        },
+        {
+          "t": "57.498524",
+          "wall_t": "57.498524",
+          "actor": "P1",
+          "line": 4891,
+          "manipulation": "TECHNICAL_TEST-R01-S3-M0025"
+        },
+        {
+          "t": "76.234706",
+          "wall_t": "76.234706",
+          "actor": "P2",
+          "line": 5198,
+          "manipulation": "TECHNICAL_TEST-R01-S3-M0026"
+        },
+        {
+          "t": "82.971164",
+          "wall_t": "82.971164",
+          "actor": "P2",
+          "line": 5350,
+          "manipulation": "TECHNICAL_TEST-R01-S3-M0027"
+        },
+        {
+          "t": "100.179469",
+          "wall_t": "100.179469",
+          "actor": "P2",
+          "line": 5568,
+          "manipulation": "TECHNICAL_TEST-R01-S3-M0028"
+        },
+        {
+          "t": "114.776233",
+          "wall_t": "114.776233",
+          "actor": "P2",
+          "line": 5750,
+          "manipulation": "TECHNICAL_TEST-R01-S3-M0029"
+        },
+        {
+          "t": "189.874471",
+          "wall_t": "189.874471",
+          "actor": "P2",
+          "line": 6735,
+          "manipulation": "TECHNICAL_TEST-R01-S3-M0030"
+        }
+      ],
+      "S1": [
+        {
+          "t": "28.777080",
+          "wall_t": "28.777080",
+          "actor": "P2",
+          "line": 4466,
+          "manipulation": "TECHNICAL_TEST-R01-S1-M0033"
+        },
+        {
+          "t": "31.346012",
+          "wall_t": "31.346012",
+          "actor": "P1",
+          "line": 4501,
+          "manipulation": "TECHNICAL_TEST-R01-S1-M0034"
+        },
+        {
+          "t": "34.470566",
+          "wall_t": "34.470566",
+          "actor": "P1",
+          "line": 4573,
+          "manipulation": "TECHNICAL_TEST-R01-S1-M0035"
+        },
+        {
+          "t": "53.026245",
+          "wall_t": "53.026245",
+          "actor": "P1",
+          "line": 4833,
+          "manipulation": "TECHNICAL_TEST-R01-S1-M0036"
+        },
+        {
+          "t": "55.123430",
+          "wall_t": "55.123430",
+          "actor": "P2",
+          "line": 4862,
+          "manipulation": "TECHNICAL_TEST-R01-S1-M0037"
+        },
+        {
+          "t": "84.915891",
+          "wall_t": "84.915891",
+          "actor": "P1",
+          "line": 5375,
+          "manipulation": "TECHNICAL_TEST-R01-S1-M0038"
+        },
+        {
+          "t": "186.012505",
+          "wall_t": "186.012505",
+          "actor": "P2",
+          "line": 6686,
+          "manipulation": "TECHNICAL_TEST-R01-S1-M0039"
+        },
+        {
+          "t": "195.776979",
+          "wall_t": "195.776979",
+          "actor": "P2",
+          "line": 6806,
+          "manipulation": "TECHNICAL_TEST-R01-S1-M0040"
+        },
+        {
+          "t": "200.485652",
+          "wall_t": "200.485652",
+          "actor": "P2",
+          "line": 6864,
+          "manipulation": "TECHNICAL_TEST-R01-S1-M0041"
+        },
+        {
+          "t": "202.845659",
+          "wall_t": "202.845659",
+          "actor": "P2",
+          "line": 6927,
+          "manipulation": "TECHNICAL_TEST-R01-S1-M0042"
+        },
+        {
+          "t": "203.970749",
+          "wall_t": "203.970749",
+          "actor": "P2",
+          "line": 6949,
+          "manipulation": "TECHNICAL_TEST-R01-S1-M0043"
+        },
+        {
+          "t": "206.304908",
+          "wall_t": "206.304908",
+          "actor": "P2",
+          "line": 7003,
+          "manipulation": "TECHNICAL_TEST-R01-S1-M0044"
+        },
+        {
+          "t": "208.234589",
+          "wall_t": "208.234589",
+          "actor": "P2",
+          "line": 7049,
+          "manipulation": "TECHNICAL_TEST-R01-S1-M0045"
+        }
+      ]
+    },
+    "reasoning_limit": "Sequences describe ownership/operation only, not intentions, agreement or a surplus-piece event."
+  },
+  {
+    "slot": "G06_R04",
+    "log": "L12",
+    "round": "TECHNICAL_TEST-R03",
+    "start_line": 7422,
+    "end_line": 9380,
+    "condition": "VR_EXTERNAL",
+    "task": "02_senora",
+    "event_counts": {
+      "round_start": 1,
+      "piece_initial": 7,
+      "control_action": 1,
+      "participant_pose": 682,
+      "grab_request": 42,
+      "grab_accepted": 41,
+      "piece_motion_start": 41,
+      "piece_pose": 649,
+      "release_request": 41,
+      "piece_release": 41,
+      "piece_settle_pose": 372,
+      "piece_settled": 39,
+      "grab_denied": 1,
+      "round_end_manual": 1
+    },
+    "piece_grab_sequences": {
+      "S3": [
+        {
+          "t": "10.069387",
+          "wall_t": "10.069387",
+          "actor": "P2",
+          "line": 7471,
+          "manipulation": "TECHNICAL_TEST-R03-S3-M0031"
+        },
+        {
+          "t": "13.819843",
+          "wall_t": "13.819843",
+          "actor": "P2",
+          "line": 7519,
+          "manipulation": "TECHNICAL_TEST-R03-S3-M0032"
+        },
+        {
+          "t": "25.083384",
+          "wall_t": "25.083384",
+          "actor": "P2",
+          "line": 7746,
+          "manipulation": "TECHNICAL_TEST-R03-S3-M0033"
+        },
+        {
+          "t": "30.334684",
+          "wall_t": "30.334684",
+          "actor": "P2",
+          "line": 7839,
+          "manipulation": "TECHNICAL_TEST-R03-S3-M0034"
+        },
+        {
+          "t": "83.527584",
+          "wall_t": "83.527584",
+          "actor": "P2",
+          "line": 8356,
+          "manipulation": "TECHNICAL_TEST-R03-S3-M0035"
+        },
+        {
+          "t": "100.779481",
+          "wall_t": "100.779481",
+          "actor": "P2",
+          "line": 8534,
+          "manipulation": "TECHNICAL_TEST-R03-S3-M0036"
+        },
+        {
+          "t": "122.888839",
+          "wall_t": "122.888839",
+          "actor": "P2",
+          "line": 8763,
+          "manipulation": "TECHNICAL_TEST-R03-S3-M0037"
+        },
+        {
+          "t": "142.501591",
+          "wall_t": "142.501591",
+          "actor": "P2",
+          "line": 8947,
+          "manipulation": "TECHNICAL_TEST-R03-S3-M0038"
+        }
+      ],
+      "S6": [
+        {
+          "t": "17.305018",
+          "wall_t": "17.305018",
+          "actor": "P2",
+          "line": 7555,
+          "manipulation": "TECHNICAL_TEST-R03-S6-M0021"
+        },
+        {
+          "t": "110.709777",
+          "wall_t": "110.709777",
+          "actor": "P1",
+          "line": 8614,
+          "manipulation": "TECHNICAL_TEST-R03-S6-M0022"
+        },
+        {
+          "t": "114.888853",
+          "wall_t": "114.888853",
+          "actor": "P1",
+          "line": 8667,
+          "manipulation": "TECHNICAL_TEST-R03-S6-M0023"
+        },
+        {
+          "t": "120.987209",
+          "wall_t": "120.987209",
+          "actor": "P1",
+          "line": 8736,
+          "manipulation": "TECHNICAL_TEST-R03-S6-M0024"
+        },
+        {
+          "t": "137.126524",
+          "wall_t": "137.126524",
+          "actor": "P1",
+          "line": 8906,
+          "manipulation": "TECHNICAL_TEST-R03-S6-M0025"
+        },
+        {
+          "t": "151.668270",
+          "wall_t": "151.668270",
+          "actor": "P2",
+          "line": 9089,
+          "manipulation": "TECHNICAL_TEST-R03-S6-M0026"
+        }
+      ],
+      "S7": [
+        {
+          "t": "18.986185",
+          "wall_t": "18.986185",
+          "actor": "P1",
+          "line": 7579,
+          "manipulation": "TECHNICAL_TEST-R03-S7-M0011"
+        }
+      ],
+      "S4": [
+        {
+          "t": "19.361069",
+          "wall_t": "19.361069",
+          "actor": "P2",
+          "line": 7586,
+          "manipulation": "TECHNICAL_TEST-R03-S4-M0035"
+        },
+        {
+          "t": "146.932012",
+          "wall_t": "146.932012",
+          "actor": "P1",
+          "line": 9000,
+          "manipulation": "TECHNICAL_TEST-R03-S4-M0036"
+        },
+        {
+          "t": "151.959563",
+          "wall_t": "151.959563",
+          "actor": "P1",
+          "line": 9095,
+          "manipulation": "TECHNICAL_TEST-R03-S4-M0037"
+        },
+        {
+          "t": "153.555326",
+          "wall_t": "153.555326",
+          "actor": "P1",
+          "line": 9131,
+          "manipulation": "TECHNICAL_TEST-R03-S4-M0038"
+        },
+        {
+          "t": "155.237259",
+          "wall_t": "155.237259",
+          "actor": "P2",
+          "line": 9154,
+          "manipulation": "TECHNICAL_TEST-R03-S4-M0039"
+        },
+        {
+          "t": "158.543000",
+          "wall_t": "158.543000",
+          "actor": "P2",
+          "line": 9190,
+          "manipulation": "TECHNICAL_TEST-R03-S4-M0040"
+        },
+        {
+          "t": "160.611132",
+          "wall_t": "160.611132",
+          "actor": "P2",
+          "line": 9234,
+          "manipulation": "TECHNICAL_TEST-R03-S4-M0041"
+        }
+      ],
+      "S2": [
+        {
+          "t": "20.596901",
+          "wall_t": "20.596901",
+          "actor": "P2",
+          "line": 7617,
+          "manipulation": "TECHNICAL_TEST-R03-S2-M0051"
+        },
+        {
+          "t": "44.889002",
+          "wall_t": "44.889002",
+          "actor": "P1",
+          "line": 7977,
+          "manipulation": "TECHNICAL_TEST-R03-S2-M0052"
+        },
+        {
+          "t": "48.388793",
+          "wall_t": "48.388793",
+          "actor": "P1",
+          "line": 8027,
+          "manipulation": "TECHNICAL_TEST-R03-S2-M0053"
+        },
+        {
+          "t": "53.346775",
+          "wall_t": "53.346775",
+          "actor": "P1",
+          "line": 8088,
+          "manipulation": "TECHNICAL_TEST-R03-S2-M0054"
+        },
+        {
+          "t": "63.069247",
+          "wall_t": "63.069247",
+          "actor": "P1",
+          "line": 8169,
+          "manipulation": "TECHNICAL_TEST-R03-S2-M0055"
+        },
+        {
+          "t": "68.888933",
+          "wall_t": "68.888933",
+          "actor": "P1",
+          "line": 8223,
+          "manipulation": "TECHNICAL_TEST-R03-S2-M0056"
+        },
+        {
+          "t": "81.915934",
+          "wall_t": "81.915934",
+          "actor": "P2",
+          "line": 8333,
+          "manipulation": "TECHNICAL_TEST-R03-S2-M0057"
+        },
+        {
+          "t": "93.973883",
+          "wall_t": "93.973883",
+          "actor": "P1",
+          "line": 8447,
+          "manipulation": "TECHNICAL_TEST-R03-S2-M0058"
+        },
+        {
+          "t": "133.862501",
+          "wall_t": "133.862501",
+          "actor": "P1",
+          "line": 8865,
+          "manipulation": "TECHNICAL_TEST-R03-S2-M0059"
+        },
+        {
+          "t": "150.182302",
+          "wall_t": "150.182302",
+          "actor": "P2",
+          "line": 9065,
+          "manipulation": "TECHNICAL_TEST-R03-S2-M0060"
+        }
+      ],
+      "S1": [
+        {
+          "t": "21.777915",
+          "wall_t": "21.777915",
+          "actor": "P2",
+          "line": 7659,
+          "manipulation": "TECHNICAL_TEST-R03-S1-M0046"
+        },
+        {
+          "t": "25.680717",
+          "wall_t": "25.680717",
+          "actor": "P1",
+          "line": 7758,
+          "manipulation": "TECHNICAL_TEST-R03-S1-M0047"
+        },
+        {
+          "t": "33.112565",
+          "wall_t": "33.112565",
+          "actor": "P1",
+          "line": 7875,
+          "manipulation": "TECHNICAL_TEST-R03-S1-M0048"
+        },
+        {
+          "t": "36.055239",
+          "wall_t": "36.055239",
+          "actor": "P1",
+          "line": 7924,
+          "manipulation": "TECHNICAL_TEST-R03-S1-M0049"
+        },
+        {
+          "t": "98.793018",
+          "wall_t": "98.793018",
+          "actor": "P1",
+          "line": 8507,
+          "manipulation": "TECHNICAL_TEST-R03-S1-M0050"
+        }
+      ],
+      "S5": [
+        {
+          "t": "22.722196",
+          "wall_t": "22.722196",
+          "actor": "P2",
+          "line": 7691,
+          "manipulation": "TECHNICAL_TEST-R03-S5-M0047"
+        },
+        {
+          "t": "159.445339",
+          "wall_t": "159.445339",
+          "actor": "P1",
+          "line": 9204,
+          "manipulation": "TECHNICAL_TEST-R03-S5-M0048"
+        },
+        {
+          "t": "164.987065",
+          "wall_t": "164.987065",
+          "actor": "P2",
+          "line": 9302,
+          "manipulation": "TECHNICAL_TEST-R03-S5-M0049"
+        },
+        {
+          "t": "167.987438",
+          "wall_t": "167.987438",
+          "actor": "P2",
+          "line": 9344,
+          "manipulation": "TECHNICAL_TEST-R03-S5-M0050"
+        }
+      ]
+    },
+    "reasoning_limit": "Sequences describe ownership/operation only, not intentions, agreement or a surplus-piece event."
+  }
+]

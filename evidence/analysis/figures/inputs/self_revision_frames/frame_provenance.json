@@ -1,0 +1,223 @@
+[
+  {
+    "actual_s": 275.9716666666667,
+    "height": 2622,
+    "label": "G01_R02",
+    "requested_s": 276,
+    "source": "source-archive/REIT7841_B/数据收集/video/Realistic bird's eye view/T1.MP4",
+    "temporary_full_frame": "/tmp/G01_R02_0276.0.png",
+    "width": 1206,
+    "crop_box_original_pixels": [
+      310,
+      660,
+      970,
+      1525
+    ],
+    "crop_file": "source-archive/workspace/outputs/thesis_progress_20261025/draft_results_20261102/self_revision_frames/G01_R02_0276.0_crop.png",
+    "crop_operation": "rectangular crop only; original projection retained; no retouching"
+  },
+  {
+    "actual_s": 277.9716666666667,
+    "height": 2622,
+    "label": "G01_R02",
+    "requested_s": 278,
+    "source": "source-archive/REIT7841_B/数据收集/video/Realistic bird's eye view/T1.MP4",
+    "temporary_full_frame": "/tmp/G01_R02_0278.0.png",
+    "width": 1206,
+    "crop_box_original_pixels": [
+      310,
+      660,
+      970,
+      1525
+    ],
+    "crop_file": "source-archive/workspace/outputs/thesis_progress_20261025/draft_results_20261102/self_revision_frames/G01_R02_0278.0_crop.png",
+    "crop_operation": "rectangular crop only; original projection retained; no retouching"
+  },
+  {
+    "actual_s": 279.9716666666667,
+    "height": 2622,
+    "label": "G01_R02",
+    "requested_s": 280,
+    "source": "source-archive/REIT7841_B/数据收集/video/Realistic bird's eye view/T1.MP4",
+    "temporary_full_frame": "/tmp/G01_R02_0280.0.png",
+    "width": 1206,
+    "crop_box_original_pixels": [
+      310,
+      660,
+      970,
+      1525
+    ],
+    "crop_file": "source-archive/workspace/outputs/thesis_progress_20261025/draft_results_20261102/self_revision_frames/G01_R02_0280.0_crop.png",
+    "crop_operation": "rectangular crop only; original projection retained; no retouching"
+  },
+  {
+    "actual_s": 358.9766666666667,
+    "height": 2622,
+    "label": "G01_R02",
+    "requested_s": 359,
+    "source": "source-archive/REIT7841_B/数据收集/video/Realistic bird's eye view/T1.MP4",
+    "temporary_full_frame": "/tmp/G01_R02_0359.0.png",
+    "width": 1206,
+    "crop_box_original_pixels": [
+      310,
+      660,
+      970,
+      1525
+    ],
+    "crop_file": "source-archive/workspace/outputs/thesis_progress_20261025/draft_results_20261102/self_revision_frames/G01_R02_0359.0_crop.png",
+    "crop_operation": "rectangular crop only; original projection retained; no retouching"
+  },
+  {
+    "actual_s": 360.9683333333333,
+    "height": 2622,
+    "label": "G01_R02",
+    "requested_s": 361,
+    "source": "source-archive/REIT7841_B/数据收集/video/Realistic bird's eye view/T1.MP4",
+    "temporary_full_frame": "/tmp/G01_R02_0361.0.png",
+    "width": 1206,
+    "crop_box_original_pixels": [
+      310,
+      660,
+      970,
+      1525
+    ],
+    "crop_file": "source-archive/workspace/outputs/thesis_progress_20261025/draft_results_20261102/self_revision_frames/G01_R02_0361.0_crop.png",
+    "crop_operation": "rectangular crop only; original projection retained; no retouching"
+  },
+  {
+    "actual_s": 362.97833333333335,
+    "height": 2622,
+    "label": "G01_R02",
+    "requested_s": 363,
+    "source": "source-archive/REIT7841_B/数据收集/video/Realistic bird's eye view/T1.MP4",
+    "temporary_full_frame": "/tmp/G01_R02_0363.0.png",
+    "width": 1206,
+    "crop_box_original_pixels": [
+      310,
+      660,
+      970,
+      1525
+    ],
+    "crop_file": "source-archive/workspace/outputs/thesis_progress_20261025/draft_results_20261102/self_revision_frames/G01_R02_0363.0_crop.png",
+    "crop_operation": "rectangular crop only; original projection retained; no retouching"
+  },
+  {
+    "actual_s": 383.97333333333336,
+    "height": 2622,
+    "label": "G01_R02",
+    "requested_s": 384,
+    "source": "source-archive/REIT7841_B/数据收集/video/Realistic bird's eye view/T1.MP4",
+    "temporary_full_frame": "/tmp/G01_R02_0384.0.png",
+    "width": 1206,
+    "crop_box_original_pixels": [
+      310,
+      660,
+      970,
+      1525
+    ],
+    "crop_file": "source-archive/workspace/outputs/thesis_progress_20261025/draft_results_20261102/self_revision_frames/G01_R02_0384.0_crop.png",
+    "crop_operation": "rectangular crop only; original projection retained; no retouching"
+  },
+  {
+    "actual_s": 385.97333333333336,
+    "height": 2622,
+    "label": "G01_R02",
+    "requested_s": 386,
+    "source": "source-archive/REIT7841_B/数据收集/video/Realistic bird's eye view/T1.MP4",
+    "temporary_full_frame": "/tmp/G01_R02_0386.0.png",
+    "width": 1206,
+    "crop_box_original_pixels": [
+      310,
+      660,
+      970,
+      1525
+    ],
+    "crop_file": "source-archive/workspace/outputs/thesis_progress_20261025/draft_results_20261102/self_revision_frames/G01_R02_0386.0_crop.png",
+    "crop_operation": "rectangular crop only; original projection retained; no retouching"
+  },
+  {
+    "actual_s": 387.97333333333336,
+    "height": 2622,
+    "label": "G01_R02",
+    "requested_s": 388,
+    "source": "source-archive/REIT7841_B/数据收集/video/Realistic bird's eye view/T1.MP4",
+    "temporary_full_frame": "/tmp/G01_R02_0388.0.png",
+    "width": 1206,
+    "crop_box_original_pixels": [
+      310,
+      660,
+      970,
+      1525
+    ],
+    "crop_file": "source-archive/workspace/outputs/thesis_progress_20261025/draft_results_20261102/self_revision_frames/G01_R02_0388.0_crop.png",
+    "crop_operation": "rectangular crop only; original projection retained; no retouching"
+  },
+  {
+    "actual_s": 329.98,
+    "height": 1080,
+    "label": "G04_R01",
+    "requested_s": 330,
+    "source": "source-archive/REIT7841_B/数据收集/video/Realistic first_person perspective/T4.MOV",
+    "temporary_full_frame": "/tmp/G04_R01_0330.0.png",
+    "width": 1920,
+    "crop_box_original_pixels": [
+      268,
+      0,
+      1574,
+      972
+    ],
+    "crop_file": "source-archive/workspace/outputs/thesis_progress_20261025/draft_results_20261102/self_revision_frames/G04_R01_0330.0_crop.png",
+    "crop_operation": "rectangular crop only; original projection retained; no retouching"
+  },
+  {
+    "actual_s": 354.97833333333335,
+    "height": 1080,
+    "label": "G04_R01",
+    "requested_s": 355,
+    "source": "source-archive/REIT7841_B/数据收集/video/Realistic first_person perspective/T4.MOV",
+    "temporary_full_frame": "/tmp/G04_R01_0355.0.png",
+    "width": 1920,
+    "crop_box_original_pixels": [
+      268,
+      0,
+      1574,
+      972
+    ],
+    "crop_file": "source-archive/workspace/outputs/thesis_progress_20261025/draft_results_20261102/self_revision_frames/G04_R01_0355.0_crop.png",
+    "crop_operation": "rectangular crop only; original projection retained; no retouching"
+  },
+  {
+    "actual_s": 372.97833333333335,
+    "height": 1080,
+    "label": "G04_R01",
+    "requested_s": 373,
+    "source": "source-archive/REIT7841_B/数据收集/video/Realistic first_person perspective/T4.MOV",
+    "temporary_full_frame": "/tmp/G04_R01_0373.0.png",
+    "width": 1920,
+    "crop_box_original_pixels": [
+      268,
+      0,
+      1574,
+      972
+    ],
+    "crop_file": "source-archive/workspace/outputs/thesis_progress_20261025/draft_results_20261102/self_revision_frames/G04_R01_0373.0_crop.png",
+    "crop_operation": "rectangular crop only; original projection retained; no retouching"
+  },
+  {
+    "actual_s": 389.9766666666667,
+    "height": 1080,
+    "label": "G04_R01",
+    "requested_s": 390,
+    "source": "source-archive/REIT7841_B/数据收集/video/Realistic first_person perspective/T4.MOV",
+    "temporary_full_frame": "/tmp/G04_R01_0390.0.png",
+    "width": 1920,
+    "crop_box_original_pixels": [
+      268,
+      0,
+      1574,
+      972
+    ],
+    "crop_file": "source-archive/workspace/outputs/thesis_progress_20261025/draft_results_20261102/self_revision_frames/G04_R01_0390.0_crop.png",
+    "crop_operation": "rectangular crop only; original projection retained; no retouching"
+  }
+]

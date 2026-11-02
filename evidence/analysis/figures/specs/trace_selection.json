@@ -1,0 +1,74 @@
+[
+  {
+    "slot": "G03_R03",
+    "log_id": "L07",
+    "raw_filename": "TECHNICAL_TEST_20261009T035445_fede18ca_events_v2.csv",
+    "raw_sha256": "516623c52fcb2348d20a06f227ac6a08cd0a566166b1cd969117b7180ddd4351",
+    "first_csv_line": 4094,
+    "last_csv_line": 5990,
+    "row_count": 1897,
+    "software_round_id": "TECHNICAL_TEST-R02",
+    "trace": "inputs/geometry/G03_R03.csv",
+    "trace_sha256": "4d387aaf38d0e370731f116adc750c4c9fa6228ccc5f0d23bd34a0a0c7cf78ab"
+  },
+  {
+    "slot": "G04_R03",
+    "log_id": "L08",
+    "raw_filename": "TECHNICAL_TEST_20261009T070503_5a0ebbc4_events_v2.csv",
+    "raw_sha256": "44fcb8445caf82883fa9f00b95606c4b82406afb4bf5e3b0878ff520ad8e0450",
+    "first_csv_line": 403,
+    "last_csv_line": 2179,
+    "row_count": 1777,
+    "software_round_id": "TECHNICAL_TEST-R01",
+    "trace": "inputs/geometry/G04_R03.csv",
+    "trace_sha256": "23049ede73d1cc0191577c79d89985c7c053c6c764a7abf9f06de8d845f9fed4"
+  },
+  {
+    "slot": "G04_R04",
+    "log_id": "L08",
+    "raw_filename": "TECHNICAL_TEST_20261009T070503_5a0ebbc4_events_v2.csv",
+    "raw_sha256": "44fcb8445caf82883fa9f00b95606c4b82406afb4bf5e3b0878ff520ad8e0450",
+    "first_csv_line": 4192,
+    "last_csv_line": 7078,
+    "row_count": 2887,
+    "software_round_id": "TECHNICAL_TEST-R04",
+    "trace": "inputs/log_traces/G04_R04.csv",
+    "trace_sha256": "bc8b09404be0c8aabf00bdcb8201aa14105e10569e6bee359d76512f94657d9d"
+  },
+  {
+    "slot": "G05_R04",
+    "log_id": "L09",
+    "raw_filename": "TECHNICAL_TEST_20261009T084000_593a8c65_events_v2.csv",
+    "raw_sha256": "6479622e6e3bde58b030ed28877faaf01843c01b839c838cf66a492a4070157f",
+    "first_csv_line": 10027,
+    "last_csv_line": 11263,
+    "row_count": 1237,
+    "software_round_id": "TECHNICAL_TEST-R03",
+    "trace": "inputs/log_traces/G05_R04.csv",
+    "trace_sha256": "1956d2b7d6d72c3b1434b32b21ec0c9d8600503e9bc89ab75eff89dd7e0d80ec"
+  },
+  {
+    "slot": "G06_R03",
+    "log_id": "L12",
+    "raw_filename": "TECHNICAL_TEST_20261010T084712_3a9476c5_events_v2.csv",
+    "raw_sha256": "eef4acf3a2465d9786e03bd12d2f82ef0f5e9fae08bd4d420fa7252be78f2e52",
+    "first_csv_line": 4112,
+    "last_csv_line": 7133,
+    "row_count": 3022,
+    "software_round_id": "TECHNICAL_TEST-R01",
+    "trace": "inputs/geometry/G06_R03.csv",
+    "trace_sha256": "875d9d274868717b4f982fd8338479aa5965eb3e620fba330e9bb0c6de225f33"
+  },
+  {
+    "slot": "G06_R04",
+    "log_id": "L12",
+    "raw_filename": "TECHNICAL_TEST_20261010T084712_3a9476c5_events_v2.csv",
+    "raw_sha256": "eef4acf3a2465d9786e03bd12d2f82ef0f5e9fae08bd4d420fa7252be78f2e52",
+    "first_csv_line": 7422,
+    "last_csv_line": 9380,
+    "row_count": 1959,
+    "software_round_id": "TECHNICAL_TEST-R03",
+    "trace": "inputs/log_traces/G06_R04.csv",
+    "trace_sha256": "f057fe62cd721145a78692e38d7e0d934505c701192aa22f736f1ee6c5e77418"
+  }
+]

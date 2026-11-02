@@ -1,0 +1,142 @@
+{
+  "figure_id": "Figure 4.1",
+  "title": "From source records to episode-based comparisons",
+  "claim": "Claims about collaboration are traced through identified task episodes, while logs and geometry supply different checks from questionnaires and researcher interpretations.",
+  "placement": "Section 4.4, before detailed log-processing paragraphs or at the transition into Section 4.5.",
+  "size_mm": {
+    "width": 155,
+    "height": 135
+  },
+  "layout": "Top-to-bottom main flow with two parallel check columns and a compact context lane on the right.",
+  "nodes": [
+    {
+      "id": "sources",
+      "label": "Source records",
+      "detail": "Researcher reports · video · VR logs",
+      "role": "input"
+    },
+    {
+      "id": "identity",
+      "label": "Identify the task record",
+      "detail": "Dyad + research condition + software attempt\nPractice, replay and restart kept distinct",
+      "role": "identity"
+    },
+    {
+      "id": "episode",
+      "label": "Build a connected episode",
+      "detail": "Proposal / builder / modifier\nBefore → after → local outcome",
+      "role": "analysis"
+    },
+    {
+      "id": "video",
+      "label": "Check action and task meaning",
+      "detail": "Video/source anchors and researcher account\nKeep each source clock visible",
+      "role": "check"
+    },
+    {
+      "id": "log",
+      "label": "Check actions and states",
+      "detail": "Accepted grab–release pairs\nLatest known piece state · selected geometry",
+      "role": "check"
+    },
+    {
+      "id": "compare",
+      "label": "Compare connected cases",
+      "detail": "Within each dyad, then across dyads\nRetain contrary cases and task differences",
+      "role": "synthesis"
+    },
+    {
+      "id": "claims",
+      "label": "Write findings and interpretation",
+      "detail": "Separate reported observation, checked state\nand explanation; retain source codes",
+      "role": "output"
+    },
+    {
+      "id": "context",
+      "label": "Experience and context",
+      "detail": "48 questionnaire records\nInterview comments",
+      "role": "context"
+    }
+  ],
+  "edges": [
+    {
+      "from": "sources",
+      "to": "identity"
+    },
+    {
+      "from": "identity",
+      "to": "episode"
+    },
+    {
+      "from": "episode",
+      "to": "video"
+    },
+    {
+      "from": "episode",
+      "to": "log"
+    },
+    {
+      "from": "video",
+      "to": "compare"
+    },
+    {
+      "from": "log",
+      "to": "compare"
+    },
+    {
+      "from": "compare",
+      "to": "claims"
+    },
+    {
+      "from": "context",
+      "to": "compare",
+      "label": "Interpretive context",
+      "style": "dashed"
+    }
+  ],
+  "callouts": [
+    {
+      "attach_to": "video",
+      "text": "Video mm:ss ≠ log active seconds"
+    },
+    {
+      "attach_to": "log",
+      "text": "On-site acceptance ≠ post-hoc geometric match"
+    }
+  ],
+  "caption": "Analysis workflow. Source identification precedes episode construction so that software rounds, research conditions and later replay recordings are not conflated. Video and researcher accounts describe the meaning and order of local actions; accepted event pairs and reconstructed states check selected movements and configurations. Questionnaire responses and interview comments provide context for the case comparison. The separation between source-specific clocks, on-site acceptance and later geometric verification is retained in the findings.",
+  "source_codes": [
+    "CASE-TRACE",
+    "LOG-TRACE",
+    "LOG-METHOD",
+    "GEO-METHOD",
+    "SHAPE-REVIEW",
+    "Q48"
+  ],
+  "source_paths": [
+    "outputs/thesis_progress_20261025/draft_results_20261102/build_division_evidence.py",
+    "outputs/thesis_progress_20261025/draft_results_20261102/division_evidence.json",
+    "outputs/thesis_progress_20261025/draft_results_20261102/figures/build_geometry_figures.py",
+    "outputs/thesis_latex_20261102/editorial/methods_and_appendix.json"
+  ],
+  "not_to_imply": [
+    "Independent second coding or inter-rater agreement.",
+    "A complete frame-by-frame coding of every recorded video.",
+    "Exact cross-stream synchronization for G03.",
+    "Grab counts directly measure ideas, cooperation or intention.",
+    "Questionnaire ratings prove an action sequence.",
+    "The 3/6 versus 0/6 descriptive comparison is a causal effect estimate."
+  ],
+  "style": {
+    "language": "English",
+    "rendering": "Programmatic vector schematic; no generated photographs or reconstructed participant likenesses.",
+    "font": "Match thesis sans-serif figure labels; minimum final-size label 8.5 pt.",
+    "palette": {
+      "physical": "#0072B2",
+      "virtual": "#009E73",
+      "video_or_display": "#E69F00",
+      "text": "#222222"
+    },
+    "accessibility": "Use labels and arrow/line styles as well as colour; white background; preserve meaning in greyscale."
+  }
+}

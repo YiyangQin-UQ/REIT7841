@@ -1,0 +1,8 @@
+utc,server_seconds,pair,epoch,task,view,practice,event,detail
+2026-10-10T02:49:54.1313160Z,0.000,"TECHNICAL_TEST",0,"00_vela-5",0,True,"session_start","Manual completion; task audio recorded separately"
+2026-10-10T02:49:54.1315130Z,0.000,"TECHNICAL_TEST",0,"00_vela-5",0,True,"connected","0"
+2026-10-10T02:50:03.1373690Z,9.109,"TECHNICAL_TEST",0,"00_vela-5",0,True,"view_key","0"
+2026-10-10T02:50:03.8324470Z,9.804,"TECHNICAL_TEST",0,"00_vela-5",1,True,"view_key","1"
+2026-10-10T02:50:18.9890940Z,24.961,"TECHNICAL_TEST",0,"00_vela-5",0,True,"view_key","0"
+2026-10-10T02:50:49.0940720Z,55.065,"TECHNICAL_TEST",0,"00_vela-5",0,True,"grab","piece6 by 0"
+2026-10-10T02:50:50.2339120Z,56.204,"TECHNICAL_TEST",0,"00_vela-5",0,True,"release","piece6 by 0"

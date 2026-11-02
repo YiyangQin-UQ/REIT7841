@@ -1,0 +1,125 @@
+{
+  "outputs": [
+    {
+      "path": "fig01_g06_reconstruction_sequence.png",
+      "sha256": "24b7f5cd3cdfc5782fc091b82c21c694f711bb3fbc054094fd34f655c9b35d17",
+      "width_mm": 180,
+      "height_mm": 151
+    },
+    {
+      "path": "fig01_g06_reconstruction_sequence.pdf",
+      "sha256": "1afb48e2ce90b41bc859d0b368dab1e46801dd233b848beb161dcba86455e82a",
+      "width_mm": 180,
+      "height_mm": 151
+    },
+    {
+      "path": "fig01_g06_reconstruction_sequence.svg",
+      "sha256": "f55b0f89b20a9e67fa6ce18699707ef0ba3279f608123f80a6e4dacee28bf9d8",
+      "width_mm": 180,
+      "height_mm": 151
+    },
+    {
+      "path": "fig02_candle_geometry_comparison.png",
+      "sha256": "c2b257cf703203a6e2ddd8e717c978bc08ac9ed51ddd95d903a572cbb512c36f",
+      "width_mm": 180,
+      "height_mm": 111
+    },
+    {
+      "path": "fig02_candle_geometry_comparison.pdf",
+      "sha256": "0dd9189af1d1dfe244ca590fc3b6def3f23708326b8ad867c7245772adbefbdb",
+      "width_mm": 180,
+      "height_mm": 111
+    },
+    {
+      "path": "fig02_candle_geometry_comparison.svg",
+      "sha256": "5cf8564d5e94a82f61f57d4dc20d3307371b0570e54d179568c473297435344e",
+      "width_mm": 180,
+      "height_mm": 111
+    },
+    {
+      "path": "fig03_g06_recorded_view_and_geometry.png",
+      "sha256": "37f89fe143e1726c9e41577e5f0a4392ce502686277e22c306140a43ce958197",
+      "width_mm": 180,
+      "height_mm": 109
+    },
+    {
+      "path": "fig03_g06_recorded_view_and_geometry.pdf",
+      "sha256": "0a8ecd0441bbf14f2c6ac96e73e66823d3e57635a97eea05ecb6d2dccc2d533b",
+      "width_mm": 180,
+      "height_mm": 109
+    },
+    {
+      "path": "fig03_g06_recorded_view_and_geometry.svg",
+      "sha256": "a2d76334c929ae1a6e1cb8efcde5705f5691820c4d575cc704f0a48c7a222d8f",
+      "width_mm": 180,
+      "height_mm": 109
+    },
+    {
+      "path": "fig04_g03_self_revision_and_continuation.png",
+      "sha256": "6081d5e6d5ce3ace6d03945392b64ecb697a8063e63b8f12d6733104a0394584",
+      "width_mm": 180,
+      "height_mm": 113
+    },
+    {
+      "path": "fig04_g03_self_revision_and_continuation.pdf",
+      "sha256": "fee5eb8640fba85b16e8d11b9520cec1ddbca32caef29b5f5217eebf559e0ffd",
+      "width_mm": 180,
+      "height_mm": 113
+    },
+    {
+      "path": "fig04_g03_self_revision_and_continuation.svg",
+      "sha256": "47c6cd5688fbc6410d160c1fe700a6f9654ffc017dd432065b32cb5fae04f712",
+      "width_mm": 180,
+      "height_mm": 113
+    }
+  ],
+  "automated_layout": [],
+  "script_sha256": "a63350c7fae63155fb6598d64bdfac9167321c47c9a0e7c134e13f0bdb20c93b",
+  "inputs": [
+    {
+      "path": "evidence/analysis/figures/inputs/geometry/00_vela-5_silhouette.png",
+      "sha256": "96c752b033bdb5672893fb0528c8c7d1c37090bcafec0f8e402501c1a21dbbf0"
+    },
+    {
+      "path": "evidence/analysis/figures/inputs/geometry/01_上下外沿测量及来源.json",
+      "sha256": "c0613b81eba680a13aac6286adfafcfed356922988bc0e07dece4b3f24886b63"
+    },
+    {
+      "path": "evidence/analysis/figures/inputs/geometry/G03_R03.csv",
+      "sha256": "4d387aaf38d0e370731f116adc750c4c9fa6228ccc5f0d23bd34a0a0c7cf78ab"
+    },
+    {
+      "path": "evidence/analysis/figures/inputs/geometry/G04_R03.csv",
+      "sha256": "23049ede73d1cc0191577c79d89985c7c053c6c764a7abf9f06de8d845f9fed4"
+    },
+    {
+      "path": "evidence/analysis/figures/inputs/geometry/G06_R03.csv",
+      "sha256": "875d9d274868717b4f982fd8338479aa5965eb3e620fba330e9bb0c6de225f33"
+    },
+    {
+      "path": "evidence/analysis/figures/inputs/geometry/G06_R03_00945.000.jpg",
+      "sha256": "3b0a87595a277fdc846a3cfec8531ccd8d70a775a4e2dee2338d20284c828b54"
+    },
+    {
+      "path": "evidence/analysis/figures/inputs/geometry/G06_candle_sequence.json",
+      "sha256": "a31e2b77d772fe3c8402f82299f7489990d0fe5ca19ba60b20865ea523f4f050"
+    },
+    {
+      "path": "evidence/analysis/figures/inputs/geometry/TangramMultiplayer.unity",
+      "sha256": "c2bc4aee5b132683369954c7cddea8c55721a7bc7aec5832d186816ec5febb62"
+    },
+    {
+      "path": "evidence/analysis/figures/inputs/geometry/geometry_from_backup.json",
+      "sha256": "bd12ed5d5211b17556b8262a6935e132342d00b86dfd122010362e6fbd331d51"
+    },
+    {
+      "path": "evidence/analysis/figures/inputs/geometry/source_index.json",
+      "sha256": "3ddcb8e4aa5de728e2e763bc059c0af5213a5b5e7de3d28e4c9abda046e003e9"
+    },
+    {
+      "path": "evidence/analysis/figures/inputs/geometry/three_candle_outcomes.json",
+      "sha256": "d3e8833a973711c8c455569e7ad6bf0084be02ba724ca2a89d72a93a69c26574"
+    }
+  ],
+  "pixel_review_done": false
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "log_id": "L01",
+    "path": "evidence/raw/vr/REIT_Tangram/ResearchV2/G01_20261008T050538_fe2222fe_events_v2.csv",
+    "rows": 96,
+    "sha256": "ad49d0056e184f33de390d7ec4dc3d3c0a269805dcb683a7c0f41875eb11ffc9"
+  },
+  {
+    "log_id": "L02",
+    "path": "evidence/raw/vr/REIT_Tangram/ResearchV2/TECHNICAL_TEST_20261007T073110_b3992186_events_v2.csv",
+    "rows": 567,
+    "sha256": "28d90aeb063109ffa90fea2a2b936a219cdb310b0dfbed874368a1bb37105651"
+  },
+  {
+    "log_id": "L03",
+    "path": "evidence/raw/vr/REIT_Tangram/ResearchV2/TECHNICAL_TEST_20261007T073616_da594fa6_events_v2.csv",
+    "rows": 18571,
+    "sha256": "1035a600eb4b5ff04691a2c4e38f3657ff0574c0f11e69b6fa54f2aeb658290d"
+  },
+  {
+    "log_id": "L04",
+    "path": "evidence/raw/vr/REIT_Tangram/ResearchV2/TECHNICAL_TEST_20261007T093401_a9cf223e_events_v2.csv",
+    "rows": 1050,
+    "sha256": "4b7883aa5ab2a4ac15ec1af8f22c5ab976a278915bd092b02b19ffda85e341c2"
+  },
+  {
+    "log_id": "L05",
+    "path": "evidence/raw/vr/REIT_Tangram/ResearchV2/TECHNICAL_TEST_20261007T102325_390346f9_events_v2.csv",
+    "rows": 5715,
+    "sha256": "34a3dca33f93b2c587ef2fa3a538d12cd4a8e037b2897b2e0eb29136f6e8138c"
+  },
+  {
+    "log_id": "L06",
+    "path": "evidence/raw/vr/REIT_Tangram/ResearchV2/TECHNICAL_TEST_20261008T050322_1acce4df_events_v2.csv",
+    "rows": 332,
+    "sha256": "4311654c94da1bc414d2f8dba8d99b0aed584b14da227642479ea82fa84fa06f"
+  },
+  {
+    "log_id": "L07",
+    "path": "evidence/raw/vr/REIT_Tangram/ResearchV2/TECHNICAL_TEST_20261009T035445_fede18ca_events_v2.csv",
+    "rows": 12742,
+    "sha256": "516623c52fcb2348d20a06f227ac6a08cd0a566166b1cd969117b7180ddd4351"
+  },
+  {
+    "log_id": "L08",
+    "path": "evidence/raw/vr/REIT_Tangram/ResearchV2/TECHNICAL_TEST_20261009T070503_5a0ebbc4_events_v2.csv",
+    "rows": 7164,
+    "sha256": "44fcb8445caf82883fa9f00b95606c4b82406afb4bf5e3b0878ff520ad8e0450"
+  },
+  {
+    "log_id": "L09",
+    "path": "evidence/raw/vr/REIT_Tangram/ResearchV2/TECHNICAL_TEST_20261009T084000_593a8c65_events_v2.csv",
+    "rows": 11279,
+    "sha256": "6479622e6e3bde58b030ed28877faaf01843c01b839c838cf66a492a4070157f"
+  },
+  {
+    "log_id": "L10",
+    "path": "evidence/raw/vr/REIT_Tangram/ResearchV2/TECHNICAL_TEST_20261010T024954_0023fdf8_events_v2.csv",
+    "rows": 34,
+    "sha256": "39e95f40b51a50298469007cb6c776529fa9a8480e6858180a1263aee062baea"
+  },
+  {
+    "log_id": "L11",
+    "path": "evidence/raw/vr/REIT_Tangram/ResearchV2/TECHNICAL_TEST_20261010T062552_3260dfc6_events_v2.csv",
+    "rows": 11,
+    "sha256": "775773668fc75a13d0b089d8471b82f991d0becbd134963668b6c2ce9adb0523"
+  },
+  {
+    "log_id": "L12",
+    "path": "evidence/raw/vr/REIT_Tangram/ResearchV2/TECHNICAL_TEST_20261010T084712_3a9476c5_events_v2.csv",
+    "rows": 9495,
+    "sha256": "eef4acf3a2465d9786e03bd12d2f82ef0f5e9fae08bd4d420fa7252be78f2e52"
+  },
+  {
+    "log_id": "L13",
+    "path": "evidence/raw/vr/REIT_Tangram/ResearchV2/TECHNICAL_TEST_20261010T111851_95ec3dd3_events_v2.csv",
+    "rows": 31,
+    "sha256": "91f08d1f061f686c82506937981cc5a79d7f0645c0279469d2b9408560116629"
+  }
+]

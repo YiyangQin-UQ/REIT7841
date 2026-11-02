@@ -1,0 +1,117 @@
+{
+  "retained_graphical_format": "PNG",
+  "retained_graphical_results": 11,
+  "omitted_duplicate_exports": [
+    {
+      "name": "fig02_candle_geometry_comparison.svg",
+      "sha256": "5cf8564d5e94a82f61f57d4dc20d3307371b0570e54d179568c473297435344e",
+      "reason": "Reproducible duplicate export; PNG retained."
+    },
+    {
+      "name": "Figure5_8_VR_item_ratings.svg",
+      "sha256": "7a4a291ac08af39e5e8cf6dac7e6683eb4167f675955d3e6e30f3d4ebea3470d",
+      "reason": "Reproducible duplicate export; PNG retained."
+    },
+    {
+      "name": "fig03_g06_recorded_view_and_geometry.svg",
+      "sha256": "a2d76334c929ae1a6e1cb8efcde5705f5691820c4d575cc704f0a48c7a222d8f",
+      "reason": "Reproducible duplicate export; PNG retained."
+    },
+    {
+      "name": "fig01_g06_reconstruction_sequence.pdf",
+      "sha256": "1afb48e2ce90b41bc859d0b368dab1e46801dd233b848beb161dcba86455e82a",
+      "reason": "Reproducible duplicate export; PNG retained."
+    },
+    {
+      "name": "F4_self_revision.svg",
+      "sha256": "e8ca980a4412d22407aeeafdafd67b4a4012bb3a481abebb552a1702fd9ab6bd",
+      "reason": "Reproducible duplicate export; PNG retained."
+    },
+    {
+      "name": "fig04_g03_self_revision_and_continuation.pdf",
+      "sha256": "fee5eb8640fba85b16e8d11b9520cec1ddbca32caef29b5f5217eebf559e0ffd",
+      "reason": "Reproducible duplicate export; PNG retained."
+    },
+    {
+      "name": "fig07_g06_goose_continuation.pdf",
+      "sha256": "53050ef89314bb2f22ca4b92fe1e364137c3853dbbde54b5ca9339e6a4e6a993",
+      "reason": "Reproducible duplicate export; PNG retained."
+    },
+    {
+      "name": "F3_G06_action_timeline.pdf",
+      "sha256": "973a24aa9cb694db9c1696226d51e65913ee4a5ffe7be5449c32cb7ae704399f",
+      "reason": "Reproducible duplicate export; PNG retained."
+    },
+    {
+      "name": "Figure4_1_analysis_flow.pdf",
+      "sha256": "5456694ef5f07eb53d6a5266c4696916f72be0c8d23398e1b26b38f423cb54dc",
+      "reason": "Reproducible duplicate export; PNG retained."
+    },
+    {
+      "name": "fig04_g03_self_revision_and_continuation.svg",
+      "sha256": "47c6cd5688fbc6410d160c1fe700a6f9654ffc017dd432065b32cb5fae04f712",
+      "reason": "Reproducible duplicate export; PNG retained."
+    },
+    {
+      "name": "Figure4_1_analysis_flow.svg",
+      "sha256": "4c5b33ba8706f28313d2aa49c8e693772d1f6dfc4e15d5ae524c9f3aac006110",
+      "reason": "Reproducible duplicate export; PNG retained."
+    },
+    {
+      "name": "fig07_g06_goose_continuation.svg",
+      "sha256": "5b77d4cf9e35da3a5c684afd0359db763b2be08e24eff63637b676befd9eca21",
+      "reason": "Reproducible duplicate export; PNG retained."
+    },
+    {
+      "name": "F3_G06_action_timeline.svg",
+      "sha256": "fa40fffa18d087e4e1a72e1698699da03f21c5e89e8404a16f9e529872f57fb2",
+      "reason": "Reproducible duplicate export; PNG retained."
+    },
+    {
+      "name": "fig02_candle_geometry_comparison.pdf",
+      "sha256": "0dd9189af1d1dfe244ca590fc3b6def3f23708326b8ad867c7245772adbefbdb",
+      "reason": "Reproducible duplicate export; PNG retained."
+    },
+    {
+      "name": "Figure5_8_VR_item_ratings.pdf",
+      "sha256": "f5f1116f300850ad3b4d63d3ec69f5542b54769c1532dfee2718d10b3db7c8be",
+      "reason": "Reproducible duplicate export; PNG retained."
+    },
+    {
+      "name": "fig03_g06_recorded_view_and_geometry.pdf",
+      "sha256": "0a8ecd0441bbf14f2c6ac96e73e66823d3e57635a97eea05ecb6d2dccc2d533b",
+      "reason": "Reproducible duplicate export; PNG retained."
+    },
+    {
+      "name": "fig01_g06_reconstruction_sequence.svg",
+      "sha256": "f55b0f89b20a9e67fa6ce18699707ef0ba3279f608123f80a6e4dacee28bf9d8",
+      "reason": "Reproducible duplicate export; PNG retained."
+    },
+    {
+      "name": "F4_self_revision.pdf",
+      "sha256": "7510baf927f98de4e1a9530a88aeb6dde4ee69f1e578d8f0dc1ccb1a23bcf058",
+      "reason": "Reproducible duplicate export; PNG retained."
+    },
+    {
+      "name": "Figure3_2_apparatus.svg",
+      "sha256": "00544fa80dba27f7460e73ce5df31a10e12d8b6d752b0c75ab59521513fdf49a",
+      "reason": "Reproducible duplicate export; PNG retained."
+    },
+    {
+      "name": "Figure3_1_research_development.pdf",
+      "sha256": "6d6e8b59cb5344bf6bcd741c9a7734347adff0481906870dfeec85db354f1d7e",
+      "reason": "Reproducible duplicate export; PNG retained."
+    },
+    {
+      "name": "Figure3_1_research_development.svg",
+      "sha256": "72a964949ed016a0568a81e2c7bd026fd1a3f4df8d08c798c3d7a9d905d39d66",
+      "reason": "Reproducible duplicate export; PNG retained."
+    },
+    {
+      "name": "Figure3_2_apparatus.pdf",
+      "sha256": "70eea960b77c543e74b7b9f93730d1a1b55bc3ff0cac29828a79352917598e5b",
+      "reason": "Reproducible duplicate export; PNG retained."
+    }
+  ],
+  "note": "Build audit outputs record files generated during actual verification. Only PNG outputs are retained in this analysis archive; reproduce.py regenerates all formats locally."
+}

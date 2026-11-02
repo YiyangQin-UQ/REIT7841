@@ -1,0 +1,138 @@
+{
+  "version": "0.6.0",
+  "time": "2026-10-19T23:56:29+10:00",
+  "media_assets": {
+    "V16": {
+      "audio_tracks": "1",
+      "duration_s": "1219.195",
+      "fps": "30.00013542175293",
+      "height": "1080",
+      "path": "数据收集/video/VR first-person perspective/T3.mp4",
+      "video_tracks": "1",
+      "width": "1920",
+      "asset_id": "V16",
+      "bytes": "242515133",
+      "sha256": "e1139c27256de1dc5e55434fd873a663db6d842ad14e26b8e8fe5ea086d7aa87",
+      "content_review": "全片30秒间隔静帧已读；EV2-W01:127.99997–144.99998秒；EV2-W02:233.99999–244.99999秒；EV2-W03:794.97225–810.97225秒；EV2-W04:1127.9723–1164.9723秒；连续视听未完成",
+      "audio_status": "有非零音频；不等于可听清或说话者可分",
+      "original_filename_from_screenshot": "",
+      "recording_side": ""
+    },
+    "V21": {
+      "audio_tracks": "1",
+      "duration_s": "420.501",
+      "fps": "29.999998092651367",
+      "height": "1080",
+      "path": "数据收集/video/VR对方视角/T3 对方视角第一人称.mp4",
+      "video_tracks": "1",
+      "width": "1920",
+      "asset_id": "V21",
+      "bytes": "89135543",
+      "sha256": "2572f4f57aa72205371135d335d3f0d7854a59b80405a89b9931506862af8ba2",
+      "content_review": "v0.3每30秒及末端静帧已看；非连续视听；见新增7视频画面观察_v03.tsv",
+      "audio_status": "整段PCM非零；未听辨，新增文件尚无ASR草稿",
+      "original_filename_from_screenshot": "au.edu.uq.reit7841.tangram.multiplayer-20261009-142002-0.mp4",
+      "recording_side": "用户提供的对方端录像；参与者编号未知"
+    }
+  },
+  "log_source": "数据收集/video/VR first-person perspective/REIT_Tangram/ResearchV2/TECHNICAL_TEST_20261009T035445_fede18ca_events_v2.csv",
+  "log_rows": [
+    {
+      "csv_line_1based_including_header": 3622,
+      "utc": "2026-10-09T04:20:52.0552670Z",
+      "round_id": "TECHNICAL_TEST-R01",
+      "task_id": "04_persona-en-barca",
+      "condition": "VR_FIRST_PERSON",
+      "phase": "task",
+      "event": "round_start",
+      "reason": "facilitator_start",
+      "active_elapsed_s": "0.000000"
+    },
+    {
+      "csv_line_1based_including_header": 4068,
+      "utc": "2026-10-09T04:21:33.9860210Z",
+      "round_id": "TECHNICAL_TEST-R01",
+      "task_id": "04_persona-en-barca",
+      "condition": "VR_FIRST_PERSON",
+      "phase": "ended",
+      "event": "round_end_manual",
+      "reason": "41.511",
+      "active_elapsed_s": "41.511331"
+    },
+    {
+      "csv_line_1based_including_header": 4094,
+      "utc": "2026-10-09T04:21:56.3469560Z",
+      "round_id": "TECHNICAL_TEST-R02",
+      "task_id": "00_vela-5",
+      "condition": "VR_FIRST_PERSON",
+      "phase": "task",
+      "event": "round_start",
+      "reason": "facilitator_start",
+      "active_elapsed_s": "0.000000"
+    },
+    {
+      "csv_line_1based_including_header": 5990,
+      "utc": "2026-10-09T04:24:28.1664260Z",
+      "round_id": "TECHNICAL_TEST-R02",
+      "task_id": "00_vela-5",
+      "condition": "VR_FIRST_PERSON",
+      "phase": "ended",
+      "event": "round_end_manual",
+      "reason": "150.302",
+      "active_elapsed_s": "150.301668"
+    },
+    {
+      "csv_line_1based_including_header": 6000,
+      "utc": "2026-10-09T04:25:04.7495030Z",
+      "round_id": "TECHNICAL_TEST-R02",
+      "task_id": "00_vela-5",
+      "condition": "VR_EXTERNAL",
+      "phase": "ended",
+      "event": "view_selected",
+      "reason": "Overhead",
+      "active_elapsed_s": "150.301668"
+    },
+    {
+      "csv_line_1based_including_header": 6009,
+      "utc": "2026-10-09T04:25:07.8087740Z",
+      "round_id": "TECHNICAL_TEST-R02",
+      "task_id": "01_silla-1",
+      "condition": "VR_EXTERNAL",
+      "phase": "ended",
+      "event": "control_action",
+      "reason": "Next",
+      "active_elapsed_s": "150.301668"
+    },
+    {
+      "csv_line_1based_including_header": 6088,
+      "utc": "2026-10-09T04:25:45.1853890Z",
+      "round_id": "TECHNICAL_TEST-R03",
+      "task_id": "02_senora",
+      "condition": "VR_EXTERNAL",
+      "phase": "task",
+      "event": "round_start",
+      "reason": "facilitator_start",
+      "active_elapsed_s": "0.000000"
+    },
+    {
+      "csv_line_1based_including_header": 6907,
+      "utc": "2026-10-09T04:27:59.1967480Z",
+      "round_id": "TECHNICAL_TEST-R03",
+      "task_id": "02_senora",
+      "condition": "VR_EXTERNAL",
+      "phase": "ended",
+      "event": "round_end_manual",
+      "reason": "134.014",
+      "active_elapsed_s": "134.013754"
+    }
+  ],
+  "existing_sync_formula": "V21 = V16 + 3.45 seconds, navigation only",
+  "reported_end_delta_s": 4,
+  "source_report_verbatim_saved": true,
+  "frames_generated_and_viewed": 14,
+  "frame_elapsed_s": 1.4900718927383423,
+  "user_work_time_s": null,
+  "independent_audio_verified": false,
+  "strict_solution_verified": false,
+  "cloud_upload": false
+}

@@ -1,0 +1,7 @@
+group	log_basis	recorded_protocol	target_presentation	limits	causal_rule
+G01	L03	REIT7841-20261006-v2	旧各自目标板（用户说明）；正式chair定位支持旧协议	仅chair已有匹配日志；woman实际构建未核	目标呈现、相机方向、控制和流程分别解释；不以跨组先后证明迭代有效
+G02	L05（候选，未匹配补录）	REIT7841-20261007-shared-target-unlimited-v1	公共统一图案（用户说明）	原问卷10月7日与10月10日补录分开；不硬配L05或0.4.0	目标呈现、相机方向、控制和流程分别解释；不以跨组先后证明迭代有效
+G03	L07	REIT7841-20261008-shared-target-unlimited-menu-v1	公共目标（用户说明＋已关联日志协议）	存在多次图案/模式切换	目标呈现、相机方向、控制和流程分别解释；不以跨组先后证明迭代有效
+G04	L08	REIT7841-20261008-shared-target-unlimited-menu-v1	公共目标（用户说明＋已关联日志协议）	正式swimmer前有额外woman尝试	目标呈现、相机方向、控制和流程分别解释；不以跨组先后证明迭代有效
+G05	L09	REIT7841-20261008-shared-target-unlimited-menu-v1	公共目标（用户说明＋已关联日志协议）	暂停/录制前candle保留	目标呈现、相机方向、控制和流程分别解释；不以跨组先后证明迭代有效
+G06	L12	REIT7841-20261008-shared-target-unlimited-menu-v1	公共目标（用户说明＋已关联日志协议）	未录对端，中止重做；不由10月10日日期推新APK	目标呈现、相机方向、控制和流程分别解释；不以跨组先后证明迭代有效

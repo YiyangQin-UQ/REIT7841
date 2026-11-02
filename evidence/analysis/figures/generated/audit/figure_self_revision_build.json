@@ -1,0 +1,111 @@
+{
+  "figure_id": "F4",
+  "claim_id": "C_SELF_REVISION",
+  "claim": "In this episode, the original builder revised a correct local configuration after the partner had tidied it.",
+  "type": "documentary video-still sequence",
+  "n": "1 episode, 1 dyad; 3 frames from the same recording",
+  "statistical_inference": "not applicable; qualitative sequence, not a null-hypothesis claim",
+  "layout": {
+    "width_mm": 180,
+    "height_mm": 126,
+    "specification": "custom working-draft layout, not a verified venue requirement",
+    "minimum_font_pt": 8.2
+  },
+  "engine": "matplotlib",
+  "version": "3.11.2",
+  "script": "evidence/analysis/figures/scripts/plot_self_revision.py",
+  "script_sha256": "2e348ce3fc324c6ae8bb429b72707dd6926c8fcc7f520c68f10573d41374ab3a",
+  "inputs": [
+    {
+      "actual_s": 279.9716666666667,
+      "height": 2622,
+      "label": "G01_R02",
+      "requested_s": 280,
+      "source": "source-archive/REIT7841_B/数据收集/video/Realistic bird's eye view/T1.MP4",
+      "width": 1206,
+      "crop_box_original_pixels": [
+        310,
+        660,
+        970,
+        1525
+      ],
+      "crop_operation": "rectangular crop only; original projection retained; no retouching",
+      "crop_path_relative": "self_revision_frames/G01_R02_0280.0_crop.png",
+      "crop_sha256": "a602fafff0987d52f6d19b5d5372fedf3e248eb1f530a067e74625e3537008b3"
+    },
+    {
+      "actual_s": 362.97833333333335,
+      "height": 2622,
+      "label": "G01_R02",
+      "requested_s": 363,
+      "source": "source-archive/REIT7841_B/数据收集/video/Realistic bird's eye view/T1.MP4",
+      "width": 1206,
+      "crop_box_original_pixels": [
+        310,
+        660,
+        970,
+        1525
+      ],
+      "crop_operation": "rectangular crop only; original projection retained; no retouching",
+      "crop_path_relative": "self_revision_frames/G01_R02_0363.0_crop.png",
+      "crop_sha256": "280d9e4076f48cc29eee0756e0a74b8f12422a0879d7b43c12fd6daa12bc96b5"
+    },
+    {
+      "actual_s": 387.97333333333336,
+      "height": 2622,
+      "label": "G01_R02",
+      "requested_s": 388,
+      "source": "source-archive/REIT7841_B/数据收集/video/Realistic bird's eye view/T1.MP4",
+      "width": 1206,
+      "crop_box_original_pixels": [
+        310,
+        660,
+        970,
+        1525
+      ],
+      "crop_operation": "rectangular crop only; original projection retained; no retouching",
+      "crop_path_relative": "self_revision_frames/G01_R02_0388.0_crop.png",
+      "crop_sha256": "7387fa0992fd04915bb088c2aad0cd4a8a9876483895b843106dc289b8380a24"
+    }
+  ],
+  "report_source": "self_revision_evidence.json / SR01",
+  "report_sha256": "3b07533e6b953c7dde1dd861af1a8f7369244ab53cc4a5c7d59ef6b65c958814",
+  "raw_observation_source": "source-archive/REIT7841_B/数据收集/数据与展示推进/03_首轮整理/V01用户补证回报_仅本地_v047.txt",
+  "outputs": [
+    {
+      "path": "evidence/analysis/figures/generated/figures/F4_self_revision.png",
+      "sha256": "3c018bc898c45045c3d0f45c809678aa3a788693a4d561854cede9679c0e354d"
+    },
+    {
+      "path": "evidence/analysis/figures/generated/figures/F4_self_revision.pdf",
+      "sha256": "7510baf927f98de4e1a9530a88aeb6dde4ee69f1e578d8f0dc1ccb1a23bcf058"
+    },
+    {
+      "path": "evidence/analysis/figures/generated/figures/F4_self_revision.svg",
+      "sha256": "e8ca980a4412d22407aeeafdafd67b4a4012bb3a481abebb552a1702fd9ab6bd"
+    }
+  ],
+  "caption": "G01, physical overhead goose task: the original builder revisits a local configuration. (a) P01 joins a small triangle and a parallelogram into the head and neck. (b) P02 tidies that combination. (c) P01 rotates the parallelogram and joins it to a large triangle. The researcher’s video-review record identifies the initial local arrangement as correct and the subsequent revision as incorrect. Frames are taken at approximately 04:40, 06:03 and 06:28, close to the reported action anchors of 04:38, 06:01 and 06:26; they are not precise action-onset measurements. Rectangular crops remove call-interface identifiers while preserving the original projection. Hands occlude some edges, and the middle panel is not a geometric proof that P02 only aligned edges. This is one episode, not an estimate of how often participants revise their own or their partners’ work.",
+  "image_processing": "Only deterministic rectangular cropping and uniform display scaling. No generated imagery, retouching, stretching, masking of evidence, or geometric reconstruction.",
+  "visual_qa": {
+    "pixel_review_done": false
+  },
+  "participant_mapping": {
+    "physical_original_A": "P01",
+    "physical_original_B": "P02"
+  },
+  "unchanged_crops": [
+    {
+      "path": "evidence/analysis/figures/inputs/self_revision_frames/G01_R02_0280.0_crop.png",
+      "sha256": "a602fafff0987d52f6d19b5d5372fedf3e248eb1f530a067e74625e3537008b3"
+    },
+    {
+      "path": "evidence/analysis/figures/inputs/self_revision_frames/G01_R02_0363.0_crop.png",
+      "sha256": "280d9e4076f48cc29eee0756e0a74b8f12422a0879d7b43c12fd6daa12bc96b5"
+    },
+    {
+      "path": "evidence/analysis/figures/inputs/self_revision_frames/G01_R02_0388.0_crop.png",
+      "sha256": "7387fa0992fd04915bb088c2aad0cd4a8a9876483895b843106dc289b8380a24"
+    }
+  ]
+}

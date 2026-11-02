@@ -1,0 +1,27 @@
+{
+  "actually_viewed": true,
+  "method": "Contact sheet containing all 11 freshly generated figures, then individual original-resolution views of G06 VR frame and both photographic process figures.",
+  "figure_numbers": [
+    "3.1",
+    "3.2",
+    "4.1",
+    "5.1",
+    "5.2",
+    "5.3",
+    "5.4",
+    "5.5",
+    "5.6",
+    "5.7",
+    "5.8"
+  ],
+  "pixel_comparison": "All 11 PNG pixel arrays match delivered final v1.1 figures exactly.",
+  "recorded_image_inputs": 8,
+  "visible_content": "Pieces, hands, table material, or virtual scene. No visible faces, personal names, participant usernames or communication-app avatars in these retained images.",
+  "limits": "This is an inspection of the retained figure images, not a new full-video review or a decision about public release of all original recordings.",
+  "layout": "No new clipping/overlap introduced; figure pixels identical to reviewed thesis assets.",
+  "additional_identity_anchors": {
+    "count": 3,
+    "actually_viewed_individually": true,
+    "content": "Local controller ray/grab point and pieces in a virtual scene; no visible name/avatar UI or face."
+  }
+}

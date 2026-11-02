@@ -1,0 +1,518 @@
+{
+  "counts": {
+    "responses": 48,
+    "participants": 12,
+    "NA": 2
+  },
+  "missing_values": [
+    {
+      "record_id": "G04_P08_R01",
+      "item": "Q01",
+      "source_value": "NA"
+    },
+    {
+      "record_id": "G04_P08_R02",
+      "item": "Q01",
+      "source_value": "NA"
+    }
+  ],
+  "paired_values": [
+    {
+      "participant_id": "P01",
+      "group_id": "G01",
+      "item": "Q04",
+      "R03": 4,
+      "R04": 4
+    },
+    {
+      "participant_id": "P02",
+      "group_id": "G01",
+      "item": "Q04",
+      "R03": 5,
+      "R04": 5
+    },
+    {
+      "participant_id": "P03",
+      "group_id": "G02",
+      "item": "Q04",
+      "R03": 5,
+      "R04": 5
+    },
+    {
+      "participant_id": "P04",
+      "group_id": "G02",
+      "item": "Q04",
+      "R03": 4,
+      "R04": 4
+    },
+    {
+      "participant_id": "P05",
+      "group_id": "G03",
+      "item": "Q04",
+      "R03": 4,
+      "R04": 3
+    },
+    {
+      "participant_id": "P06",
+      "group_id": "G03",
+      "item": "Q04",
+      "R03": 4,
+      "R04": 4
+    },
+    {
+      "participant_id": "P07",
+      "group_id": "G04",
+      "item": "Q04",
+      "R03": 2,
+      "R04": 3
+    },
+    {
+      "participant_id": "P08",
+      "group_id": "G04",
+      "item": "Q04",
+      "R03": 5,
+      "R04": 5
+    },
+    {
+      "participant_id": "P09",
+      "group_id": "G05",
+      "item": "Q04",
+      "R03": 4,
+      "R04": 5
+    },
+    {
+      "participant_id": "P10",
+      "group_id": "G05",
+      "item": "Q04",
+      "R03": 3,
+      "R04": 4
+    },
+    {
+      "participant_id": "P11",
+      "group_id": "G06",
+      "item": "Q04",
+      "R03": 4,
+      "R04": 4
+    },
+    {
+      "participant_id": "P12",
+      "group_id": "G06",
+      "item": "Q04",
+      "R03": 5,
+      "R04": 5
+    },
+    {
+      "participant_id": "P01",
+      "group_id": "G01",
+      "item": "Q06",
+      "R03": 5,
+      "R04": 5
+    },
+    {
+      "participant_id": "P02",
+      "group_id": "G01",
+      "item": "Q06",
+      "R03": 5,
+      "R04": 5
+    },
+    {
+      "participant_id": "P03",
+      "group_id": "G02",
+      "item": "Q06",
+      "R03": 5,
+      "R04": 5
+    },
+    {
+      "participant_id": "P04",
+      "group_id": "G02",
+      "item": "Q06",
+      "R03": 4,
+      "R04": 4
+    },
+    {
+      "participant_id": "P05",
+      "group_id": "G03",
+      "item": "Q06",
+      "R03": 4,
+      "R04": 2
+    },
+    {
+      "participant_id": "P06",
+      "group_id": "G03",
+      "item": "Q06",
+      "R03": 4,
+      "R04": 2
+    },
+    {
+      "participant_id": "P07",
+      "group_id": "G04",
+      "item": "Q06",
+      "R03": 4,
+      "R04": 4
+    },
+    {
+      "participant_id": "P08",
+      "group_id": "G04",
+      "item": "Q06",
+      "R03": 5,
+      "R04": 5
+    },
+    {
+      "participant_id": "P09",
+      "group_id": "G05",
+      "item": "Q06",
+      "R03": 5,
+      "R04": 5
+    },
+    {
+      "participant_id": "P10",
+      "group_id": "G05",
+      "item": "Q06",
+      "R03": 5,
+      "R04": 5
+    },
+    {
+      "participant_id": "P11",
+      "group_id": "G06",
+      "item": "Q06",
+      "R03": 4,
+      "R04": 4
+    },
+    {
+      "participant_id": "P12",
+      "group_id": "G06",
+      "item": "Q06",
+      "R03": 5,
+      "R04": 5
+    },
+    {
+      "participant_id": "P01",
+      "group_id": "G01",
+      "item": "Q09",
+      "R03": 4,
+      "R04": 4
+    },
+    {
+      "participant_id": "P02",
+      "group_id": "G01",
+      "item": "Q09",
+      "R03": 1,
+      "R04": 1
+    },
+    {
+      "participant_id": "P03",
+      "group_id": "G02",
+      "item": "Q09",
+      "R03": 5,
+      "R04": 5
+    },
+    {
+      "participant_id": "P04",
+      "group_id": "G02",
+      "item": "Q09",
+      "R03": 4,
+      "R04": 2
+    },
+    {
+      "participant_id": "P05",
+      "group_id": "G03",
+      "item": "Q09",
+      "R03": 4,
+      "R04": 2
+    },
+    {
+      "participant_id": "P06",
+      "group_id": "G03",
+      "item": "Q09",
+      "R03": 4,
+      "R04": 1
+    },
+    {
+      "participant_id": "P07",
+      "group_id": "G04",
+      "item": "Q09",
+      "R03": 1,
+      "R04": 2
+    },
+    {
+      "participant_id": "P08",
+      "group_id": "G04",
+      "item": "Q09",
+      "R03": 5,
+      "R04": 5
+    },
+    {
+      "participant_id": "P09",
+      "group_id": "G05",
+      "item": "Q09",
+      "R03": 5,
+      "R04": 1
+    },
+    {
+      "participant_id": "P10",
+      "group_id": "G05",
+      "item": "Q09",
+      "R03": 5,
+      "R04": 5
+    },
+    {
+      "participant_id": "P11",
+      "group_id": "G06",
+      "item": "Q09",
+      "R03": 4,
+      "R04": 3
+    },
+    {
+      "participant_id": "P12",
+      "group_id": "G06",
+      "item": "Q09",
+      "R03": 5,
+      "R04": 5
+    },
+    {
+      "participant_id": "P01",
+      "group_id": "G01",
+      "item": "Q10",
+      "R03": 4,
+      "R04": 4
+    },
+    {
+      "participant_id": "P02",
+      "group_id": "G01",
+      "item": "Q10",
+      "R03": 1,
+      "R04": 1
+    },
+    {
+      "participant_id": "P03",
+      "group_id": "G02",
+      "item": "Q10",
+      "R03": 5,
+      "R04": 5
+    },
+    {
+      "participant_id": "P04",
+      "group_id": "G02",
+      "item": "Q10",
+      "R03": 4,
+      "R04": 2
+    },
+    {
+      "participant_id": "P05",
+      "group_id": "G03",
+      "item": "Q10",
+      "R03": 2,
+      "R04": 3
+    },
+    {
+      "participant_id": "P06",
+      "group_id": "G03",
+      "item": "Q10",
+      "R03": 2,
+      "R04": 1
+    },
+    {
+      "participant_id": "P07",
+      "group_id": "G04",
+      "item": "Q10",
+      "R03": 1,
+      "R04": 1
+    },
+    {
+      "participant_id": "P08",
+      "group_id": "G04",
+      "item": "Q10",
+      "R03": 4,
+      "R04": 4
+    },
+    {
+      "participant_id": "P09",
+      "group_id": "G05",
+      "item": "Q10",
+      "R03": 4,
+      "R04": 1
+    },
+    {
+      "participant_id": "P10",
+      "group_id": "G05",
+      "item": "Q10",
+      "R03": 5,
+      "R04": 3
+    },
+    {
+      "participant_id": "P11",
+      "group_id": "G06",
+      "item": "Q10",
+      "R03": 4,
+      "R04": 3
+    },
+    {
+      "participant_id": "P12",
+      "group_id": "G06",
+      "item": "Q10",
+      "R03": 5,
+      "R04": 5
+    },
+    {
+      "participant_id": "P01",
+      "group_id": "G01",
+      "item": "Q12",
+      "R03": 5,
+      "R04": 5
+    },
+    {
+      "participant_id": "P02",
+      "group_id": "G01",
+      "item": "Q12",
+      "R03": 5,
+      "R04": 5
+    },
+    {
+      "participant_id": "P03",
+      "group_id": "G02",
+      "item": "Q12",
+      "R03": 5,
+      "R04": 5
+    },
+    {
+      "participant_id": "P04",
+      "group_id": "G02",
+      "item": "Q12",
+      "R03": 5,
+      "R04": 5
+    },
+    {
+      "participant_id": "P05",
+      "group_id": "G03",
+      "item": "Q12",
+      "R03": 4,
+      "R04": 4
+    },
+    {
+      "participant_id": "P06",
+      "group_id": "G03",
+      "item": "Q12",
+      "R03": 4,
+      "R04": 3
+    },
+    {
+      "participant_id": "P07",
+      "group_id": "G04",
+      "item": "Q12",
+      "R03": 4,
+      "R04": 4
+    },
+    {
+      "participant_id": "P08",
+      "group_id": "G04",
+      "item": "Q12",
+      "R03": 4,
+      "R04": 4
+    },
+    {
+      "participant_id": "P09",
+      "group_id": "G05",
+      "item": "Q12",
+      "R03": 5,
+      "R04": 4
+    },
+    {
+      "participant_id": "P10",
+      "group_id": "G05",
+      "item": "Q12",
+      "R03": 5,
+      "R04": 3
+    },
+    {
+      "participant_id": "P11",
+      "group_id": "G06",
+      "item": "Q12",
+      "R03": 4,
+      "R04": 4
+    },
+    {
+      "participant_id": "P12",
+      "group_id": "G06",
+      "item": "Q12",
+      "R03": 5,
+      "R04": 4
+    }
+  ],
+  "descriptive_change_counts": {
+    "Q04": {
+      "R04_higher": 3,
+      "same": 8,
+      "R04_lower": 1
+    },
+    "Q06": {
+      "R04_higher": 0,
+      "same": 10,
+      "R04_lower": 2
+    },
+    "Q09": {
+      "R04_higher": 1,
+      "same": 6,
+      "R04_lower": 5
+    },
+    "Q10": {
+      "R04_higher": 1,
+      "same": 6,
+      "R04_lower": 5
+    },
+    "Q12": {
+      "R04_higher": 0,
+      "same": 8,
+      "R04_lower": 4
+    }
+  },
+  "history_nodes": [
+    [
+      "Original brief",
+      "External VR viewpoint; coordination, intent and workspace awareness."
+    ],
+    [
+      "First-semester planning",
+      "Physical Tangram exploration informed the VR research and prototype."
+    ],
+    [
+      "August plan and supervisor response",
+      "Keep the task family comparable; parts may be done separately or jointly."
+    ],
+    [
+      "September decision",
+      "Use Tangram throughout."
+    ],
+    [
+      "Implemented study",
+      "Four free-collaboration conditions; six familiar dyads; fixed order.\nActual patterns, practice and prototype versions retained."
+    ]
+  ],
+  "caption_questionnaire": "Figure 5.8. Paired ratings for five questionnaire items in first-person VR (R03) and shared overhead VR (R04). Each row is one participant; circles and squares show the two raw ratings, connected within that participant. A square inside a circle indicates equal ratings. All 12 participants have both responses for these items (24 VR questionnaires from the confirmed 48-response dataset). Q04 concerns explaining an intended placement, Q06 knowing puzzle progress, Q09 moving a piece to an intended location, Q10 rotating it to an intended orientation, and Q12 feeling that the puzzle was solved together. Ratings use the full 1–5 scale; no combined score is calculated. The rounds occurred in a fixed order with different patterns and prototype versions. G02 ratings refer to the original session, not the later replay recording.",
+  "caption_history": "Figure 3.1. Development of the research focus and study design. The August feedback called for a comparable task family while retaining the possibility of individual and joint work. The September discussion selected Tangram across the tasks. The final four-condition study is shown separately from those earlier plans. Sources: original project brief, early study plan, August thesis plan and supervisor response, 1 September meeting transcript, and final study procedure.",
+  "outputs": [
+    {
+      "path": "figures/Figure5_8_VR_item_ratings.png",
+      "sha256": "af559e22da61f93319525b2fc92b7638446e851858c0b4f64c925f5d24dce30d"
+    },
+    {
+      "path": "figures/Figure5_8_VR_item_ratings.pdf",
+      "sha256": "f5f1116f300850ad3b4d63d3ec69f5542b54769c1532dfee2718d10b3db7c8be"
+    },
+    {
+      "path": "figures/Figure5_8_VR_item_ratings.svg",
+      "sha256": "7a4a291ac08af39e5e8cf6dac7e6683eb4167f675955d3e6e30f3d4ebea3470d"
+    },
+    {
+      "path": "figures/Figure3_1_research_development.png",
+      "sha256": "c1412c679c42fd731f69acfc03769556c6ccf75cd68a004fb21665f19fc6e263"
+    },
+    {
+      "path": "figures/Figure3_1_research_development.pdf",
+      "sha256": "ba53070618882310a947acf82a6da543c2996a355c979cc9b6fbff7dc61582ca"
+    },
+    {
+      "path": "figures/Figure3_1_research_development.svg",
+      "sha256": "bbc4733d11bd7f9ccc8036737bce1eb7e90f87540eca3f20e0af1a2e5ac61d73"
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "status": "CONFIRMED_FOR_G03_R03",
+  "mapping": {
+    "software_P1_client_0": "P06",
+    "software_P2_client_2": "P05",
+    "video_V16_original_A": "P06",
+    "video_V21_original_B": "P05"
+  },
+  "chain": [
+    "The author identifies G03 VR recording-view participant A as P06. E34 identifies A as V16 / T3.mp4.",
+    "The existing round anchor locates software round_start at approximately V16 110.787 s.",
+    "At three independent media frames, the local controller holds S4 during intervals logged to P1/client 0. UTC elapsed differences, not active-task seconds, locate these windows.",
+    "Therefore software P1 corresponds to the recorded local participant P06 for this episode; the other dyad member P05 corresponds to P2."
+  ],
+  "sources": [
+    {
+      "path": "source-archive/workspace/outputs/thesis_v1_1_20261102/revision/author_corrections_20261102.json",
+      "sha256": "883fc66b01d91b4815e3172e55c60e99fe9d678b9154c8a563376119c2dc76d3"
+    },
+    {
+      "path": "source-archive/REIT7841_B/数据收集/数据与展示推进/04_证据与展示衔接/E34_G03蜡烛同侧与局部拼法分歧.txt",
+      "sha256": "e643bcfc787f03444887891b0741ee24d36474934af37757149875d72469c70e"
+    },
+    {
+      "path": "source-archive/REIT7841_B/数据收集/数据与展示推进/03_首轮整理/软件端点与研究参与者映射_v02.tsv",
+      "sha256": "6a8f45ce53c3fc37473b4eb952786f0443e69c61254bf84f593e08ae4610897e"
+    },
+    {
+      "path": "source-archive/REIT7841_B/数据收集/数据与展示推进/03_首轮整理/V16_V21蜡烛双端与计时核验_v060.txt",
+      "sha256": "17b3504458ae4db97d7370d91405e113c198545484d54091ea48d344c85138b6"
+    },
+    {
+      "path": "source-archive/REIT7841_B/数据收集/数据与展示推进/03_首轮整理/V16_V21蜡烛来源核验_v060.json",
+      "sha256": "37621082809451b2cad16c7a99d0254f2c0bdbb3ba84000e450fbc20e3be30d8"
+    },
+    {
+      "path": "source-archive/REIT7841_B/数据收集/数据与展示推进/24_六组行为与G06蜡烛复核_v094/frame_index.json",
+      "sha256": "a61f72c79f4cb0289e460802378c7c73964b5fbbe8a50af921748ab7491211a7"
+    },
+    {
+      "path": "source-archive/REIT7841_B/数据收集/video/VR first-person perspective/REIT_Tangram/ResearchV2/TECHNICAL_TEST_20261009T035445_fede18ca_events_v2.csv",
+      "sha256": "516623c52fcb2348d20a06f227ac6a08cd0a566166b1cd969117b7180ddd4351"
+    },
+    {
+      "path": "source-archive/workspace/outputs/thesis_v1_1_20261102/revision/figure_inputs/geometry/G03_R03.csv",
+      "sha256": "4d387aaf38d0e370731f116adc750c4c9fa6228ccc5f0d23bd34a0a0c7cf78ab"
+    }
+  ],
+  "round_anchor": {
+    "original_csv_line": 4094,
+    "utc": "2026-10-09T04:21:56.3469560Z",
+    "estimated_V16_media_s": 110.787,
+    "basis": "existing v032 alignment retained in v060 clock review"
+  },
+  "anchors": [
+    {
+      "frame": {
+        "path": "evidence/analysis/figures/inputs/identity_frames/G03_R03_00146.000.jpg",
+        "sha256": "0175b4d8a908113e8faf1eada84606adad99f519a3f6cd85bfb08b2360ed79d0",
+        "original_locator": "source-archive/REIT7841_B/数据收集/数据与展示推进/24_六组行为与G06蜡烛复核_v094/frames/G03_R03_00146.000.jpg"
+      },
+      "frame_index_record": {
+        "actual_s": 145.99998,
+        "image": "G03_R03_00146.000.jpg",
+        "job": "G03_R03",
+        "requested_s": 146,
+        "source": "source-archive/REIT7841_B/数据收集/video/VR first-person perspective/T3.mp4"
+      },
+      "original_csv_lines": [
+        4365,
+        4380
+      ],
+      "events": [
+        {
+          "event_seq": "4364",
+          "utc": "2026-10-09T04:22:31.1251410Z",
+          "event": "grab_accepted",
+          "active_elapsed_s": "34.430310",
+          "participant_id": "P1",
+          "client_id": "0",
+          "piece_id": "S4",
+          "manipulation_id": "TECHNICAL_TEST-R02-S4-M0031"
+        },
+        {
+          "event_seq": "4379",
+          "utc": "2026-10-09T04:22:32.0557130Z",
+          "event": "piece_release",
+          "active_elapsed_s": "35.351686",
+          "participant_id": "P1",
+          "client_id": "0",
+          "piece_id": "S4",
+          "manipulation_id": "TECHNICAL_TEST-R02-S4-M0031"
+        }
+      ],
+      "estimated_media_window_s": [
+        145.565185,
+        146.495757
+      ],
+      "frame_inside_window": true,
+      "actual_visual_observation": "Local white Quest controller ray and grab point connect to the green S4 parallelogram. The piece is visibly lifted/tilted in the recorded local view.",
+      "viewed_with": "view_image, three individual authentic frames, 2 November 2026"
+    },
+    {
+      "frame": {
+        "path": "evidence/analysis/figures/inputs/identity_frames/G03_R03_00166.000.jpg",
+        "sha256": "34da0bc40d46120f3102ce90c8d5d117cb8466ac9a494e6b195941d9dbc2dd23",
+        "original_locator": "source-archive/REIT7841_B/数据收集/数据与展示推进/24_六组行为与G06蜡烛复核_v094/frames/G03_R03_00166.000.jpg"
+      },
+      "frame_index_record": {
+        "actual_s": 165.99998,
+        "image": "G03_R03_00166.000.jpg",
+        "job": "G03_R03",
+        "requested_s": 166,
+        "source": "source-archive/REIT7841_B/数据收集/video/VR first-person perspective/T3.mp4"
+      },
+      "original_csv_lines": [
+        4703,
+        4716
+      ],
+      "events": [
+        {
+          "event_seq": "4702",
+          "utc": "2026-10-09T04:22:51.0149600Z",
+          "event": "grab_accepted",
+          "active_elapsed_s": "54.121258",
+          "participant_id": "P1",
+          "client_id": "0",
+          "piece_id": "S4",
+          "manipulation_id": "TECHNICAL_TEST-R02-S4-M0034"
+        },
+        {
+          "event_seq": "4715",
+          "utc": "2026-10-09T04:22:51.8752040Z",
+          "event": "piece_release",
+          "active_elapsed_s": "54.973153",
+          "participant_id": "P1",
+          "client_id": "0",
+          "piece_id": "S4",
+          "manipulation_id": "TECHNICAL_TEST-R02-S4-M0034"
+        }
+      ],
+      "estimated_media_window_s": [
+        165.455004,
+        166.315248
+      ],
+      "frame_inside_window": true,
+      "actual_visual_observation": "Local white Quest controller ray and grab point connect to the green S4 parallelogram. The piece is visibly lifted/tilted in the recorded local view.",
+      "viewed_with": "view_image, three individual authentic frames, 2 November 2026"
+    },
+    {
+      "frame": {
+        "path": "evidence/analysis/figures/inputs/identity_frames/G03_R03_00246.000.jpg",
+        "sha256": "a54a49e536bfe818ca8521f9ac6c02201f7c9e33546ce1f02e5439070cab40fb",
+        "original_locator": "source-archive/REIT7841_B/数据收集/数据与展示推进/24_六组行为与G06蜡烛复核_v094/frames/G03_R03_00246.000.jpg"
+      },
+      "frame_index_record": {
+        "actual_s": 245.99999,
+        "image": "G03_R03_00246.000.jpg",
+        "job": "G03_R03",
+        "requested_s": 246,
+        "source": "source-archive/REIT7841_B/数据收集/video/VR first-person perspective/T3.mp4"
+      },
+      "original_csv_lines": [
+        5909,
+        5922
+      ],
+      "events": [
+        {
+          "event_seq": "5908",
+          "utc": "2026-10-09T04:24:11.1802820Z",
+          "event": "grab_accepted",
+          "active_elapsed_s": "133.485884",
+          "participant_id": "P1",
+          "client_id": "0",
+          "piece_id": "S4",
+          "manipulation_id": "TECHNICAL_TEST-R02-S4-M0037"
+        },
+        {
+          "event_seq": "5921",
+          "utc": "2026-10-09T04:24:12.0694750Z",
+          "event": "piece_release",
+          "active_elapsed_s": "134.365112",
+          "participant_id": "P1",
+          "client_id": "0",
+          "piece_id": "S4",
+          "manipulation_id": "TECHNICAL_TEST-R02-S4-M0037"
+        }
+      ],
+      "estimated_media_window_s": [
+        245.620326,
+        246.509519
+      ],
+      "frame_inside_window": true,
+      "actual_visual_observation": "Local white Quest controller ray and grab point connect to the green S4 parallelogram. The piece is visibly lifted/tilted in the recorded local view.",
+      "viewed_with": "view_image, three individual authentic frames, 2 November 2026"
+    }
+  ],
+  "counterexample_guardrail": {
+    "P2_also_manipulated_S4": [
+      {
+        "source_line": "4939",
+        "event": "grab_accepted",
+        "active_elapsed_s": "72.875522",
+        "participant_id": "P2",
+        "piece_id": "S4"
+      },
+      {
+        "source_line": "4966",
+        "event": "piece_release",
+        "active_elapsed_s": "75.845545",
+        "participant_id": "P2",
+        "piece_id": "S4"
+      }
+    ],
+    "implication": "Identity is established by the three selected aligned intervals, not by assuming every S4 action belonged to one person."
+  },
+  "limitations": [
+    "Episode-local mapping, not a global P1-to-video-A rule.",
+    "The media anchor is an approximate navigation alignment, not proof of frame-exact synchronization across the entire recording.",
+    "Video B 03:06 and activity-log 67.38 s remain distinct clocks and are not asserted to be the same event.",
+    "The raw log IDs and original media are unchanged."
+  ]
+}

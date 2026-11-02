@@ -1,18 +1,17 @@
-# REIT7841
+# REIT7841 research data and analysis
 
-Collaborative Tangram in shared overhead VR — Yiyang Qin, The University of Queensland.
+Research data archive for the six-dyad collaborative Tangram study.
 
-## Thesis
+| Directory | Contents |
+|---|---|
+| `evidence/raw/vr/` | All 32 original VR CSV exports, file hashes and field schema |
+| `evidence/questionnaire/` | 45 original responses, normalized data, 48 confirmed responses and item dictionary |
+| `evidence/observations/` | Researcher process records, coded episodes and group interview transcripts |
+| `evidence/analysis/` | Source-line extracts, event coding, case analyses, figure inputs, scripts and calculated outputs |
+| `evidence/protocol/` | Identifier mapping, current corrections and logging implementation snapshots |
+| `evidence/manifests/` | File provenance, SHA-256 checksums and source-reference mapping |
 
-[Read thesis v1.1](thesis/v1.1/REIT7841_Thesis_v1.1.pdf) · [LaTeX source package](thesis/v1.1/REIT7841_Thesis_v1.1_LaTeX.zip) · [Source and build instructions](thesis/v1.1/README.md) · [Study source catalogue](thesis/v1.1/materials/README.md)
+Original VR CSVs are unmodified. Historical analysis notes retain their version context; current identifier mappings and corrections are in `evidence/protocol/`. Original video/audio and signed consent/identity records are retained separately.
 
-The current thesis includes the 2 November 2026 layout revision. Original recordings, signed consent forms and restricted records are retained separately.
-
-## Earlier project records
-
-- [Initial project roadmap](RoughThesisProjectPlan.md)
-- [Week 2](W2/)
-- [Week 3](W3/)
-- [Week 4](W4/)
-
-These earlier records document development; the thesis describes the implemented six-dyad study.
+Verify files and data linkage: `python3 evidence/verify_evidence.py`.
+Figure reproduction instructions and dependencies are in `evidence/analysis/figures/README.md`.

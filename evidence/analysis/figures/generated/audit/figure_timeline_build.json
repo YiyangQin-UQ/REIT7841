@@ -1,0 +1,26 @@
+{
+  "outputs": [
+    {
+      "path": "evidence/analysis/figures/generated/figures/F3_G06_action_timeline.png",
+      "sha256": "20597159fbd9d281ccaf583e57f9f573711753042be2622722f7e4bb04cf4151"
+    },
+    {
+      "path": "evidence/analysis/figures/generated/figures/F3_G06_action_timeline.pdf",
+      "sha256": "973a24aa9cb694db9c1696226d51e65913ee4a5ffe7be5449c32cb7ae704399f"
+    },
+    {
+      "path": "evidence/analysis/figures/generated/figures/F3_G06_action_timeline.svg",
+      "sha256": "fa40fffa18d087e4e1a72e1698699da03f21c5e89e8404a16f9e529872f57fb2"
+    }
+  ],
+  "interval_count": 79,
+  "all_79_rows_loaded": true,
+  "plotting_instructions": "unchanged from current v1.1 script",
+  "software_to_research_participant": {
+    "P1": "P11",
+    "P2": "P12"
+  },
+  "data_sha256": "b33bce6cfe0379fe96e6f2fb519a439a0f35f5cba3a234ffece602293aede03a",
+  "script_sha256": "3d5e8609e37b831c66d3aec533a328bb5cb632a20d63abcb7697c56ee7ff9bdf",
+  "pixel_review_done": false
+}

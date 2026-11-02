@@ -1,0 +1,1031 @@
+{
+  "scope": "Current final v1.1 figure logic and minimum inputs. No original full video, signed consent, full chat, or private email copied. Source-archive locators identify historical originals; runtime dependencies are package-relative.",
+  "files": [
+    {
+      "path": "inputs/geometry/01_上下外沿测量及来源.json",
+      "sha256": "c0613b81eba680a13aac6286adfafcfed356922988bc0e07dece4b3f24886b63",
+      "original_path": "source-archive/workspace/outputs/thesis_v1_1_20261102/revision/figure_inputs/geometry/01_上下外沿测量及来源.json",
+      "original_sha256": "5052042d7a82d88564735af2748f32c387384f84efe3f189bef3b859d680de8b",
+      "transformation": "verbatim copy Public copy: provenance root locators normalized; generated metadata serializer made relative where applicable.",
+      "role": "logged pose slice / saved mesh / archived comparison / authentic frame / target",
+      "D": [
+        "D06",
+        "D08",
+        "D14",
+        "D16",
+        "D26"
+      ],
+      "pre_public_locator_sha256": "5052042d7a82d88564735af2748f32c387384f84efe3f189bef3b859d680de8b"
+    },
+    {
+      "path": "inputs/geometry/geometry_from_backup.json",
+      "sha256": "bd12ed5d5211b17556b8262a6935e132342d00b86dfd122010362e6fbd331d51",
+      "original_path": "source-archive/workspace/outputs/thesis_v1_1_20261102/revision/figure_inputs/geometry/geometry_from_backup.json",
+      "original_sha256": "8d93f9dd4bbfcbb1c49513f16bfcbb4f43eb981c731d4e2c353984c7c15938d8",
+      "transformation": "verbatim copy Public copy: provenance root locators normalized; generated metadata serializer made relative where applicable.",
+      "role": "logged pose slice / saved mesh / archived comparison / authentic frame / target",
+      "D": [
+        "D06",
+        "D08",
+        "D14",
+        "D16",
+        "D26"
+      ],
+      "pre_public_locator_sha256": "8d93f9dd4bbfcbb1c49513f16bfcbb4f43eb981c731d4e2c353984c7c15938d8"
+    },
+    {
+      "path": "inputs/geometry/G03_R03.csv",
+      "sha256": "4d387aaf38d0e370731f116adc750c4c9fa6228ccc5f0d23bd34a0a0c7cf78ab",
+      "original_path": "source-archive/workspace/outputs/thesis_v1_1_20261102/revision/figure_inputs/geometry/G03_R03.csv",
+      "original_sha256": "4d387aaf38d0e370731f116adc750c4c9fa6228ccc5f0d23bd34a0a0c7cf78ab",
+      "transformation": "verbatim copy",
+      "role": "logged pose slice / saved mesh / archived comparison / authentic frame / target",
+      "D": [
+        "D06",
+        "D08",
+        "D14",
+        "D16",
+        "D26"
+      ]
+    },
+    {
+      "path": "inputs/geometry/00_vela-5_silhouette.png",
+      "sha256": "96c752b033bdb5672893fb0528c8c7d1c37090bcafec0f8e402501c1a21dbbf0",
+      "original_path": "source-archive/workspace/outputs/thesis_v1_1_20261102/revision/figure_inputs/geometry/00_vela-5_silhouette.png",
+      "original_sha256": "96c752b033bdb5672893fb0528c8c7d1c37090bcafec0f8e402501c1a21dbbf0",
+      "transformation": "verbatim copy",
+      "role": "logged pose slice / saved mesh / archived comparison / authentic frame / target",
+      "D": [
+        "D06",
+        "D08",
+        "D14",
+        "D16",
+        "D26"
+      ]
+    },
+    {
+      "path": "inputs/geometry/G06_candle_sequence.json",
+      "sha256": "a31e2b77d772fe3c8402f82299f7489990d0fe5ca19ba60b20865ea523f4f050",
+      "original_path": "source-archive/workspace/outputs/thesis_v1_1_20261102/revision/figure_inputs/geometry/G06_candle_sequence.json",
+      "original_sha256": "a31e2b77d772fe3c8402f82299f7489990d0fe5ca19ba60b20865ea523f4f050",
+      "transformation": "verbatim copy",
+      "role": "logged pose slice / saved mesh / archived comparison / authentic frame / target",
+      "D": [
+        "D06",
+        "D08",
+        "D14",
+        "D16",
+        "D26"
+      ]
+    },
+    {
+      "path": "inputs/geometry/G04_R03.csv",
+      "sha256": "23049ede73d1cc0191577c79d89985c7c053c6c764a7abf9f06de8d845f9fed4",
+      "original_path": "source-archive/workspace/outputs/thesis_v1_1_20261102/revision/figure_inputs/geometry/G04_R03.csv",
+      "original_sha256": "23049ede73d1cc0191577c79d89985c7c053c6c764a7abf9f06de8d845f9fed4",
+      "transformation": "verbatim copy",
+      "role": "logged pose slice / saved mesh / archived comparison / authentic frame / target",
+      "D": [
+        "D06",
+        "D08",
+        "D14",
+        "D16",
+        "D26"
+      ]
+    },
+    {
+      "path": "inputs/geometry/three_candle_outcomes.json",
+      "sha256": "d3e8833a973711c8c455569e7ad6bf0084be02ba724ca2a89d72a93a69c26574",
+      "original_path": "source-archive/workspace/outputs/thesis_v1_1_20261102/revision/figure_inputs/geometry/three_candle_outcomes.json",
+      "original_sha256": "d3e8833a973711c8c455569e7ad6bf0084be02ba724ca2a89d72a93a69c26574",
+      "transformation": "verbatim copy",
+      "role": "logged pose slice / saved mesh / archived comparison / authentic frame / target",
+      "D": [
+        "D06",
+        "D08",
+        "D14",
+        "D16",
+        "D26"
+      ]
+    },
+    {
+      "path": "inputs/geometry/G06_R03_00945.000.jpg",
+      "sha256": "3b0a87595a277fdc846a3cfec8531ccd8d70a775a4e2dee2338d20284c828b54",
+      "original_path": "source-archive/workspace/outputs/thesis_v1_1_20261102/revision/figure_inputs/geometry/G06_R03_00945.000.jpg",
+      "original_sha256": "3b0a87595a277fdc846a3cfec8531ccd8d70a775a4e2dee2338d20284c828b54",
+      "transformation": "verbatim copy",
+      "role": "logged pose slice / saved mesh / archived comparison / authentic frame / target",
+      "D": [
+        "D06",
+        "D08",
+        "D14",
+        "D16",
+        "D26"
+      ]
+    },
+    {
+      "path": "inputs/geometry/G06_R03.csv",
+      "sha256": "875d9d274868717b4f982fd8338479aa5965eb3e620fba330e9bb0c6de225f33",
+      "original_path": "source-archive/workspace/outputs/thesis_v1_1_20261102/revision/figure_inputs/geometry/G06_R03.csv",
+      "original_sha256": "875d9d274868717b4f982fd8338479aa5965eb3e620fba330e9bb0c6de225f33",
+      "transformation": "verbatim copy",
+      "role": "logged pose slice / saved mesh / archived comparison / authentic frame / target",
+      "D": [
+        "D06",
+        "D08",
+        "D14",
+        "D16",
+        "D26"
+      ]
+    },
+    {
+      "path": "inputs/geometry/source_index.json",
+      "sha256": "3ddcb8e4aa5de728e2e763bc059c0af5213a5b5e7de3d28e4c9abda046e003e9",
+      "original_path": "source-archive/workspace/outputs/thesis_v1_1_20261102/revision/figure_inputs/geometry/source_index.json",
+      "original_sha256": "20c607a44382121e8cc606ddc06121ccad4c9d3d86fe8d862f849e17b780e5dc",
+      "transformation": "verbatim copy Public copy: provenance root locators normalized; generated metadata serializer made relative where applicable.",
+      "role": "logged pose slice / saved mesh / archived comparison / authentic frame / target",
+      "D": [
+        "D06",
+        "D08",
+        "D14",
+        "D16",
+        "D26"
+      ],
+      "pre_public_locator_sha256": "20c607a44382121e8cc606ddc06121ccad4c9d3d86fe8d862f849e17b780e5dc"
+    },
+    {
+      "path": "inputs/division_action_intervals.csv",
+      "sha256": "b33bce6cfe0379fe96e6f2fb519a439a0f35f5cba3a234ffece602293aede03a",
+      "original_path": "source-archive/workspace/outputs/thesis_v1_1_20261102/revision/figure_inputs/division_action_intervals.csv",
+      "original_sha256": "77fd9f00a770e5165098704dde4222be6f1a0a2f94402f89fb5c24985b12fe29",
+      "transformation": "verbatim copy Public copy: provenance root locators normalized; generated metadata serializer made relative where applicable.",
+      "role": "archived derived evidence or frame provenance",
+      "D": [
+        "D03",
+        "D12",
+        "D21",
+        "D26"
+      ],
+      "pre_public_locator_sha256": "77fd9f00a770e5165098704dde4222be6f1a0a2f94402f89fb5c24985b12fe29"
+    },
+    {
+      "path": "inputs/division_evidence.json",
+      "sha256": "034dff5d40d000b04b25e9963875ddf8ef6a77d7335f1d3412ef07a9e0ae507d",
+      "original_path": "source-archive/workspace/outputs/thesis_v1_1_20261102/revision/figure_inputs/division_evidence.json",
+      "original_sha256": "5b43c87a1e50e08fe2abef62d8223fc6c68b93baf90d3e5ec7fe91e44c55f340",
+      "transformation": "verbatim copy Public copy: provenance root locators normalized; generated metadata serializer made relative where applicable.",
+      "role": "archived derived evidence or frame provenance",
+      "D": [
+        "D03",
+        "D12",
+        "D21",
+        "D26"
+      ],
+      "pre_public_locator_sha256": "5b43c87a1e50e08fe2abef62d8223fc6c68b93baf90d3e5ec7fe91e44c55f340"
+    },
+    {
+      "path": "inputs/F4_self_revision_manifest.json",
+      "sha256": "79d66a0ff791afa79f1f2a8dd851b56c20ba07ef1e07a0f9540145c9d36b171e",
+      "original_path": "source-archive/workspace/outputs/thesis_v1_1_20261102/revision/figure_inputs/F4_self_revision_manifest.json",
+      "original_sha256": "6efddd9f057e0ff86483514ef5cd74919a76a05eaa028f4f4df57fdcdedb3755",
+      "transformation": "verbatim copy Public copy: provenance root locators normalized; generated metadata serializer made relative where applicable.",
+      "role": "archived derived evidence or frame provenance",
+      "D": [
+        "D03",
+        "D12",
+        "D21",
+        "D26"
+      ],
+      "pre_public_locator_sha256": "6efddd9f057e0ff86483514ef5cd74919a76a05eaa028f4f4df57fdcdedb3755"
+    },
+    {
+      "path": "inputs/fig07_g06_goose_provenance.json",
+      "sha256": "4c6e0ad0e03b003552a553fcbf0d45ec57e7350f5174d233f319d63390b9803a",
+      "original_path": "source-archive/workspace/outputs/thesis_v1_1_20261102/revision/figure_inputs/fig07_g06_goose_provenance.json",
+      "original_sha256": "a38d59f75dff2c4e2c0a0a5dde656f0d9961ec79da0fe18f4d366753cbf86b4f",
+      "transformation": "verbatim copy Public copy: provenance root locators normalized; generated metadata serializer made relative where applicable.",
+      "role": "archived derived evidence or frame provenance",
+      "D": [
+        "D03",
+        "D12",
+        "D21",
+        "D26"
+      ],
+      "pre_public_locator_sha256": "a38d59f75dff2c4e2c0a0a5dde656f0d9961ec79da0fe18f4d366753cbf86b4f"
+    },
+    {
+      "path": "inputs/self_revision_frames/G01_R02_0280.0_crop.png",
+      "sha256": "a602fafff0987d52f6d19b5d5372fedf3e248eb1f530a067e74625e3537008b3",
+      "original_path": "source-archive/workspace/outputs/thesis_v1_1_20261102/revision/figure_inputs/self_revision_frames/G01_R02_0280.0_crop.png",
+      "original_sha256": "a602fafff0987d52f6d19b5d5372fedf3e248eb1f530a067e74625e3537008b3",
+      "transformation": "verbatim copy",
+      "role": "authentic rectangular crop or original extraction provenance",
+      "D": [
+        "D03",
+        "D21"
+      ]
+    },
+    {
+      "path": "inputs/self_revision_frames/G01_R02_0363.0_crop.png",
+      "sha256": "280d9e4076f48cc29eee0756e0a74b8f12422a0879d7b43c12fd6daa12bc96b5",
+      "original_path": "source-archive/workspace/outputs/thesis_v1_1_20261102/revision/figure_inputs/self_revision_frames/G01_R02_0363.0_crop.png",
+      "original_sha256": "280d9e4076f48cc29eee0756e0a74b8f12422a0879d7b43c12fd6daa12bc96b5",
+      "transformation": "verbatim copy",
+      "role": "authentic rectangular crop or original extraction provenance",
+      "D": [
+        "D03",
+        "D21"
+      ]
+    },
+    {
+      "path": "inputs/self_revision_frames/G01_R02_0388.0_crop.png",
+      "sha256": "7387fa0992fd04915bb088c2aad0cd4a8a9876483895b843106dc289b8380a24",
+      "original_path": "source-archive/workspace/outputs/thesis_v1_1_20261102/revision/figure_inputs/self_revision_frames/G01_R02_0388.0_crop.png",
+      "original_sha256": "7387fa0992fd04915bb088c2aad0cd4a8a9876483895b843106dc289b8380a24",
+      "transformation": "verbatim copy",
+      "role": "authentic rectangular crop or original extraction provenance",
+      "D": [
+        "D03",
+        "D21"
+      ]
+    },
+    {
+      "path": "inputs/self_revision_frames/frame_provenance.json",
+      "sha256": "44525ae5a6be8784d9d365ed23e08866211bcffc737f799e78ae10777f0c4135",
+      "original_path": "source-archive/workspace/outputs/thesis_v1_1_20261102/revision/figure_inputs/self_revision_frames/frame_provenance.json",
+      "original_sha256": "ce01172571737e3c87149172c862c15c06bfc9773a28dc731a60a66da54757b3",
+      "transformation": "verbatim copy Public copy: provenance root locators normalized; generated metadata serializer made relative where applicable.",
+      "role": "authentic rectangular crop or original extraction provenance",
+      "D": [
+        "D03",
+        "D21"
+      ],
+      "pre_public_locator_sha256": "ce01172571737e3c87149172c862c15c06bfc9773a28dc731a60a66da54757b3"
+    },
+    {
+      "path": "inputs/goose/V06用户原回报_仅本地_v069.txt",
+      "sha256": "5e6191a0b575ca75619dcec6407f6601891c187adda3da98930abb053ca4b0aa",
+      "original_path": "source-archive/workspace/outputs/thesis_v1_1_20261102/revision/figure_inputs/goose/V06用户原回报_仅本地_v069.txt",
+      "original_sha256": "5e6191a0b575ca75619dcec6407f6601891c187adda3da98930abb053ca4b0aa",
+      "transformation": "verbatim copy",
+      "role": "authentic crop or researcher process report",
+      "D": [
+        "D12"
+      ]
+    },
+    {
+      "path": "inputs/goose/panel_a.png",
+      "sha256": "655f0cf0cb74cf4b6e1e55029945541e19fe9c9f1146a1fa8f10a1f288a95db9",
+      "original_path": "source-archive/workspace/outputs/thesis_v1_1_20261102/revision/figure_inputs/goose/panel_a.png",
+      "original_sha256": "655f0cf0cb74cf4b6e1e55029945541e19fe9c9f1146a1fa8f10a1f288a95db9",
+      "transformation": "verbatim copy",
+      "role": "authentic crop or researcher process report",
+      "D": [
+        "D12"
+      ]
+    },
+    {
+      "path": "inputs/goose/panel_b.png",
+      "sha256": "2c2556ded5c32a33ca16c1cac2db00d7822f71ffcd64d15b225dfb36495bdf33",
+      "original_path": "source-archive/workspace/outputs/thesis_v1_1_20261102/revision/figure_inputs/goose/panel_b.png",
+      "original_sha256": "2c2556ded5c32a33ca16c1cac2db00d7822f71ffcd64d15b225dfb36495bdf33",
+      "transformation": "verbatim copy",
+      "role": "authentic crop or researcher process report",
+      "D": [
+        "D12"
+      ]
+    },
+    {
+      "path": "inputs/goose/E45_不同分块方案图片补证_v072.txt",
+      "sha256": "1f417d4933b1f933940c854b621dbdc6c362584b7a76188801255cb262da5f13",
+      "original_path": "source-archive/workspace/outputs/thesis_v1_1_20261102/revision/figure_inputs/goose/E45_不同分块方案图片补证_v072.txt",
+      "original_sha256": "1f417d4933b1f933940c854b621dbdc6c362584b7a76188801255cb262da5f13",
+      "transformation": "verbatim copy",
+      "role": "authentic crop or researcher process report",
+      "D": [
+        "D12"
+      ]
+    },
+    {
+      "path": "inputs/goose/panel_c.png",
+      "sha256": "57501490bb0e4e15c11b098f59de899981c6f8c4aaa39b00902da014cf3a6503",
+      "original_path": "source-archive/workspace/outputs/thesis_v1_1_20261102/revision/figure_inputs/goose/panel_c.png",
+      "original_sha256": "57501490bb0e4e15c11b098f59de899981c6f8c4aaa39b00902da014cf3a6503",
+      "transformation": "verbatim copy",
+      "role": "authentic crop or researcher process report",
+      "D": [
+        "D12"
+      ]
+    },
+    {
+      "path": "inputs/goose/E45_G06实体俯视局部接续与核对.txt",
+      "sha256": "91044c8c7c67febacadf966ca09bf0820c430132d3e3a6fc4b5e37a3805d0844",
+      "original_path": "source-archive/workspace/outputs/thesis_v1_1_20261102/revision/figure_inputs/goose/E45_G06实体俯视局部接续与核对.txt",
+      "original_sha256": "91044c8c7c67febacadf966ca09bf0820c430132d3e3a6fc4b5e37a3805d0844",
+      "transformation": "verbatim copy",
+      "role": "authentic crop or researcher process report",
+      "D": [
+        "D12"
+      ]
+    },
+    {
+      "path": "inputs/goose/panel_d.png",
+      "sha256": "307bb6e0bebabbcb66f121f52e8c0c5f47dc89fd2c71ce4d40a0cb210b1c41f8",
+      "original_path": "source-archive/workspace/outputs/thesis_v1_1_20261102/revision/figure_inputs/goose/panel_d.png",
+      "original_sha256": "307bb6e0bebabbcb66f121f52e8c0c5f47dc89fd2c71ce4d40a0cb210b1c41f8",
+      "transformation": "verbatim copy",
+      "role": "authentic crop or researcher process report",
+      "D": [
+        "D12"
+      ]
+    },
+    {
+      "path": "inputs/questionnaire/survey_confirmed.tsv",
+      "sha256": "0a7f2680c95ebbd1a2bd29859ff1e4c3327352c2a2a88f2bb083cb9e938ed87d",
+      "original_path": "source-archive/REIT7841_B/数据收集/数据与展示推进/11_过程证据与确认问卷_v080/data/survey_confirmed.tsv",
+      "original_sha256": "0a7f2680c95ebbd1a2bd29859ff1e4c3327352c2a2a88f2bb083cb9e938ed87d",
+      "transformation": "verbatim copy",
+      "role": "participant-coded confirmed raw questionnaire values / original item wording",
+      "D": [
+        "D20"
+      ]
+    },
+    {
+      "path": "inputs/questionnaire/question_dictionary.tsv",
+      "sha256": "defa5d32178942f97c05439cb408dba3f007ae8eca1ae279f0743561764e4f58",
+      "original_path": "source-archive/REIT7841_B/数据收集/数据与展示推进/11_过程证据与确认问卷_v080/data/question_dictionary.tsv",
+      "original_sha256": "defa5d32178942f97c05439cb408dba3f007ae8eca1ae279f0743561764e4f58",
+      "transformation": "verbatim copy",
+      "role": "participant-coded confirmed raw questionnaire values / original item wording",
+      "D": [
+        "D20"
+      ]
+    },
+    {
+      "path": "specs/apparatus_figure_spec.json",
+      "sha256": "852657c94c9a3660395848908af015a64320d5e796a02182c05236fac75fd6b1",
+      "original_path": "source-archive/workspace/outputs/thesis_v1_1_20261102/editorial/apparatus_figure_spec.json",
+      "original_sha256": "926e3f09a00090115c8c9dad396de6834617bfc910516af2aa86c173beaeebd4",
+      "transformation": "verbatim copy Public copy: provenance root locators normalized; generated metadata serializer made relative where applicable.",
+      "role": "current schematic source specification",
+      "D": [
+        "D24",
+        "D25",
+        "D44"
+      ],
+      "pre_public_locator_sha256": "926e3f09a00090115c8c9dad396de6834617bfc910516af2aa86c173beaeebd4"
+    },
+    {
+      "path": "specs/analysis_flow_figure_spec.json",
+      "sha256": "0dad0f9a4941c2a5e660d28f6b3139f519b7d779b8b6279a0eb3c5797ba19dbe",
+      "original_path": "source-archive/workspace/outputs/thesis_v1_1_20261102/editorial/analysis_flow_figure_spec.json",
+      "original_sha256": "0dad0f9a4941c2a5e660d28f6b3139f519b7d779b8b6279a0eb3c5797ba19dbe",
+      "transformation": "verbatim copy",
+      "role": "current schematic source specification",
+      "D": [
+        "D24",
+        "D25",
+        "D44"
+      ]
+    },
+    {
+      "path": "provenance/figure_g03_identity_audit.json",
+      "sha256": "a45f708d49c4812239326424d1213b5e6fa19c2d8c2e020a60267f4c72333f00",
+      "original_path": "source-archive/workspace/outputs/thesis_v1_1_20261102/revision/figure_g03_identity_audit.json",
+      "original_sha256": "c1e053f9d98c3ccedb1236948bbba5f22e9a77ad77cfdbba9aca6d7ffaf50a65",
+      "transformation": "verbatim copy Public copy: provenance root locators normalized; generated metadata serializer made relative where applicable.",
+      "role": "current revision / identity / numerical audit; original local locators retained",
+      "D": [
+        "D06",
+        "D16",
+        "D26",
+        "D74"
+      ],
+      "pre_public_locator_sha256": "c1e053f9d98c3ccedb1236948bbba5f22e9a77ad77cfdbba9aca6d7ffaf50a65"
+    },
+    {
+      "path": "provenance/figure_geometry_precision_audit.json",
+      "sha256": "3359fcecc7efe934c37e0ba3e1e3dd56d517ed47493630e336e6c4df044b46aa",
+      "original_path": "source-archive/workspace/outputs/thesis_v1_1_20261102/revision/figure_geometry_precision_audit.json",
+      "original_sha256": "dcae1e7f5be4ee7623d415c001026431a81bcbe903a59dc3b20010507d7cfe9e",
+      "transformation": "verbatim copy Public copy: provenance root locators normalized; generated metadata serializer made relative where applicable.",
+      "role": "current revision / identity / numerical audit; original local locators retained",
+      "D": [
+        "D06",
+        "D16",
+        "D26",
+        "D74"
+      ],
+      "pre_public_locator_sha256": "dcae1e7f5be4ee7623d415c001026431a81bcbe903a59dc3b20010507d7cfe9e"
+    },
+    {
+      "path": "provenance/figure_caption_suggestions.json",
+      "sha256": "64920340373a0334e10a0b090ff32e0b5f9a48d7cc7be149cbbdbc4e71d733a0",
+      "original_path": "source-archive/workspace/outputs/thesis_v1_1_20261102/revision/figure_caption_suggestions.json",
+      "original_sha256": "64920340373a0334e10a0b090ff32e0b5f9a48d7cc7be149cbbdbc4e71d733a0",
+      "transformation": "verbatim copy",
+      "role": "current revision / identity / numerical audit; original local locators retained",
+      "D": [
+        "D06",
+        "D16",
+        "D26",
+        "D74"
+      ]
+    },
+    {
+      "path": "provenance/author_corrections_20261102.json",
+      "sha256": "883fc66b01d91b4815e3172e55c60e99fe9d678b9154c8a563376119c2dc76d3",
+      "original_path": "source-archive/workspace/outputs/thesis_v1_1_20261102/revision/author_corrections_20261102.json",
+      "original_sha256": "883fc66b01d91b4815e3172e55c60e99fe9d678b9154c8a563376119c2dc76d3",
+      "transformation": "verbatim copy",
+      "role": "current revision / identity / numerical audit; original local locators retained",
+      "D": [
+        "D06",
+        "D16",
+        "D26",
+        "D74"
+      ]
+    },
+    {
+      "path": "provenance/figure_g03_piece_continuation_evidence.json",
+      "sha256": "8c309d09b3f0ded1258c0ceb1c72c850803064fdc71bc85b5e5c47ed5bcef81b",
+      "original_path": "source-archive/workspace/outputs/thesis_v1_1_20261102/revision/figure_g03_piece_continuation_evidence.json",
+      "original_sha256": "8c309d09b3f0ded1258c0ceb1c72c850803064fdc71bc85b5e5c47ed5bcef81b",
+      "transformation": "verbatim copy",
+      "role": "current revision / identity / numerical audit; original local locators retained",
+      "D": [
+        "D06",
+        "D16",
+        "D26",
+        "D74"
+      ]
+    },
+    {
+      "path": "provenance/self_revision_evidence.json",
+      "sha256": "78126b3826a2ee5a2c49666a7600052b3e7b2cce13e83c6f4badcb131f695330",
+      "original_path": "source-archive/workspace/outputs/thesis_progress_20261025/draft_results_20261102/self_revision_evidence.json",
+      "original_sha256": "3b07533e6b953c7dde1dd861af1a8f7369244ab53cc4a5c7d59ef6b65c958814",
+      "transformation": "verbatim copy Public copy: provenance root locators normalized; generated metadata serializer made relative where applicable.",
+      "role": "archived episode synthesis; read with later researcher corrections",
+      "D": [
+        "D01",
+        "D03",
+        "D06",
+        "D12",
+        "D21"
+      ],
+      "pre_public_locator_sha256": "3b07533e6b953c7dde1dd861af1a8f7369244ab53cc4a5c7d59ef6b65c958814"
+    },
+    {
+      "path": "provenance/division_evidence.txt",
+      "sha256": "66326029afeff44df8a6d32ada56e53b05b31b7e193d5bbba5cabd252d440b08",
+      "original_path": "source-archive/workspace/outputs/thesis_progress_20261025/draft_results_20261102/division_evidence.txt",
+      "original_sha256": "6725e8bf07c24fb41ac3be08dda831eab8e7a14dd6f59ff758f12f319696bee7",
+      "transformation": "verbatim copy Public copy: provenance root locators normalized; generated metadata serializer made relative where applicable.",
+      "role": "archived episode synthesis; read with later researcher corrections",
+      "D": [
+        "D01",
+        "D03",
+        "D06",
+        "D12",
+        "D21"
+      ],
+      "pre_public_locator_sha256": "6725e8bf07c24fb41ac3be08dda831eab8e7a14dd6f59ff758f12f319696bee7"
+    },
+    {
+      "path": "provenance/evidence_g06_author_revision_20261102.json",
+      "sha256": "74901267c701b7c0f11dc2061a92aace944b49e40a4c3300e0fc0d113e6a7e64",
+      "original_path": "source-archive/workspace/outputs/thesis_progress_20261025/draft_discussion_20261102/evidence_g06_author_revision_20261102.json",
+      "original_sha256": "d7f1d898841dc260c434ce73c70dda13cb908cf98fe8d0a970d11b2cf9fabcf2",
+      "transformation": "verbatim copy Public copy: provenance root locators normalized; generated metadata serializer made relative where applicable.",
+      "role": "later researcher corrections to self-revision and continuation interpretation",
+      "D": [
+        "D01",
+        "D03",
+        "D12",
+        "D21"
+      ],
+      "pre_public_locator_sha256": "d7f1d898841dc260c434ce73c70dda13cb908cf98fe8d0a970d11b2cf9fabcf2"
+    },
+    {
+      "path": "provenance/questionnaire_support.json",
+      "sha256": "efb3d119a1510911199ce9cf9437a6ca7998c259bb5c883a8bb77d0ce2beff5d",
+      "original_path": "source-archive/workspace/outputs/thesis_v1_1_20261102/editorial/questionnaire_support.json",
+      "original_sha256": "cfb980d4b39f8861fe020c104655aad97220a2d5d6e3579d5d8801156e969c55",
+      "transformation": "verbatim copy Public copy: provenance root locators normalized; generated metadata serializer made relative where applicable.",
+      "role": "all 48 responses / all 12 items / provenance and figure semantics",
+      "D": [
+        "D20"
+      ],
+      "pre_public_locator_sha256": "cfb980d4b39f8861fe020c104655aad97220a2d5d6e3579d5d8801156e969c55"
+    },
+    {
+      "path": "inputs/log_traces/G04_R04.csv",
+      "sha256": "bc8b09404be0c8aabf00bdcb8201aa14105e10569e6bee359d76512f94657d9d",
+      "original_path": "source-archive/REIT7841_B/数据收集/数据与展示推进/24_六组行为与G06蜡烛复核_v094/log_traces/G04_R04.csv",
+      "original_sha256": "bc8b09404be0c8aabf00bdcb8201aa14105e10569e6bee359d76512f94657d9d",
+      "transformation": "verbatim copy",
+      "role": "source-row preserving formal-round trace",
+      "D": [
+        "D21",
+        "D26"
+      ]
+    },
+    {
+      "path": "inputs/log_traces/G05_R04.csv",
+      "sha256": "1956d2b7d6d72c3b1434b32b21ec0c9d8600503e9bc89ab75eff89dd7e0d80ec",
+      "original_path": "source-archive/REIT7841_B/数据收集/数据与展示推进/24_六组行为与G06蜡烛复核_v094/log_traces/G05_R04.csv",
+      "original_sha256": "1956d2b7d6d72c3b1434b32b21ec0c9d8600503e9bc89ab75eff89dd7e0d80ec",
+      "transformation": "verbatim copy",
+      "role": "source-row preserving formal-round trace",
+      "D": [
+        "D21",
+        "D26"
+      ]
+    },
+    {
+      "path": "inputs/log_traces/G06_R04.csv",
+      "sha256": "f057fe62cd721145a78692e38d7e0d934505c701192aa22f736f1ee6c5e77418",
+      "original_path": "source-archive/REIT7841_B/数据收集/数据与展示推进/24_六组行为与G06蜡烛复核_v094/log_traces/G06_R04.csv",
+      "original_sha256": "f057fe62cd721145a78692e38d7e0d934505c701192aa22f736f1ee6c5e77418",
+      "transformation": "verbatim copy",
+      "role": "source-row preserving formal-round trace",
+      "D": [
+        "D21",
+        "D26"
+      ]
+    },
+    {
+      "path": "scripts/build_geometry.py",
+      "sha256": "a63350c7fae63155fb6598d64bdfac9167321c47c9a0e7c134e13f0bdb20c93b",
+      "original_path": "source-archive/workspace/outputs/thesis_v1_1_20261102/scripts/build_geometry_v1_1.py",
+      "original_sha256": "d10da0bd2a385479463a1064d10a3fb4006c69882404b51a40a58dd14addebc2",
+      "transformation": "Relative paths; re-enable unchanged Figure 5.1/5.2 exports already present in current script; remove optional machine-local QA import; no drawing/data change. Public copy: provenance root locators normalized; generated metadata serializer made relative where applicable.",
+      "role": "portable current plotting or analysis code",
+      "D": [
+        "D06",
+        "D08",
+        "D14",
+        "D16",
+        "D26"
+      ],
+      "pre_public_locator_sha256": "be64ed7f365dd848984fb6c0f8a2cca61e3ae3c7442cb58e1352ba663b1747a4"
+    },
+    {
+      "path": "scripts/plot_timeline.py",
+      "sha256": "3d5e8609e37b831c66d3aec533a328bb5cb632a20d63abcb7697c56ee7ff9bdf",
+      "original_path": "source-archive/workspace/outputs/thesis_v1_1_20261102/scripts/plot_timeline_v1_1.py",
+      "original_sha256": "87cafe33bcccd06bf3b81319b4193a59d1eb00bfd543ffc3856c5202dbee3758",
+      "transformation": "Relative paths; obsolete A/B plotting-baseline execution replaced by independent raw interval checks in validate.py; drawing unchanged. Public copy: provenance root locators normalized; generated metadata serializer made relative where applicable.",
+      "role": "portable current plotting or analysis code",
+      "D": [
+        "D14",
+        "D21",
+        "D26"
+      ],
+      "pre_public_locator_sha256": "ed9a67ae5015819498ff347281e6311499bef5283b63bf416305bd634da7c1a4"
+    },
+    {
+      "path": "scripts/plot_self_revision.py",
+      "sha256": "2e348ce3fc324c6ae8bb429b72707dd6926c8fcc7f520c68f10573d41374ab3a",
+      "original_path": "source-archive/workspace/outputs/thesis_v1_1_20261102/scripts/plot_self_revision_v1_1.py",
+      "original_sha256": "fd1a9964876dbdbb87cca67ded994416ce35e33fba2a2526085bc1105d8e87e7",
+      "transformation": "Relative paths; remove unused machine-local import; drawing and crop bytes unchanged. Public copy: provenance root locators normalized; generated metadata serializer made relative where applicable.",
+      "role": "portable current plotting or analysis code",
+      "D": [
+        "D03",
+        "D21",
+        "D74"
+      ],
+      "pre_public_locator_sha256": "67bf12389d7540cb5150685854c2cf4dc88856fb810a3b0030c735d550a73f32"
+    },
+    {
+      "path": "scripts/plot_goose.py",
+      "sha256": "90a21c2056c1b58fffc73c72e4b25f323936a0b7c45aacf96eea7d4c6f3d93da",
+      "original_path": "source-archive/workspace/outputs/thesis_v1_1_20261102/scripts/plot_goose_v1_1.py",
+      "original_sha256": "8c7e948fdb135a034b39840f2c2c81e6bf3ed3b8c00dbf3b0d1a2aab97b95574",
+      "transformation": "Input/output paths relative; no drawing/data changes. Public copy: provenance root locators normalized; generated metadata serializer made relative where applicable.",
+      "role": "portable current plotting or analysis code",
+      "D": [
+        "D12",
+        "D74"
+      ],
+      "pre_public_locator_sha256": "9c0f0f03e300bc5d739b7f8aeda112d10c26f5e116909b79bd2423f45125cd89"
+    },
+    {
+      "path": "scripts/draw_method_figures.py",
+      "sha256": "7f33a7d3c060ccd7c3c0eea115ecf7f18910d8793500839d2a5a2dd1f06f9036",
+      "original_path": "source-archive/workspace/outputs/thesis_v1_1_20261102/scripts/draw_method_figures.py",
+      "original_sha256": "663e593f60164b5bdca12b499c076e2e69c734de4c6c6aeed2119e22275d4433",
+      "transformation": "Relative spec and output paths; no schematic drawing changes. Public copy: provenance root locators normalized; generated metadata serializer made relative where applicable.",
+      "role": "portable current plotting or analysis code",
+      "D": [
+        "D24",
+        "D25",
+        "D44"
+      ],
+      "pre_public_locator_sha256": "f37eb5bc9e5360e34dfc9a2b1834f7190747dedb3e1d778a4e1cb842335e00d6"
+    },
+    {
+      "path": "scripts/build_auxiliary_figures.py",
+      "sha256": "abab4acf093ece5bd2fe14e1e835c1d9b586a121b230e7f6862105619876e318",
+      "original_path": "source-archive/workspace/outputs/thesis_v1_1_20261102/assets/figures/build_auxiliary_figures.py",
+      "original_sha256": "b9ff821e89b1b1eb83b5ebfa624fe54ac3452b3a159f7e96ba91896947a2b931",
+      "transformation": "Use packaged 48-response table/dictionary, relative outputs; unchanged plots; omit broken legacy provenance-path hashing; archived support retained. Public copy: provenance root locators normalized; generated metadata serializer made relative where applicable.",
+      "role": "portable current plotting or analysis code",
+      "D": [
+        "D20",
+        "D28",
+        "D29",
+        "D31",
+        "D33",
+        "D36",
+        "D38"
+      ],
+      "pre_public_locator_sha256": "75d3e68034fe00b0b4d057a0907058562da0bce51efdcf3a27648fdda1465b24"
+    },
+    {
+      "path": "scripts/redraw_final_schematics.py",
+      "sha256": "b4e8b70d5381ca7443499fcf55ab9f28e8c11bc36bdc8d262ecdd58921fc30f6",
+      "original_path": "source-archive/workspace/outputs/thesis_v1_1_20261102/revision/layout_20261102/redraw_schematics.py",
+      "original_sha256": "e1dcb536b76c2711e9dc9e62a7e7784f825d817b36452acbc173f1b1a4d163aa",
+      "transformation": "Final 3.1/4.1 readability-layout script made relative; preserve all plotting instructions and node/edge checks; remove backup operations, local skill imports, and machine-specific PDF inspection subprocess. Public copy: provenance root locators normalized; generated metadata serializer made relative where applicable.",
+      "role": "final current schematic layout",
+      "D": [
+        "D20",
+        "D24",
+        "D28",
+        "D29",
+        "D31",
+        "D33",
+        "D36",
+        "D38",
+        "D44"
+      ],
+      "pre_public_locator_sha256": "c1861342e59fa335fbb93e484a2b2a1b8490e9fada99da02ce01b3138e1061c2"
+    },
+    {
+      "path": "inputs/geometry/TangramMultiplayer.unity",
+      "sha256": "c2bc4aee5b132683369954c7cddea8c55721a7bc7aec5832d186816ec5febb62",
+      "original_path": "source-archive/unity/REIT7841-01/MovableTargetBackup_20261010/Assets/REITMultiplayer/Scenes/TangramMultiplayer.unity",
+      "original_sha256": "c2bc4aee5b132683369954c7cddea8c55721a7bc7aec5832d186816ec5febb62",
+      "transformation": "verbatim copy",
+      "role": "contemporaneous saved Unity scene; not binary proof of recording APK",
+      "D": [
+        "D16",
+        "D26"
+      ]
+    },
+    {
+      "path": "scripts/extract_saved_geometry.py",
+      "sha256": "7772f64f28aadb41e79d281aaa2593c65e3f1f5bdadd83b61f19d676317f9fb2",
+      "original_path": "source-archive/REIT7841_B/数据收集/数据与展示推进/24_六组行为与G06蜡烛复核_v094/复核脚本/audit_rounds.py",
+      "original_sha256": "49f44fdf61e12580507467e19a43faa0becb8977a3841ae00535b9ac53b36cf7",
+      "transformation": "Only mesh extraction section retained, input/output package-relative, exact comparison with archived seven-piece geometry added. Public copy: provenance root locators normalized; generated metadata serializer made relative where applicable.",
+      "role": "portable extraction from saved scene",
+      "D": [
+        "D16",
+        "D26"
+      ],
+      "pre_public_locator_sha256": "3c18f96dc8cb843cc6979c68deb043927d89ec518b20cd2316f4e1614e84cfc9"
+    },
+    {
+      "path": "reproduce.py",
+      "sha256": "e84515316f6a1521ccaedd7201fc53dbbaa9181613df8353d83b9d95b24e788d",
+      "original_path": null,
+      "original_sha256": null,
+      "transformation": "New package navigation, validation or dependency record, built from existing evidence; no new scientific observations.",
+      "role": "portable reproduction support",
+      "D": [
+        "D23",
+        "D26"
+      ]
+    },
+    {
+      "path": "validate.py",
+      "sha256": "54d6e80cd49dbb5e148ada20a825bad01c0ba5271cc0df684f3f125d7284af5f",
+      "original_path": null,
+      "original_sha256": null,
+      "transformation": "New package navigation, validation or dependency record, built from existing evidence; no new scientific observations.",
+      "role": "portable reproduction support",
+      "D": [
+        "D23",
+        "D26"
+      ]
+    },
+    {
+      "path": "scripts/portable_metadata.py",
+      "sha256": "e96e8af817df2d1b74fdd6964d4a06b6e558dc809c3ca658471f945f1c0af2ef",
+      "original_path": null,
+      "original_sha256": null,
+      "transformation": "New package navigation, validation or dependency record, built from existing evidence; no new scientific observations.",
+      "role": "portable reproduction support",
+      "D": [
+        "D23",
+        "D26"
+      ]
+    },
+    {
+      "path": "README.md",
+      "sha256": "cb5aabb6cd6f77df10959c4165f584487e80cdd34d16b4f1226c3429575c1f18",
+      "original_path": null,
+      "original_sha256": null,
+      "transformation": "New package navigation, validation or dependency record, built from existing evidence; no new scientific observations.",
+      "role": "portable reproduction support",
+      "D": [
+        "D23",
+        "D26"
+      ]
+    },
+    {
+      "path": "SCHEMA.json",
+      "sha256": "624b252b77245607faa6b60464bf4d0f8daf1240bbeae78a8983153f13543675",
+      "original_path": null,
+      "original_sha256": null,
+      "transformation": "New package navigation, validation or dependency record, built from existing evidence; no new scientific observations.",
+      "role": "portable reproduction support",
+      "D": [
+        "D23",
+        "D26"
+      ]
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "99fb48fb4512c271a508e1dc1be869f9e73ffe5542c5325c216cc9a57deb5bcc",
+      "original_path": null,
+      "original_sha256": null,
+      "transformation": "New package navigation, validation or dependency record, built from existing evidence; no new scientific observations.",
+      "role": "portable reproduction support",
+      "D": [
+        "D23",
+        "D26"
+      ]
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "9f48690b50e837a1853cdd8969dd68679e9ef295c225770335aa46b3953f5ca5",
+      "original_path": null,
+      "original_sha256": null,
+      "transformation": "New package navigation, validation or dependency record, built from existing evidence; no new scientific observations.",
+      "role": "portable reproduction support",
+      "D": [
+        "D23",
+        "D26"
+      ]
+    },
+    {
+      "path": "specs/trace_selection.json",
+      "sha256": "11a4ffb608f8ac1bd1e49c570636dccde058a2b0988b07b506bddf9c4870f0d9",
+      "original_path": null,
+      "original_sha256": null,
+      "transformation": "New package navigation, validation or dependency record, built from existing evidence; no new scientific observations.",
+      "role": "portable reproduction support",
+      "D": [
+        "D23",
+        "D26"
+      ]
+    },
+    {
+      "path": "specs/current_figure_pixels.json",
+      "sha256": "170f5cfe8cf4aa22280c3145207994b812232f6f526c7806c6e215a04253539c",
+      "original_path": null,
+      "original_sha256": null,
+      "transformation": "New package navigation, validation or dependency record, built from existing evidence; no new scientific observations.",
+      "role": "portable reproduction support",
+      "D": [
+        "D23",
+        "D26"
+      ]
+    },
+    {
+      "path": "specs/figure_to_D.json",
+      "sha256": "43beee1f81ef57bb65969fd11b283cbb0756d5ba1e4fd703f654704eac681eb6",
+      "original_path": null,
+      "original_sha256": null,
+      "transformation": "New package navigation, validation or dependency record, built from existing evidence; no new scientific observations.",
+      "role": "portable reproduction support",
+      "D": [
+        "D23",
+        "D26"
+      ]
+    },
+    {
+      "path": "provenance/visual_review.json",
+      "sha256": "a25aaf92662ca91a6e17deac7139c06ab27039f1673c17a893197b01be2fc4ff",
+      "original_path": null,
+      "original_sha256": null,
+      "transformation": "New package navigation, validation or dependency record, built from existing evidence; no new scientific observations.",
+      "role": "portable reproduction support",
+      "D": [
+        "D23",
+        "D26"
+      ]
+    },
+    {
+      "path": "inputs/identity_frames/G03_R03_00146.000.jpg",
+      "sha256": "0175b4d8a908113e8faf1eada84606adad99f519a3f6cd85bfb08b2360ed79d0",
+      "original_path": "source-archive/REIT7841_B/数据收集/数据与展示推进/24_六组行为与G06蜡烛复核_v094/frames/G03_R03_00146.000.jpg",
+      "original_sha256": "0175b4d8a908113e8faf1eada84606adad99f519a3f6cd85bfb08b2360ed79d0",
+      "transformation": "verbatim copy",
+      "role": "visually checked G03 software-endpoint identity anchor; virtual scene only",
+      "D": [
+        "D06",
+        "D21",
+        "D74"
+      ]
+    },
+    {
+      "path": "inputs/identity_frames/G03_R03_00166.000.jpg",
+      "sha256": "34da0bc40d46120f3102ce90c8d5d117cb8466ac9a494e6b195941d9dbc2dd23",
+      "original_path": "source-archive/REIT7841_B/数据收集/数据与展示推进/24_六组行为与G06蜡烛复核_v094/frames/G03_R03_00166.000.jpg",
+      "original_sha256": "34da0bc40d46120f3102ce90c8d5d117cb8466ac9a494e6b195941d9dbc2dd23",
+      "transformation": "verbatim copy",
+      "role": "visually checked G03 software-endpoint identity anchor; virtual scene only",
+      "D": [
+        "D06",
+        "D21",
+        "D74"
+      ]
+    },
+    {
+      "path": "inputs/identity_frames/G03_R03_00246.000.jpg",
+      "sha256": "a54a49e536bfe818ca8521f9ac6c02201f7c9e33546ce1f02e5439070cab40fb",
+      "original_path": "source-archive/REIT7841_B/数据收集/数据与展示推进/24_六组行为与G06蜡烛复核_v094/frames/G03_R03_00246.000.jpg",
+      "original_sha256": "a54a49e536bfe818ca8521f9ac6c02201f7c9e33546ce1f02e5439070cab40fb",
+      "transformation": "verbatim copy",
+      "role": "visually checked G03 software-endpoint identity anchor; virtual scene only",
+      "D": [
+        "D06",
+        "D21",
+        "D74"
+      ]
+    },
+    {
+      "path": "provenance/mapping/00_先读_行为核对结论.txt",
+      "sha256": "3f53417998f6ddf894de2b571b361582d9acc0f031c237ca54de68dc4143f463",
+      "original_path": "source-archive/REIT7841_B/数据收集/数据与展示推进/24_六组行为与G06蜡烛复核_v094/00_先读_行为核对结论.txt",
+      "original_sha256": "9273f3ffb00277e745e0583a4626a2964e908cee02ad0c3f0fc4be5ce0113346",
+      "transformation": "Archived v094 mapping record; machine-root locators normalized if present; later final geometry correction remains authoritative.",
+      "role": "G06 video A/B to raw endpoint mapping evidence, combined with current author participant key",
+      "D": [
+        "D14",
+        "D21",
+        "D74"
+      ]
+    },
+    {
+      "path": "provenance/mapping/04_Skills执行与方法说明.txt",
+      "sha256": "6435572125f2eedbedb8197306cbed88f2b323419ef4dc615492b10e772e75d6",
+      "original_path": "source-archive/REIT7841_B/数据收集/数据与展示推进/24_六组行为与G06蜡烛复核_v094/04_Skills执行与方法说明.txt",
+      "original_sha256": "6435572125f2eedbedb8197306cbed88f2b323419ef4dc615492b10e772e75d6",
+      "transformation": "Archived v094 mapping record; machine-root locators normalized if present; later final geometry correction remains authoritative.",
+      "role": "G06 video A/B to raw endpoint mapping evidence, combined with current author participant key",
+      "D": [
+        "D14",
+        "D21",
+        "D74"
+      ]
+    },
+    {
+      "path": "provenance/output_retention.json",
+      "sha256": "6974a82566c3802c795150f4027052a0a211ee3d0d6b25261aad7a673ddbadf5",
+      "original_path": null,
+      "original_sha256": null,
+      "transformation": "New archive-retention record after verified generation.",
+      "role": "exclusion manifest",
+      "D": [
+        "D23"
+      ]
+    }
+  ],
+  "locator_rewrite_policy": {
+    "source_archive_workspace": "The original REIT7841 workspace, with machine/user-specific prefix removed.",
+    "source_archive_REIT7841_B": "The original research archive, with Desktop and user prefix removed.",
+    "source_archive_unity": "The saved Unity project root, with personal parent directories removed.",
+    "original_sha256": "Hash of the untouched original file before adaptation or locator rewriting.",
+    "sha256": "Hash of the committed package copy.",
+    "path_rewrites": [
+      {
+        "path": "specs/current_figure_pixels.json",
+        "before_sha256": "9cf9ce5a6a4a07fa6c1869c4ca75c92c023c1987c0a3da5d248dc426fc9012aa",
+        "after_sha256": "170f5cfe8cf4aa22280c3145207994b812232f6f526c7806c6e215a04253539c",
+        "operation": "Replace machine-specific root prefixes in provenance locators only; scientific values/labels remain unchanged."
+      },
+      {
+        "path": "specs/apparatus_figure_spec.json",
+        "before_sha256": "926e3f09a00090115c8c9dad396de6834617bfc910516af2aa86c173beaeebd4",
+        "after_sha256": "852657c94c9a3660395848908af015a64320d5e796a02182c05236fac75fd6b1",
+        "operation": "Replace machine-specific root prefixes in provenance locators only; scientific values/labels remain unchanged."
+      },
+      {
+        "path": "provenance/figure_g03_identity_audit.json",
+        "before_sha256": "c1e053f9d98c3ccedb1236948bbba5f22e9a77ad77cfdbba9aca6d7ffaf50a65",
+        "after_sha256": "3c7bb7878c301ea54d8868abb289c467c2c14f00a822d138aefc1b86ca6372b2",
+        "operation": "Replace machine-specific root prefixes in provenance locators only; scientific values/labels remain unchanged."
+      },
+      {
+        "path": "provenance/evidence_g06_author_revision_20261102.json",
+        "before_sha256": "d7f1d898841dc260c434ce73c70dda13cb908cf98fe8d0a970d11b2cf9fabcf2",
+        "after_sha256": "74901267c701b7c0f11dc2061a92aace944b49e40a4c3300e0fc0d113e6a7e64",
+        "operation": "Replace machine-specific root prefixes in provenance locators only; scientific values/labels remain unchanged."
+      },
+      {
+        "path": "provenance/division_evidence.txt",
+        "before_sha256": "6725e8bf07c24fb41ac3be08dda831eab8e7a14dd6f59ff758f12f319696bee7",
+        "after_sha256": "66326029afeff44df8a6d32ada56e53b05b31b7e193d5bbba5cabd252d440b08",
+        "operation": "Replace machine-specific root prefixes in provenance locators only; scientific values/labels remain unchanged."
+      },
+      {
+        "path": "provenance/questionnaire_support.json",
+        "before_sha256": "cfb980d4b39f8861fe020c104655aad97220a2d5d6e3579d5d8801156e969c55",
+        "after_sha256": "efb3d119a1510911199ce9cf9437a6ca7998c259bb5c883a8bb77d0ce2beff5d",
+        "operation": "Replace machine-specific root prefixes in provenance locators only; scientific values/labels remain unchanged."
+      },
+      {
+        "path": "provenance/self_revision_evidence.json",
+        "before_sha256": "3b07533e6b953c7dde1dd861af1a8f7369244ab53cc4a5c7d59ef6b65c958814",
+        "after_sha256": "78126b3826a2ee5a2c49666a7600052b3e7b2cce13e83c6f4badcb131f695330",
+        "operation": "Replace machine-specific root prefixes in provenance locators only; scientific values/labels remain unchanged."
+      },
+      {
+        "path": "provenance/figure_geometry_precision_audit.json",
+        "before_sha256": "dcae1e7f5be4ee7623d415c001026431a81bcbe903a59dc3b20010507d7cfe9e",
+        "after_sha256": "3359fcecc7efe934c37e0ba3e1e3dd56d517ed47493630e336e6c4df044b46aa",
+        "operation": "Replace machine-specific root prefixes in provenance locators only; scientific values/labels remain unchanged."
+      },
+      {
+        "path": "inputs/F4_self_revision_manifest.json",
+        "before_sha256": "6efddd9f057e0ff86483514ef5cd74919a76a05eaa028f4f4df57fdcdedb3755",
+        "after_sha256": "79d66a0ff791afa79f1f2a8dd851b56c20ba07ef1e07a0f9540145c9d36b171e",
+        "operation": "Replace machine-specific root prefixes in provenance locators only; scientific values/labels remain unchanged."
+      },
+      {
+        "path": "inputs/division_action_intervals.csv",
+        "before_sha256": "77fd9f00a770e5165098704dde4222be6f1a0a2f94402f89fb5c24985b12fe29",
+        "after_sha256": "b33bce6cfe0379fe96e6f2fb519a439a0f35f5cba3a234ffece602293aede03a",
+        "operation": "Replace machine-specific root prefixes in provenance locators only; scientific values/labels remain unchanged. CSV newline serialization normalized; data fields unchanged."
+      },
+      {
+        "path": "inputs/division_evidence.json",
+        "before_sha256": "5b43c87a1e50e08fe2abef62d8223fc6c68b93baf90d3e5ec7fe91e44c55f340",
+        "after_sha256": "034dff5d40d000b04b25e9963875ddf8ef6a77d7335f1d3412ef07a9e0ae507d",
+        "operation": "Replace machine-specific root prefixes in provenance locators only; scientific values/labels remain unchanged."
+      },
+      {
+        "path": "inputs/fig07_g06_goose_provenance.json",
+        "before_sha256": "a38d59f75dff2c4e2c0a0a5dde656f0d9961ec79da0fe18f4d366753cbf86b4f",
+        "after_sha256": "4c6e0ad0e03b003552a553fcbf0d45ec57e7350f5174d233f319d63390b9803a",
+        "operation": "Replace machine-specific root prefixes in provenance locators only; scientific values/labels remain unchanged."
+      },
+      {
+        "path": "generated/audit/figure_geometry_build.json",
+        "before_sha256": "41d4f9db78674b92f5f395bf3e8a5b909e1ea4a1347652d29d6b10a5b242f471",
+        "after_sha256": "7de211a516727a4cda9c1e6a2db0f0b135cc8419aed533f345e9acaae622bb89",
+        "operation": "Replace machine-specific root prefixes in provenance locators only; scientific values/labels remain unchanged."
+      },
+      {
+        "path": "generated/audit/figure_timeline_build.json",
+        "before_sha256": "6eef4a6234f301a19eb2ff2282b80c62800995394b6513e0b847d9c296d0eaf4",
+        "after_sha256": "f65efa2702fb49ea71ec933148a7dce18195d4235d9ea6897ee36cb019833587",
+        "operation": "Replace machine-specific root prefixes in provenance locators only; scientific values/labels remain unchanged."
+      },
+      {
+        "path": "generated/audit/figure_self_revision_build.json",
+        "before_sha256": "95a3c75fca0fe3e1cad2ceebeba6d665f0a99cb4bbc1d8d6b660ee3c3d20e760",
+        "after_sha256": "7692849c1b30b6cd80f9ac963aed7e4510b8164d24f251aed4a77f8de92530ca",
+        "operation": "Replace machine-specific root prefixes in provenance locators only; scientific values/labels remain unchanged."
+      },
+      {
+        "path": "generated/audit/figure_goose_build.json",
+        "before_sha256": "756cefd819608d22bbf89035e338373f391b441990b3284662ac15ad55e2ecdc",
+        "after_sha256": "c2934d3731c1574592a6eef52b2614d3c28ae09e48b580479656b1aa760767eb",
+        "operation": "Replace machine-specific root prefixes in provenance locators only; scientific values/labels remain unchanged."
+      },
+      {
+        "path": "inputs/self_revision_frames/frame_provenance.json",
+        "before_sha256": "ce01172571737e3c87149172c862c15c06bfc9773a28dc731a60a66da54757b3",
+        "after_sha256": "44525ae5a6be8784d9d365ed23e08866211bcffc737f799e78ae10777f0c4135",
+        "operation": "Replace machine-specific root prefixes in provenance locators only; scientific values/labels remain unchanged."
+      },
+      {
+        "path": "inputs/geometry/01_上下外沿测量及来源.json",
+        "before_sha256": "5052042d7a82d88564735af2748f32c387384f84efe3f189bef3b859d680de8b",
+        "after_sha256": "c0613b81eba680a13aac6286adfafcfed356922988bc0e07dece4b3f24886b63",
+        "operation": "Replace machine-specific root prefixes in provenance locators only; scientific values/labels remain unchanged."
+      },
+      {
+        "path": "inputs/geometry/geometry_from_backup.json",
+        "before_sha256": "8d93f9dd4bbfcbb1c49513f16bfcbb4f43eb981c731d4e2c353984c7c15938d8",
+        "after_sha256": "bd12ed5d5211b17556b8262a6935e132342d00b86dfd122010362e6fbd331d51",
+        "operation": "Replace machine-specific root prefixes in provenance locators only; scientific values/labels remain unchanged."
+      },
+      {
+        "path": "inputs/geometry/source_index.json",
+        "before_sha256": "20c607a44382121e8cc606ddc06121ccad4c9d3d86fe8d862f849e17b780e5dc",
+        "after_sha256": "3ddcb8e4aa5de728e2e763bc059c0af5213a5b5e7de3d28e4c9abda046e003e9",
+        "operation": "Replace machine-specific root prefixes in provenance locators only; scientific values/labels remain unchanged."
+      }
+    ]
+  }
+}

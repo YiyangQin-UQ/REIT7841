@@ -1,0 +1,70 @@
+{
+  "version": "1.0",
+  "tables": {
+    "survey_confirmed.tsv": {
+      "key": "record_id",
+      "rows": 48,
+      "fields": {
+        "record_id": "Gxx_Pxx_Rxx",
+        "group_id": "six dyads G01–G06",
+        "participant_id": "pseudonymous P01–P12",
+        "round_id": "research condition R01–R04",
+        "Q01–Q12": "literal integers 1–5 or literal NA; no missing-value replacement"
+      },
+      "NA": [
+        {
+          "record_id": "G04_P08_R01",
+          "item": "Q01"
+        },
+        {
+          "record_id": "G04_P08_R02",
+          "item": "Q01"
+        }
+      ]
+    },
+    "selected_log_traces": {
+      "files": "specs/trace_selection.json",
+      "rows": 12779,
+      "key": "original raw file + source_line",
+      "fields": {
+        "source_line": "1-based original CSV line including header",
+        "active_elapsed_s": "active task seconds, excluding paused intervals; not video seconds",
+        "participant_id": "software endpoint P1/P2; use audited mapping, not research PID inference",
+        "client_id": "network client identifier",
+        "round_id": "software attempt, distinct from research R01–R04",
+        "event": "original event type",
+        "manipulation_id": "pair accepted grab and release within round",
+        "position_x_m/position_y_m/position_z_m": "Unity world position in metres",
+        "rotation_x/rotation_y/rotation_z/rotation_w": "recorded quaternion",
+        "held_by": "logged holder when supplied",
+        "utc": "recorded UTC timestamp "
+      }
+    },
+    "division_action_intervals.csv": {
+      "rows": 293,
+      "key": [
+        "slot",
+        "manipulation_id"
+      ],
+      "fields": {
+        "slot": "research dyad-condition slot",
+        "endpoint": "original software participant_id",
+        "piece_id": "S1–S7",
+        "grab_active_s": "accepted grab time",
+        "release_active_s": "release time",
+        "grab_source_line/release_source_line": "original raw CSV row provenance",
+        "release_x_m/release_y_m/release_z_m": "recorded release position",
+        "source_file": "normalized historical original-file locator; recomputed table uses repository relative path"
+      }
+    },
+    "geometry_from_backup.json": {
+      "geometry": "S1–S7; each has name, points (Nx3 stored local vertices), scale (accumulated uniform ancestor scale)",
+      "limit": "Saved backup, not binary proof of recording APK."
+    },
+    "frame_provenance": {
+      "time": "requested/actual media time separate from reported event anchors",
+      "crop_box": "left, upper, right, lower in original pixel coordinates where supplied",
+      "operation": "rectangular crop only; no image synthesis or retouching"
+    }
+  }
+}

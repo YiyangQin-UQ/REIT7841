@@ -1,0 +1,55 @@
+{
+  "ResearchV2": {
+    "columns": [
+      "schema_version",
+      "protocol_version",
+      "session_id",
+      "event_seq",
+      "utc",
+      "server_seconds",
+      "pair_id",
+      "round_id",
+      "round_index",
+      "task_id",
+      "condition",
+      "phase",
+      "wall_elapsed_s",
+      "active_elapsed_s",
+      "epoch",
+      "event",
+      "participant_id",
+      "client_id",
+      "piece_id",
+      "piece_name",
+      "held_by",
+      "manipulation_id",
+      "reason",
+      "position_x_m",
+      "position_y_m",
+      "position_z_m",
+      "rotation_x",
+      "rotation_y",
+      "rotation_z",
+      "rotation_w",
+      "displacement_m",
+      "rotation_change_deg",
+      "snapped",
+      "extra"
+    ],
+    "column_count": 34
+  },
+  "Legacy": {
+    "columns": [
+      "utc",
+      "server_seconds",
+      "pair",
+      "epoch",
+      "task",
+      "view",
+      "practice",
+      "event",
+      "detail"
+    ],
+    "column_count": 9
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "version": "1.1",
+  "source": "Direct author corrections in this chat, 2 November 2026",
+  "VR_recording_view_participant": {
+    "G01": "P02",
+    "G02": "P04",
+    "G03": "P06",
+    "G04": "P08",
+    "G05": "P10",
+    "G06": "P11"
+  },
+  "physical_original_A": {
+    "G01": "P01",
+    "G02": "P04",
+    "G03": "P05",
+    "G04": "P08",
+    "G05": "P09",
+    "G06": "P11"
+  },
+  "corrections": [
+    "G02–G06 used the same revised prototype configuration.",
+    "G02 later recordings used new targets, not previously solved targets; include all six groups.",
+    "G01 experienced the revised full procedure without another recording and said it was better.",
+    "The researcher identified the focal findings and G06 outline mismatch; AI assisted verification and presentation.",
+    "Keep geometric span measurements as supporting checks, remove display formula and abstract precision."
+  ],
+  "unchanged": "Participant responses, raw logs and original source files."
+}

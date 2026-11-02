@@ -1,0 +1,1656 @@
+{
+  "date": "2026-11-02",
+  "scope": "Auxiliary questionnaire result and updated study-development schematic; seven existing process/geometry figures unchanged.",
+  "source_files": [
+    {
+      "path": "source-archive/REIT7841_B/数据收集/数据与展示推进/11_过程证据与确认问卷_v080/data/survey_confirmed.tsv",
+      "sha256": "0a7f2680c95ebbd1a2bd29859ff1e4c3327352c2a2a88f2bb083cb9e938ed87d",
+      "role": "All 48 confirmed questionnaire responses; raw values retained below"
+    },
+    {
+      "path": "source-archive/REIT7841_B/数据收集/数据与展示推进/11_过程证据与确认问卷_v080/data/question_dictionary.tsv",
+      "sha256": "defa5d32178942f97c05439cb408dba3f007ae8eca1ae279f0743561764e4f58",
+      "role": "Original Chinese item wording and 1–5/NA scale"
+    },
+    {
+      "path": "source-archive/REIT7841_B/数据收集/数据与展示推进/11_过程证据与确认问卷_v080/methods/问卷确认记录.json",
+      "sha256": "1cd35f44a457d77dcf600062daa330e47736a4f32aa925f1a66fa5760ef4fa31",
+      "role": "Participant-confirmed researcher entries and their source correspondence"
+    },
+    {
+      "path": "source-archive/REIT7841_B/数据收集/数据与展示推进/11_过程证据与确认问卷_v080/methods/问卷来源说明.txt",
+      "sha256": "187d2faf398abb86934bbcb7343ff12e2398258932f16f393bee0de0f38cc3f0",
+      "role": "Entry provenance; original export retained"
+    },
+    {
+      "path": "source-archive/workspace/outputs/thesis_progress_20261025/draft_methods_20261102/methods_sync.json",
+      "sha256": "2b5112a883a4a62451a1f8e18ea5d00c23cfb8f8ca6db0f684cb8fc7c73f7a4c",
+      "role": "Current verified coverage, implementation and source facts"
+    },
+    {
+      "path": "source-archive/REIT7841_B/数据收集/数据与展示推进/学术研究复核_20261019/夜间论文推进_20261020/核验/build_manuscript.py",
+      "sha256": "2312b9814fb7e28b21ed8f9345bfd45591fefe82abd86f39d1ca43b4e1ec7a2b",
+      "role": "Original five-item selection and old figure labels"
+    },
+    {
+      "path": "source-archive/REIT7841_B/数据收集/数据与展示推进/学术研究复核_20261019/夜间论文推进_20261020/03_论文/英文论文工作稿.txt",
+      "sha256": "b3b5671e79d2ef429147c23a4777c0525129dad0e6855b6f2c83fe32130db68c",
+      "role": "Historical figure and source-key context"
+    },
+    {
+      "path": "source-archive/REIT7841_B/数据收集/数据与展示推进/学术研究复核_20261019/夜间论文推进_20261020/01_证据/来源索引.tsv",
+      "sha256": "8c00af2e128a073a14ef9d91d9022e0a4102cd92317d2441c4bf8ad90617d429",
+      "role": "Historical source index; meeting date provenance"
+    },
+    {
+      "path": "source-archive/workspace/outputs/导师会议邮件与上学期资料汇总_20261019/学校邮箱_易读正文/01_Thesis_Plan_Review_20260820.txt",
+      "sha256": "42aca8528a6cc96987dbe2370f4c634b807317541d98896c0e8d7c2937887d66",
+      "role": "20 August response: comparable task and separate/joint subparts"
+    },
+    {
+      "path": "source-archive/workspace/outputs/TurboScribe原转录补收_20261020/原始导出/昆士兰大学 4.txt",
+      "sha256": "295b2688ef393e70c6023f92b2abfc2554a998480d0e2d4887c634462a5224a9",
+      "role": "1 September transcript: Tangram across tasks; not final four-condition design"
+    }
+  ],
+  "counts": {
+    "responses": 48,
+    "participants": 12,
+    "dyads": 6,
+    "rounds": 4,
+    "original_export_responses": 45,
+    "researcher_entered_after_participant_confirmation": 3,
+    "numeric_item_values": 574,
+    "NA_item_values": 2,
+    "figure_responses": 24,
+    "figure_participants": 12,
+    "figure_items": 5,
+    "figure_plotted_values": 120
+  },
+  "missing_values": [
+    {
+      "record_id": "G04_P08_R01",
+      "item": "Q01",
+      "source_value": "NA"
+    },
+    {
+      "record_id": "G04_P08_R02",
+      "item": "Q01",
+      "source_value": "NA"
+    }
+  ],
+  "NA_serialisation": "null below corresponds exactly to the literal NA in the read-only TSV; no zero or imputed value.",
+  "all_48_responses_all_12_items": [
+    {
+      "record_id": "G01_P01_R01",
+      "group_id": "G01",
+      "participant_id": "P01",
+      "round_id": "R01",
+      "Q01": 5,
+      "Q02": 5,
+      "Q03": 4,
+      "Q04": 5,
+      "Q05": 5,
+      "Q06": 5,
+      "Q07": 3,
+      "Q08": 5,
+      "Q09": 5,
+      "Q10": 5,
+      "Q11": 2,
+      "Q12": 5
+    },
+    {
+      "record_id": "G01_P01_R02",
+      "group_id": "G01",
+      "participant_id": "P01",
+      "round_id": "R02",
+      "Q01": 5,
+      "Q02": 5,
+      "Q03": 5,
+      "Q04": 5,
+      "Q05": 4,
+      "Q06": 5,
+      "Q07": 3,
+      "Q08": 5,
+      "Q09": 5,
+      "Q10": 5,
+      "Q11": 2,
+      "Q12": 5
+    },
+    {
+      "record_id": "G01_P01_R03",
+      "group_id": "G01",
+      "participant_id": "P01",
+      "round_id": "R03",
+      "Q01": 5,
+      "Q02": 4,
+      "Q03": 5,
+      "Q04": 4,
+      "Q05": 5,
+      "Q06": 5,
+      "Q07": 4,
+      "Q08": 4,
+      "Q09": 4,
+      "Q10": 4,
+      "Q11": 4,
+      "Q12": 5
+    },
+    {
+      "record_id": "G01_P01_R04",
+      "group_id": "G01",
+      "participant_id": "P01",
+      "round_id": "R04",
+      "Q01": 5,
+      "Q02": 4,
+      "Q03": 5,
+      "Q04": 4,
+      "Q05": 5,
+      "Q06": 5,
+      "Q07": 4,
+      "Q08": 4,
+      "Q09": 4,
+      "Q10": 4,
+      "Q11": 4,
+      "Q12": 5
+    },
+    {
+      "record_id": "G01_P02_R01",
+      "group_id": "G01",
+      "participant_id": "P02",
+      "round_id": "R01",
+      "Q01": 5,
+      "Q02": 5,
+      "Q03": 5,
+      "Q04": 5,
+      "Q05": 5,
+      "Q06": 5,
+      "Q07": 4,
+      "Q08": 4,
+      "Q09": 5,
+      "Q10": 5,
+      "Q11": 4,
+      "Q12": 5
+    },
+    {
+      "record_id": "G01_P02_R02",
+      "group_id": "G01",
+      "participant_id": "P02",
+      "round_id": "R02",
+      "Q01": 4,
+      "Q02": 5,
+      "Q03": 5,
+      "Q04": 5,
+      "Q05": 5,
+      "Q06": 5,
+      "Q07": 5,
+      "Q08": 4,
+      "Q09": 5,
+      "Q10": 5,
+      "Q11": 4,
+      "Q12": 4
+    },
+    {
+      "record_id": "G01_P02_R03",
+      "group_id": "G01",
+      "participant_id": "P02",
+      "round_id": "R03",
+      "Q01": 5,
+      "Q02": 4,
+      "Q03": 5,
+      "Q04": 5,
+      "Q05": 4,
+      "Q06": 5,
+      "Q07": 5,
+      "Q08": 2,
+      "Q09": 1,
+      "Q10": 1,
+      "Q11": 4,
+      "Q12": 5
+    },
+    {
+      "record_id": "G01_P02_R04",
+      "group_id": "G01",
+      "participant_id": "P02",
+      "round_id": "R04",
+      "Q01": 5,
+      "Q02": 4,
+      "Q03": 5,
+      "Q04": 5,
+      "Q05": 4,
+      "Q06": 5,
+      "Q07": 5,
+      "Q08": 2,
+      "Q09": 1,
+      "Q10": 1,
+      "Q11": 4,
+      "Q12": 5
+    },
+    {
+      "record_id": "G02_P03_R01",
+      "group_id": "G02",
+      "participant_id": "P03",
+      "round_id": "R01",
+      "Q01": 5,
+      "Q02": 5,
+      "Q03": 5,
+      "Q04": 5,
+      "Q05": 5,
+      "Q06": 5,
+      "Q07": 5,
+      "Q08": 4,
+      "Q09": 5,
+      "Q10": 5,
+      "Q11": 4,
+      "Q12": 5
+    },
+    {
+      "record_id": "G02_P03_R02",
+      "group_id": "G02",
+      "participant_id": "P03",
+      "round_id": "R02",
+      "Q01": 5,
+      "Q02": 5,
+      "Q03": 5,
+      "Q04": 5,
+      "Q05": 5,
+      "Q06": 5,
+      "Q07": 5,
+      "Q08": 4,
+      "Q09": 5,
+      "Q10": 5,
+      "Q11": 4,
+      "Q12": 5
+    },
+    {
+      "record_id": "G02_P03_R03",
+      "group_id": "G02",
+      "participant_id": "P03",
+      "round_id": "R03",
+      "Q01": 5,
+      "Q02": 5,
+      "Q03": 5,
+      "Q04": 5,
+      "Q05": 5,
+      "Q06": 5,
+      "Q07": 4,
+      "Q08": 5,
+      "Q09": 5,
+      "Q10": 5,
+      "Q11": 5,
+      "Q12": 5
+    },
+    {
+      "record_id": "G02_P03_R04",
+      "group_id": "G02",
+      "participant_id": "P03",
+      "round_id": "R04",
+      "Q01": 5,
+      "Q02": 5,
+      "Q03": 5,
+      "Q04": 5,
+      "Q05": 5,
+      "Q06": 5,
+      "Q07": 5,
+      "Q08": 5,
+      "Q09": 5,
+      "Q10": 5,
+      "Q11": 5,
+      "Q12": 5
+    },
+    {
+      "record_id": "G02_P04_R01",
+      "group_id": "G02",
+      "participant_id": "P04",
+      "round_id": "R01",
+      "Q01": 5,
+      "Q02": 5,
+      "Q03": 5,
+      "Q04": 4,
+      "Q05": 5,
+      "Q06": 4,
+      "Q07": 4,
+      "Q08": 3,
+      "Q09": 5,
+      "Q10": 4,
+      "Q11": 3,
+      "Q12": 5
+    },
+    {
+      "record_id": "G02_P04_R02",
+      "group_id": "G02",
+      "participant_id": "P04",
+      "round_id": "R02",
+      "Q01": 4,
+      "Q02": 4,
+      "Q03": 5,
+      "Q04": 4,
+      "Q05": 5,
+      "Q06": 3,
+      "Q07": 3,
+      "Q08": 2,
+      "Q09": 3,
+      "Q10": 3,
+      "Q11": 4,
+      "Q12": 5
+    },
+    {
+      "record_id": "G02_P04_R03",
+      "group_id": "G02",
+      "participant_id": "P04",
+      "round_id": "R03",
+      "Q01": 4,
+      "Q02": 4,
+      "Q03": 5,
+      "Q04": 4,
+      "Q05": 5,
+      "Q06": 4,
+      "Q07": 4,
+      "Q08": 5,
+      "Q09": 4,
+      "Q10": 4,
+      "Q11": 4,
+      "Q12": 5
+    },
+    {
+      "record_id": "G02_P04_R04",
+      "group_id": "G02",
+      "participant_id": "P04",
+      "round_id": "R04",
+      "Q01": 5,
+      "Q02": 5,
+      "Q03": 5,
+      "Q04": 4,
+      "Q05": 5,
+      "Q06": 4,
+      "Q07": 4,
+      "Q08": 3,
+      "Q09": 2,
+      "Q10": 2,
+      "Q11": 5,
+      "Q12": 5
+    },
+    {
+      "record_id": "G03_P05_R01",
+      "group_id": "G03",
+      "participant_id": "P05",
+      "round_id": "R01",
+      "Q01": 5,
+      "Q02": 4,
+      "Q03": 4,
+      "Q04": 5,
+      "Q05": 4,
+      "Q06": 4,
+      "Q07": 4,
+      "Q08": 5,
+      "Q09": 4,
+      "Q10": 5,
+      "Q11": 4,
+      "Q12": 4
+    },
+    {
+      "record_id": "G03_P05_R02",
+      "group_id": "G03",
+      "participant_id": "P05",
+      "round_id": "R02",
+      "Q01": 4,
+      "Q02": 2,
+      "Q03": 3,
+      "Q04": 4,
+      "Q05": 4,
+      "Q06": 3,
+      "Q07": 4,
+      "Q08": 4,
+      "Q09": 2,
+      "Q10": 2,
+      "Q11": 3,
+      "Q12": 4
+    },
+    {
+      "record_id": "G03_P05_R03",
+      "group_id": "G03",
+      "participant_id": "P05",
+      "round_id": "R03",
+      "Q01": 4,
+      "Q02": 2,
+      "Q03": 4,
+      "Q04": 4,
+      "Q05": 4,
+      "Q06": 4,
+      "Q07": 4,
+      "Q08": 2,
+      "Q09": 4,
+      "Q10": 2,
+      "Q11": 3,
+      "Q12": 4
+    },
+    {
+      "record_id": "G03_P05_R04",
+      "group_id": "G03",
+      "participant_id": "P05",
+      "round_id": "R04",
+      "Q01": 4,
+      "Q02": 2,
+      "Q03": 3,
+      "Q04": 3,
+      "Q05": 2,
+      "Q06": 2,
+      "Q07": 2,
+      "Q08": 2,
+      "Q09": 2,
+      "Q10": 3,
+      "Q11": 3,
+      "Q12": 4
+    },
+    {
+      "record_id": "G03_P06_R01",
+      "group_id": "G03",
+      "participant_id": "P06",
+      "round_id": "R01",
+      "Q01": 4,
+      "Q02": 4,
+      "Q03": 4,
+      "Q04": 4,
+      "Q05": 4,
+      "Q06": 3,
+      "Q07": 3,
+      "Q08": 3,
+      "Q09": 3,
+      "Q10": 3,
+      "Q11": 3,
+      "Q12": 4
+    },
+    {
+      "record_id": "G03_P06_R02",
+      "group_id": "G03",
+      "participant_id": "P06",
+      "round_id": "R02",
+      "Q01": 4,
+      "Q02": 2,
+      "Q03": 3,
+      "Q04": 3,
+      "Q05": 3,
+      "Q06": 3,
+      "Q07": 4,
+      "Q08": 2,
+      "Q09": 2,
+      "Q10": 2,
+      "Q11": 3,
+      "Q12": 4
+    },
+    {
+      "record_id": "G03_P06_R03",
+      "group_id": "G03",
+      "participant_id": "P06",
+      "round_id": "R03",
+      "Q01": 4,
+      "Q02": 2,
+      "Q03": 4,
+      "Q04": 4,
+      "Q05": 4,
+      "Q06": 4,
+      "Q07": 4,
+      "Q08": 2,
+      "Q09": 4,
+      "Q10": 2,
+      "Q11": 3,
+      "Q12": 4
+    },
+    {
+      "record_id": "G03_P06_R04",
+      "group_id": "G03",
+      "participant_id": "P06",
+      "round_id": "R04",
+      "Q01": 3,
+      "Q02": 2,
+      "Q03": 4,
+      "Q04": 4,
+      "Q05": 2,
+      "Q06": 2,
+      "Q07": 2,
+      "Q08": 2,
+      "Q09": 1,
+      "Q10": 1,
+      "Q11": 3,
+      "Q12": 3
+    },
+    {
+      "record_id": "G04_P07_R01",
+      "group_id": "G04",
+      "participant_id": "P07",
+      "round_id": "R01",
+      "Q01": 3,
+      "Q02": 3,
+      "Q03": 2,
+      "Q04": 1,
+      "Q05": 4,
+      "Q06": 4,
+      "Q07": 2,
+      "Q08": 2,
+      "Q09": 4,
+      "Q10": 3,
+      "Q11": 4,
+      "Q12": 4
+    },
+    {
+      "record_id": "G04_P07_R02",
+      "group_id": "G04",
+      "participant_id": "P07",
+      "round_id": "R02",
+      "Q01": 4,
+      "Q02": 2,
+      "Q03": 4,
+      "Q04": 2,
+      "Q05": 3,
+      "Q06": 4,
+      "Q07": 2,
+      "Q08": 2,
+      "Q09": 2,
+      "Q10": 4,
+      "Q11": 1,
+      "Q12": 4
+    },
+    {
+      "record_id": "G04_P07_R03",
+      "group_id": "G04",
+      "participant_id": "P07",
+      "round_id": "R03",
+      "Q01": 4,
+      "Q02": 2,
+      "Q03": 4,
+      "Q04": 2,
+      "Q05": 4,
+      "Q06": 4,
+      "Q07": 2,
+      "Q08": 1,
+      "Q09": 1,
+      "Q10": 1,
+      "Q11": 4,
+      "Q12": 4
+    },
+    {
+      "record_id": "G04_P07_R04",
+      "group_id": "G04",
+      "participant_id": "P07",
+      "round_id": "R04",
+      "Q01": 3,
+      "Q02": 4,
+      "Q03": 2,
+      "Q04": 3,
+      "Q05": 2,
+      "Q06": 4,
+      "Q07": 4,
+      "Q08": 2,
+      "Q09": 2,
+      "Q10": 1,
+      "Q11": 1,
+      "Q12": 4
+    },
+    {
+      "record_id": "G04_P08_R01",
+      "group_id": "G04",
+      "participant_id": "P08",
+      "round_id": "R01",
+      "Q01": null,
+      "Q02": 4,
+      "Q03": 2,
+      "Q04": 3,
+      "Q05": 3,
+      "Q06": 5,
+      "Q07": 2,
+      "Q08": 2,
+      "Q09": 4,
+      "Q10": 4,
+      "Q11": 4,
+      "Q12": 2
+    },
+    {
+      "record_id": "G04_P08_R02",
+      "group_id": "G04",
+      "participant_id": "P08",
+      "round_id": "R02",
+      "Q01": null,
+      "Q02": 3,
+      "Q03": 2,
+      "Q04": 4,
+      "Q05": 3,
+      "Q06": 5,
+      "Q07": 4,
+      "Q08": 2,
+      "Q09": 5,
+      "Q10": 5,
+      "Q11": 5,
+      "Q12": 2
+    },
+    {
+      "record_id": "G04_P08_R03",
+      "group_id": "G04",
+      "participant_id": "P08",
+      "round_id": "R03",
+      "Q01": 4,
+      "Q02": 3,
+      "Q03": 4,
+      "Q04": 5,
+      "Q05": 4,
+      "Q06": 5,
+      "Q07": 3,
+      "Q08": 3,
+      "Q09": 5,
+      "Q10": 4,
+      "Q11": 5,
+      "Q12": 4
+    },
+    {
+      "record_id": "G04_P08_R04",
+      "group_id": "G04",
+      "participant_id": "P08",
+      "round_id": "R04",
+      "Q01": 4,
+      "Q02": 4,
+      "Q03": 4,
+      "Q04": 5,
+      "Q05": 3,
+      "Q06": 5,
+      "Q07": 4,
+      "Q08": 5,
+      "Q09": 5,
+      "Q10": 4,
+      "Q11": 5,
+      "Q12": 4
+    },
+    {
+      "record_id": "G05_P09_R01",
+      "group_id": "G05",
+      "participant_id": "P09",
+      "round_id": "R01",
+      "Q01": 5,
+      "Q02": 4,
+      "Q03": 5,
+      "Q04": 5,
+      "Q05": 5,
+      "Q06": 5,
+      "Q07": 5,
+      "Q08": 5,
+      "Q09": 5,
+      "Q10": 4,
+      "Q11": 5,
+      "Q12": 5
+    },
+    {
+      "record_id": "G05_P09_R02",
+      "group_id": "G05",
+      "participant_id": "P09",
+      "round_id": "R02",
+      "Q01": 5,
+      "Q02": 5,
+      "Q03": 5,
+      "Q04": 5,
+      "Q05": 5,
+      "Q06": 5,
+      "Q07": 5,
+      "Q08": 5,
+      "Q09": 5,
+      "Q10": 5,
+      "Q11": 5,
+      "Q12": 5
+    },
+    {
+      "record_id": "G05_P09_R03",
+      "group_id": "G05",
+      "participant_id": "P09",
+      "round_id": "R03",
+      "Q01": 5,
+      "Q02": 4,
+      "Q03": 5,
+      "Q04": 4,
+      "Q05": 5,
+      "Q06": 5,
+      "Q07": 4,
+      "Q08": 5,
+      "Q09": 5,
+      "Q10": 4,
+      "Q11": 5,
+      "Q12": 5
+    },
+    {
+      "record_id": "G05_P09_R04",
+      "group_id": "G05",
+      "participant_id": "P09",
+      "round_id": "R04",
+      "Q01": 4,
+      "Q02": 4,
+      "Q03": 5,
+      "Q04": 5,
+      "Q05": 3,
+      "Q06": 5,
+      "Q07": 3,
+      "Q08": 1,
+      "Q09": 1,
+      "Q10": 1,
+      "Q11": 4,
+      "Q12": 4
+    },
+    {
+      "record_id": "G05_P10_R01",
+      "group_id": "G05",
+      "participant_id": "P10",
+      "round_id": "R01",
+      "Q01": 5,
+      "Q02": 5,
+      "Q03": 5,
+      "Q04": 5,
+      "Q05": 5,
+      "Q06": 5,
+      "Q07": 5,
+      "Q08": 5,
+      "Q09": 5,
+      "Q10": 4,
+      "Q11": 4,
+      "Q12": 5
+    },
+    {
+      "record_id": "G05_P10_R02",
+      "group_id": "G05",
+      "participant_id": "P10",
+      "round_id": "R02",
+      "Q01": 4,
+      "Q02": 4,
+      "Q03": 4,
+      "Q04": 5,
+      "Q05": 4,
+      "Q06": 3,
+      "Q07": 4,
+      "Q08": 5,
+      "Q09": 4,
+      "Q10": 5,
+      "Q11": 5,
+      "Q12": 5
+    },
+    {
+      "record_id": "G05_P10_R03",
+      "group_id": "G05",
+      "participant_id": "P10",
+      "round_id": "R03",
+      "Q01": 5,
+      "Q02": 5,
+      "Q03": 4,
+      "Q04": 3,
+      "Q05": 4,
+      "Q06": 5,
+      "Q07": 3,
+      "Q08": 3,
+      "Q09": 5,
+      "Q10": 5,
+      "Q11": 5,
+      "Q12": 5
+    },
+    {
+      "record_id": "G05_P10_R04",
+      "group_id": "G05",
+      "participant_id": "P10",
+      "round_id": "R04",
+      "Q01": 3,
+      "Q02": 3,
+      "Q03": 4,
+      "Q04": 4,
+      "Q05": 4,
+      "Q06": 5,
+      "Q07": 2,
+      "Q08": 3,
+      "Q09": 5,
+      "Q10": 3,
+      "Q11": 5,
+      "Q12": 3
+    },
+    {
+      "record_id": "G06_P11_R01",
+      "group_id": "G06",
+      "participant_id": "P11",
+      "round_id": "R01",
+      "Q01": 3,
+      "Q02": 3,
+      "Q03": 4,
+      "Q04": 5,
+      "Q05": 5,
+      "Q06": 5,
+      "Q07": 3,
+      "Q08": 4,
+      "Q09": 5,
+      "Q10": 5,
+      "Q11": 2,
+      "Q12": 2
+    },
+    {
+      "record_id": "G06_P11_R02",
+      "group_id": "G06",
+      "participant_id": "P11",
+      "round_id": "R02",
+      "Q01": 4,
+      "Q02": 4,
+      "Q03": 4,
+      "Q04": 4,
+      "Q05": 5,
+      "Q06": 5,
+      "Q07": 4,
+      "Q08": 4,
+      "Q09": 4,
+      "Q10": 4,
+      "Q11": 4,
+      "Q12": 4
+    },
+    {
+      "record_id": "G06_P11_R03",
+      "group_id": "G06",
+      "participant_id": "P11",
+      "round_id": "R03",
+      "Q01": 4,
+      "Q02": 3,
+      "Q03": 3,
+      "Q04": 4,
+      "Q05": 4,
+      "Q06": 4,
+      "Q07": 4,
+      "Q08": 3,
+      "Q09": 4,
+      "Q10": 4,
+      "Q11": 4,
+      "Q12": 4
+    },
+    {
+      "record_id": "G06_P11_R04",
+      "group_id": "G06",
+      "participant_id": "P11",
+      "round_id": "R04",
+      "Q01": 3,
+      "Q02": 3,
+      "Q03": 3,
+      "Q04": 4,
+      "Q05": 3,
+      "Q06": 4,
+      "Q07": 3,
+      "Q08": 3,
+      "Q09": 3,
+      "Q10": 3,
+      "Q11": 4,
+      "Q12": 4
+    },
+    {
+      "record_id": "G06_P12_R01",
+      "group_id": "G06",
+      "participant_id": "P12",
+      "round_id": "R01",
+      "Q01": 4,
+      "Q02": 4,
+      "Q03": 4,
+      "Q04": 5,
+      "Q05": 5,
+      "Q06": 5,
+      "Q07": 4,
+      "Q08": 3,
+      "Q09": 5,
+      "Q10": 5,
+      "Q11": 5,
+      "Q12": 3
+    },
+    {
+      "record_id": "G06_P12_R02",
+      "group_id": "G06",
+      "participant_id": "P12",
+      "round_id": "R02",
+      "Q01": 4,
+      "Q02": 4,
+      "Q03": 5,
+      "Q04": 5,
+      "Q05": 4,
+      "Q06": 5,
+      "Q07": 4,
+      "Q08": 4,
+      "Q09": 5,
+      "Q10": 5,
+      "Q11": 5,
+      "Q12": 4
+    },
+    {
+      "record_id": "G06_P12_R03",
+      "group_id": "G06",
+      "participant_id": "P12",
+      "round_id": "R03",
+      "Q01": 4,
+      "Q02": 5,
+      "Q03": 5,
+      "Q04": 5,
+      "Q05": 5,
+      "Q06": 5,
+      "Q07": 5,
+      "Q08": 5,
+      "Q09": 5,
+      "Q10": 5,
+      "Q11": 5,
+      "Q12": 5
+    },
+    {
+      "record_id": "G06_P12_R04",
+      "group_id": "G06",
+      "participant_id": "P12",
+      "round_id": "R04",
+      "Q01": 4,
+      "Q02": 4,
+      "Q03": 4,
+      "Q04": 5,
+      "Q05": 5,
+      "Q06": 5,
+      "Q07": 5,
+      "Q08": 5,
+      "Q09": 5,
+      "Q10": 5,
+      "Q11": 5,
+      "Q12": 4
+    }
+  ],
+  "question_dictionary": [
+    {
+      "item": "Q01",
+      "original_chinese": "我能辨认对方说的是哪块拼图。",
+      "scale": "1-5；无法判断/不适用单列；不是0",
+      "working_english_translation": "I could identify which piece my partner was referring to."
+    },
+    {
+      "item": "Q02",
+      "original_chinese": "我能理解对方想把拼块放在哪里。",
+      "scale": "1-5；无法判断/不适用单列；不是0",
+      "working_english_translation": "I could understand where my partner wanted to place a piece."
+    },
+    {
+      "item": "Q03",
+      "original_chinese": "我能判断对方是否理解了我的建议。",
+      "scale": "1-5；无法判断/不适用单列；不是0",
+      "working_english_translation": "I could judge whether my partner understood my suggestion."
+    },
+    {
+      "item": "Q04",
+      "original_chinese": "我能向对方清楚说明自己想把拼块放在哪里。",
+      "scale": "1-5；无法判断/不适用单列；不是0",
+      "working_english_translation": "I could clearly explain where I wanted to place a piece."
+    },
+    {
+      "item": "Q05",
+      "original_chinese": "我能跟上对方正在做的事情。",
+      "scale": "1-5；无法判断/不适用单列；不是0",
+      "working_english_translation": "I could follow what my partner was doing."
+    },
+    {
+      "item": "Q06",
+      "original_chinese": "我清楚拼图当时的完成进度。",
+      "scale": "1-5；无法判断/不适用单列；不是0",
+      "working_english_translation": "I knew the current progress of the puzzle."
+    },
+    {
+      "item": "Q07",
+      "original_chinese": "我们能协调各自行动的时机。",
+      "scale": "1-5；无法判断/不适用单列；不是0",
+      "working_english_translation": "We could coordinate the timing of our actions."
+    },
+    {
+      "item": "Q08",
+      "original_chinese": "我能调整自己的动作，避免干扰对方。",
+      "scale": "1-5；无法判断/不适用单列；不是0",
+      "working_english_translation": "I could adjust my actions to avoid interfering with my partner."
+    },
+    {
+      "item": "Q09",
+      "original_chinese": "我能把拼块移动到自己想放的位置。",
+      "scale": "1-5；无法判断/不适用单列；不是0",
+      "working_english_translation": "I could move a piece to the location I intended."
+    },
+    {
+      "item": "Q10",
+      "original_chinese": "我能把拼块转到自己想要的方向。",
+      "scale": "1-5；无法判断/不适用单列；不是0",
+      "working_english_translation": "I could rotate a piece to the orientation I intended."
+    },
+    {
+      "item": "Q11",
+      "original_chinese": "我清楚自己正在承担任务的哪一部分。",
+      "scale": "1-5；无法判断/不适用单列；不是0",
+      "working_english_translation": "I knew which part of the task I was responsible for."
+    },
+    {
+      "item": "Q12",
+      "original_chinese": "我觉得我们是在一起解决这道拼图。",
+      "scale": "1-5；无法判断/不适用单列；不是0",
+      "working_english_translation": "I felt that we were solving the puzzle together."
+    }
+  ],
+  "selection": {
+    "items": [
+      "Q04",
+      "Q06",
+      "Q09",
+      "Q10",
+      "Q12"
+    ],
+    "reason": "Same five items as the previous Figure 4, retained before plotting the newly confirmed responses; pairs location expression/progress with control and joint solving.",
+    "main_chart_participant_flags": "None; confirmation provenance belongs in Methods."
+  },
+  "paired_values": [
+    {
+      "participant_id": "P01",
+      "group_id": "G01",
+      "item": "Q04",
+      "R03": 4,
+      "R04": 4
+    },
+    {
+      "participant_id": "P02",
+      "group_id": "G01",
+      "item": "Q04",
+      "R03": 5,
+      "R04": 5
+    },
+    {
+      "participant_id": "P03",
+      "group_id": "G02",
+      "item": "Q04",
+      "R03": 5,
+      "R04": 5
+    },
+    {
+      "participant_id": "P04",
+      "group_id": "G02",
+      "item": "Q04",
+      "R03": 4,
+      "R04": 4
+    },
+    {
+      "participant_id": "P05",
+      "group_id": "G03",
+      "item": "Q04",
+      "R03": 4,
+      "R04": 3
+    },
+    {
+      "participant_id": "P06",
+      "group_id": "G03",
+      "item": "Q04",
+      "R03": 4,
+      "R04": 4
+    },
+    {
+      "participant_id": "P07",
+      "group_id": "G04",
+      "item": "Q04",
+      "R03": 2,
+      "R04": 3
+    },
+    {
+      "participant_id": "P08",
+      "group_id": "G04",
+      "item": "Q04",
+      "R03": 5,
+      "R04": 5
+    },
+    {
+      "participant_id": "P09",
+      "group_id": "G05",
+      "item": "Q04",
+      "R03": 4,
+      "R04": 5
+    },
+    {
+      "participant_id": "P10",
+      "group_id": "G05",
+      "item": "Q04",
+      "R03": 3,
+      "R04": 4
+    },
+    {
+      "participant_id": "P11",
+      "group_id": "G06",
+      "item": "Q04",
+      "R03": 4,
+      "R04": 4
+    },
+    {
+      "participant_id": "P12",
+      "group_id": "G06",
+      "item": "Q04",
+      "R03": 5,
+      "R04": 5
+    },
+    {
+      "participant_id": "P01",
+      "group_id": "G01",
+      "item": "Q06",
+      "R03": 5,
+      "R04": 5
+    },
+    {
+      "participant_id": "P02",
+      "group_id": "G01",
+      "item": "Q06",
+      "R03": 5,
+      "R04": 5
+    },
+    {
+      "participant_id": "P03",
+      "group_id": "G02",
+      "item": "Q06",
+      "R03": 5,
+      "R04": 5
+    },
+    {
+      "participant_id": "P04",
+      "group_id": "G02",
+      "item": "Q06",
+      "R03": 4,
+      "R04": 4
+    },
+    {
+      "participant_id": "P05",
+      "group_id": "G03",
+      "item": "Q06",
+      "R03": 4,
+      "R04": 2
+    },
+    {
+      "participant_id": "P06",
+      "group_id": "G03",
+      "item": "Q06",
+      "R03": 4,
+      "R04": 2
+    },
+    {
+      "participant_id": "P07",
+      "group_id": "G04",
+      "item": "Q06",
+      "R03": 4,
+      "R04": 4
+    },
+    {
+      "participant_id": "P08",
+      "group_id": "G04",
+      "item": "Q06",
+      "R03": 5,
+      "R04": 5
+    },
+    {
+      "participant_id": "P09",
+      "group_id": "G05",
+      "item": "Q06",
+      "R03": 5,
+      "R04": 5
+    },
+    {
+      "participant_id": "P10",
+      "group_id": "G05",
+      "item": "Q06",
+      "R03": 5,
+      "R04": 5
+    },
+    {
+      "participant_id": "P11",
+      "group_id": "G06",
+      "item": "Q06",
+      "R03": 4,
+      "R04": 4
+    },
+    {
+      "participant_id": "P12",
+      "group_id": "G06",
+      "item": "Q06",
+      "R03": 5,
+      "R04": 5
+    },
+    {
+      "participant_id": "P01",
+      "group_id": "G01",
+      "item": "Q09",
+      "R03": 4,
+      "R04": 4
+    },
+    {
+      "participant_id": "P02",
+      "group_id": "G01",
+      "item": "Q09",
+      "R03": 1,
+      "R04": 1
+    },
+    {
+      "participant_id": "P03",
+      "group_id": "G02",
+      "item": "Q09",
+      "R03": 5,
+      "R04": 5
+    },
+    {
+      "participant_id": "P04",
+      "group_id": "G02",
+      "item": "Q09",
+      "R03": 4,
+      "R04": 2
+    },
+    {
+      "participant_id": "P05",
+      "group_id": "G03",
+      "item": "Q09",
+      "R03": 4,
+      "R04": 2
+    },
+    {
+      "participant_id": "P06",
+      "group_id": "G03",
+      "item": "Q09",
+      "R03": 4,
+      "R04": 1
+    },
+    {
+      "participant_id": "P07",
+      "group_id": "G04",
+      "item": "Q09",
+      "R03": 1,
+      "R04": 2
+    },
+    {
+      "participant_id": "P08",
+      "group_id": "G04",
+      "item": "Q09",
+      "R03": 5,
+      "R04": 5
+    },
+    {
+      "participant_id": "P09",
+      "group_id": "G05",
+      "item": "Q09",
+      "R03": 5,
+      "R04": 1
+    },
+    {
+      "participant_id": "P10",
+      "group_id": "G05",
+      "item": "Q09",
+      "R03": 5,
+      "R04": 5
+    },
+    {
+      "participant_id": "P11",
+      "group_id": "G06",
+      "item": "Q09",
+      "R03": 4,
+      "R04": 3
+    },
+    {
+      "participant_id": "P12",
+      "group_id": "G06",
+      "item": "Q09",
+      "R03": 5,
+      "R04": 5
+    },
+    {
+      "participant_id": "P01",
+      "group_id": "G01",
+      "item": "Q10",
+      "R03": 4,
+      "R04": 4
+    },
+    {
+      "participant_id": "P02",
+      "group_id": "G01",
+      "item": "Q10",
+      "R03": 1,
+      "R04": 1
+    },
+    {
+      "participant_id": "P03",
+      "group_id": "G02",
+      "item": "Q10",
+      "R03": 5,
+      "R04": 5
+    },
+    {
+      "participant_id": "P04",
+      "group_id": "G02",
+      "item": "Q10",
+      "R03": 4,
+      "R04": 2
+    },
+    {
+      "participant_id": "P05",
+      "group_id": "G03",
+      "item": "Q10",
+      "R03": 2,
+      "R04": 3
+    },
+    {
+      "participant_id": "P06",
+      "group_id": "G03",
+      "item": "Q10",
+      "R03": 2,
+      "R04": 1
+    },
+    {
+      "participant_id": "P07",
+      "group_id": "G04",
+      "item": "Q10",
+      "R03": 1,
+      "R04": 1
+    },
+    {
+      "participant_id": "P08",
+      "group_id": "G04",
+      "item": "Q10",
+      "R03": 4,
+      "R04": 4
+    },
+    {
+      "participant_id": "P09",
+      "group_id": "G05",
+      "item": "Q10",
+      "R03": 4,
+      "R04": 1
+    },
+    {
+      "participant_id": "P10",
+      "group_id": "G05",
+      "item": "Q10",
+      "R03": 5,
+      "R04": 3
+    },
+    {
+      "participant_id": "P11",
+      "group_id": "G06",
+      "item": "Q10",
+      "R03": 4,
+      "R04": 3
+    },
+    {
+      "participant_id": "P12",
+      "group_id": "G06",
+      "item": "Q10",
+      "R03": 5,
+      "R04": 5
+    },
+    {
+      "participant_id": "P01",
+      "group_id": "G01",
+      "item": "Q12",
+      "R03": 5,
+      "R04": 5
+    },
+    {
+      "participant_id": "P02",
+      "group_id": "G01",
+      "item": "Q12",
+      "R03": 5,
+      "R04": 5
+    },
+    {
+      "participant_id": "P03",
+      "group_id": "G02",
+      "item": "Q12",
+      "R03": 5,
+      "R04": 5
+    },
+    {
+      "participant_id": "P04",
+      "group_id": "G02",
+      "item": "Q12",
+      "R03": 5,
+      "R04": 5
+    },
+    {
+      "participant_id": "P05",
+      "group_id": "G03",
+      "item": "Q12",
+      "R03": 4,
+      "R04": 4
+    },
+    {
+      "participant_id": "P06",
+      "group_id": "G03",
+      "item": "Q12",
+      "R03": 4,
+      "R04": 3
+    },
+    {
+      "participant_id": "P07",
+      "group_id": "G04",
+      "item": "Q12",
+      "R03": 4,
+      "R04": 4
+    },
+    {
+      "participant_id": "P08",
+      "group_id": "G04",
+      "item": "Q12",
+      "R03": 4,
+      "R04": 4
+    },
+    {
+      "participant_id": "P09",
+      "group_id": "G05",
+      "item": "Q12",
+      "R03": 5,
+      "R04": 4
+    },
+    {
+      "participant_id": "P10",
+      "group_id": "G05",
+      "item": "Q12",
+      "R03": 5,
+      "R04": 3
+    },
+    {
+      "participant_id": "P11",
+      "group_id": "G06",
+      "item": "Q12",
+      "R03": 4,
+      "R04": 4
+    },
+    {
+      "participant_id": "P12",
+      "group_id": "G06",
+      "item": "Q12",
+      "R03": 5,
+      "R04": 4
+    }
+  ],
+  "descriptive_change_counts": {
+    "Q04": {
+      "R04_higher": 3,
+      "same": 8,
+      "R04_lower": 1
+    },
+    "Q06": {
+      "R04_higher": 0,
+      "same": 10,
+      "R04_lower": 2
+    },
+    "Q09": {
+      "R04_higher": 1,
+      "same": 6,
+      "R04_lower": 5
+    },
+    "Q10": {
+      "R04_higher": 1,
+      "same": 6,
+      "R04_lower": 5
+    },
+    "Q12": {
+      "R04_higher": 0,
+      "same": 8,
+      "R04_lower": 4
+    }
+  },
+  "english_results_paragraphs": [
+    "The questionnaire adds a participant-level account of placement communication, progress awareness, piece control and joint solving (Figure 5.8). Ratings differed across these aspects. From first-person VR (R03) to shared overhead VR (R04), three participants rated explaining an intended placement more highly, eight gave the same rating and one gave a lower rating. Movement and rotation each received lower ratings from five participants, the same ratings from six and a higher rating from one. Communicating a placement and controlling a piece were therefore distinct aspects of the reported experience.",
+    "The differences are visible within dyads. In G05, both participants rated explaining a placement more highly in R04, while their ratings of solving together fell from 5 to 4 and from 5 to 3. P09 also rated moving pieces from 5 to 1 and rotating them from 4 to 1. In G04, both participants rated solving together at 4 in both rounds, although P07 rated rotation at 1 and P08 at 4. The questionnaire therefore supplements the action evidence by showing that a sense of working together can coexist with very different experiences of control. The comparisons describe these sessions, whose fixed order, patterns and prototype versions also differed."
+  ],
+  "questionnaire_figure": {
+    "number": "5.8",
+    "caption": "Figure 5.8. Paired ratings for five questionnaire items in first-person VR (R03) and shared overhead VR (R04). Each row is one participant; circles and squares show the two raw ratings, connected within that participant. A square inside a circle indicates equal ratings. All 12 participants have both responses for these items (24 VR questionnaires from the confirmed 48-response dataset). Q04 concerns explaining an intended placement, Q06 knowing puzzle progress, Q09 moving a piece to an intended location, Q10 rotating it to an intended orientation, and Q12 feeling that the puzzle was solved together. Ratings use the full 1–5 scale; no combined score is calculated. The rounds occurred in a fixed order with different patterns and prototype versions. G02 ratings refer to the original session, not the later replay recording.",
+    "outputs": [
+      {
+        "path": "figures/Figure5_8_VR_item_ratings.png",
+        "sha256": "af559e22da61f93319525b2fc92b7638446e851858c0b4f64c925f5d24dce30d"
+      },
+      {
+        "path": "figures/Figure5_8_VR_item_ratings.pdf",
+        "sha256": "5b477fd4da3ea27fa76d1a8306027a4f0df333bbfa2be67fcdfcb56c3a732a47"
+      },
+      {
+        "path": "figures/Figure5_8_VR_item_ratings.svg",
+        "sha256": "28dfad80c4ac1bfaa472c060cca011c2a744d8faad556dc526488c2867579412"
+      }
+    ],
+    "role": "Auxiliary participant experience; does not establish geometric correctness or a causal effect of viewpoint.",
+    "display_claim": "Ratings of explaining placement, awareness, control and joint solving vary separately within participants.",
+    "size_mm": [
+      160,
+      126
+    ],
+    "engine": "matplotlib",
+    "error_bars": "Not applicable: one raw ordinal rating per participant, condition and item.",
+    "significance": "No hypothesis tests performed; not an aggregate or inferential display.",
+    "visual_review": {
+      "status": "PASS",
+      "pixel_review_done": true,
+      "reviewed_file": "figures/Figure5_8_VR_item_ratings.png",
+      "reviewed_file_sha256": "af559e22da61f93319525b2fc92b7638446e851858c0b4f64c925f5d24dce30d",
+      "checks": {
+        "labels_readable": true,
+        "no_clipping": true,
+        "no_overlap": true,
+        "no_legend_over_data": true,
+        "data_mapping_confirmed": true
+      },
+      "notes": "PNG actually viewed with view_image. Figure 5.8 retains full 1–5 scale and circle/square redundancy; Figure 3.1 retains all five boxes, arrows and body lines."
+    }
+  },
+  "coverage_table": {
+    "replaces_old_figure": "Figure 2 evidence coverage",
+    "recommendation": "Use a native four-row document table, not an additional figure.",
+    "columns": [
+      "Round",
+      "Condition",
+      "Dyads with process reports",
+      "Confirmed questionnaires",
+      "NA item entries"
+    ],
+    "rows": [
+      {
+        "round": "R01",
+        "condition": "Physical direct",
+        "dyads_with_process_reports": 6,
+        "confirmed_questionnaires": 12,
+        "non_numeric_item_entries": 1,
+        "process_note": ""
+      },
+      {
+        "round": "R02",
+        "condition": "Physical overhead video",
+        "dyads_with_process_reports": 6,
+        "confirmed_questionnaires": 12,
+        "non_numeric_item_entries": 1,
+        "process_note": ""
+      },
+      {
+        "round": "R03",
+        "condition": "First-person VR",
+        "dyads_with_process_reports": 6,
+        "confirmed_questionnaires": 12,
+        "non_numeric_item_entries": 0,
+        "process_note": "G02 VR process material is a later replay."
+      },
+      {
+        "round": "R04",
+        "condition": "Shared overhead VR",
+        "dyads_with_process_reports": 6,
+        "confirmed_questionnaires": 12,
+        "non_numeric_item_entries": 0,
+        "process_note": "G02 VR process material is a later replay."
+      }
+    ],
+    "note": "The 26 researcher process reports cover 24 dyad-condition cells; these are not 26 independent trials. G02 VR process material is a later replay, while its questionnaires concern the original session. The two NA entries are Q01 for P08 in R01 and R02. Coverage means source availability, not continuous assistant audiovisual verification."
+  },
+  "history_figure": {
+    "number": "3.1",
+    "caption": "Figure 3.1. Development of the research focus and study design. The August feedback called for a comparable task family while retaining the possibility of individual and joint work. The September discussion selected Tangram across the tasks. The final four-condition study is shown separately from those earlier plans. Sources: original project brief, early study plan, August thesis plan and supervisor response, 1 September meeting transcript, and final study procedure.",
+    "outputs": [
+      {
+        "path": "figures/Figure3_1_research_development.png",
+        "sha256": "c1412c679c42fd731f69acfc03769556c6ccf75cd68a004fb21665f19fc6e263"
+      },
+      {
+        "path": "figures/Figure3_1_research_development.pdf",
+        "sha256": "85f91221e9fd8f6ed0785cce325349db5d79f96d0c5b09f60f6dd44915a73e46"
+      },
+      {
+        "path": "figures/Figure3_1_research_development.svg",
+        "sha256": "f8111a8703ea0adc50be4df758e5c15e53a223d5233d03caa9cfc499114ccb66"
+      }
+    ],
+    "nodes": [
+      [
+        "Original brief",
+        "External VR viewpoint; coordination, intent and workspace awareness."
+      ],
+      [
+        "First-semester planning",
+        "Physical Tangram exploration informed the VR research and prototype."
+      ],
+      [
+        "August plan and supervisor response",
+        "Keep the task family comparable; parts may be done separately or jointly."
+      ],
+      [
+        "September decision",
+        "Use Tangram throughout."
+      ],
+      [
+        "Implemented study",
+        "Four free-collaboration conditions; six familiar dyads; fixed order.\nActual patterns, practice and prototype versions retained."
+      ]
+    ],
+    "size_mm": [
+      160,
+      116
+    ],
+    "correction": "Moved the final four-condition claim from September decision to Implemented study. The September transcript still discusses six proposed tests; it supports the common Tangram task, not the final four-condition design.",
+    "date_status": "August response header verified as 20 August 2026. September meeting date comes from the historical source index; the transcript itself has no date header.",
+    "retained_nodes_status": "Original brief and first-semester nodes retained from the source-indexed earlier figure; not newly re-audited against all original historical attachments.",
+    "visual_review": {
+      "status": "PASS",
+      "pixel_review_done": true,
+      "reviewed_file": "figures/Figure3_1_research_development.png",
+      "reviewed_file_sha256": "c1412c679c42fd731f69acfc03769556c6ccf75cd68a004fb21665f19fc6e263",
+      "checks": {
+        "labels_readable": true,
+        "no_clipping": true,
+        "no_overlap": true,
+        "no_legend_over_data": true,
+        "data_mapping_confirmed": true
+      },
+      "notes": "PNG actually viewed with view_image. Figure 5.8 retains full 1–5 scale and circle/square redundancy; Figure 3.1 retains all five boxes, arrows and body lines."
+    }
+  },
+  "build": {
+    "script": "source-archive/workspace/outputs/thesis_progress_20261025/supervisor_draft_20261102/figures/build_auxiliary_figures.py",
+    "script_sha256": "b9ff821e89b1b1eb83b5ebfa624fe54ac3452b3a159f7e96ba91896947a2b931",
+    "python": "3.12.0",
+    "matplotlib": "3.11.2",
+    "randomness": "None",
+    "source_files_modified": false
+  },
+  "light_figure_scope": "Applied raw-data/provenance, full-scale, redundant marker, programmatic-render and visual-review requirements. No full Light result-card or paper-claim DAG contract was supplied; not claiming full DAG validation.",
+  "visual_honesty_static_check": {
+    "engine": "light-figure/figure_integrity_lint.py",
+    "findings": [],
+    "interpretation": "Static pattern check only; descriptive raw ordinal display has no aggregate uncertainty or significance claim."
+  },
+  "validation": {
+    "all_576_source_entries_match": true,
+    "all_120_plotted_values_match": true,
+    "NA_preserved_as_null": true,
+    "all_six_output_hashes_verified": true,
+    "old_figures_1_2_4_actually_viewed": true
+  }
+}

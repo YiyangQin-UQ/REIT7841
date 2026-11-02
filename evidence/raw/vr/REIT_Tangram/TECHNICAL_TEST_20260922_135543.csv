@@ -1,0 +1,3 @@
+utc,server_seconds,pair,epoch,task,view,practice,event,detail
+2026-09-22T13:55:43.9710740Z,0.000,"TECHNICAL_TEST",0,"00_vela-5",0,True,"session_start","Protocol V1; manual completion; no audio recording"
+2026-09-22T13:55:43.9712610Z,0.000,"TECHNICAL_TEST",0,"00_vela-5",0,True,"connected","0"

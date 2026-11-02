@@ -1,0 +1,4 @@
+utc,server_seconds,pair,epoch,task,view,practice,event,detail
+2026-10-10T06:25:52.9090790Z,0.000,"TECHNICAL_TEST",0,"00_vela-5",0,True,"session_start","Manual completion; task audio recorded separately"
+2026-10-10T06:25:52.9092730Z,0.000,"TECHNICAL_TEST",0,"00_vela-5",0,True,"connected","0"
+2026-10-10T06:27:13.6650770Z,80.819,"TECHNICAL_TEST",0,"00_vela-5",0,True,"connected","1"

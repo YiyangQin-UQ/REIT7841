@@ -1,0 +1,123 @@
+[
+  {
+    "figure_id": "3.1",
+    "D": [
+      "D28",
+      "D29",
+      "D30",
+      "D31",
+      "D33",
+      "D36",
+      "D38"
+    ],
+    "entrypoints": "scripts/build_auxiliary_figures.py + scripts/redraw_final_schematics.py",
+    "claim_boundary": "Research development: five historical/implemented nodes, not data trend."
+  },
+  {
+    "figure_id": "3.2",
+    "D": [
+      "D24",
+      "D25",
+      "D38",
+      "D40",
+      "D41"
+    ],
+    "entrypoints": "scripts/draw_method_figures.py",
+    "claim_boundary": "Implemented apparatus schematic; not a captured photograph."
+  },
+  {
+    "figure_id": "4.1",
+    "D": [
+      "D17",
+      "D20",
+      "D21",
+      "D26",
+      "D44"
+    ],
+    "entrypoints": "scripts/draw_method_figures.py + scripts/redraw_final_schematics.py",
+    "claim_boundary": "Analysis procedure schematic; not an empirical frequency chart."
+  },
+  {
+    "figure_id": "5.1",
+    "D": [
+      "D14",
+      "D16",
+      "D21",
+      "D26"
+    ],
+    "entrypoints": "scripts/build_geometry.py",
+    "claim_boundary": "G06 six reconstructed states at 45/64/83/145/184/214 active seconds."
+  },
+  {
+    "figure_id": "5.2",
+    "D": [
+      "D14",
+      "D16",
+      "D26"
+    ],
+    "entrypoints": "scripts/build_geometry.py",
+    "claim_boundary": "Real first-person frame at video 15:45 and latest-pose projection at 214 active seconds; separate clocks."
+  },
+  {
+    "figure_id": "5.3",
+    "D": [
+      "D06",
+      "D08",
+      "D14",
+      "D16",
+      "D26"
+    ],
+    "entrypoints": "scripts/build_geometry.py",
+    "claim_boundary": "Target, G03, G04, G06 one geometric width relation; displays 1.00/1.00/1.39, never a global shape error."
+  },
+  {
+    "figure_id": "5.4",
+    "D": [
+      "D14",
+      "D21",
+      "D26",
+      "D74"
+    ],
+    "entrypoints": "scripts/plot_timeline.py",
+    "claim_boundary": "All 79 G06 accepted grab-to-release pairs; P11/P12 labels, original endpoint IDs retained in data."
+  },
+  {
+    "figure_id": "5.5",
+    "D": [
+      "D06",
+      "D21",
+      "D26",
+      "D74"
+    ],
+    "entrypoints": "scripts/build_geometry.py",
+    "claim_boundary": "G03 52/73/99 active-second geometry; P05 self-revision then P06 continuation; original endpoint mapping independently audited."
+  },
+  {
+    "figure_id": "5.6",
+    "D": [
+      "D12",
+      "D21",
+      "D74"
+    ],
+    "entrypoints": "scripts/plot_goose.py",
+    "claim_boundary": "G06 cropped real physical-overhead frames with event and frame times distinguished; alternative correct partition supported by later report."
+  },
+  {
+    "figure_id": "5.7",
+    "D": [
+      "D03",
+      "D21",
+      "D74"
+    ],
+    "entrypoints": "scripts/plot_self_revision.py",
+    "claim_boundary": "G01 correct-local-solution self-revision; correctness from researcher report, authentic crops show configurations."
+  },
+  {
+    "figure_id": "5.8",
+    "D": [
+      "D20"
+    ],
+    "entrypoints": "scripts/build_auxiliary_figures.py",
+    "claim_boundary": "Raw paired participant ratings for five items; all 48 forms/12 items available, no combined score or inferential claim."
+  }
+]

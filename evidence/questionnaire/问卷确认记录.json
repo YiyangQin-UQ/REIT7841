@@ -1,0 +1,108 @@
+{
+  "recorded_at_utc": "2026-10-21T06:30:24.375802+00:00",
+  "source": "researcher explicit report in current conversation; no direct participant contact by assistant",
+  "question": "你说参与者同意复制，是指他们核对了对应轮次，并确认这些题目的回答确实与被复制的记录相同，还是同意用另一轮／伙伴的答案补齐？这决定能否登记为参与者确认的回答，无需重新填表。",
+  "answer": "已确认对应轮次的回答相同",
+  "records": [
+    {
+      "target_record": "G01_P01_R03",
+      "reference_record": "G01_P01_R04",
+      "confirmed_round": "R03",
+      "confirmed_items": [
+        "Q01",
+        "Q02",
+        "Q03",
+        "Q04",
+        "Q05",
+        "Q06",
+        "Q07",
+        "Q08",
+        "Q09",
+        "Q10",
+        "Q11",
+        "Q12"
+      ],
+      "values": {
+        "Q01": "5",
+        "Q02": "4",
+        "Q03": "5",
+        "Q04": "4",
+        "Q05": "5",
+        "Q06": "5",
+        "Q07": "4",
+        "Q08": "4",
+        "Q09": "4",
+        "Q10": "4",
+        "Q11": "4",
+        "Q12": "5"
+      }
+    },
+    {
+      "target_record": "G01_P02_R03",
+      "reference_record": "G01_P02_R04",
+      "confirmed_round": "R03",
+      "confirmed_items": [
+        "Q01",
+        "Q02",
+        "Q03",
+        "Q04",
+        "Q05",
+        "Q06",
+        "Q07",
+        "Q08",
+        "Q09",
+        "Q10",
+        "Q11",
+        "Q12"
+      ],
+      "values": {
+        "Q01": "5",
+        "Q02": "4",
+        "Q03": "5",
+        "Q04": "5",
+        "Q05": "4",
+        "Q06": "5",
+        "Q07": "5",
+        "Q08": "2",
+        "Q09": "1",
+        "Q10": "1",
+        "Q11": "4",
+        "Q12": "5"
+      }
+    },
+    {
+      "target_record": "G03_P05_R03",
+      "reference_record": "G03_P06_R03",
+      "confirmed_round": "R03",
+      "confirmed_items": [
+        "Q01",
+        "Q02",
+        "Q03",
+        "Q04",
+        "Q05",
+        "Q06",
+        "Q07",
+        "Q08",
+        "Q09",
+        "Q10",
+        "Q11",
+        "Q12"
+      ],
+      "values": {
+        "Q01": "4",
+        "Q02": "2",
+        "Q03": "4",
+        "Q04": "4",
+        "Q05": "4",
+        "Q06": "4",
+        "Q07": "4",
+        "Q08": "2",
+        "Q09": "4",
+        "Q10": "2",
+        "Q11": "3",
+        "Q12": "4"
+      }
+    }
+  ],
+  "analysis_policy": "include as confirmed target-round responses; preserve entry provenance in methods, no per-person flags in main charts; do not backdate entry or rewrite historical originals"
+}

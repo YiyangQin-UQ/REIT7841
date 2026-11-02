@@ -1,0 +1,9 @@
+utc,server_seconds,pair,epoch,task,view,practice,event,detail
+2026-10-10T11:18:51.0782290Z,0.000,"TECHNICAL_TEST",30,"03_persona-nadando",1,True,"session_start","Manual completion; task audio recorded separately"
+2026-10-10T11:18:51.0784560Z,0.000,"TECHNICAL_TEST",30,"03_persona-nadando",1,True,"connected","0"
+2026-10-10T11:18:59.6542430Z,8.585,"TECHNICAL_TEST",31,"03_persona-nadando",1,True,"reset","task_change"
+2026-10-10T11:18:59.6542920Z,8.585,"TECHNICAL_TEST",31,"02_senora",1,True,"action","Previous by 0"
+2026-10-10T11:19:00.7515470Z,9.684,"TECHNICAL_TEST",32,"02_senora",1,True,"reset","task_change"
+2026-10-10T11:19:00.7515840Z,9.684,"TECHNICAL_TEST",32,"01_silla-1",1,True,"action","Previous by 0"
+2026-10-10T11:19:01.1430130Z,10.072,"TECHNICAL_TEST",33,"01_silla-1",1,True,"reset","task_change"
+2026-10-10T11:19:01.1430570Z,10.072,"TECHNICAL_TEST",33,"00_vela-5",1,True,"action","Previous by 0"

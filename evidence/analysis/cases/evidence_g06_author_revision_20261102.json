@@ -1,0 +1,423 @@
+{
+  "date": "2026-11-02",
+  "scope": "Focused author-interpretation evidence check; no manuscript or figure edited.",
+  "author_interpretation_received": "以拼接展示想法并轮流推进；无替代思路时伙伴倾向保留，原搭建者可能自行改；有可执行替代时伙伴接手。",
+  "physical_goose_sequence": [
+    {
+      "time": "开始",
+      "builder": "B",
+      "action": "先拿正方形作鹅头",
+      "role_in_argument": "用放置先显示局部选择；不是宣布完整解法"
+    },
+    {
+      "time": "约00:11",
+      "builder": "A",
+      "action": "指参考图颈部，将小三角作嘴、平行四边形作颈",
+      "role_in_argument": "A把自己的局部判断落实为可见构型"
+    },
+    {
+      "time": "约00:33",
+      "builder": "A",
+      "action": "尝试确定大三角位置，未果",
+      "role_in_argument": "已有局部之后，整体仍未解出"
+    },
+    {
+      "time": "约00:53",
+      "builder": "B",
+      "action": "沿已完成部分往下接，将小三角贴在平行四边形上",
+      "role_in_argument": "B围绕现有部分提出下一步，不是整套推倒"
+    },
+    {
+      "time": "约01:02",
+      "builder": "A",
+      "action": "按B的局部思路将中三角贴上小三角，形成右半边",
+      "role_in_argument": "A再接续B新增的关系；支持轮流推进"
+    },
+    {
+      "time": "约01:11",
+      "builder": "A和B",
+      "action": "研究者称B有了解题思路，双方放剩余两大三角",
+      "role_in_argument": "共同完成剩余部分；不必先证明B已持有完整方案"
+    },
+    {
+      "time": "约01:20及之后",
+      "builder": "两人",
+      "action": "研究者判断完成正确，随后核对参考分块",
+      "role_in_argument": "与参考内部划分不同，但不是错误轮廓"
+    }
+  ],
+  "physical_goose_partition_comparison": {
+    "actual_upper_left_body": "中三角＋小三角",
+    "reference_upper_left_body": "正方形＋小三角",
+    "actual_right_head": "正方形＋小三角",
+    "reference_right_head": "中三角＋小三角",
+    "correction": "具体是正方形与中三角在两处区域中的使用位置不同，每处均与一小三角配合；不是仅正方形与小三角直接对换。",
+    "evidence": "v072的附件直接查看记录；本轮又查看本地V06 20/60/100秒原视频静帧。100秒中左主体的中/小三角与右侧正方形可见，参考内部边界也可见。",
+    "does_not_show": "成品对照不是参与者实际先按标准解再把两块互换的动作证据；不要写他们操作时完成了一次换位。",
+    "status": "研究者正确性判断得到图像外轮廓/分块对照支持，无新透视标定或数学证明；不再列作无图支持的未知。"
+  },
+  "interview": {
+    "source": "source-project/数据收集/interview.docx",
+    "paragraph_1based": 11,
+    "verified_this_turn": "直接读取原DOCX第11段，确认下列字串与保存的原段一致；未重新听原声。",
+    "excerpts": [
+      {
+        "raw": "他没有把我放在那边的东西拿走就判断会他知道我在干嘛",
+        "usable_paraphrase": "一位参与者把伙伴未移走自己放置的拼块，视作对方理解自己正在做什么的迹象。",
+        "support": "为“保留已有局部具有互动意义”提供参与者自述，不能把保留一律解释为无替代方案。"
+      },
+      {
+        "raw": "但我觉得我们每一块其实也都有分工吧 ，但就是没说了。",
+        "usable_paraphrase": "参与者认为许多局部已有分工，只是没有明确说出来。",
+        "support": "支持分工不一定先经口头约定；不能由此推出无限可分为已检验定律。"
+      }
+    ],
+    "speaker_status": "该段未分清两位参与者说话者，不绑定A/B或问卷人号；正文宜转述，逐字引语定稿需集中核听。",
+    "researcher_prompt_context": "天鹅明显分成两部分的问题由访谈者先提出；分工回答是对该问题的回应，不应写成完全自发主题。"
+  },
+  "vr_candle": {
+    "video_report_sequence": "A先搭主体、B搭顶部→余下中三角，A提出疑问，研究者转述B说不是的→A发起拆改、请求换视角→A重新建立大三角局部→两人继续完成七块构型。",
+    "log_detail": [
+      {
+        "window": "13.58–44秒",
+        "observation": "P1主要搭大/小三角主体，P2主要摆正方形和平行四边形",
+        "supports": "局部工作分布"
+      },
+      {
+        "window": "47.12–76秒",
+        "observation": "P2尝试把中三角放入原候选，P1调小三角和红大三角",
+        "supports": "先沿当前构型试修补，而不是立即推倒"
+      },
+      {
+        "window": "76.90–135秒",
+        "observation": "P1继续拆改自己的原主体；P2后来也抓两大三角；正方形留在上部",
+        "supports": "局部保留与共同重构并存，不支持A独拆七块/B全程旁观"
+      },
+      {
+        "window": "约139.21–145秒",
+        "observation": "P1重新摆好红大三角，末次抓取142.332498，143.332426最后稳定记录",
+        "supports": "已摆构型成为后续可用的共同参照"
+      },
+      {
+        "window": "145–214秒",
+        "observation": "两端交替操作紫大三角，P2调整中三角和小三角，P1后段放回火焰",
+        "supports": "伙伴接续与构型形成确有动作证据；不能从动作单独判断何时心里有完整解"
+      }
+    ],
+    "retained_objects": {
+      "S7_square": "P2末次抓取58.193130，59.109844释放，59.790689稳定；之后至225.278664秒结束没有新抓取/位姿改变记录。",
+      "S6_red_large_triangle": "P1末次抓取142.332498，142.888473释放，143.332426稳定；之后至结束没有新抓取/位姿改变记录。",
+      "scope": "事件记录带采样阈值，表示无新增达到记录条件的操作/位姿事件，不宣称绝对无微动。"
+    },
+    "outcome": "v095几何复核更正：七块纳入且现场接受，但主体下/上沿约1.391，不是另一种正确蜡烛。",
+    "identity": "用户A/B和日志P1/P2来自不同记录；动作对应支持匹配，但不自动映射到P11/P12。",
+    "raw_log_path": "evidence/raw/vr/REIT_Tangram/ResearchV2/TECHNICAL_TEST_20261010T084712_3a9476c5_events_v2.csv",
+    "selected_source_rows_verified_against_original": [
+      {
+        "source_line": "4201",
+        "active_elapsed_s": "15.401366",
+        "event": "grab_accepted",
+        "participant_id": "P2",
+        "piece_id": "S7",
+        "position_x_m": "0.009530",
+        "position_y_m": "0.768985",
+        "position_z_m": "-0.007642"
+      },
+      {
+        "source_line": "4903",
+        "active_elapsed_s": "58.193130",
+        "event": "grab_accepted",
+        "participant_id": "P2",
+        "piece_id": "S7",
+        "position_x_m": "-0.335493",
+        "position_y_m": "0.768091",
+        "position_z_m": "0.024146"
+      },
+      {
+        "source_line": "4924",
+        "active_elapsed_s": "59.109844",
+        "event": "piece_release",
+        "participant_id": "P2",
+        "piece_id": "S7",
+        "position_x_m": "-0.397117",
+        "position_y_m": "0.786020",
+        "position_z_m": "0.003231"
+      },
+      {
+        "source_line": "4935",
+        "active_elapsed_s": "59.790689",
+        "event": "piece_settled",
+        "participant_id": "P2",
+        "piece_id": "S7",
+        "position_x_m": "-0.403037",
+        "position_y_m": "0.770949",
+        "position_z_m": "0.016468"
+      },
+      {
+        "source_line": "5208",
+        "active_elapsed_s": "76.901693",
+        "event": "grab_accepted",
+        "participant_id": "P1",
+        "piece_id": "S5",
+        "position_x_m": "-0.210045",
+        "position_y_m": "0.764570",
+        "position_z_m": "0.016695"
+      },
+      {
+        "source_line": "5234",
+        "active_elapsed_s": "77.846219",
+        "event": "grab_accepted",
+        "participant_id": "P1",
+        "piece_id": "S6",
+        "position_x_m": "-0.502762",
+        "position_y_m": "0.772869",
+        "position_z_m": "-0.333777"
+      },
+      {
+        "source_line": "5279",
+        "active_elapsed_s": "79.777074",
+        "event": "grab_accepted",
+        "participant_id": "P1",
+        "piece_id": "S6",
+        "position_x_m": "-0.333580",
+        "position_y_m": "0.772882",
+        "position_z_m": "-0.425807"
+      },
+      {
+        "source_line": "5776",
+        "active_elapsed_s": "116.665343",
+        "event": "grab_accepted",
+        "participant_id": "P2",
+        "piece_id": "S6",
+        "position_x_m": "-0.061271",
+        "position_y_m": "0.770443",
+        "position_z_m": "0.117555"
+      },
+      {
+        "source_line": "5912",
+        "active_elapsed_s": "128.067742",
+        "event": "grab_accepted",
+        "participant_id": "P2",
+        "piece_id": "S5",
+        "position_x_m": "0.243870",
+        "position_y_m": "0.764566",
+        "position_z_m": "-0.191997"
+      },
+      {
+        "source_line": "5963",
+        "active_elapsed_s": "135.110376",
+        "event": "grab_accepted",
+        "participant_id": "P2",
+        "piece_id": "S6",
+        "position_x_m": "-0.514831",
+        "position_y_m": "0.772092",
+        "position_z_m": "-0.345015"
+      },
+      {
+        "source_line": "6017",
+        "active_elapsed_s": "139.206947",
+        "event": "grab_accepted",
+        "participant_id": "P1",
+        "piece_id": "S6",
+        "position_x_m": "-0.038271",
+        "position_y_m": "0.773585",
+        "position_z_m": "-0.106839"
+      },
+      {
+        "source_line": "6093",
+        "active_elapsed_s": "142.332498",
+        "event": "grab_accepted",
+        "participant_id": "P1",
+        "piece_id": "S6",
+        "position_x_m": "-0.335505",
+        "position_y_m": "0.772137",
+        "position_z_m": "-0.199738"
+      },
+      {
+        "source_line": "6106",
+        "active_elapsed_s": "142.888473",
+        "event": "piece_release",
+        "participant_id": "P1",
+        "piece_id": "S6",
+        "position_x_m": "-0.309816",
+        "position_y_m": "0.777860",
+        "position_z_m": "-0.186063"
+      },
+      {
+        "source_line": "6114",
+        "active_elapsed_s": "143.332426",
+        "event": "piece_settled",
+        "participant_id": "P1",
+        "piece_id": "S6",
+        "position_x_m": "-0.310152",
+        "position_y_m": "0.772875",
+        "position_z_m": "-0.193879"
+      },
+      {
+        "source_line": "6122",
+        "active_elapsed_s": "145.138418",
+        "event": "grab_accepted",
+        "participant_id": "P2",
+        "piece_id": "S5",
+        "position_x_m": "0.192864",
+        "position_y_m": "0.768251",
+        "position_z_m": "-0.143657"
+      },
+      {
+        "source_line": "6164",
+        "active_elapsed_s": "148.096667",
+        "event": "grab_accepted",
+        "participant_id": "P1",
+        "piece_id": "S5",
+        "position_x_m": "-0.308927",
+        "position_y_m": "0.773524",
+        "position_z_m": "-0.227747"
+      },
+      {
+        "source_line": "6229",
+        "active_elapsed_s": "152.818766",
+        "event": "grab_accepted",
+        "participant_id": "P2",
+        "piece_id": "S5",
+        "position_x_m": "-0.492308",
+        "position_y_m": "0.773523",
+        "position_z_m": "-0.326086"
+      },
+      {
+        "source_line": "6370",
+        "active_elapsed_s": "164.985911",
+        "event": "grab_accepted",
+        "participant_id": "P2",
+        "piece_id": "S2",
+        "position_x_m": "0.136983",
+        "position_y_m": "0.762604",
+        "position_z_m": "-0.172157"
+      },
+      {
+        "source_line": "6574",
+        "active_elapsed_s": "178.790917",
+        "event": "grab_accepted",
+        "participant_id": "P2",
+        "piece_id": "S2",
+        "position_x_m": "0.044632",
+        "position_y_m": "0.761945",
+        "position_z_m": "-0.203574"
+      },
+      {
+        "source_line": "6642",
+        "active_elapsed_s": "183.498928",
+        "event": "grab_accepted",
+        "participant_id": "P2",
+        "piece_id": "S2",
+        "position_x_m": "0.028114",
+        "position_y_m": "0.762030",
+        "position_z_m": "-0.196934"
+      }
+    ]
+  },
+  "claim_assessment": [
+    {
+      "claim": "通过实际拼接把局部想法变成伙伴可以接着工作的对象",
+      "status": "有具体动作链支持",
+      "sources": [
+        "S1",
+        "S2",
+        "S6",
+        "S7"
+      ],
+      "wording": "两人通过摆放、添接和重新配置逐步推进任务。"
+    },
+    {
+      "claim": "主导下一步的人会轮换",
+      "status": "G06实体俯视尤其清楚",
+      "sources": [
+        "S1",
+        "S2"
+      ],
+      "wording": "A与B依次推进局部构型，新的摆放为伙伴下一步提供了参照。"
+    },
+    {
+      "claim": "伙伴未移走局部被参与者理解为对方理解自己的工作",
+      "status": "参与者访谈自述支持",
+      "sources": [
+        "S5"
+      ],
+      "wording": "一位参与者把伙伴保留已放拼块视为理解的迹象。"
+    },
+    {
+      "claim": "没有替代思路所以保留；有可执行替代思路才接手",
+      "status": "作者对事件的解释，符合若干动作序列；动机/内部时点未独立测量",
+      "sources": [
+        "S1",
+        "S6",
+        "S7"
+      ],
+      "wording": "这些片段可解释为：伙伴往往先围绕已有安排继续工作；当新的局部摆法出现时，工作方向随之调整。不要把“往往”当已统计频率，必要时换成本组这些片段。"
+    },
+    {
+      "claim": "鹅采用另一种正确内部划分，证明协作过程本身已经共享完整解法",
+      "status": "前半句有支持，后半句不由成品成立",
+      "sources": [
+        "S4"
+      ],
+      "wording": "他们在保留并扩展局部安排的过程中形成了不同于参考分块的正确结果。"
+    },
+    {
+      "claim": "保留方案一定更好或自拆正确局部一定是问题",
+      "status": "不支持单向价值判断",
+      "sources": [
+        "S4",
+        "S8"
+      ],
+      "wording": "实体鹅与VR蜡烛均有接续/重构，但一个外轮廓相符、另一个遗漏比例错误；协作推进与几何核验需分别说明。"
+    }
+  ],
+  "source_index": [
+    {
+      "id": "S1",
+      "path": "evidence/observations/source_records/V06用户原回报_仅本地_v069.txt",
+      "sha256": "5e6191a0b575ca75619dcec6407f6601891c187adda3da98930abb053ca4b0aa"
+    },
+    {
+      "id": "S2",
+      "path": "source-project/analysis-history/03_首轮整理/V06结构化记录_v069.json",
+      "sha256": "6bfe68b2841c2844f7e95135d01823d58b5d392977b8e5806f3e7ede89b43926"
+    },
+    {
+      "id": "S3",
+      "path": "evidence/observations/source_records/E45_G06实体俯视局部接续与核对.txt",
+      "sha256": "91044c8c7c67febacadf966ca09bf0820c430132d3e3a6fc4b5e37a3805d0844"
+    },
+    {
+      "id": "S4",
+      "path": "source-project/analysis-history/04_证据与展示衔接/E45_不同分块方案图片补证_v072.txt",
+      "sha256": "1f417d4933b1f933940c854b621dbdc6c362584b7a76188801255cb262da5f13"
+    },
+    {
+      "id": "S5",
+      "path": "source-project/analysis-history/03_首轮整理/G06访谈原段_仅本地_v068.txt",
+      "sha256": "1594ba645394f1ea8d2fca75d8a49cb9b9f5308ba3de2a4e9af649169bdd9574"
+    },
+    {
+      "id": "S6",
+      "path": "evidence/observations/source_records/V19蜡烛用户原回报_仅本地_v073.txt",
+      "sha256": "484e9de1c7bc133647c0dd365a1afe4888fd160759e5a5fdee68bd071f48a3b9"
+    },
+    {
+      "id": "S7",
+      "path": "source-project/analysis-history/24_六组行为与G06蜡烛复核_v094/02_G06蜡烛形成与接续时间线.tsv",
+      "sha256": "9d892be90e29b03afb828ff7688823d5328180e8d2e9dc86d1f08180b3df2267"
+    },
+    {
+      "id": "S8",
+      "path": "evidence/observations/source_records/00_先读_G06完成判定更正.txt",
+      "sha256": "e887b2ac3385f817f2a6aeed1be2caa12d56be4644cb03d5e41fa907efda6f39"
+    }
+  ],
+  "poster_chat_crosschecks": {
+    "path": "source-workspace/outputs/thesis_progress_20261025/Poster聊天完整文本_20261102.txt",
+    "line_2126": "用户G06实体俯视完整过程回报",
+    "lines_2205_2223": "用户解法不一样及附件补证后的助手读图结论；不是新增用户逐字观察",
+    "lines_2229_onward": "用户G06蜡烛原回报，最终正确的旧判断已被后期更正"
+  }
+}

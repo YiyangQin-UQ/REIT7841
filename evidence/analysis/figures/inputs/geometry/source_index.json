@@ -1,0 +1,87 @@
+[
+  {
+    "source": "source-archive/REIT7841_B/数据收集/数据与展示推进/24_六组行为与G06蜡烛复核_v094/geometry_from_backup.json",
+    "copy": "geometry_from_backup.json",
+    "sha256": "8d93f9dd4bbfcbb1c49513f16bfcbb4f43eb981c731d4e2c353984c7c15938d8"
+  },
+  {
+    "source": "source-archive/REIT7841_B/数据收集/数据与展示推进/24_六组行为与G06蜡烛复核_v094/pose_reconstruction/G06_candle_sequence.json",
+    "copy": "G06_candle_sequence.json",
+    "sha256": "a31e2b77d772fe3c8402f82299f7489990d0fe5ca19ba60b20865ea523f4f050"
+  },
+  {
+    "source": "source-archive/REIT7841_B/数据收集/数据与展示推进/24_六组行为与G06蜡烛复核_v094/pose_reconstruction/three_candle_outcomes.json",
+    "copy": "three_candle_outcomes.json",
+    "sha256": "d3e8833a973711c8c455569e7ad6bf0084be02ba724ca2a89d72a93a69c26574"
+  },
+  {
+    "source": "source-archive/REIT7841_B/数据收集/数据与展示推进/25_G06最终轮廓判定更正_v095/01_上下外沿测量及来源.json",
+    "copy": "01_上下外沿测量及来源.json",
+    "sha256": "5052042d7a82d88564735af2748f32c387384f84efe3f189bef3b859d680de8b"
+  },
+  {
+    "source": "source-archive/REIT7841_B/数据收集/数据与展示推进/24_六组行为与G06蜡烛复核_v094/frames/G06_R03_00945.000.jpg",
+    "copy": "G06_R03_00945.000.jpg",
+    "sha256": "3b0a87595a277fdc846a3cfec8531ccd8d70a775a4e2dee2338d20284c828b54"
+  },
+  {
+    "source": "source-archive/unity/REIT7841-01/Assets/REITMultiplayer/TaskImages/00_vela-5_silhouette.png",
+    "copy": "00_vela-5_silhouette.png",
+    "sha256": "96c752b033bdb5672893fb0528c8c7d1c37090bcafec0f8e402501c1a21dbbf0"
+  },
+  {
+    "source": "source-archive/REIT7841_B/数据收集/数据与展示推进/24_六组行为与G06蜡烛复核_v094/log_traces/G03_R03.csv",
+    "copy": "G03_R03.csv",
+    "sha256": "4d387aaf38d0e370731f116adc750c4c9fa6228ccc5f0d23bd34a0a0c7cf78ab"
+  },
+  {
+    "source": "source-archive/REIT7841_B/数据收集/数据与展示推进/24_六组行为与G06蜡烛复核_v094/log_traces/G04_R03.csv",
+    "copy": "G04_R03.csv",
+    "sha256": "23049ede73d1cc0191577c79d89985c7c053c6c764a7abf9f06de8d845f9fed4"
+  },
+  {
+    "source": "source-archive/REIT7841_B/数据收集/数据与展示推进/24_六组行为与G06蜡烛复核_v094/log_traces/G06_R03.csv",
+    "copy": "G06_R03.csv",
+    "sha256": "875d9d274868717b4f982fd8338479aa5965eb3e620fba330e9bb0c6de225f33"
+  },
+  {
+    "slot": "G03_R03",
+    "original_log": "source-archive/REIT7841_B/数据收集/video/VR first-person perspective/REIT_Tangram/ResearchV2/TECHNICAL_TEST_20261009T035445_fede18ca_events_v2.csv",
+    "sha256": "516623c52fcb2348d20a06f227ac6a08cd0a566166b1cd969117b7180ddd4351",
+    "source_lines": [
+      4094,
+      5990
+    ],
+    "condition": "VR_FIRST_PERSON"
+  },
+  {
+    "slot": "G04_R03",
+    "original_log": "source-archive/REIT7841_B/数据收集/video/VR first-person perspective/REIT_Tangram/ResearchV2/TECHNICAL_TEST_20261009T070503_5a0ebbc4_events_v2.csv",
+    "sha256": "44fcb8445caf82883fa9f00b95606c4b82406afb4bf5e3b0878ff520ad8e0450",
+    "source_lines": [
+      403,
+      2179
+    ],
+    "condition": "VR_FIRST_PERSON"
+  },
+  {
+    "slot": "G06_R03",
+    "original_log": "source-archive/REIT7841_B/数据收集/video/VR first-person perspective/REIT_Tangram/ResearchV2/TECHNICAL_TEST_20261010T084712_3a9476c5_events_v2.csv",
+    "sha256": "eef4acf3a2465d9786e03bd12d2f82ef0f5e9fae08bd4d420fa7252be78f2e52",
+    "source_lines": [
+      4112,
+      7133
+    ],
+    "condition": "VR_FIRST_PERSON"
+  },
+  {
+    "video_frame": {
+      "actual_s": 944.99892,
+      "image": "G06_R03_00945.000.jpg",
+      "job": "G06_R03",
+      "requested_s": 945,
+      "source": "source-archive/REIT7841_B/数据收集/video/VR first-person perspective/T6.mp4"
+    },
+    "temporal_correspondence": "Same near-end seven-piece arrangement; separate video/log clocks; no frame-exact synchronization asserted."
+  }
+]

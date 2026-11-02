@@ -1,0 +1,56 @@
+{
+  "schema": "local.figure_build.v1",
+  "script_sha256": "7f33a7d3c060ccd7c3c0eea115ecf7f18910d8793500839d2a5a2dd1f06f9036",
+  "figures": [
+    {
+      "id": "Figure 3.2",
+      "claim": "R01\u2013R04 change the source of the displayed view and physical/virtual manipulation; R04 separates a fixed overhead camera from the participant-controlled hands.",
+      "type": "schematic",
+      "source_spec": "specs/apparatus_figure_spec.json",
+      "spec_sha256": "852657c94c9a3660395848908af015a64320d5e796a02182c05236fac75fd6b1",
+      "caption": "Apparatus and view mapping in the four study conditions (schematic, not to scale). R02 uses one overhead camera phone and two participant viewing phones, with barriers blocking direct sight of the physical pieces. R03 provides local first-person views in two networked Quest 3 headsets. R04 displays the fixed overhead camera on a head-following screen inside each headset while retaining tracked controller manipulation. The VR schematic represents the shared-target collection arrangement used for G03\u2013G06; the earlier G01 target arrangement is described in Section 3.3.",
+      "outputs": [
+        {
+          "path": "generated/figures/Figure3_2_apparatus.pdf",
+          "sha256": "70eea960b77c543e74b7b9f93730d1a1b55bc3ff0cac29828a79352917598e5b"
+        },
+        {
+          "path": "generated/figures/Figure3_2_apparatus.png",
+          "sha256": "de4d792d4896f44c7631233f99b68a81f1ca2d22e2f0349a91fe88f27d844386"
+        },
+        {
+          "path": "generated/figures/Figure3_2_apparatus.svg",
+          "sha256": "00544fa80dba27f7460e73ce5df31a10e12d8b6d752b0c75ab59521513fdf49a"
+        }
+      ],
+      "engine": "matplotlib",
+      "visual_review": "pending",
+      "data_generated": false
+    },
+    {
+      "id": "Figure 4.1",
+      "claim": "Claims about collaboration are traced through identified task episodes, while logs and geometry supply different checks from questionnaires and researcher interpretations.",
+      "type": "schematic",
+      "source_spec": "specs/analysis_flow_figure_spec.json",
+      "spec_sha256": "0dad0f9a4941c2a5e660d28f6b3139f519b7d779b8b6279a0eb3c5797ba19dbe",
+      "caption": "Analysis workflow. Source identification precedes episode construction so that software rounds, research conditions and later replay recordings are not conflated. Video and researcher accounts describe the meaning and order of local actions; accepted event pairs and reconstructed states check selected movements and configurations. Questionnaire responses and interview comments provide context for the case comparison. The separation between source-specific clocks, on-site acceptance and later geometric verification is retained in the findings.",
+      "outputs": [
+        {
+          "path": "generated/figures/Figure4_1_analysis_flow.pdf",
+          "sha256": "52a85477f5c2a19394f938dc414d65eecf188862d085a7d0c2e6ededa0d57013"
+        },
+        {
+          "path": "generated/figures/Figure4_1_analysis_flow.png",
+          "sha256": "ae338c4f72b1bdf40a1b27cc60973e9ab1667eff6d65207f738e08dd3e26e620"
+        },
+        {
+          "path": "generated/figures/Figure4_1_analysis_flow.svg",
+          "sha256": "41070d7f6f17ee92a4f3ad22768e680df1a5de1962fc4e03f36824583d61b47e"
+        }
+      ],
+      "engine": "matplotlib",
+      "visual_review": "pending",
+      "data_generated": false
+    }
+  ]
+}

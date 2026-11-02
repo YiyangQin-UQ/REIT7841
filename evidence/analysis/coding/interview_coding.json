@@ -1,0 +1,435 @@
+[
+  {
+    "segment_id": "I-G01-01",
+    "group": "G01",
+    "paragraph_1based": 1,
+    "source_file": "data/interviews/G01.txt",
+    "char_start": 104,
+    "char_end": 165,
+    "record_excerpt": "可能有的时候说急了 ，因为它有两块大大的那个三角形可能就会问你说的是哪块颜色大三角形这块这会儿另一个人就要补充是哪个颜色 ",
+    "codes": [
+      "REF"
+    ],
+    "analyst_paraphrase": "用颜色区分同尺寸三角；指代需要补充信息。",
+    "account_type": "retrospective",
+    "speaker": "mixed_dialogue_unresolved",
+    "round": "not_individually_assigned",
+    "status": "source_text_verified_not_audio_verified; analyst_coded_author_review_pending"
+  },
+  {
+    "segment_id": "I-G01-02",
+    "group": "G01",
+    "paragraph_1based": 1,
+    "source_file": "data/interviews/G01.txt",
+    "char_start": 683,
+    "char_end": 834,
+    "record_excerpt": "如果我提出我想把哪一个块放在哪边 ，然后他如果是同意或者说是不回话我觉得他就是应该就是默认同意。 我觉得就是因为我们刚才有就是说他说就是他先动 ，然后我就先不动。对 ，就是他摆完了之后 ，然后我再去看 ，然后给给这个评就是就是也没有说是同步进行的事 ，而是下意识的做出一些分工。对呃对这是避免冲突。  ",
+    "codes": [
+      "RESP",
+      "COORD"
+    ],
+    "analyst_paraphrase": "有人把不回话理解为默认同意，并回顾轮替。",
+    "account_type": "retrospective_heuristic_not_observed_agreement",
+    "speaker": "mixed_dialogue_unresolved",
+    "round": "not_individually_assigned",
+    "status": "source_text_verified_not_audio_verified; analyst_coded_author_review_pending"
+  },
+  {
+    "segment_id": "I-G01-03",
+    "group": "G01",
+    "paragraph_1based": 1,
+    "source_file": "data/interviews/G01.txt",
+    "char_start": 1478,
+    "char_end": 1643,
+    "record_excerpt": "因为一开始非常明确的我拼着底座他拼的是上面我拼对就是就是这种是相当于你们的思路相同的时候就是不会打架 ，所以是可以同时从两端开始做的。但如果说你们的思路就是应该是我们在交流当中就是发现对方的思路应该是对就是他是可能是对的 ，所以我就不会去强制的说你一定要去遵循我的思路 ，那你可以先试嘛。你不行的话那可能我就再说那就按我了再试一次",
+    "codes": [
+      "COORD"
+    ],
+    "analyst_paraphrase": "回顾分区和让伙伴先试、失败再换方案。",
+    "account_type": "retrospective",
+    "speaker": "mixed_dialogue_unresolved",
+    "round": "not_individually_assigned",
+    "status": "source_text_verified_not_audio_verified; analyst_coded_author_review_pending"
+  },
+  {
+    "segment_id": "I-G01-04",
+    "group": "G01",
+    "paragraph_1based": 1,
+    "source_file": "data/interviews/G01.txt",
+    "char_start": 2146,
+    "char_end": 2314,
+    "record_excerpt": "在 VR里头那个视角是完全固定的然后那个展示图在海边上 ，我需要把眼睛偏到很非常就就需要直接偏眼睛他能看你怎么在微信里头我可以直接转头 OK对那可能就是说你要把这一个视角要固定但是你可以让他的视角左右晃动就不能就是就是你眼睛可以晃可以变这个东西移动是不能变的有些人的呃就就是就是其他人的意见是把那个就是图片可以拉取。哦 ，那那样也行。 ",
+    "codes": [
+      "OPS"
+    ],
+    "analyst_paraphrase": "固定画面与参考图位置引出观看调整建议。",
+    "account_type": "retrospective_and_design_suggestion",
+    "speaker": "mixed_dialogue_unresolved",
+    "round": "not_individually_assigned",
+    "status": "source_text_verified_not_audio_verified; analyst_coded_author_review_pending"
+  },
+  {
+    "segment_id": "I-G02-01",
+    "group": "G02",
+    "paragraph_1based": 3,
+    "source_file": "data/interviews/G02.txt",
+    "char_start": 111,
+    "char_end": 176,
+    "record_excerpt": "我自己的自己显示的那个线对面能看到吗。 呃 ，可以的 ，但是你们的颜色是一样的 ，就是有人反应是如果颜色不一样的话会指示的更清楚。",
+    "codes": [
+      "AWARE"
+    ],
+    "analyst_paraphrase": "对方能否看见自己的射线仍需询问，后接研究者说明。",
+    "account_type": "mixed_interviewer_response",
+    "speaker": "mixed_dialogue_unresolved",
+    "round": "not_individually_assigned",
+    "status": "source_text_verified_not_audio_verified; analyst_coded_author_review_pending"
+  },
+  {
+    "segment_id": "I-G02-02",
+    "group": "G02",
+    "paragraph_1based": 3,
+    "source_file": "data/interviews/G02.txt",
+    "char_start": 357,
+    "char_end": 464,
+    "record_excerpt": "从大的开始的开始从轮廓上比较鲜艳的明显超出一节的就是最大的三角形这样 ，但是你们也没有完完整交流的 ，但是就是能理解对方想要的可能是我们两个人拼的方式比较思维比较接近。都是从大的显眼的开始拼的 ，所以就感觉还好。 ",
+    "codes": [
+      "COORD"
+    ],
+    "analyst_paraphrase": "回顾相近的从显眼大块开始的策略。",
+    "account_type": "retrospective",
+    "speaker": "mixed_dialogue_unresolved",
+    "round": "not_individually_assigned",
+    "status": "source_text_verified_not_audio_verified; analyst_coded_author_review_pending"
+  },
+  {
+    "segment_id": "I-G02-03",
+    "group": "G02",
+    "paragraph_1based": 3,
+    "source_file": "data/interviews/G02.txt",
+    "char_start": 543,
+    "char_end": 598,
+    "record_excerpt": "操作还好嗯 ，我觉得主要还是俯射的时候俯射的时候不准点不准要不仅要点还要把它移到位置上调整角这个难度稍微有点 ",
+    "codes": [
+      "OPS"
+    ],
+    "analyst_paraphrase": "回顾俯视下指向、移动和调角困难。",
+    "account_type": "retrospective",
+    "speaker": "mixed_dialogue_unresolved",
+    "round": "not_individually_assigned",
+    "status": "source_text_verified_not_audio_verified; analyst_coded_author_review_pending"
+  },
+  {
+    "segment_id": "I-G02-04",
+    "group": "G02",
+    "paragraph_1based": 3,
+    "source_file": "data/interviews/G02.txt",
+    "char_start": 773,
+    "char_end": 825,
+    "record_excerpt": "那假如说就是嗯在你第一人称的情况下操作 ，但是给你一个小屏幕有一个俯视角是你觉得会更好。嗯 ，对对嗯。 ",
+    "codes": [
+      "AWARE"
+    ],
+    "analyst_paraphrase": "第一人称配俯视小屏是研究者提出后得到附和的建议。",
+    "account_type": "interviewer_prompted_hypothetical",
+    "speaker": "mixed_dialogue_unresolved",
+    "round": "not_individually_assigned",
+    "status": "source_text_verified_not_audio_verified; analyst_coded_author_review_pending"
+  },
+  {
+    "segment_id": "I-G03-01",
+    "group": "G03",
+    "paragraph_1based": 5,
+    "source_file": "data/interviews/G03.txt",
+    "char_start": 262,
+    "char_end": 316,
+    "record_excerpt": "我们能看见对方正在做的东西 ，然后。 对我知道你拿起来我说我说要拿个六那那我就知道你理解到我我我的意图对吧 ",
+    "codes": [
+      "RESP",
+      "AWARE"
+    ],
+    "analyst_paraphrase": "以对方拿起指定物作为理解意图的依据。",
+    "account_type": "retrospective_heuristic",
+    "speaker": "mixed_dialogue_unresolved",
+    "round": "not_individually_assigned",
+    "status": "source_text_verified_not_audio_verified; analyst_coded_author_review_pending"
+  },
+  {
+    "segment_id": "I-G03-02",
+    "group": "G03",
+    "paragraph_1based": 5,
+    "source_file": "data/interviews/G03.txt",
+    "char_start": 721,
+    "char_end": 901,
+    "record_excerpt": "对操作抛不开我感觉就这里很难说让我们去想象抛开操作这种问题 ，因为因为你看我们最后一本都多少 bug，他又跑出屏幕外然后我也跑上屏幕外然后很折腾啊 ，就是那现实中的这个切换视角就是也也是有很多问题。 确实很强就现实对会拿会会影响判断会影响判断。 OKOK因为他他他转的那个方向可是我就就可能从他那里看他是顺时间转而我这里看可能是历史正转 OK因为我们是不同的 ",
+    "codes": [
+      "OPS"
+    ],
+    "analyst_paraphrase": "参与者表示难以想象剥离操作问题后的视角体验。",
+    "account_type": "response_to_hypothetical_prompt",
+    "speaker": "mixed_dialogue_unresolved",
+    "round": "not_individually_assigned",
+    "status": "source_text_verified_not_audio_verified; analyst_coded_author_review_pending"
+  },
+  {
+    "segment_id": "I-G03-03",
+    "group": "G03",
+    "paragraph_1based": 5,
+    "source_file": "data/interviews/G03.txt",
+    "char_start": 938,
+    "char_end": 1018,
+    "record_excerpt": "因为同一边的话会更加清晰一点嘛对我看到的方向是一样对我们看的方向是一样的然后我就我就更能告诉他你要怎么转就如果他在对面的话他转的就可能是谈交流上上面会有会影响 ",
+    "codes": [
+      "REF",
+      "COORD"
+    ],
+    "analyst_paraphrase": "同侧有助于描述旋转方向的回顾。",
+    "account_type": "retrospective",
+    "speaker": "mixed_dialogue_unresolved",
+    "round": "not_individually_assigned",
+    "status": "source_text_verified_not_audio_verified; analyst_coded_author_review_pending"
+  },
+  {
+    "segment_id": "I-G03-04",
+    "group": "G03",
+    "paragraph_1based": 5,
+    "source_file": "data/interviews/G03.txt",
+    "char_start": 1172,
+    "char_end": 1373,
+    "record_excerpt": "我们两个视线射线都是白色的。 OK。然后就不知道对方是拿了哪一个或者说我我是选中了那一个因为那个摄像在那比如说可能动来动去 OKOK所以我觉得你要不要什么把视线这个射线看能不能改个颜色比如说我的射线发出来是紫色它是发出射线可能是什么色之类然后呢我我那个射线瞄准中的那个方块我觉得是可以做一个高量的提示就比如说我射线瞄准就是橙色边缘代表是我选中他射线瞄准就是紫色边缘就代表他选择我觉得这样会清晰很多。  ",
+    "codes": [
+      "AWARE",
+      "OPS"
+    ],
+    "analyst_paraphrase": "射线归属难辨，引出颜色与高亮建议。",
+    "account_type": "retrospective_and_design_suggestion",
+    "speaker": "mixed_dialogue_unresolved",
+    "round": "not_individually_assigned",
+    "status": "source_text_verified_not_audio_verified; analyst_coded_author_review_pending"
+  },
+  {
+    "segment_id": "I-G03-05",
+    "group": "G03",
+    "paragraph_1based": 5,
+    "source_file": "data/interviews/G03.txt",
+    "char_start": 1540,
+    "char_end": 1594,
+    "record_excerpt": "我感觉没有很明确的这都是还是自己百会一起一起搞工会比较 OK就是谁先得到答案就让别人就是就是辅助自己对。  ",
+    "codes": [
+      "COORD"
+    ],
+    "analyst_paraphrase": "没有明确固定分工，先得到思路者推进、伙伴辅助。",
+    "account_type": "retrospective",
+    "speaker": "mixed_dialogue_unresolved",
+    "round": "not_individually_assigned",
+    "status": "source_text_verified_not_audio_verified; analyst_coded_author_review_pending"
+  },
+  {
+    "segment_id": "I-G04-01",
+    "group": "G04",
+    "paragraph_1based": 7,
+    "source_file": "data/interviews/G04.txt",
+    "char_start": 276,
+    "char_end": 344,
+    "record_excerpt": "因为我当时没有思路 ，所以我也不能够告诉他怎么做我们觉得大家都是看直觉那种都是对于我的想法就是起码边边角角这一种风中间大概就剩传上。  ",
+    "codes": [
+      "RESP"
+    ],
+    "analyst_paraphrase": "对第一轮沉默的回顾解释是没有思路，而不是认可。",
+    "account_type": "retrospective_explanation",
+    "speaker": "mixed_dialogue_unresolved",
+    "round": "not_individually_assigned",
+    "status": "source_text_verified_not_audio_verified; analyst_coded_author_review_pending"
+  },
+  {
+    "segment_id": "I-G04-02",
+    "group": "G04",
+    "paragraph_1based": 7,
+    "source_file": "data/interviews/G04.txt",
+    "char_start": 851,
+    "char_end": 883,
+    "record_excerpt": "主要我不知道他在想什么我也想就是先拼一个头部两个脚剩下来就是脚。",
+    "codes": [
+      "AWARE",
+      "COORD"
+    ],
+    "analyst_paraphrase": "回顾不清楚伙伴的思路与各自处理的部分。",
+    "account_type": "retrospective",
+    "speaker": "mixed_dialogue_unresolved",
+    "round": "not_individually_assigned",
+    "status": "source_text_verified_not_audio_verified; analyst_coded_author_review_pending"
+  },
+  {
+    "segment_id": "I-G04-03",
+    "group": "G04",
+    "paragraph_1based": 7,
+    "source_file": "data/interviews/G04.txt",
+    "char_start": 1336,
+    "char_end": 1402,
+    "record_excerpt": "我没有想着就我没想着要把工作分出去我就告诉他我想要做什么 ，然后他不说话 ，我不知道他在配合我做我想要的工作还是接下来剩下的部分。 ",
+    "codes": [
+      "COORD",
+      "AWARE"
+    ],
+    "analyst_paraphrase": "未主动分配，不能确定伙伴是配合当前部分还是处理剩余部分。",
+    "account_type": "retrospective",
+    "speaker": "mixed_dialogue_unresolved",
+    "round": "not_individually_assigned",
+    "status": "source_text_verified_not_audio_verified; analyst_coded_author_review_pending"
+  },
+  {
+    "segment_id": "I-G04-04",
+    "group": "G04",
+    "paragraph_1based": 7,
+    "source_file": "data/interviews/G04.txt",
+    "char_start": 1592,
+    "char_end": 1668,
+    "record_excerpt": "主要是光标的对光光光标的部分就不清晰我需要挑很多次才能抓到它抓娃娃也 OK还有什么还有就是微信的时候会有延迟嗯嗯这也会让我很难确认我是不是抓到了东西。 ",
+    "codes": [
+      "OPS"
+    ],
+    "analyst_paraphrase": "光标/抓取反馈和实体视频延迟造成的不确定。",
+    "account_type": "retrospective",
+    "speaker": "mixed_dialogue_unresolved",
+    "round": "not_individually_assigned",
+    "status": "source_text_verified_not_audio_verified; analyst_coded_author_review_pending"
+  },
+  {
+    "segment_id": "I-G05-01",
+    "group": "G05",
+    "paragraph_1based": 9,
+    "source_file": "data/interviews/G05.txt",
+    "char_start": 293,
+    "char_end": 320,
+    "record_excerpt": "他就按照我想的方方方式去做对我们是一直在有沟通嘛就是 ",
+    "codes": [
+      "RESP"
+    ],
+    "analyst_paraphrase": "以伙伴按预期行动判断理解。",
+    "account_type": "retrospective_heuristic",
+    "speaker": "mixed_dialogue_unresolved",
+    "round": "not_individually_assigned",
+    "status": "source_text_verified_not_audio_verified; analyst_coded_author_review_pending"
+  },
+  {
+    "segment_id": "I-G05-02",
+    "group": "G05",
+    "paragraph_1based": 9,
+    "source_file": "data/interviews/G05.txt",
+    "char_start": 1295,
+    "char_end": 1394,
+    "record_excerpt": "这个都能道啊这个倒是明显 OKOK然后你们的你们配合是嗯相当于是就是同时一起在拼不同的部分还是都有都有吧有同时一个部分不同部分都有对对对也有那种就是大家一起接触的一个部分就是大家接着来这种接力的感觉",
+    "codes": [
+      "AWARE",
+      "COORD"
+    ],
+    "analyst_paraphrase": "回顾可见进度，以及同时、分区和接力等多种安排。",
+    "account_type": "retrospective",
+    "speaker": "mixed_dialogue_unresolved",
+    "round": "not_individually_assigned",
+    "status": "source_text_verified_not_audio_verified; analyst_coded_author_review_pending"
+  },
+  {
+    "segment_id": "I-G05-03",
+    "group": "G05",
+    "paragraph_1based": 9,
+    "source_file": "data/interviews/G05.txt",
+    "char_start": 1522,
+    "char_end": 1677,
+    "record_excerpt": "假如假如他是正常的也是正常的假如他真的呀对你你你们也可以用那个现实来现现实中的这个如果说啊没完全没有延迟的话没我觉得影响可能会更好对会更好就是是哪哪方面的因因为优点是我如果是这么斜着看我不管呀呀他那个都有透透视的问题就是畸变嘛。即便导致我对他长度可能判断不准 ，但是从俯视角看他长长度和大小一定是准的是的呃 ，",
+    "codes": [
+      "AWARE"
+    ],
+    "analyst_paraphrase": "在假设正常、没有延迟的条件下谈俯视比例判断优势。",
+    "account_type": "prompted_hypothetical_not_measured_effect",
+    "speaker": "mixed_dialogue_unresolved",
+    "round": "not_individually_assigned",
+    "status": "source_text_verified_not_audio_verified; analyst_coded_author_review_pending"
+  },
+  {
+    "segment_id": "I-G05-04",
+    "group": "G05",
+    "paragraph_1based": 9,
+    "source_file": "data/interviews/G05.txt",
+    "char_start": 1719,
+    "char_end": 1802,
+    "record_excerpt": "我没法判断我距离够不够抓抓起来的所以说我可能需要一个标对一个轮廓线之类的如果我靠近它闪是一个轮廓 ，我知道我抓起的是这个东西让我一抓哎我起来这个还有就是我们之前提到的",
+    "codes": [
+      "OPS",
+      "AWARE"
+    ],
+    "analyst_paraphrase": "难判断能否抓取，引出轮廓与选中反馈建议。",
+    "account_type": "retrospective_and_design_suggestion",
+    "speaker": "mixed_dialogue_unresolved",
+    "round": "not_individually_assigned",
+    "status": "source_text_verified_not_audio_verified; analyst_coded_author_review_pending"
+  },
+  {
+    "segment_id": "I-G06-01",
+    "group": "G06",
+    "paragraph_1based": 11,
+    "source_file": "data/interviews/G06.txt",
+    "char_start": 180,
+    "char_end": 208,
+    "record_excerpt": "就他没有把我放在那边的东西拿走就判断会他知道我在干嘛。 ",
+    "codes": [
+      "RESP"
+    ],
+    "analyst_paraphrase": "以未移走自己的块来判断伙伴知道自己的活动。",
+    "account_type": "retrospective_heuristic_not_observed_agreement",
+    "speaker": "mixed_dialogue_unresolved",
+    "round": "not_individually_assigned",
+    "status": "source_text_verified_not_audio_verified; analyst_coded_author_review_pending"
+  },
+  {
+    "segment_id": "I-G06-02",
+    "group": "G06",
+    "paragraph_1based": 11,
+    "source_file": "data/interviews/G06.txt",
+    "char_start": 505,
+    "char_end": 609,
+    "record_excerpt": "因为那个我觉得就很明显能看出来他就是两个部分是分开来的就是很明显有哪几块是平地面的下去然后有几个突然就知道了尤其是有长条的那种就是不知道他是怎么组成的。但我觉得我们每一块其实也都有分工吧 ，但就是没说了。  ",
+    "codes": [
+      "COORD"
+    ],
+    "analyst_paraphrase": "将分工与可分解任务结构联系，也提到未言明的安排。",
+    "account_type": "retrospective",
+    "speaker": "mixed_dialogue_unresolved",
+    "round": "not_individually_assigned",
+    "status": "source_text_verified_not_audio_verified; analyst_coded_author_review_pending"
+  },
+  {
+    "segment_id": "I-G06-03",
+    "group": "G06",
+    "paragraph_1based": 11,
+    "source_file": "data/interviews/G06.txt",
+    "char_start": 637,
+    "char_end": 754,
+    "record_excerpt": "第三人称的时候不知道是什么原因反正那个射线就不他的某些特定的角度才会出来然后就算抓住了一般就是我得抬很高 ，要不然会被桌子卡卡卡收 ，然后卡然后因为那个位置很高 ，所以我想转它的时候也很难转 ，我可能一点一点一点一点走出来我觉得嗯 ，",
+    "codes": [
+      "OPS"
+    ],
+    "analyst_paraphrase": "回顾射线角度、抬高及旋转困难。",
+    "account_type": "retrospective",
+    "speaker": "mixed_dialogue_unresolved",
+    "round": "not_individually_assigned",
+    "status": "source_text_verified_not_audio_verified; analyst_coded_author_review_pending"
+  },
+  {
+    "segment_id": "I-G06-04",
+    "group": "G06",
+    "paragraph_1based": 11,
+    "source_file": "data/interviews/G06.txt",
+    "char_start": 1043,
+    "char_end": 1083,
+    "record_excerpt": "就是如果他是在做的时候是第三人称的第一人称能随时切的话会会比较好这个是单纯的但是",
+    "codes": [
+      "AWARE"
+    ],
+    "analyst_paraphrase": "回顾建议可以随时切换第一/第三人称。",
+    "account_type": "design_suggestion_not_tested_benefit",
+    "speaker": "mixed_dialogue_unresolved",
+    "round": "not_individually_assigned",
+    "status": "source_text_verified_not_audio_verified; analyst_coded_author_review_pending"
+  }
+]

@@ -1,0 +1,1790 @@
+{
+  "package": "REIT7841 v1.1 figure reproduction",
+  "checks": {
+    "integrity:inputs/geometry/01_上下外沿测量及来源.json": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:inputs/geometry/geometry_from_backup.json": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:inputs/geometry/G03_R03.csv": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:inputs/geometry/00_vela-5_silhouette.png": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:inputs/geometry/G06_candle_sequence.json": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:inputs/geometry/G04_R03.csv": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:inputs/geometry/three_candle_outcomes.json": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:inputs/geometry/G06_R03_00945.000.jpg": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:inputs/geometry/G06_R03.csv": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:inputs/geometry/source_index.json": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:inputs/division_action_intervals.csv": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:inputs/division_evidence.json": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:inputs/F4_self_revision_manifest.json": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:inputs/fig07_g06_goose_provenance.json": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:inputs/self_revision_frames/G01_R02_0280.0_crop.png": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:inputs/self_revision_frames/G01_R02_0363.0_crop.png": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:inputs/self_revision_frames/G01_R02_0388.0_crop.png": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:inputs/self_revision_frames/frame_provenance.json": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:inputs/goose/V06用户原回报_仅本地_v069.txt": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:inputs/goose/panel_a.png": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:inputs/goose/panel_b.png": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:inputs/goose/E45_不同分块方案图片补证_v072.txt": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:inputs/goose/panel_c.png": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:inputs/goose/E45_G06实体俯视局部接续与核对.txt": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:inputs/goose/panel_d.png": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:inputs/questionnaire/survey_confirmed.tsv": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:inputs/questionnaire/question_dictionary.tsv": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:specs/apparatus_figure_spec.json": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:specs/analysis_flow_figure_spec.json": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:provenance/figure_g03_identity_audit.json": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:provenance/figure_geometry_precision_audit.json": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:provenance/figure_caption_suggestions.json": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:provenance/author_corrections_20261102.json": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:provenance/figure_g03_piece_continuation_evidence.json": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:provenance/self_revision_evidence.json": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:provenance/division_evidence.txt": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:provenance/evidence_g06_author_revision_20261102.json": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:provenance/questionnaire_support.json": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:inputs/log_traces/G04_R04.csv": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:inputs/log_traces/G05_R04.csv": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:inputs/log_traces/G06_R04.csv": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:scripts/build_geometry.py": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:scripts/plot_timeline.py": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:scripts/plot_self_revision.py": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:scripts/plot_goose.py": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:scripts/draw_method_figures.py": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:scripts/build_auxiliary_figures.py": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:scripts/redraw_final_schematics.py": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:inputs/geometry/TangramMultiplayer.unity": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:scripts/extract_saved_geometry.py": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:reproduce.py": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:validate.py": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:scripts/portable_metadata.py": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:README.md": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:SCHEMA.json": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:requirements.txt": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:.gitignore": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:specs/trace_selection.json": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:specs/current_figure_pixels.json": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:specs/figure_to_D.json": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:provenance/visual_review.json": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:inputs/identity_frames/G03_R03_00146.000.jpg": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:inputs/identity_frames/G03_R03_00166.000.jpg": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:inputs/identity_frames/G03_R03_00246.000.jpg": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:provenance/mapping/00_先读_行为核对结论.txt": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:provenance/mapping/04_Skills执行与方法说明.txt": {
+      "pass": true,
+      "details": null
+    },
+    "integrity:provenance/output_retention.json": {
+      "pass": true,
+      "details": null
+    },
+    "trace-selection:G03_R03": {
+      "pass": true,
+      "details": null
+    },
+    "raw-sha:L07": {
+      "pass": true,
+      "details": null
+    },
+    "raw-fields:G03_R03": {
+      "pass": true,
+      "details": {
+        "rows": 1897,
+        "first_line": 4094,
+        "last_line": 5990
+      }
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S3-M0021": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S4-M0029": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S1-M0007": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S4-M0030": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S4-M0031": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S1-M0008": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S4-M0032": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S7-M0019": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S5-M0032": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S6-M0029": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S3-M0022": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S2-M0019": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S3-M0023": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S4-M0033": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S4-M0034": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S7-M0020": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S5-M0033": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S5-M0034": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S6-M0030": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S1-M0009": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S3-M0024": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S4-M0035": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S7-M0021": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S7-M0022": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S4-M0036": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S3-M0025": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S3-M0026": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S6-M0031": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S2-M0020": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S6-M0032": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S3-M0027": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S2-M0021": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S6-M0033": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S1-M0010": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S3-M0028": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S5-M0035": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S1-M0011": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S2-M0022": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S1-M0012": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S1-M0013": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S2-M0023": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S1-M0014": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S1-M0015": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S1-M0016": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S1-M0017": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S5-M0036": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S1-M0018": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S5-M0037": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S1-M0019": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S3-M0029": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S3-M0030": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S3-M0031": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S3-M0032": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S2-M0024": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S5-M0038": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G03_R03:TECHNICAL_TEST-R02-S4-M0037": {
+      "pass": true,
+      "details": null
+    },
+    "trace-selection:G04_R03": {
+      "pass": true,
+      "details": null
+    },
+    "raw-sha:L08": {
+      "pass": true,
+      "details": null
+    },
+    "raw-fields:G04_R03": {
+      "pass": true,
+      "details": {
+        "rows": 1777,
+        "first_line": 403,
+        "last_line": 2179
+      }
+    },
+    "paired:G04_R03:TECHNICAL_TEST-R01-S6-M0003": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R03:TECHNICAL_TEST-R01-S7-M0002": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R03:TECHNICAL_TEST-R01-S3-M0002": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R03:TECHNICAL_TEST-R01-S6-M0004": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R03:TECHNICAL_TEST-R01-S5-M0004": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R03:TECHNICAL_TEST-R01-S5-M0005": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R03:TECHNICAL_TEST-R01-S5-M0006": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R03:TECHNICAL_TEST-R01-S4-M0004": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R03:TECHNICAL_TEST-R01-S5-M0007": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R03:TECHNICAL_TEST-R01-S6-M0005": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R03:TECHNICAL_TEST-R01-S5-M0008": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R03:TECHNICAL_TEST-R01-S4-M0005": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R03:TECHNICAL_TEST-R01-S4-M0006": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R03:TECHNICAL_TEST-R01-S5-M0009": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R03:TECHNICAL_TEST-R01-S3-M0003": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R03:TECHNICAL_TEST-R01-S4-M0007": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R03:TECHNICAL_TEST-R01-S4-M0008": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R03:TECHNICAL_TEST-R01-S3-M0004": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R03:TECHNICAL_TEST-R01-S5-M0010": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R03:TECHNICAL_TEST-R01-S6-M0006": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R03:TECHNICAL_TEST-R01-S4-M0009": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R03:TECHNICAL_TEST-R01-S6-M0007": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R03:TECHNICAL_TEST-R01-S6-M0008": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R03:TECHNICAL_TEST-R01-S6-M0009": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R03:TECHNICAL_TEST-R01-S1-M0001": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R03:TECHNICAL_TEST-R01-S1-M0002": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R03:TECHNICAL_TEST-R01-S2-M0003": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R03:TECHNICAL_TEST-R01-S7-M0003": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R03:TECHNICAL_TEST-R01-S2-M0004": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R03:TECHNICAL_TEST-R01-S2-M0005": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R03:TECHNICAL_TEST-R01-S4-M0010": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R03:TECHNICAL_TEST-R01-S6-M0010": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R03:TECHNICAL_TEST-R01-S5-M0011": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R03:TECHNICAL_TEST-R01-S3-M0005": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R03:TECHNICAL_TEST-R01-S1-M0003": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R03:TECHNICAL_TEST-R01-S3-M0006": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R03:TECHNICAL_TEST-R01-S3-M0007": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R03:TECHNICAL_TEST-R01-S3-M0008": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R03:TECHNICAL_TEST-R01-S1-M0004": {
+      "pass": true,
+      "details": null
+    },
+    "trace-selection:G04_R04": {
+      "pass": true,
+      "details": null
+    },
+    "raw-fields:G04_R04": {
+      "pass": true,
+      "details": {
+        "rows": 2887,
+        "first_line": 4192,
+        "last_line": 7078
+      }
+    },
+    "paired:G04_R04:TECHNICAL_TEST-R04-S5-M0016": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R04:TECHNICAL_TEST-R04-S6-M0016": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R04:TECHNICAL_TEST-R04-S6-M0017": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R04:TECHNICAL_TEST-R04-S6-M0018": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R04:TECHNICAL_TEST-R04-S6-M0019": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R04:TECHNICAL_TEST-R04-S6-M0020": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R04:TECHNICAL_TEST-R04-S3-M0011": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R04:TECHNICAL_TEST-R04-S6-M0021": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R04:TECHNICAL_TEST-R04-S6-M0022": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R04:TECHNICAL_TEST-R04-S1-M0010": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R04:TECHNICAL_TEST-R04-S2-M0010": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R04:TECHNICAL_TEST-R04-S7-M0006": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R04:TECHNICAL_TEST-R04-S4-M0016": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R04:TECHNICAL_TEST-R04-S1-M0011": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R04:TECHNICAL_TEST-R04-S4-M0017": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R04:TECHNICAL_TEST-R04-S4-M0018": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R04:TECHNICAL_TEST-R04-S2-M0011": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R04:TECHNICAL_TEST-R04-S4-M0019": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R04:TECHNICAL_TEST-R04-S4-M0020": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R04:TECHNICAL_TEST-R04-S2-M0012": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R04:TECHNICAL_TEST-R04-S2-M0013": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R04:TECHNICAL_TEST-R04-S5-M0017": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R04:TECHNICAL_TEST-R04-S2-M0014": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R04:TECHNICAL_TEST-R04-S5-M0018": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R04:TECHNICAL_TEST-R04-S5-M0019": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R04:TECHNICAL_TEST-R04-S7-M0007": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R04:TECHNICAL_TEST-R04-S2-M0015": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R04:TECHNICAL_TEST-R04-S5-M0020": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R04:TECHNICAL_TEST-R04-S4-M0021": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R04:TECHNICAL_TEST-R04-S1-M0012": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R04:TECHNICAL_TEST-R04-S1-M0013": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R04:TECHNICAL_TEST-R04-S4-M0022": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R04:TECHNICAL_TEST-R04-S4-M0023": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R04:TECHNICAL_TEST-R04-S1-M0014": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R04:TECHNICAL_TEST-R04-S3-M0012": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R04:TECHNICAL_TEST-R04-S1-M0015": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R04:TECHNICAL_TEST-R04-S5-M0021": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R04:TECHNICAL_TEST-R04-S5-M0022": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R04:TECHNICAL_TEST-R04-S4-M0024": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R04:TECHNICAL_TEST-R04-S5-M0023": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R04:TECHNICAL_TEST-R04-S6-M0023": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R04:TECHNICAL_TEST-R04-S5-M0024": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R04:TECHNICAL_TEST-R04-S3-M0013": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R04:TECHNICAL_TEST-R04-S4-M0025": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R04:TECHNICAL_TEST-R04-S7-M0008": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R04:TECHNICAL_TEST-R04-S1-M0016": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R04:TECHNICAL_TEST-R04-S3-M0014": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R04:TECHNICAL_TEST-R04-S3-M0015": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R04:TECHNICAL_TEST-R04-S3-M0016": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R04:TECHNICAL_TEST-R04-S3-M0017": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G04_R04:TECHNICAL_TEST-R04-S1-M0017": {
+      "pass": true,
+      "details": null
+    },
+    "trace-selection:G05_R04": {
+      "pass": true,
+      "details": null
+    },
+    "raw-sha:L09": {
+      "pass": true,
+      "details": null
+    },
+    "raw-fields:G05_R04": {
+      "pass": true,
+      "details": {
+        "rows": 1237,
+        "first_line": 10027,
+        "last_line": 11263
+      }
+    },
+    "paired:G05_R04:TECHNICAL_TEST-R03-S5-M0068": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G05_R04:TECHNICAL_TEST-R03-S4-M0088": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G05_R04:TECHNICAL_TEST-R03-S5-M0069": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G05_R04:TECHNICAL_TEST-R03-S5-M0070": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G05_R04:TECHNICAL_TEST-R03-S5-M0071": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G05_R04:TECHNICAL_TEST-R03-S6-M0067": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G05_R04:TECHNICAL_TEST-R03-S3-M0044": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G05_R04:TECHNICAL_TEST-R03-S5-M0072": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G05_R04:TECHNICAL_TEST-R03-S5-M0073": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G05_R04:TECHNICAL_TEST-R03-S2-M0033": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G05_R04:TECHNICAL_TEST-R03-S2-M0034": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G05_R04:TECHNICAL_TEST-R03-S4-M0089": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G05_R04:TECHNICAL_TEST-R03-S6-M0068": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G05_R04:TECHNICAL_TEST-R03-S2-M0035": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G05_R04:TECHNICAL_TEST-R03-S7-M0032": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G05_R04:TECHNICAL_TEST-R03-S7-M0033": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G05_R04:TECHNICAL_TEST-R03-S1-M0031": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G05_R04:TECHNICAL_TEST-R03-S6-M0069": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G05_R04:TECHNICAL_TEST-R03-S1-M0032": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G05_R04:TECHNICAL_TEST-R03-S6-M0070": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G05_R04:TECHNICAL_TEST-R03-S1-M0033": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G05_R04:TECHNICAL_TEST-R03-S3-M0045": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G05_R04:TECHNICAL_TEST-R03-S6-M0071": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G05_R04:TECHNICAL_TEST-R03-S5-M0074": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G05_R04:TECHNICAL_TEST-R03-S5-M0075": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G05_R04:TECHNICAL_TEST-R03-S5-M0076": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G05_R04:TECHNICAL_TEST-R03-S4-M0090": {
+      "pass": true,
+      "details": null
+    },
+    "trace-selection:G06_R03": {
+      "pass": true,
+      "details": null
+    },
+    "raw-sha:L12": {
+      "pass": true,
+      "details": null
+    },
+    "raw-fields:G06_R03": {
+      "pass": true,
+      "details": {
+        "rows": 3022,
+        "first_line": 4112,
+        "last_line": 7133
+      }
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S6-M0009": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S7-M0006": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S6-M0010": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S6-M0011": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S5-M0028": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S5-M0029": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S4-M0022": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S2-M0040": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S3-M0023": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S1-M0033": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S7-M0007": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S1-M0034": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S7-M0008": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S1-M0035": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S7-M0009": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S3-M0024": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S4-M0023": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S4-M0024": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S4-M0025": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S2-M0041": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S2-M0042": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S1-M0036": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S1-M0037": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S3-M0025": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S7-M0010": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S2-M0043": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S6-M0012": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S2-M0044": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S6-M0013": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S3-M0026": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S5-M0030": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S6-M0014": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S6-M0015": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S4-M0026": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S2-M0045": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S3-M0027": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S1-M0038": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S4-M0027": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S4-M0028": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S3-M0028": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S4-M0029": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S4-M0030": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S4-M0031": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S3-M0029": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S6-M0016": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S5-M0031": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S6-M0017": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S4-M0032": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S6-M0018": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S5-M0032": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S6-M0019": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S5-M0033": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S5-M0034": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S5-M0035": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S5-M0036": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S2-M0046": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S5-M0037": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S5-M0038": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S5-M0039": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S2-M0047": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S5-M0040": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S5-M0041": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S5-M0042": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S2-M0048": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S5-M0043": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S2-M0049": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S1-M0039": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S3-M0030": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S5-M0044": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S1-M0040": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S1-M0041": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S5-M0045": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S5-M0046": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S1-M0042": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S1-M0043": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S4-M0033": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S4-M0034": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S1-M0044": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R03:TECHNICAL_TEST-R01-S1-M0045": {
+      "pass": true,
+      "details": null
+    },
+    "trace-selection:G06_R04": {
+      "pass": true,
+      "details": null
+    },
+    "raw-fields:G06_R04": {
+      "pass": true,
+      "details": {
+        "rows": 1959,
+        "first_line": 7422,
+        "last_line": 9380
+      }
+    },
+    "paired:G06_R04:TECHNICAL_TEST-R03-S3-M0031": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R04:TECHNICAL_TEST-R03-S3-M0032": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R04:TECHNICAL_TEST-R03-S6-M0021": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R04:TECHNICAL_TEST-R03-S7-M0011": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R04:TECHNICAL_TEST-R03-S4-M0035": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R04:TECHNICAL_TEST-R03-S2-M0051": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R04:TECHNICAL_TEST-R03-S1-M0046": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R04:TECHNICAL_TEST-R03-S5-M0047": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R04:TECHNICAL_TEST-R03-S3-M0033": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R04:TECHNICAL_TEST-R03-S1-M0047": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R04:TECHNICAL_TEST-R03-S3-M0034": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R04:TECHNICAL_TEST-R03-S1-M0048": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R04:TECHNICAL_TEST-R03-S1-M0049": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R04:TECHNICAL_TEST-R03-S2-M0052": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R04:TECHNICAL_TEST-R03-S2-M0053": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R04:TECHNICAL_TEST-R03-S2-M0054": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R04:TECHNICAL_TEST-R03-S2-M0055": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R04:TECHNICAL_TEST-R03-S2-M0056": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R04:TECHNICAL_TEST-R03-S2-M0057": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R04:TECHNICAL_TEST-R03-S3-M0035": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R04:TECHNICAL_TEST-R03-S2-M0058": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R04:TECHNICAL_TEST-R03-S1-M0050": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R04:TECHNICAL_TEST-R03-S3-M0036": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R04:TECHNICAL_TEST-R03-S6-M0022": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R04:TECHNICAL_TEST-R03-S6-M0023": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R04:TECHNICAL_TEST-R03-S6-M0024": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R04:TECHNICAL_TEST-R03-S3-M0037": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R04:TECHNICAL_TEST-R03-S2-M0059": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R04:TECHNICAL_TEST-R03-S6-M0025": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R04:TECHNICAL_TEST-R03-S3-M0038": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R04:TECHNICAL_TEST-R03-S4-M0036": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R04:TECHNICAL_TEST-R03-S2-M0060": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R04:TECHNICAL_TEST-R03-S6-M0026": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R04:TECHNICAL_TEST-R03-S4-M0037": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R04:TECHNICAL_TEST-R03-S4-M0038": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R04:TECHNICAL_TEST-R03-S4-M0039": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R04:TECHNICAL_TEST-R03-S4-M0040": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R04:TECHNICAL_TEST-R03-S5-M0048": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R04:TECHNICAL_TEST-R03-S4-M0041": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R04:TECHNICAL_TEST-R03-S5-M0049": {
+      "pass": true,
+      "details": null
+    },
+    "paired:G06_R04:TECHNICAL_TEST-R03-S5-M0050": {
+      "pass": true,
+      "details": null
+    },
+    "interval-count": {
+      "pass": true,
+      "details": {
+        "G03_R03": 56,
+        "G04_R03": 39,
+        "G04_R04": 51,
+        "G05_R04": 27,
+        "G06_R03": 79,
+        "G06_R04": 41
+      }
+    },
+    "all-293-pairs-match-archived": {
+      "pass": true,
+      "details": "All data fields compared. source_file is made repository-relative; human-readable piece_description is omitted from recomputed table."
+    },
+    "G06-R03-interval-count": {
+      "pass": true,
+      "details": null
+    },
+    "geometry-raw-ratios": {
+      "pass": true,
+      "details": [
+        1.0001516758847848,
+        0.9991630040254492,
+        1.3910371838889106
+      ]
+    },
+    "geometry-display-ratios": {
+      "pass": true,
+      "details": null
+    },
+    "geometry-reconstruction": {
+      "pass": true,
+      "details": 3.3306690738754696e-16
+    },
+    "questionnaire-48-and-2-NA": {
+      "pass": true,
+      "details": [
+        [
+          "G04_P08_R01",
+          "Q01"
+        ],
+        [
+          "G04_P08_R02",
+          "Q01"
+        ]
+      ]
+    },
+    "figure-pixels:3.1": {
+      "pass": true,
+      "details": {
+        "name": "Figure3_1_research_development",
+        "pixels_equal_to_v1_1": true,
+        "size": [
+          1889,
+          1122
+        ],
+        "png_sha256": "5a8cbc2ac33400fa47700e79320ca00b9c9ce71e2a8f66c47792f75207cb2f98",
+        "rgba_pixel_sha256": "9463ca9dbf206792522fb73540a5e764c0008cb9e2e2b6a6575b58a6c5274c3d"
+      }
+    },
+    "figure-pixels:3.2": {
+      "pass": true,
+      "details": {
+        "name": "Figure3_2_apparatus",
+        "pixels_equal_to_v1_1": true,
+        "size": [
+          1511,
+          1483
+        ],
+        "png_sha256": "de4d792d4896f44c7631233f99b68a81f1ca2d22e2f0349a91fe88f27d844386",
+        "rgba_pixel_sha256": "97e0ff4f22b3487d90b9b53b9538fd21b199a3a08438a2a26fd24951f65cff01"
+      }
+    },
+    "figure-pixels:4.1": {
+      "pass": true,
+      "details": {
+        "name": "Figure4_1_analysis_flow",
+        "pixels_equal_to_v1_1": true,
+        "size": [
+          1889,
+          1476
+        ],
+        "png_sha256": "f1f291dbcf1334407b70d09836df4dbb2e9de6c54f2dfb6b2086e6e59bbe0fd4",
+        "rgba_pixel_sha256": "e036a92b6ea5fe2dafee74035d35ed6f5bc121c58a4f60b4c9299904a9ba8b32"
+      }
+    },
+    "figure-pixels:5.1": {
+      "pass": true,
+      "details": {
+        "name": "fig01_g06_reconstruction_sequence",
+        "pixels_equal_to_v1_1": true,
+        "size": [
+          2125,
+          1783
+        ],
+        "png_sha256": "24b7f5cd3cdfc5782fc091b82c21c694f711bb3fbc054094fd34f655c9b35d17",
+        "rgba_pixel_sha256": "914cda494f6d19ee8cba354bd67588d51e6b27a921210f2a271815af997955de"
+      }
+    },
+    "figure-pixels:5.2": {
+      "pass": true,
+      "details": {
+        "name": "fig03_g06_recorded_view_and_geometry",
+        "pixels_equal_to_v1_1": true,
+        "size": [
+          2125,
+          1287
+        ],
+        "png_sha256": "37f89fe143e1726c9e41577e5f0a4392ce502686277e22c306140a43ce958197",
+        "rgba_pixel_sha256": "9a245193ff9bca074cb98d05df7af2c8375f47377019bf8129d03c84077a68ad"
+      }
+    },
+    "figure-pixels:5.3": {
+      "pass": true,
+      "details": {
+        "name": "fig02_candle_geometry_comparison",
+        "pixels_equal_to_v1_1": true,
+        "size": [
+          2125,
+          1311
+        ],
+        "png_sha256": "c2b257cf703203a6e2ddd8e717c978bc08ac9ed51ddd95d903a572cbb512c36f",
+        "rgba_pixel_sha256": "3c032cfbd8adfa6d5b9c22233515924551367918677b8170fc70d0402a8ceaf6"
+      }
+    },
+    "figure-pixels:5.4": {
+      "pass": true,
+      "details": {
+        "name": "F3_G06_action_timeline",
+        "pixels_equal_to_v1_1": true,
+        "size": [
+          2125,
+          1748
+        ],
+        "png_sha256": "20597159fbd9d281ccaf583e57f9f573711753042be2622722f7e4bb04cf4151",
+        "rgba_pixel_sha256": "fb34ced953069c844bab1267a32188be581010fdc2c692401952bdc9543b0949"
+      }
+    },
+    "figure-pixels:5.5": {
+      "pass": true,
+      "details": {
+        "name": "fig04_g03_self_revision_and_continuation",
+        "pixels_equal_to_v1_1": true,
+        "size": [
+          2125,
+          1334
+        ],
+        "png_sha256": "6081d5e6d5ce3ace6d03945392b64ecb697a8063e63b8f12d6733104a0394584",
+        "rgba_pixel_sha256": "8bfdb7df15d3fa2b0703bdb1756360d0fb28b4561d7abc945da1fe396fe920c9"
+      }
+    },
+    "figure-pixels:5.6": {
+      "pass": true,
+      "details": {
+        "name": "fig07_g06_goose_continuation",
+        "pixels_equal_to_v1_1": true,
+        "size": [
+          2125,
+          1866
+        ],
+        "png_sha256": "f5173a2e0ecdaebdf27a15c6c3407e93fdcafbe597fbae21c78dc8f13a13432e",
+        "rgba_pixel_sha256": "a848a3582c437920667e602fda32c42388da17dba6ac5686b28c3b03dd28ab39"
+      }
+    },
+    "figure-pixels:5.7": {
+      "pass": true,
+      "details": {
+        "name": "F4_self_revision",
+        "pixels_equal_to_v1_1": true,
+        "size": [
+          2125,
+          1488
+        ],
+        "png_sha256": "3c018bc898c45045c3d0f45c809678aa3a788693a4d561854cede9679c0e354d",
+        "rgba_pixel_sha256": "4f0f60de32d2dabe0d9f802e62b5d1b7918d706607b5d96fbccc31bc3f70d1c9"
+      }
+    },
+    "figure-pixels:5.8": {
+      "pass": true,
+      "details": {
+        "name": "Figure5_8_VR_item_ratings",
+        "pixels_equal_to_v1_1": true,
+        "size": [
+          1889,
+          1488
+        ],
+        "png_sha256": "af559e22da61f93319525b2fc92b7638446e851858c0b4f64c925f5d24dce30d",
+        "rgba_pixel_sha256": "57934e86877039e81436a814d383e11f7d8f485342e5f4386990f64e39c1db45"
+      }
+    }
+  },
+  "failures": [],
+  "figures": [
+    {
+      "figure": "3.1",
+      "name": "Figure3_1_research_development",
+      "pixels_equal": true
+    },
+    {
+      "figure": "3.2",
+      "name": "Figure3_2_apparatus",
+      "pixels_equal": true
+    },
+    {
+      "figure": "4.1",
+      "name": "Figure4_1_analysis_flow",
+      "pixels_equal": true
+    },
+    {
+      "figure": "5.1",
+      "name": "fig01_g06_reconstruction_sequence",
+      "pixels_equal": true
+    },
+    {
+      "figure": "5.2",
+      "name": "fig03_g06_recorded_view_and_geometry",
+      "pixels_equal": true
+    },
+    {
+      "figure": "5.3",
+      "name": "fig02_candle_geometry_comparison",
+      "pixels_equal": true
+    },
+    {
+      "figure": "5.4",
+      "name": "F3_G06_action_timeline",
+      "pixels_equal": true
+    },
+    {
+      "figure": "5.5",
+      "name": "fig04_g03_self_revision_and_continuation",
+      "pixels_equal": true
+    },
+    {
+      "figure": "5.6",
+      "name": "fig07_g06_goose_continuation",
+      "pixels_equal": true
+    },
+    {
+      "figure": "5.7",
+      "name": "F4_self_revision",
+      "pixels_equal": true
+    },
+    {
+      "figure": "5.8",
+      "name": "Figure5_8_VR_item_ratings",
+      "pixels_equal": true
+    }
+  ],
+  "raw_validation": "All six selected traces checked field-by-field against four raw logs.",
+  "boundaries": [
+    "Participant intentions and judgments of correctness are not inferred from grab counts.",
+    "Video and active-task clocks stay distinct.",
+    "Pixel matching establishes the figures reproduce this thesis version, not that every scientific interpretation is independently confirmed.",
+    "Numerical outputs and PNG pixels should match with the recorded environment. PDF/SVG byte hashes can differ because of timestamps and internal identifiers."
+  ],
+  "status": "PASS"
+}

@@ -1,0 +1,872 @@
+[
+  {
+    "source_id": "D01",
+    "aliases": [
+      "E23",
+      "V07"
+    ],
+    "description": "G01 physical-direct chicken: local alternative enacted by P02, followed by head construction proposed by P01.",
+    "published_paths": [
+      "evidence/analysis/cases/self_revision_evidence.json",
+      "evidence/analysis/cases/evidence_g06_author_revision_20261102.json",
+      "evidence/observations/source_records/E23_V07提议与实操事件链_待核.txt",
+      "evidence/observations/source_records/V07用户事件回报_仅本地_20261018.txt"
+    ],
+    "unpublished_historical_or_restricted_records": 1
+  },
+  {
+    "source_id": "D02",
+    "aliases": [
+      "E23d"
+    ],
+    "description": "G01 physical-direct task: repeated adjustment of the same large triangle.",
+    "published_paths": [
+      "evidence/analysis/cases/self_revision_evidence.json",
+      "evidence/analysis/cases/evidence_g06_author_revision_20261102.json"
+    ],
+    "unpublished_historical_or_restricted_records": 0
+  },
+  {
+    "source_id": "D03",
+    "aliases": [
+      "E24",
+      "V01"
+    ],
+    "description": "G01 physical-overhead goose: head/neck construction, tidying and self-revision; latest researcher correction.",
+    "published_paths": [
+      "evidence/analysis/cases/self_revision_evidence.json",
+      "evidence/analysis/cases/evidence_g06_author_revision_20261102.json",
+      "evidence/observations/source_records/E24_V01正确局部解与后续改动.txt",
+      "evidence/observations/source_records/V01用户补证回报_仅本地_v047.txt"
+    ],
+    "unpublished_historical_or_restricted_records": 1
+  },
+  {
+    "source_id": "D04",
+    "aliases": [
+      "E25"
+    ],
+    "description": "G01 first-person chair; combined two-endpoint account, v049 revision.",
+    "published_paths": [
+      "evidence/analysis/cases/self_revision_evidence.json",
+      "evidence/analysis/cases/evidence_g06_author_revision_20261102.json",
+      "evidence/observations/source_records/E25_V20余块展示与共同试换.txt",
+      "evidence/observations/source_records/V20余块试换用户原始回报_仅本地_v048.txt"
+    ],
+    "unpublished_historical_or_restricted_records": 0
+  },
+  {
+    "source_id": "D05",
+    "aliases": [
+      "E32"
+    ],
+    "description": "G03 physical-direct horse: P06 changes the head while P05 continues the body.",
+    "published_paths": [
+      "evidence/analysis/cases/self_revision_evidence.json",
+      "evidence/analysis/cases/evidence_g06_author_revision_20261102.json",
+      "evidence/observations/source_records/E32_G03实体直视局部修订与接续.txt",
+      "evidence/observations/source_records/V09用户简记原始回报_仅本地_v055.txt"
+    ],
+    "unpublished_historical_or_restricted_records": 0
+  },
+  {
+    "source_id": "D06",
+    "aliases": [
+      "E34",
+      "L07"
+    ],
+    "description": "G03 first-person candle: different flame attempts, common-side move and small-triangle reassignment; original action/pose log.",
+    "published_paths": [
+      "evidence/analysis/cases/self_revision_evidence.json",
+      "evidence/analysis/cases/evidence_g06_author_revision_20261102.json",
+      "evidence/observations/source_records/E34_G03蜡烛同侧与局部拼法分歧.txt",
+      "evidence/observations/source_records/V16_V21蜡烛用户原回报_仅本地_v060.txt",
+      "evidence/raw/vr/REIT_Tangram/ResearchV2/TECHNICAL_TEST_20261009T035445_fede18ca_events_v2.csv"
+    ],
+    "unpublished_historical_or_restricted_records": 0
+  },
+  {
+    "source_id": "D07",
+    "aliases": [
+      "E36"
+    ],
+    "description": "G04 physical-direct goose: useful approach revisited, followed by researcher feedback.",
+    "published_paths": [
+      "evidence/analysis/cases/self_revision_evidence.json",
+      "evidence/analysis/cases/evidence_g06_author_revision_20261102.json",
+      "evidence/observations/source_records/E36_G04实体直视探索与三次干预.txt",
+      "evidence/observations/source_records/V10用户原回报_仅本地_v062.txt"
+    ],
+    "unpublished_historical_or_restricted_records": 0
+  },
+  {
+    "source_id": "D08",
+    "aliases": [
+      "E38",
+      "L08"
+    ],
+    "description": "G04 first-person candle: structure explanation and complementary placements; original log.",
+    "published_paths": [
+      "evidence/analysis/cases/self_revision_evidence.json",
+      "evidence/analysis/cases/evidence_g06_author_revision_20261102.json",
+      "evidence/observations/source_records/E38_G04蜡烛结构说明与互补放置.txt",
+      "evidence/observations/source_records/V17_V23蜡烛用户原回报_仅本地_v064.txt",
+      "evidence/raw/vr/REIT_Tangram/ResearchV2/TECHNICAL_TEST_20261009T070503_5a0ebbc4_events_v2.csv"
+    ],
+    "unpublished_historical_or_restricted_records": 0
+  },
+  {
+    "source_id": "D09",
+    "aliases": [
+      "E40"
+    ],
+    "description": "G05 physical-direct goose: P09's verbal self-correction.",
+    "published_paths": [
+      "evidence/analysis/cases/self_revision_evidence.json",
+      "evidence/analysis/cases/evidence_g06_author_revision_20261102.json",
+      "evidence/observations/source_records/E40_G05实体直视怀疑与自行修正.txt",
+      "evidence/observations/source_records/V11末段用户原回报_仅本地_v066.txt"
+    ],
+    "unpublished_historical_or_restricted_records": 0
+  },
+  {
+    "source_id": "D10",
+    "aliases": [
+      "E42",
+      "N07"
+    ],
+    "description": "G05 first-person chair: proportion problem, self-revision and partner repair.",
+    "published_paths": [
+      "evidence/analysis/cases/self_revision_evidence.json",
+      "evidence/analysis/cases/evidence_g06_author_revision_20261102.json",
+      "evidence/observations/source_records/E42_G05椅子共同尝试与方案修订.txt",
+      "evidence/observations/source_records/G05_N06_N08原笔记恢复_v067.txt"
+    ],
+    "unpublished_historical_or_restricted_records": 1
+  },
+  {
+    "source_id": "D11",
+    "aliases": [
+      "E43"
+    ],
+    "description": "G05 shared-overhead task: suggestions, manipulation and local assistance.",
+    "published_paths": [
+      "evidence/analysis/cases/self_revision_evidence.json",
+      "evidence/analysis/cases/evidence_g06_author_revision_20261102.json",
+      "evidence/observations/source_records/E43_G05人物建议执行与局部协助.txt",
+      "evidence/observations/source_records/G05_N06_N08原笔记恢复_v067.txt"
+    ],
+    "unpublished_historical_or_restricted_records": 0
+  },
+  {
+    "source_id": "D12",
+    "aliases": [
+      "E45",
+      "V06"
+    ],
+    "description": "G06 physical-overhead goose: successive additions and a correct alternative internal partition; v072 image supplement.",
+    "published_paths": [
+      "evidence/analysis/cases/self_revision_evidence.json",
+      "evidence/analysis/cases/evidence_g06_author_revision_20261102.json",
+      "evidence/observations/source_records/E45_G06实体俯视局部接续与核对.txt",
+      "evidence/observations/source_records/V06用户原回报_仅本地_v069.txt"
+    ],
+    "unpublished_historical_or_restricted_records": 1
+  },
+  {
+    "source_id": "D13",
+    "aliases": [
+      "I06"
+    ],
+    "description": "G06 group interview, original interview.docx paragraph 11; paraphrases with unresolved within-pair speaker attribution.",
+    "published_paths": [
+      "evidence/analysis/cases/self_revision_evidence.json",
+      "evidence/analysis/cases/evidence_g06_author_revision_20261102.json",
+      "evidence/observations/interviews/G06.txt"
+    ],
+    "unpublished_historical_or_restricted_records": 0
+  },
+  {
+    "source_id": "D14",
+    "aliases": [
+      "E46",
+      "V19",
+      "L12"
+    ],
+    "description": "G06 first-person candle: process report, original video and original action/pose log.",
+    "published_paths": [
+      "evidence/analysis/cases/self_revision_evidence.json",
+      "evidence/analysis/cases/evidence_g06_author_revision_20261102.json",
+      "evidence/observations/source_records/E46_G06蜡烛重构与主动切换请求.txt",
+      "evidence/observations/source_records/V19蜡烛用户原回报_仅本地_v073.txt",
+      "evidence/raw/vr/REIT_Tangram/ResearchV2/TECHNICAL_TEST_20261010T084712_3a9476c5_events_v2.csv"
+    ],
+    "unpublished_historical_or_restricted_records": 1
+  },
+  {
+    "source_id": "D15",
+    "aliases": [
+      "E47"
+    ],
+    "description": "G06 shared-overhead task: valid restarted round and local assistance.",
+    "published_paths": [
+      "evidence/analysis/cases/self_revision_evidence.json",
+      "evidence/analysis/cases/evidence_g06_author_revision_20261102.json",
+      "evidence/observations/source_records/V19人物用户原回报_仅本地_v074.txt"
+    ],
+    "unpublished_historical_or_restricted_records": 0
+  },
+  {
+    "source_id": "D16",
+    "aliases": [
+      "GEO95"
+    ],
+    "description": "G06 geometry correction and current recomputation from saved mesh plus recorded poses.",
+    "published_paths": [
+      "evidence/observations/source_records/00_先读_G06完成判定更正.txt",
+      "evidence/analysis/cases/self_revision_evidence.json",
+      "evidence/analysis/cases/evidence_g06_author_revision_20261102.json",
+      "evidence/analysis/figures/inputs/geometry/geometry_from_backup.json"
+    ],
+    "unpublished_historical_or_restricted_records": 1
+  },
+  {
+    "source_id": "D17",
+    "aliases": [
+      "M-CORPUS",
+      "M-INCLUSION"
+    ],
+    "description": "Completed source-report queue and designation of one formal process per dyad and condition.",
+    "published_paths": [
+      "evidence/observations/source_records/人工收集进度.txt",
+      "evidence/observations/source_records/正式轮纳入与非正式尝试处理规则_v071.txt",
+      "evidence/observations/source_records/正式轮与VR俯视实施澄清_用户原文_仅本地_v071.txt"
+    ],
+    "unpublished_historical_or_restricted_records": 0
+  },
+  {
+    "source_id": "D18",
+    "aliases": [
+      "M-FINAL",
+      "M-BACKGROUND"
+    ],
+    "description": "Researcher clarifications about familiar partners, prior experience, familiarisation and on-site judgment.",
+    "published_paths": [
+      "evidence/observations/source_records/最后实施澄清三项_已答_v076.json",
+      "evidence/observations/source_records/六组VR与七巧板既往经历_v075.tsv"
+    ],
+    "unpublished_historical_or_restricted_records": 0
+  },
+  {
+    "source_id": "D19",
+    "aliases": [
+      "M-AUDIO"
+    ],
+    "description": "Recording coverage and the absence of usable R02 audio.",
+    "published_paths": [
+      "evidence/observations/source_records/26视频覆盖与语音质量_v038.tsv"
+    ],
+    "unpublished_historical_or_restricted_records": 0
+  },
+  {
+    "source_id": "D20",
+    "aliases": [
+      "Q48",
+      "QCONF",
+      "QDICT"
+    ],
+    "description": "Confirmed questionnaire table, confirmation provenance and original Chinese item wording.",
+    "published_paths": [
+      "evidence/questionnaire/survey_confirmed.tsv",
+      "evidence/questionnaire/问卷确认记录.json",
+      "evidence/questionnaire/问卷来源说明.txt",
+      "evidence/questionnaire/question_dictionary.tsv"
+    ],
+    "unpublished_historical_or_restricted_records": 0
+  },
+  {
+    "source_id": "D21",
+    "aliases": [
+      "LOG-TRACE",
+      "CASE-TRACE"
+    ],
+    "description": "Selected event/pose traces and cross-source case records used for the figures and action sequences.",
+    "published_paths": [
+      "evidence/analysis/cases/division_evidence.json",
+      "evidence/analysis/cases/self_revision_evidence.json",
+      "evidence/analysis/cases/evidence_g06_author_revision_20261102.json"
+    ],
+    "unpublished_historical_or_restricted_records": 1
+  },
+  {
+    "source_id": "D22",
+    "aliases": [
+      "CONSENT12",
+      "MAIL-OCT06"
+    ],
+    "description": "Retained consent forms and the supervisor's educational-use correspondence.",
+    "published_paths": [],
+    "unpublished_historical_or_restricted_records": 4
+  },
+  {
+    "source_id": "D23",
+    "aliases": [
+      "AI-RECORD"
+    ],
+    "description": "Documented assistance and figure-generation records for the present drafting process.",
+    "published_paths": [
+      "evidence/analysis/figures/reproduce.py",
+      "evidence/analysis/figures/provenance/file_manifest.json"
+    ],
+    "unpublished_historical_or_restricted_records": 3
+  },
+  {
+    "source_id": "D24",
+    "aliases": [
+      "M-APPARATUS"
+    ],
+    "description": "Implemented three-smartphone Discord apparatus and two-headset VR arrangement, with viewing and control mappings.",
+    "published_paths": [],
+    "unpublished_historical_or_restricted_records": 2
+  },
+  {
+    "source_id": "D25",
+    "aliases": [
+      "LOG-METHOD",
+      "LOG-VERSION"
+    ],
+    "description": "Collection-period logging definitions, original protocol metadata and software-attempt boundaries.",
+    "published_paths": [
+      "evidence/observations/source_records/日志协议版本_v037.tsv",
+      "evidence/protocol/implementation/TangramSession_20261010.cs"
+    ],
+    "unpublished_historical_or_restricted_records": 2
+  },
+  {
+    "source_id": "D26",
+    "aliases": [
+      "GEO-METHOD"
+    ],
+    "description": "Last-known-pose reconstruction, post-release records, retained source rows and chord/span geometry definition.",
+    "published_paths": [
+      "evidence/analysis/figures/scripts/extract_saved_geometry.py",
+      "evidence/analysis/figures/inputs/geometry/TangramMultiplayer.unity",
+      "evidence/analysis/figures/inputs/geometry/geometry_from_backup.json",
+      "evidence/analysis/figures/scripts/build_geometry.py",
+      "evidence/analysis/figures/specs/trace_selection.json",
+      "evidence/analysis/figures/validate.py"
+    ],
+    "unpublished_historical_or_restricted_records": 4
+  },
+  {
+    "source_id": "D27",
+    "aliases": [
+      "SHAPE-REVIEW"
+    ],
+    "description": "Later researcher confirmation of the same near-target configuration category across the six R03/R04 records; G02 is included with all six pairs.",
+    "published_paths": [
+      "evidence/observations/source_records/00_审读意见与替换建议.txt",
+      "evidence/observations/source_records/E25_V20余块展示与共同试换.txt",
+      "evidence/observations/source_records/E42_G05椅子共同尝试与方案修订.txt",
+      "evidence/observations/source_records/00_先读_G06完成判定更正.txt"
+    ],
+    "unpublished_historical_or_restricted_records": 1
+  },
+  {
+    "source_id": "D28",
+    "aliases": [
+      "BRIEF"
+    ],
+    "description": "Original supervisor project description: collaborative behaviour, communication, coordination and workspace awareness in third-person VR.",
+    "published_paths": [],
+    "unpublished_historical_or_restricted_records": 2
+  },
+  {
+    "source_id": "D29",
+    "aliases": [
+      "P-MAR"
+    ],
+    "description": "Early physical Tangram study plan (StudyTestPlan\\_Iteration\\_1); a planning record preceding the implemented study.",
+    "published_paths": [],
+    "unpublished_historical_or_restricted_records": 2
+  },
+  {
+    "source_id": "D30",
+    "aliases": [
+      "P-ROADMAP"
+    ],
+    "description": "Early thesis project roadmap, covering the planned progression from physical collaboration to a VR prototype.",
+    "published_paths": [],
+    "unpublished_historical_or_restricted_records": 2
+  },
+  {
+    "source_id": "D31",
+    "aliases": [
+      "P-AUG"
+    ],
+    "description": "August thesis plan, including the shared spatial representation rationale and proposed physical and VR tasks.",
+    "published_paths": [],
+    "unpublished_historical_or_restricted_records": 2
+  },
+  {
+    "source_id": "D32",
+    "aliases": [
+      "MAIL-AUG19"
+    ],
+    "description": "Student email of 19 August 2026 discussing the thesis plan and how to examine collaboration beyond spatial overlap or activity counts.",
+    "published_paths": [],
+    "unpublished_historical_or_restricted_records": 2
+  },
+  {
+    "source_id": "D33",
+    "aliases": [
+      "MAIL-AUG20"
+    ],
+    "description": "Supervisor response of 20 August 2026 on task comparability and the possibility of both separate and joint work.",
+    "published_paths": [],
+    "unpublished_historical_or_restricted_records": 2
+  },
+  {
+    "source_id": "D34",
+    "aliases": [
+      "T04"
+    ],
+    "description": "Supervisor meeting transcript indexed to 22 April 2026; discussion of the research aim and prototype development.",
+    "published_paths": [],
+    "unpublished_historical_or_restricted_records": 2
+  },
+  {
+    "source_id": "D35",
+    "aliases": [
+      "T08"
+    ],
+    "description": "Supervisor meeting transcript indexed to 12 June 2026; discussion of separate work and joint responsibility within a collaborative task.",
+    "published_paths": [],
+    "unpublished_historical_or_restricted_records": 2
+  },
+  {
+    "source_id": "D36",
+    "aliases": [
+      "T10"
+    ],
+    "description": "Supervisor meeting transcript indexed to 1 September 2026; comparison of task options and selection of a common Tangram task family.",
+    "published_paths": [],
+    "unpublished_historical_or_restricted_records": 2
+  },
+  {
+    "source_id": "D37",
+    "aliases": [
+      "P-8COND"
+    ],
+    "description": "Intermediate eight-condition test plan, including assigned-role and free-collaboration variants; retained as design history.",
+    "published_paths": [],
+    "unpublished_historical_or_restricted_records": 1
+  },
+  {
+    "source_id": "D38",
+    "aliases": [
+      "P-V3"
+    ],
+    "description": "Final Chinese researcher procedure manual, version 3, used to document the study procedure.",
+    "published_paths": [],
+    "unpublished_historical_or_restricted_records": 1
+  },
+  {
+    "source_id": "D39",
+    "aliases": [
+      "P-PAPER"
+    ],
+    "description": "Submitted conference paper, particularly its method description of the physical and VR configurations.",
+    "published_paths": [],
+    "unpublished_historical_or_restricted_records": 2
+  },
+  {
+    "source_id": "D40",
+    "aliases": [
+      "M-VALID"
+    ],
+    "description": "Researcher clarification of formal-round designation and the implemented overhead VR display and control arrangement.",
+    "published_paths": [
+      "evidence/observations/source_records/正式轮与VR俯视实施澄清_用户原文_仅本地_v071.txt"
+    ],
+    "unpublished_historical_or_restricted_records": 0
+  },
+  {
+    "source_id": "D41",
+    "aliases": [
+      "M-VIEW"
+    ],
+    "description": "Implementation check of the world-fixed overhead camera, head-following screen and relationship between viewing and controller directions.",
+    "published_paths": [
+      "evidence/observations/source_records/固定俯视与操作方向_实施核验_v071.txt"
+    ],
+    "unpublished_historical_or_restricted_records": 0
+  },
+  {
+    "source_id": "D42",
+    "aliases": [
+      "M-EXPOSURE"
+    ],
+    "description": "Cross-group record of actual attempts, practice, restarts and implementation differences.",
+    "published_paths": [
+      "evidence/observations/source_records/六组实际流程与混杂_v037.tsv",
+      "evidence/protocol/author_corrections_20261102.json"
+    ],
+    "unpublished_historical_or_restricted_records": 0
+  },
+  {
+    "source_id": "D43",
+    "aliases": [
+      "M-TARGET"
+    ],
+    "description": "Cross-group record of target-presentation versions, distinguishing earlier individual targets from the later shared target.",
+    "published_paths": [
+      "evidence/observations/source_records/六组目标呈现版本分层_v037.tsv",
+      "evidence/protocol/author_corrections_20261102.json"
+    ],
+    "unpublished_historical_or_restricted_records": 0
+  },
+  {
+    "source_id": "D44",
+    "aliases": [
+      "M-ANALYSIS"
+    ],
+    "description": "Documented analysis procedure: within-dyad process comparison, source distinctions and interpretation of questionnaire and action records.",
+    "published_paths": [
+      "evidence/analysis/coding/methods.txt"
+    ],
+    "unpublished_historical_or_restricted_records": 0
+  },
+  {
+    "source_id": "D45",
+    "aliases": [
+      "M-G04-PRACTICE"
+    ],
+    "description": "Researcher clarification separating G04's familiarisation attempts from the formal overhead swimmer task.",
+    "published_paths": [
+      "evidence/observations/source_records/G04设备熟悉与正式开始_实施澄清_v064.txt",
+      "evidence/observations/source_records/G04人物适应阶段用户澄清_仅本地_v065.txt"
+    ],
+    "unpublished_historical_or_restricted_records": 0
+  },
+  {
+    "source_id": "D46",
+    "aliases": [
+      "M-POSITION"
+    ],
+    "description": "Researcher clarification that participant position changes were self-initiated, with researcher interventions recorded separately.",
+    "published_paths": [
+      "evidence/observations/source_records/站位安排与自主调整_实施澄清_v063.txt"
+    ],
+    "unpublished_historical_or_restricted_records": 0
+  },
+  {
+    "source_id": "D47",
+    "aliases": [
+      "CONDITIONS"
+    ],
+    "description": "Four-condition table and implementation description linking R01--R04 to the physical and virtual viewing arrangements.",
+    "published_paths": [],
+    "unpublished_historical_or_restricted_records": 1
+  },
+  {
+    "source_id": "D48",
+    "aliases": [
+      "E20"
+    ],
+    "description": "G01 first-person VR chair: researcher report from one recording endpoint, read with the combined E25 account.",
+    "published_paths": [
+      "evidence/observations/source_records/V20用户听核原始回报_仅本地_20261018.txt"
+    ],
+    "unpublished_historical_or_restricted_records": 0
+  },
+  {
+    "source_id": "D49",
+    "aliases": [
+      "E22",
+      "E22-a",
+      "E22-b"
+    ],
+    "description": "G01 shared-overhead VR person: endpoint-specific speech and action reports, including the clarification of recording coverage.",
+    "published_paths": [
+      "evidence/observations/source_records/V26用户听核及录音范围原始回报_仅本地_20261018.txt",
+      "evidence/observations/source_records/V13伙伴言语动作原始回报_仅本地_20261018.txt"
+    ],
+    "unpublished_historical_or_restricted_records": 0
+  },
+  {
+    "source_id": "D50",
+    "aliases": [
+      "E26"
+    ],
+    "description": "G01 candle practice: orientation negotiation and pre-formal-task exposure; excluded from the four formal research conditions.",
+    "published_paths": [
+      "evidence/observations/source_records/E26_V20蜡烛朝向协商.txt",
+      "evidence/observations/source_records/V20蜡烛段用户原始回报_仅本地_v049.txt"
+    ],
+    "unpublished_historical_or_restricted_records": 0
+  },
+  {
+    "source_id": "D51",
+    "aliases": [
+      "E27"
+    ],
+    "description": "G01 shared-overhead VR person: disagreement about the base, local agreement and later retention of the proposed solution.",
+    "published_paths": [
+      "evidence/observations/source_records/E27_G01人物底座分歧与局部认同.txt",
+      "evidence/observations/source_records/V26_V13底座讨论原始回报_仅本地_v050.txt"
+    ],
+    "unpublished_historical_or_restricted_records": 0
+  },
+  {
+    "source_id": "D52",
+    "aliases": [
+      "E28"
+    ],
+    "description": "G02 physical-direct task: researcher process report of suggestions and subsequent manipulation.",
+    "published_paths": [
+      "evidence/observations/source_records/E28_G02实体直视建议与操作接续.txt",
+      "evidence/observations/source_records/V08用户过程回报_仅本地_v051.txt"
+    ],
+    "unpublished_historical_or_restricted_records": 0
+  },
+  {
+    "source_id": "D53",
+    "aliases": [
+      "E29-a"
+    ],
+    "description": "G02 physical-overhead bull: researcher process report and clarification of the horn arrangement and subsequent tidying.",
+    "published_paths": [
+      "evidence/observations/source_records/V02用户过程与澄清原始回报_仅本地_v052.txt",
+      "evidence/observations/source_records/E29_G02牛角构型修正与整理.txt"
+    ],
+    "unpublished_historical_or_restricted_records": 0
+  },
+  {
+    "source_id": "D54",
+    "aliases": [
+      "E29-b"
+    ],
+    "description": "G02 physical-overhead bull: supplementary clarification of the target's horn outline and the interpretation of the local construction.",
+    "published_paths": [
+      "evidence/observations/source_records/V02牛角外轮廓澄清_仅本地_v052a.txt",
+      "evidence/observations/source_records/E29_G02牛角构型修正与整理.txt",
+      "evidence/observations/source_records/V02用户过程与澄清原始回报_仅本地_v052.txt"
+    ],
+    "unpublished_historical_or_restricted_records": 0
+  },
+  {
+    "source_id": "D55",
+    "aliases": [
+      "E30"
+    ],
+    "description": "G02 first-person VR person task: base negotiation and work on different parts; later recording with a new target.",
+    "published_paths": [
+      "evidence/observations/source_records/E30_G02补录人物底座协商与分工.txt",
+      "evidence/observations/source_records/V25V15人物段用户回报_仅本地_v053.txt"
+    ],
+    "unpublished_historical_or_restricted_records": 0
+  },
+  {
+    "source_id": "D56",
+    "aliases": [
+      "E31"
+    ],
+    "description": "G02 overhead VR boat task: same-side position adjustment and continued construction; later recording with a new target.",
+    "published_paths": [
+      "evidence/observations/source_records/E31_G02补录同侧调整与船段接续.txt",
+      "evidence/observations/source_records/V25V15调视角与船段用户回报_仅本地_v054.txt"
+    ],
+    "unpublished_historical_or_restricted_records": 0
+  },
+  {
+    "source_id": "D57",
+    "aliases": [
+      "E33"
+    ],
+    "description": "G03 physical-overhead rabbit: local requests, action continuation and revision of the body.",
+    "published_paths": [
+      "evidence/observations/source_records/E33_G03兔耳请求接续与身体修订.txt",
+      "evidence/observations/source_records/V03用户回报原文_仅本地_v058.txt"
+    ],
+    "unpublished_historical_or_restricted_records": 0
+  },
+  {
+    "source_id": "D58",
+    "aliases": [
+      "E35-a"
+    ],
+    "description": "G03 shared-overhead VR chair: two-endpoint process report of specific instructions, partner actions, manipulation difficulty and completion.",
+    "published_paths": [
+      "evidence/observations/source_records/V16_V22椅子用户原回报_仅本地_v061.txt",
+      "evidence/observations/source_records/E35_G03椅子指令执行与研究者提示.txt"
+    ],
+    "unpublished_historical_or_restricted_records": 0
+  },
+  {
+    "source_id": "D59",
+    "aliases": [
+      "E35-b"
+    ],
+    "description": "G03 shared-overhead VR chair: clarification of the researcher's second structural hint about which pieces formed the base and backrest.",
+    "published_paths": [
+      "evidence/observations/source_records/V16_V22椅子提示澄清_仅本地_v061.txt",
+      "evidence/observations/source_records/E35_G03椅子指令执行与研究者提示.txt",
+      "evidence/observations/source_records/V16_V22椅子用户原回报_仅本地_v061.txt"
+    ],
+    "unpublished_historical_or_restricted_records": 0
+  },
+  {
+    "source_id": "D60",
+    "aliases": [
+      "E37"
+    ],
+    "description": "G04 physical-overhead bull: revision of the horn candidate and the partner's independent placement of a piece.",
+    "published_paths": [
+      "evidence/observations/source_records/E37_G04实体俯视牛角修订与自行放置.txt",
+      "evidence/observations/source_records/V04用户原回报_仅本地_v063.txt"
+    ],
+    "unpublished_historical_or_restricted_records": 0
+  },
+  {
+    "source_id": "D61",
+    "aliases": [
+      "E39"
+    ],
+    "description": "G04 shared-overhead VR swimmer: grabbing difficulty and task continuation, documented from the recording that covers the formal round.",
+    "published_paths": [
+      "evidence/observations/source_records/E39_G04游泳者抓取困难与任务接续.txt",
+      "evidence/observations/source_records/V23游泳者用户原回报_仅本地_v065.txt"
+    ],
+    "unpublished_historical_or_restricted_records": 0
+  },
+  {
+    "source_id": "D62",
+    "aliases": [
+      "E41"
+    ],
+    "description": "G05 physical-overhead rabbit: continued work on local parts and the distinction between construction and checking after completion.",
+    "published_paths": [
+      "evidence/observations/source_records/E41_G05实体俯视接续与完成后核对.txt",
+      "evidence/observations/source_records/V05末段与提示规则用户原回报_仅本地_v067.txt"
+    ],
+    "unpublished_historical_or_restricted_records": 0
+  },
+  {
+    "source_id": "D63",
+    "aliases": [
+      "E44"
+    ],
+    "description": "G06 physical-direct horse: local attempts, changed piece placements and continuation following a partner's suggestion.",
+    "published_paths": [
+      "evidence/observations/source_records/E44_G06马图案局部尝试与建议接续.txt",
+      "evidence/observations/source_records/V12用户原回报_仅本地_v068.txt"
+    ],
+    "unpublished_historical_or_restricted_records": 0
+  },
+  {
+    "source_id": "D64",
+    "aliases": [
+      "N06"
+    ],
+    "description": "Earlier researcher notes for G05's physical-overhead rabbit, retained alongside the later E41 clarification.",
+    "published_paths": [
+      "evidence/observations/source_records/G05_N06_N08原笔记恢复_v067.txt"
+    ],
+    "unpublished_historical_or_restricted_records": 0
+  },
+  {
+    "source_id": "D65",
+    "aliases": [
+      "N08"
+    ],
+    "description": "Earlier researcher notes for G05's shared-overhead VR person, covering suggestions, manipulation and requests for local assistance.",
+    "published_paths": [
+      "evidence/observations/source_records/G05_N06_N08原笔记恢复_v067.txt"
+    ],
+    "unpublished_historical_or_restricted_records": 0
+  },
+  {
+    "source_id": "D66",
+    "aliases": [
+      "V17"
+    ],
+    "description": "G04 endpoint video containing first-person VR and earlier overhead familiarisation; the surviving segment does not cover the formal swimmer round.",
+    "published_paths": [],
+    "unpublished_historical_or_restricted_records": 1
+  },
+  {
+    "source_id": "D67",
+    "aliases": [
+      "V23"
+    ],
+    "description": "G04 partner-endpoint video covering the formal shared-overhead swimmer round, used for the E39 process account.",
+    "published_paths": [],
+    "unpublished_historical_or_restricted_records": 1
+  },
+  {
+    "source_id": "D68",
+    "aliases": [
+      "T12"
+    ],
+    "description": "Supervisor discussion indexed to 13 October 2026: analysing interactions and revisiting hypotheses.",
+    "published_paths": [],
+    "unpublished_historical_or_restricted_records": 1
+  },
+  {
+    "source_id": "D69",
+    "aliases": [
+      "DESIGN-RATIONALE"
+    ],
+    "description": "Researcher original planning message: remove prescribed roles after trying the study; retain freely negotiated work.",
+    "published_paths": [],
+    "unpublished_historical_or_restricted_records": 1
+  },
+  {
+    "source_id": "D70",
+    "aliases": [
+      "METHOD-CHOICE"
+    ],
+    "description": "Researcher original message on qualitative/quantitative records, interviews and explanations for each method.",
+    "published_paths": [],
+    "unpublished_historical_or_restricted_records": 1
+  },
+  {
+    "source_id": "D71",
+    "aliases": [
+      "GPT-METHOD-LAYERS"
+    ],
+    "description": "Archived conversation 论文规划建议, including the four-layer data-collection rationale.",
+    "published_paths": [],
+    "unpublished_historical_or_restricted_records": 1
+  },
+  {
+    "source_id": "D72",
+    "aliases": [
+      "P-PROPOSAL"
+    ],
+    "description": "Original proposal: method selection and anticipated outcomes.",
+    "published_paths": [],
+    "unpublished_historical_or_restricted_records": 1
+  },
+  {
+    "source_id": "D73",
+    "aliases": [
+      "P-DATA-V3"
+    ],
+    "description": "Data-collection rationale and Unity logging plan V3.",
+    "published_paths": [],
+    "unpublished_historical_or_restricted_records": 1
+  },
+  {
+    "source_id": "D74",
+    "aliases": [
+      "AUTHOR-1102"
+    ],
+    "description": "Researcher clarification of participant identities, revised prototype experience, G02 targets and the origin of the focal observations, 2 November 2026.",
+    "published_paths": [
+      "evidence/protocol/author_corrections_20261102.json"
+    ],
+    "unpublished_historical_or_restricted_records": 0
+  }
+]

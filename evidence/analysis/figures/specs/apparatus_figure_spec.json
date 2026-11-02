@@ -1,0 +1,246 @@
+{
+  "figure_id": "Figure 3.2",
+  "title": "Apparatus and view mapping across the four conditions",
+  "claim": "R01–R04 change the source of the displayed view and physical/virtual manipulation; R04 separates a fixed overhead camera from the participant-controlled hands.",
+  "placement": "After Section 3.2; before Section 3.3.",
+  "size_mm": {
+    "width": 155,
+    "height": 140
+  },
+  "layout": "2 by 2 equal panels; shared legend below.",
+  "panels": [
+    {
+      "id": "a",
+      "heading": "R01 · Physical, direct view",
+      "nodes": [
+        {
+          "id": "players",
+          "label": "Two participants",
+          "form": "two abstract seated positions; no faces"
+        },
+        {
+          "id": "table",
+          "label": "Shared physical tangram",
+          "form": "table with a few polygon pieces"
+        }
+      ],
+      "edges": [
+        {
+          "from": "players",
+          "to": "table",
+          "label": "Direct view",
+          "style": "dashed sight lines"
+        },
+        {
+          "from": "players",
+          "to": "table",
+          "label": "Move real pieces",
+          "style": "solid action arrows"
+        }
+      ],
+      "detail": "Show both participants reaching the same tabletop."
+    },
+    {
+      "id": "b",
+      "heading": "R02 · Physical, overhead video",
+      "nodes": [
+        {
+          "id": "overheadphone",
+          "label": "Overhead phone camera",
+          "form": "phone above the table"
+        },
+        {
+          "id": "discord",
+          "label": "Discord live video",
+          "form": "small relay label"
+        },
+        {
+          "id": "leftphone",
+          "label": "Participant phone",
+          "form": "phone behind sight barrier"
+        },
+        {
+          "id": "rightphone",
+          "label": "Participant phone",
+          "form": "phone behind sight barrier"
+        },
+        {
+          "id": "table",
+          "label": "Shared physical tangram",
+          "form": "table with polygon pieces"
+        },
+        {
+          "id": "barriers",
+          "label": "Direct view blocked",
+          "form": "two opaque sight barriers"
+        }
+      ],
+      "edges": [
+        {
+          "from": "table",
+          "to": "overheadphone",
+          "label": "Camera view",
+          "style": "dashed sight line"
+        },
+        {
+          "from": "overheadphone",
+          "to": "discord",
+          "label": "",
+          "style": "dotted transmission line"
+        },
+        {
+          "from": "discord",
+          "to": "leftphone",
+          "label": "",
+          "style": "dotted transmission line"
+        },
+        {
+          "from": "discord",
+          "to": "rightphone",
+          "label": "",
+          "style": "dotted transmission line"
+        }
+      ],
+      "detail": "Exactly three phones: one camera and two viewing phones. Show hands reaching real pieces below/around barriers. Do not draw a laptop or a shared central viewing display."
+    },
+    {
+      "id": "c",
+      "heading": "R03 · VR, first-person view",
+      "nodes": [
+        {
+          "id": "leftheadset",
+          "label": "Quest 3",
+          "form": "abstract headset"
+        },
+        {
+          "id": "rightheadset",
+          "label": "Quest 3",
+          "form": "abstract headset"
+        },
+        {
+          "id": "world",
+          "label": "Shared virtual tangram",
+          "form": "shared virtual tabletop"
+        },
+        {
+          "id": "controllers",
+          "label": "Tracked controllers",
+          "form": "controller/hand symbols"
+        }
+      ],
+      "edges": [
+        {
+          "from": "leftheadset",
+          "to": "world",
+          "label": "Local eye view",
+          "style": "dashed sight line"
+        },
+        {
+          "from": "rightheadset",
+          "to": "world",
+          "label": "Local eye view",
+          "style": "dashed sight line"
+        },
+        {
+          "from": "controllers",
+          "to": "world",
+          "label": "Near / ray grab",
+          "style": "solid action arrow"
+        }
+      ],
+      "detail": "The two networked headsets share piece state. Each participant sees from their own tracked location."
+    },
+    {
+      "id": "d",
+      "heading": "R04 · VR, shared overhead view",
+      "nodes": [
+        {
+          "id": "camera",
+          "label": "Fixed orthographic camera",
+          "form": "camera above shared virtual tabletop"
+        },
+        {
+          "id": "world",
+          "label": "Shared virtual tangram",
+          "form": "virtual tabletop"
+        },
+        {
+          "id": "screens",
+          "label": "Head-following screens in two Quest 3 headsets",
+          "form": "two inset display rectangles inside headset outlines"
+        },
+        {
+          "id": "controllers",
+          "label": "Tracked controllers",
+          "form": "controller/hand symbols"
+        }
+      ],
+      "edges": [
+        {
+          "from": "world",
+          "to": "camera",
+          "label": "Overhead view",
+          "style": "dashed sight line"
+        },
+        {
+          "from": "camera",
+          "to": "screens",
+          "label": "Same world-oriented image",
+          "style": "dotted display line"
+        },
+        {
+          "from": "controllers",
+          "to": "world",
+          "label": "Near / ray grab",
+          "style": "solid action arrow"
+        }
+      ],
+      "detail": "The screen follows the head; the camera remains fixed in the world. Keep display and controller arrows separate. The display is inside each headset, not an external monitor."
+    }
+  ],
+  "legend": [
+    {
+      "style": "solid arrow",
+      "label": "Manipulation"
+    },
+    {
+      "style": "dashed line",
+      "label": "View"
+    },
+    {
+      "style": "dotted line",
+      "label": "Video / display transmission"
+    }
+  ],
+  "caption": "Apparatus and view mapping in the four study conditions (schematic, not to scale). R02 uses one overhead camera phone and two participant viewing phones, with barriers blocking direct sight of the physical pieces. R03 provides local first-person views in two networked Quest 3 headsets. R04 displays the fixed overhead camera on a head-following screen inside each headset while retaining tracked controller manipulation. The VR schematic represents the shared-target collection arrangement used for G03–G06; the earlier G01 target arrangement is described in Section 3.3.",
+  "source_codes": [
+    "M-APPARATUS",
+    "P-PAPER",
+    "LOG-VERSION"
+  ],
+  "source_paths": [
+    "outputs/thesis_progress_20261025/Poster聊天完整文本_20261102.txt:4887",
+    "source-archive/REIT7841_B/会议论文/会议论文_最终提交版_20261014/49191523_Conference_Paper_Final.docx (Method, paragraph 17)",
+    "source-archive/REIT7841_B/数据收集/数据与展示推进/01_数据盘点/固定俯视与操作方向_实施核验_v071.txt",
+    "source-archive/unity/REIT7841-01/MovableTargetBackup_20261010/Assets/REITMultiplayer/Scripts/TangramSession.cs"
+  ],
+  "not_to_imply": [
+    "Measured camera field of view, tabletop size, viewing distance or latency.",
+    "Controller movement is always aligned with screen directions.",
+    "Moving the head rotates the overhead camera.",
+    "The current 0.4.1 build was the collection build.",
+    "All practice and target arrangements were identical across all groups."
+  ],
+  "style": {
+    "language": "English",
+    "rendering": "Programmatic vector schematic; no generated photographs or reconstructed participant likenesses.",
+    "font": "Match thesis sans-serif figure labels; minimum final-size label 8.5 pt.",
+    "palette": {
+      "physical": "#0072B2",
+      "virtual": "#009E73",
+      "video_or_display": "#E69F00",
+      "text": "#222222"
+    },
+    "accessibility": "Use labels and arrow/line styles as well as colour; white background; preserve meaning in greyscale."
+  }
+}

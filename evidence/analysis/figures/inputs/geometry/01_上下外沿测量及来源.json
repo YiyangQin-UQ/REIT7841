@@ -1,0 +1,85 @@
+{
+  "created_at": "2026-10-21T23:07:08.836708+10:00",
+  "metrics": [
+    {
+      "slot": "G03_R03",
+      "active_elapsed_s": 145,
+      "upper_piece": "S6",
+      "lower_pieces": [
+        "S5"
+      ],
+      "upper_chord_m": 0.4402327962870955,
+      "lower_span_on_upper_axis_m": 0.4402995689859837,
+      "lower_upper_ratio": 1.000151675884785,
+      "source_lines": {
+        "S6": "5290",
+        "S5": "5901"
+      },
+      "method": "Upper width = farthest pair on upper large triangle x/z mesh hull. Lower width = extent of lower-piece hulls projected onto the upper-edge axis. Mesh contains rounded corners and thickness. Not a participant-camera measurement."
+    },
+    {
+      "slot": "G04_R03",
+      "active_elapsed_s": 115,
+      "upper_piece": "S5",
+      "lower_pieces": [
+        "S6"
+      ],
+      "upper_chord_m": 0.44056947726894014,
+      "lower_span_on_upper_axis_m": 0.44020072238995633,
+      "lower_upper_ratio": 0.9991630040254498,
+      "source_lines": {
+        "S5": "1874",
+        "S6": "1818"
+      },
+      "method": "Upper width = farthest pair on upper large triangle x/z mesh hull. Lower width = extent of lower-piece hulls projected onto the upper-edge axis. Mesh contains rounded corners and thickness. Not a participant-camera measurement."
+    },
+    {
+      "slot": "G06_R03",
+      "active_elapsed_s": 214,
+      "upper_piece": "S6",
+      "lower_pieces": [
+        "S1",
+        "S5",
+        "S3"
+      ],
+      "upper_chord_m": 0.4402260359244668,
+      "lower_span_on_upper_axis_m": 0.6123707852869487,
+      "lower_upper_ratio": 1.3910371838889106,
+      "source_lines": {
+        "S6": "6114",
+        "S1": "7070",
+        "S5": "6940",
+        "S3": "6773"
+      },
+      "method": "Upper width = farthest pair on upper large triangle x/z mesh hull. Lower width = extent of lower-piece hulls projected onto the upper-edge axis. Mesh contains rounded corners and thickness. Not a participant-camera measurement."
+    }
+  ],
+  "target_asset": "source-archive/unity/REIT7841-01/Assets/REITMultiplayer/TaskImages/00_vela-5_silhouette.png",
+  "target_edge_pixels": {
+    "451": {
+      "min_x": 243,
+      "max_x": 606,
+      "span_pixels": 364
+    },
+    "452": {
+      "min_x": 243,
+      "max_x": 606,
+      "span_pixels": 364
+    },
+    "812": {
+      "min_x": 243,
+      "max_x": 606,
+      "span_pixels": 364
+    },
+    "813": {
+      "min_x": 243,
+      "max_x": 606,
+      "span_pixels": 364
+    }
+  },
+  "target_width_ratio": 1.0,
+  "no_later_geometry_events_for_measured_pieces": true,
+  "round_end_active_s": "225.278664",
+  "source_json": "source-archive/workspace/outputs/行为证据复核_20261021/本轮六组核查/pose_reconstruction/three_candle_outcomes.json",
+  "status": "G06 accepted completion is geometrically inconsistent with target; withdraw correct alternative-solution claim."
+}

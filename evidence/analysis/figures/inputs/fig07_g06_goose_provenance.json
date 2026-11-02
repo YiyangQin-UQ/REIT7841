@@ -1,0 +1,195 @@
+{
+  "figure_id": "fig07_g06_goose_continuation",
+  "claim": "Successive participant additions preserve and extend an existing partial arrangement, yielding an accepted result with a different internal partition.",
+  "condition": "physical overhead",
+  "task": "goose",
+  "event_source": "V06 researcher account v069",
+  "frames": [
+    {
+      "panel": "a",
+      "source_file": "source-archive/REIT7841_B/数据收集/数据与展示推进/学术研究复核_20261019/方向3视频与文献复核_20261021/视频时点画面/G06_R02_0034.000.jpg",
+      "sha256": "45ff6314bb9705e6ed9f624689e6675448c04d2fc549743cc7d45365746bdc93",
+      "original_size_px": [
+        331,
+        720
+      ],
+      "crop_ltrb_px": [
+        16,
+        225,
+        315,
+        437
+      ],
+      "cropped_file": "fig07_inputs/panel_a.png",
+      "cropped_sha256": "655f0cf0cb74cf4b6e1e55029945541e19fe9c9f1146a1fa8f10a1f288a95db9",
+      "action": "A tries a large triangle for the body",
+      "researcher_event_s": 33,
+      "displayed_frame": "Frame 00:34",
+      "frame_index_record": {
+        "actual_s": 33.99666666666667,
+        "id": "G06_R02",
+        "image": "G06_R02_0034.000.jpg",
+        "requested_s": 34,
+        "source": "source-archive/REIT7841_B/数据收集/video/Realistic bird's eye view/T6.MP4"
+      }
+    },
+    {
+      "panel": "b",
+      "source_file": "source-archive/REIT7841_B/数据收集/数据与展示推进/学术研究复核_20261019/方向3视频与文献复核_20261021/视频时点画面/G06_R02_0054.000.jpg",
+      "sha256": "e119d9ee123b9b1df908310f634e11b70cfe9ba691f9f696d9edf44e940a6b06",
+      "original_size_px": [
+        331,
+        720
+      ],
+      "crop_ltrb_px": [
+        16,
+        225,
+        315,
+        437
+      ],
+      "cropped_file": "fig07_inputs/panel_b.png",
+      "cropped_sha256": "2c2556ded5c32a33ca16c1cac2db00d7822f71ffcd64d15b225dfb36495bdf33",
+      "action": "B adds a small triangle to the neck",
+      "researcher_event_s": 53,
+      "displayed_frame": "Frame 00:54",
+      "frame_index_record": {
+        "actual_s": 54,
+        "id": "G06_R02",
+        "image": "G06_R02_0054.000.jpg",
+        "requested_s": 54,
+        "source": "source-archive/REIT7841_B/数据收集/video/Realistic bird's eye view/T6.MP4"
+      }
+    },
+    {
+      "panel": "c",
+      "source_file": "source-archive/REIT7841_B/数据收集/数据与展示推进/学术研究复核_20261019/方向3视频与文献复核_20261021/视频时点画面/G06_R02_0064.000.jpg",
+      "sha256": "a5c52c34848f1d466c3e6b4fe8422e4cfa365075315f99bd3814c3e2cf8dca8d",
+      "original_size_px": [
+        331,
+        720
+      ],
+      "crop_ltrb_px": [
+        16,
+        225,
+        315,
+        437
+      ],
+      "cropped_file": "fig07_inputs/panel_c.png",
+      "cropped_sha256": "57501490bb0e4e15c11b098f59de899981c6f8c4aaa39b00902da014cf3a6503",
+      "action": "A extends the shape with the medium triangle",
+      "researcher_event_s": 62,
+      "displayed_frame": "Frame 01:04",
+      "frame_index_record": {
+        "actual_s": 63.985,
+        "id": "G06_R02",
+        "image": "G06_R02_0064.000.jpg",
+        "requested_s": 64,
+        "source": "source-archive/REIT7841_B/数据收集/video/Realistic bird's eye view/T6.MP4"
+      }
+    },
+    {
+      "panel": "d",
+      "source_file": "source-archive/REIT7841_B/数据收集/数据与展示推进/工具与验证/G06实体关键帧_v068_仅本地/G06overhead_V06_00100.000.jpg",
+      "sha256": "02db75481fc0ab9fe3d04dfd4cec5b5beacd41ece18c53daaf544b2eb0b29cae",
+      "original_size_px": [
+        441,
+        960
+      ],
+      "crop_ltrb_px": [
+        20,
+        326,
+        422,
+        590
+      ],
+      "cropped_file": "fig07_inputs/panel_d.png",
+      "cropped_sha256": "307bb6e0bebabbcb66f121f52e8c0c5f47dc89fd2c71ce4d40a0cb210b1c41f8",
+      "action": "Both complete the goose; then check the reference",
+      "researcher_event_s": 80,
+      "displayed_frame": "Later check: frame 01:40",
+      "frame_index_record": {
+        "actual_s": 99.99166666666666,
+        "asset_id": "V06",
+        "image": "G06overhead_V06_00100.000.jpg",
+        "job_id": "G06overhead",
+        "ocr_lines": [
+          "6:45",
+          "•",
+          "=75",
+          "CNLOR1007.00A",
+          "ARANTEEO FRLE POOITIVES",
+          "Pureau",
+          "Erar ceric-"
+        ],
+        "requested_s": 100
+      }
+    }
+  ],
+  "records": [
+    {
+      "source_file": "source-archive/REIT7841_B/数据收集/数据与展示推进/03_首轮整理/V06用户原回报_仅本地_v069.txt",
+      "sha256": "5e6191a0b575ca75619dcec6407f6601891c187adda3da98930abb053ca4b0aa",
+      "copy": "fig07_inputs/V06用户原回报_仅本地_v069.txt"
+    },
+    {
+      "source_file": "source-archive/REIT7841_B/数据收集/数据与展示推进/04_证据与展示衔接/E45_G06实体俯视局部接续与核对.txt",
+      "sha256": "91044c8c7c67febacadf966ca09bf0820c430132d3e3a6fc4b5e37a3805d0844",
+      "copy": "fig07_inputs/E45_G06实体俯视局部接续与核对.txt"
+    },
+    {
+      "source_file": "source-archive/REIT7841_B/数据收集/数据与展示推进/04_证据与展示衔接/E45_不同分块方案图片补证_v072.txt",
+      "sha256": "1f417d4933b1f933940c854b621dbdc6c362584b7a76188801255cb262da5f13",
+      "copy": "fig07_inputs/E45_不同分块方案图片补证_v072.txt"
+    }
+  ],
+  "outputs": [
+    {
+      "path": "fig07_g06_goose_continuation.png",
+      "sha256": "53dbc8e023a969c2a6e589f4595b6d969b862a96478595ae80b260418acfd327",
+      "width_mm": 180,
+      "height_mm": 158
+    },
+    {
+      "path": "fig07_g06_goose_continuation.pdf",
+      "sha256": "22a6b66abae29e02a53b6ce9c0c115eee7d91950ec8629b3508183cb230eefb0",
+      "width_mm": 180,
+      "height_mm": 158
+    },
+    {
+      "path": "fig07_g06_goose_continuation.svg",
+      "sha256": "7a5a9fd9d08aea93e81857134d622cd42c1322d73843b9978fdc3681072413c4",
+      "width_mm": 180,
+      "height_mm": 158
+    }
+  ],
+  "caption": "G06’s goose task in the physical overhead condition. The researcher’s process account reports (a) A trying a large triangle for the body at approximately 00:33, (b) B attaching a small triangle to the existing neck arrangement at 00:53, (c) A placing the medium triangle against it at 01:02, and (d) both participants placing the remaining large triangles from about 01:11 and completing the goose at 01:20. The displayed frames are at 00:34, 00:54, 01:04 and 01:40; panel d is the subsequent reference check, not the moment of completion. The sequence shows successive additions to a retained partial arrangement. The researcher judged the result correct, and the final photograph and partitioned reference display different internal piece allocation: the actual upper-left body region combines the medium triangle and a small triangle, whereas the reference uses the square and a small triangle; the actual right-hand head region combines the square and a small triangle, whereas the reference uses the medium triangle and a small triangle. This is not simply a swap between the square and a small triangle. Actor attribution and the event sequence come from the researcher’s account; still frames illustrate the visible configurations rather than establishing participants’ intentions or whether they held a complete solution in advance. Frames are cropped to the workspace to omit meeting avatars and interface elements, without rotation, perspective correction or piece alteration.",
+  "reproduction": {
+    "script": "build_fig07_goose.py",
+    "sha256": "745cb2dbcd0e72a80f6ee96540af7bbdf90a283d3f283830be42aa749168cd5f",
+    "python": "3.12.0 (v3.12.0:0fb18b02c8, Oct  2 2023, 09:45:56) [Clang 13.0.0 (clang-1300.0.29.30)]",
+    "matplotlib": "3.11.2"
+  },
+  "transformations": "Rectangular cropping only; unchanged source pixels, no perspective or piece editing.",
+  "pixel_review_done": true,
+  "automated_geometry_qa": {
+    "schema": "light.visual_qa.v1",
+    "verdict": "pass",
+    "pixel_review_done": false,
+    "pixel_review_note": "未做像素级回看(无渲染器或未喂回多模态模型),仅几何+对比度检测;视觉品味/层次/可读性细节未经验证",
+    "counts": {
+      "critical": 0,
+      "important": 0,
+      "total": 0
+    },
+    "issues": [],
+    "n_elements": 12
+  },
+  "limits": [
+    "Correctness reported by researcher and supported by visible outline/partition comparison; no calibrated geometric reconstruction.",
+    "Event labels derive from the researcher account; image timestamps are distinct.",
+    "Reference with internal boundaries was checked after completion."
+  ],
+  "pixel_review": {
+    "method": "Actual PNG inspected after final layout edit",
+    "findings": "No face/avatar/meeting interface retained; image content not altered except rectangular crop; text no longer overlaps; source piece boundaries remain visible",
+    "native_source_resolution": "The source phone-video frames are low resolution; no AI enhancement or synthesized detail applied."
+  }
+}

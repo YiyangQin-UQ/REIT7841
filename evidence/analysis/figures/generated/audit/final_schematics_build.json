@@ -1,0 +1,161 @@
+{
+  "purpose": "Reproduce the final layout-adjusted explanatory schematics.",
+  "figures": [
+    {
+      "name": "Figure3_1_research_development",
+      "physical_size_mm": [
+        160,
+        95
+      ],
+      "source_text_sequence": [
+        "Original brief",
+        "External VR viewpoint; coordination, intent and workspace awareness.",
+        "First-semester planning",
+        "Physical Tangram exploration informed the VR research and prototype.",
+        "August plan and supervisor response",
+        "Keep the task family comparable; parts may be done separately or jointly.",
+        "September decision",
+        "Use Tangram throughout.",
+        "Implemented study",
+        "Four free-collaboration conditions; six familiar dyads; fixed order.\nActual patterns, practice and prototype versions retained."
+      ],
+      "drawn_text_sequence": [
+        "Original brief",
+        "External VR viewpoint; coordination, intent and workspace awareness.",
+        "First-semester planning",
+        "Physical Tangram exploration informed the VR research and prototype.",
+        "August plan and supervisor response",
+        "Keep the task family comparable; parts may be done separately or jointly.",
+        "September decision",
+        "Use Tangram throughout.",
+        "Implemented study",
+        "Four free-collaboration conditions; six familiar dyads; fixed order.\nActual patterns, practice and prototype versions retained."
+      ],
+      "text_word_order_unchanged": true,
+      "semantic_edges": [
+        [
+          "Original brief",
+          "First-semester planning"
+        ],
+        [
+          "First-semester planning",
+          "August plan and supervisor response"
+        ],
+        [
+          "August plan and supervisor response",
+          "September decision"
+        ],
+        [
+          "September decision",
+          "Implemented study"
+        ]
+      ],
+      "outputs": [
+        {
+          "path": "generated/figures/Figure3_1_research_development.pdf",
+          "sha256": "6d6e8b59cb5344bf6bcd741c9a7734347adff0481906870dfeec85db354f1d7e"
+        },
+        {
+          "path": "generated/figures/Figure3_1_research_development.png",
+          "sha256": "5a8cbc2ac33400fa47700e79320ca00b9c9ce71e2a8f66c47792f75207cb2f98"
+        },
+        {
+          "path": "generated/figures/Figure3_1_research_development.svg",
+          "sha256": "72a964949ed016a0568a81e2c7bd026fd1a3f4df8d08c798c3d7a9d905d39d66"
+        }
+      ]
+    },
+    {
+      "name": "Figure4_1_analysis_flow",
+      "physical_size_mm": [
+        160,
+        125
+      ],
+      "source_text_sequence": [
+        "Source records",
+        "Researcher reports · video · VR logs",
+        "Identify the task record",
+        "Dyad + condition + software attempt\nPractice, replay and restart kept distinct",
+        "Build a connected episode",
+        "Proposal / builder / modifier\nBefore → after → local outcome",
+        "Check action and meaning",
+        "Video anchors and researcher account\nKeep each source clock visible",
+        "Check actions and states",
+        "Accepted grab–release pairs\nLatest piece poses · selected geometry",
+        "Compare connected cases",
+        "Within a dyad, then across dyads\nRetain contrary cases and task differences",
+        "Write findings and interpretation",
+        "Distinguish observation, checked state and explanation\nRetain source codes",
+        "Context",
+        "48 survey\nrecords\n\nInterview\ncomments"
+      ],
+      "drawn_text_sequence": [
+        "Source records",
+        "Researcher reports · video · VR logs",
+        "Identify the task record",
+        "Dyad + condition + software attempt\nPractice, replay and restart kept distinct",
+        "Build a connected episode",
+        "Proposal / builder / modifier\nBefore → after → local outcome",
+        "Check action and meaning",
+        "Video anchors and researcher account\nKeep each source clock visible",
+        "Check actions and states",
+        "Accepted grab–release pairs\nLatest piece poses · selected geometry",
+        "Compare connected cases",
+        "Within a dyad, then across dyads\nRetain contrary cases and task differences",
+        "Write findings and interpretation",
+        "Distinguish observation, checked state and explanation\nRetain source codes",
+        "Context",
+        "48 survey\nrecords\n\nInterview\ncomments"
+      ],
+      "text_word_order_unchanged": true,
+      "semantic_edges": [
+        [
+          "Source records",
+          "Identify the task record"
+        ],
+        [
+          "Identify the task record",
+          "Build a connected episode"
+        ],
+        [
+          "Build a connected episode",
+          "Check action and meaning"
+        ],
+        [
+          "Build a connected episode",
+          "Check actions and states"
+        ],
+        [
+          "Check action and meaning",
+          "Compare connected cases"
+        ],
+        [
+          "Check actions and states",
+          "Compare connected cases"
+        ],
+        [
+          "Compare connected cases",
+          "Write findings and interpretation"
+        ],
+        [
+          "Context",
+          "Compare connected cases"
+        ]
+      ],
+      "outputs": [
+        {
+          "path": "generated/figures/Figure4_1_analysis_flow.pdf",
+          "sha256": "5456694ef5f07eb53d6a5266c4696916f72be0c8d23398e1b26b38f423cb54dc"
+        },
+        {
+          "path": "generated/figures/Figure4_1_analysis_flow.png",
+          "sha256": "f1f291dbcf1334407b70d09836df4dbb2e9de6c54f2dfb6b2086e6e59bbe0fd4"
+        },
+        {
+          "path": "generated/figures/Figure4_1_analysis_flow.svg",
+          "sha256": "4c5b33ba8706f28313d2aa49c8e693772d1f6dfc4e15d5ae524c9f3aac006110"
+        }
+      ]
+    }
+  ]
+}

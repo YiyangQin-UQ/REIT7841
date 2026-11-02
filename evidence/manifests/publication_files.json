@@ -1,0 +1,1400 @@
+{
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 1182,
+      "sha256": "743f33a9103242481c248a3b879019c63a9627465e3ee1fa2c55d833bf580755"
+    },
+    {
+      "path": "evidence/analysis/README.md",
+      "bytes": 771,
+      "sha256": "f108095f4a1448fcadfee16f23dd9098d4a9dd68c888ca8d6513a731fc7301e8"
+    },
+    {
+      "path": "evidence/analysis/cases/division_action_intervals.csv",
+      "bytes": 74477,
+      "sha256": "c6b0efa31ebf8793e32f07e751bf3ff6cb2aa652415e3a4220ebb3af33294c65"
+    },
+    {
+      "path": "evidence/analysis/cases/division_evidence.json",
+      "bytes": 203685,
+      "sha256": "af0580cd3d4aae6bf16a2466006f6c4883e0813b349f1779c52b2f2515393fd1"
+    },
+    {
+      "path": "evidence/analysis/cases/evidence_g06_author_revision_20261102.json",
+      "bytes": 16532,
+      "sha256": "7b7c14f22c7aacefa46ce400f125ab65bbfa2f3bdaac162cbf07ca374fec8fc9"
+    },
+    {
+      "path": "evidence/analysis/cases/self_revision_evidence.json",
+      "bytes": 110390,
+      "sha256": "bb322d9403560c8c5b32a92357a2371d275edc7fa13a05ebfcf6279ab7505483"
+    },
+    {
+      "path": "evidence/analysis/coding/codebook.json",
+      "bytes": 2115,
+      "sha256": "5b48461d0d6ee5552459237560b40f2ccc66c123bb38b9d642ee7012718f7106"
+    },
+    {
+      "path": "evidence/analysis/coding/event_coding.json",
+      "bytes": 69290,
+      "sha256": "09f75f28023dce8c62ebead9fa0a3a44c505b695be6796064f4c1f4fbe9f04dd"
+    },
+    {
+      "path": "evidence/analysis/coding/interview_coding.json",
+      "bytes": 20676,
+      "sha256": "729fa711cde213f9ad13696133e183554465d3bdd7958ef536989302a4000bbc"
+    },
+    {
+      "path": "evidence/analysis/coding/log_navigation.tsv",
+      "bytes": 13527,
+      "sha256": "31fa6556e82558909d13bddab98a79b78c9f8f521afe8b13089bc6362351a11e"
+    },
+    {
+      "path": "evidence/analysis/coding/log_selected_rows.json",
+      "bytes": 59662,
+      "sha256": "f70678945a40085be3ac0e0d21901c04c9c1c4d7e11f0f20e937f20fc8ea8348"
+    },
+    {
+      "path": "evidence/analysis/coding/methods.txt",
+      "bytes": 1383,
+      "sha256": "edede66b08f5523eb2078d5841e28a050e4f4651ca38ad5c88399852266cb38e"
+    },
+    {
+      "path": "evidence/analysis/coding/original_coding_protocol.txt",
+      "bytes": 6190,
+      "sha256": "8af3383ef8c178e8fd6785f5801ce5ec7adb5f24be5e8f25a995e33ed546f6a2"
+    },
+    {
+      "path": "evidence/analysis/coding/slots_v080.json",
+      "bytes": 43911,
+      "sha256": "a2e81725d3dac9c567baaa984a80d23e6d0bc3b2697d23db8d91ff7257d5e68a"
+    },
+    {
+      "path": "evidence/analysis/coding/slots_v080.tsv",
+      "bytes": 31258,
+      "sha256": "b5f2d134e25ee499347d1dab73e093adccea158b017b73c043249122259b0fcc"
+    },
+    {
+      "path": "evidence/analysis/figures/.gitignore",
+      "bytes": 67,
+      "sha256": "9f48690b50e837a1853cdd8969dd68679e9ef295c225770335aa46b3953f5ca5"
+    },
+    {
+      "path": "evidence/analysis/figures/README.md",
+      "bytes": 3212,
+      "sha256": "cb5aabb6cd6f77df10959c4165f584487e80cdd34d16b4f1226c3429575c1f18"
+    },
+    {
+      "path": "evidence/analysis/figures/SCHEMA.json",
+      "bytes": 2719,
+      "sha256": "624b252b77245607faa6b60464bf4d0f8daf1240bbeae78a8983153f13543675"
+    },
+    {
+      "path": "evidence/analysis/figures/generated/audit/auxiliary_build.json",
+      "bytes": 10975,
+      "sha256": "92745784521d5a11e7f924f1e5f4f0f2109adcebd3bacaa15bba671a3dacb385"
+    },
+    {
+      "path": "evidence/analysis/figures/generated/audit/figure_g03_piece_continuation_evidence.json",
+      "bytes": 50707,
+      "sha256": "8c309d09b3f0ded1258c0ceb1c72c850803064fdc71bc85b5e5c47ed5bcef81b"
+    },
+    {
+      "path": "evidence/analysis/figures/generated/audit/figure_geometry_build.json",
+      "bytes": 4530,
+      "sha256": "fec22a88346dcaaca0e44380d3a4fb20cb37d74d5fc556ced48312bf7103ded2"
+    },
+    {
+      "path": "evidence/analysis/figures/generated/audit/figure_geometry_measurements.json",
+      "bytes": 1654,
+      "sha256": "6bfebd6ea9ba6f676601e9b6df5ab6dab2391b6d1c6da3f80040c9339d47a7fd"
+    },
+    {
+      "path": "evidence/analysis/figures/generated/audit/figure_goose_build.json",
+      "bytes": 9693,
+      "sha256": "f806971ceb0b54c3522328be0f5b9d1ae33fbea2595f6bbefbcbdf95ca8b0b87"
+    },
+    {
+      "path": "evidence/analysis/figures/generated/audit/figure_self_revision_build.json",
+      "bytes": 5249,
+      "sha256": "d39a9c9e25819d21651fd890ca4440ca2455da427f1c1384117266cf3f524029"
+    },
+    {
+      "path": "evidence/analysis/figures/generated/audit/figure_timeline_build.json",
+      "bytes": 972,
+      "sha256": "c43734b11c483eca9440c9184261c709bf6cb7ff47ac90ae93123a495ca069a2"
+    },
+    {
+      "path": "evidence/analysis/figures/generated/audit/final_schematics_build.json",
+      "bytes": 5820,
+      "sha256": "419ef1bbb90d574d04f0c5ca348b1e0dac761ad4d435c837544ba4410aa82a79"
+    },
+    {
+      "path": "evidence/analysis/figures/generated/audit/geometry_extracted_from_scene.json",
+      "bytes": 111480,
+      "sha256": "94ffbeb3989b91a8b48ed1b358a288dc4c0190648656142cda0dc05de8991537"
+    },
+    {
+      "path": "evidence/analysis/figures/generated/audit/method_figure_build.json",
+      "bytes": 3393,
+      "sha256": "11d8637067cdb5b84381e6162ba1bfedae3afc9dedae0348b2cc7e8ecf1aa059"
+    },
+    {
+      "path": "evidence/analysis/figures/generated/audit/recomputed_action_intervals.csv",
+      "bytes": 69071,
+      "sha256": "83d1fb058a4ffd24307af576f968a67bbf4a3b1e13ae5dd861af05e218693ae7"
+    },
+    {
+      "path": "evidence/analysis/figures/generated/audit/validation.json",
+      "bytes": 45778,
+      "sha256": "c8cf0443494a355b781b68096c7c487e58a0c4ec8cfc3aba3c9325f501300a87"
+    },
+    {
+      "path": "evidence/analysis/figures/generated/figures/F3_G06_action_timeline.png",
+      "bytes": 205469,
+      "sha256": "20597159fbd9d281ccaf583e57f9f573711753042be2622722f7e4bb04cf4151"
+    },
+    {
+      "path": "evidence/analysis/figures/generated/figures/F4_self_revision.png",
+      "bytes": 1215744,
+      "sha256": "3c018bc898c45045c3d0f45c809678aa3a788693a4d561854cede9679c0e354d"
+    },
+    {
+      "path": "evidence/analysis/figures/generated/figures/Figure3_1_research_development.png",
+      "bytes": 121924,
+      "sha256": "5a8cbc2ac33400fa47700e79320ca00b9c9ce71e2a8f66c47792f75207cb2f98"
+    },
+    {
+      "path": "evidence/analysis/figures/generated/figures/Figure3_2_apparatus.png",
+      "bytes": 217021,
+      "sha256": "de4d792d4896f44c7631233f99b68a81f1ca2d22e2f0349a91fe88f27d844386"
+    },
+    {
+      "path": "evidence/analysis/figures/generated/figures/Figure4_1_analysis_flow.png",
+      "bytes": 227106,
+      "sha256": "f1f291dbcf1334407b70d09836df4dbb2e9de6c54f2dfb6b2086e6e59bbe0fd4"
+    },
+    {
+      "path": "evidence/analysis/figures/generated/figures/Figure5_8_VR_item_ratings.png",
+      "bytes": 167082,
+      "sha256": "af559e22da61f93319525b2fc92b7638446e851858c0b4f64c925f5d24dce30d"
+    },
+    {
+      "path": "evidence/analysis/figures/generated/figures/fig01_g06_reconstruction_sequence.png",
+      "bytes": 316687,
+      "sha256": "24b7f5cd3cdfc5782fc091b82c21c694f711bb3fbc054094fd34f655c9b35d17"
+    },
+    {
+      "path": "evidence/analysis/figures/generated/figures/fig02_candle_geometry_comparison.png",
+      "bytes": 220511,
+      "sha256": "c2b257cf703203a6e2ddd8e717c978bc08ac9ed51ddd95d903a572cbb512c36f"
+    },
+    {
+      "path": "evidence/analysis/figures/generated/figures/fig03_g06_recorded_view_and_geometry.png",
+      "bytes": 458014,
+      "sha256": "37f89fe143e1726c9e41577e5f0a4392ce502686277e22c306140a43ce958197"
+    },
+    {
+      "path": "evidence/analysis/figures/generated/figures/fig04_g03_self_revision_and_continuation.png",
+      "bytes": 210963,
+      "sha256": "6081d5e6d5ce3ace6d03945392b64ecb697a8063e63b8f12d6733104a0394584"
+    },
+    {
+      "path": "evidence/analysis/figures/generated/figures/fig07_g06_goose_continuation.png",
+      "bytes": 1373076,
+      "sha256": "f5173a2e0ecdaebdf27a15c6c3407e93fdcafbe597fbae21c78dc8f13a13432e"
+    },
+    {
+      "path": "evidence/analysis/figures/inputs/F4_self_revision_manifest.json",
+      "bytes": 5027,
+      "sha256": "79d66a0ff791afa79f1f2a8dd851b56c20ba07ef1e07a0f9540145c9d36b171e"
+    },
+    {
+      "path": "evidence/analysis/figures/inputs/division_action_intervals.csv",
+      "bytes": 90884,
+      "sha256": "b33bce6cfe0379fe96e6f2fb519a439a0f35f5cba3a234ffece602293aede03a"
+    },
+    {
+      "path": "evidence/analysis/figures/inputs/division_evidence.json",
+      "bytes": 220946,
+      "sha256": "034dff5d40d000b04b25e9963875ddf8ef6a77d7335f1d3412ef07a9e0ae507d"
+    },
+    {
+      "path": "evidence/analysis/figures/inputs/fig07_g06_goose_provenance.json",
+      "bytes": 9040,
+      "sha256": "4c6e0ad0e03b003552a553fcbf0d45ec57e7350f5174d233f319d63390b9803a"
+    },
+    {
+      "path": "evidence/analysis/figures/inputs/geometry/00_vela-5_silhouette.png",
+      "bytes": 7096,
+      "sha256": "96c752b033bdb5672893fb0528c8c7d1c37090bcafec0f8e402501c1a21dbbf0"
+    },
+    {
+      "path": "evidence/analysis/figures/inputs/geometry/01_上下外沿测量及来源.json",
+      "bytes": 2856,
+      "sha256": "c0613b81eba680a13aac6286adfafcfed356922988bc0e07dece4b3f24886b63"
+    },
+    {
+      "path": "evidence/analysis/figures/inputs/geometry/G03_R03.csv",
+      "bytes": 926236,
+      "sha256": "4d387aaf38d0e370731f116adc750c4c9fa6228ccc5f0d23bd34a0a0c7cf78ab"
+    },
+    {
+      "path": "evidence/analysis/figures/inputs/geometry/G04_R03.csv",
+      "bytes": 824105,
+      "sha256": "23049ede73d1cc0191577c79d89985c7c053c6c764a7abf9f06de8d845f9fed4"
+    },
+    {
+      "path": "evidence/analysis/figures/inputs/geometry/G06_R03.csv",
+      "bytes": 1457188,
+      "sha256": "875d9d274868717b4f982fd8338479aa5965eb3e620fba330e9bb0c6de225f33"
+    },
+    {
+      "path": "evidence/analysis/figures/inputs/geometry/G06_R03_00945.000.jpg",
+      "bytes": 74202,
+      "sha256": "3b0a87595a277fdc846a3cfec8531ccd8d70a775a4e2dee2338d20284c828b54"
+    },
+    {
+      "path": "evidence/analysis/figures/inputs/geometry/G06_candle_sequence.json",
+      "bytes": 87502,
+      "sha256": "a31e2b77d772fe3c8402f82299f7489990d0fe5ca19ba60b20865ea523f4f050"
+    },
+    {
+      "path": "evidence/analysis/figures/inputs/geometry/TangramMultiplayer.unity",
+      "bytes": 311913,
+      "sha256": "c2bc4aee5b132683369954c7cddea8c55721a7bc7aec5832d186816ec5febb62"
+    },
+    {
+      "path": "evidence/analysis/figures/inputs/geometry/geometry_from_backup.json",
+      "bytes": 53210,
+      "sha256": "bd12ed5d5211b17556b8262a6935e132342d00b86dfd122010362e6fbd331d51"
+    },
+    {
+      "path": "evidence/analysis/figures/inputs/geometry/source_index.json",
+      "bytes": 3956,
+      "sha256": "3ddcb8e4aa5de728e2e763bc059c0af5213a5b5e7de3d28e4c9abda046e003e9"
+    },
+    {
+      "path": "evidence/analysis/figures/inputs/geometry/three_candle_outcomes.json",
+      "bytes": 43844,
+      "sha256": "d3e8833a973711c8c455569e7ad6bf0084be02ba724ca2a89d72a93a69c26574"
+    },
+    {
+      "path": "evidence/analysis/figures/inputs/goose/E45_G06实体俯视局部接续与核对.txt",
+      "bytes": 1361,
+      "sha256": "91044c8c7c67febacadf966ca09bf0820c430132d3e3a6fc4b5e37a3805d0844"
+    },
+    {
+      "path": "evidence/analysis/figures/inputs/goose/E45_不同分块方案图片补证_v072.txt",
+      "bytes": 1826,
+      "sha256": "1f417d4933b1f933940c854b621dbdc6c362584b7a76188801255cb262da5f13"
+    },
+    {
+      "path": "evidence/analysis/figures/inputs/goose/V06用户原回报_仅本地_v069.txt",
+      "bytes": 721,
+      "sha256": "5e6191a0b575ca75619dcec6407f6601891c187adda3da98930abb053ca4b0aa"
+    },
+    {
+      "path": "evidence/analysis/figures/inputs/goose/panel_a.png",
+      "bytes": 75963,
+      "sha256": "655f0cf0cb74cf4b6e1e55029945541e19fe9c9f1146a1fa8f10a1f288a95db9"
+    },
+    {
+      "path": "evidence/analysis/figures/inputs/goose/panel_b.png",
+      "bytes": 71164,
+      "sha256": "2c2556ded5c32a33ca16c1cac2db00d7822f71ffcd64d15b225dfb36495bdf33"
+    },
+    {
+      "path": "evidence/analysis/figures/inputs/goose/panel_c.png",
+      "bytes": 67703,
+      "sha256": "57501490bb0e4e15c11b098f59de899981c6f8c4aaa39b00902da014cf3a6503"
+    },
+    {
+      "path": "evidence/analysis/figures/inputs/goose/panel_d.png",
+      "bytes": 85662,
+      "sha256": "307bb6e0bebabbcb66f121f52e8c0c5f47dc89fd2c71ce4d40a0cb210b1c41f8"
+    },
+    {
+      "path": "evidence/analysis/figures/inputs/identity_frames/G03_R03_00146.000.jpg",
+      "bytes": 77138,
+      "sha256": "0175b4d8a908113e8faf1eada84606adad99f519a3f6cd85bfb08b2360ed79d0"
+    },
+    {
+      "path": "evidence/analysis/figures/inputs/identity_frames/G03_R03_00166.000.jpg",
+      "bytes": 56278,
+      "sha256": "34da0bc40d46120f3102ce90c8d5d117cb8466ac9a494e6b195941d9dbc2dd23"
+    },
+    {
+      "path": "evidence/analysis/figures/inputs/identity_frames/G03_R03_00246.000.jpg",
+      "bytes": 59311,
+      "sha256": "a54a49e536bfe818ca8521f9ac6c02201f7c9e33546ce1f02e5439070cab40fb"
+    },
+    {
+      "path": "evidence/analysis/figures/inputs/log_traces/G04_R04.csv",
+      "bytes": 1452120,
+      "sha256": "bc8b09404be0c8aabf00bdcb8201aa14105e10569e6bee359d76512f94657d9d"
+    },
+    {
+      "path": "evidence/analysis/figures/inputs/log_traces/G05_R04.csv",
+      "bytes": 637571,
+      "sha256": "1956d2b7d6d72c3b1434b32b21ec0c9d8600503e9bc89ab75eff89dd7e0d80ec"
+    },
+    {
+      "path": "evidence/analysis/figures/inputs/log_traces/G06_R04.csv",
+      "bytes": 987387,
+      "sha256": "f057fe62cd721145a78692e38d7e0d934505c701192aa22f736f1ee6c5e77418"
+    },
+    {
+      "path": "evidence/analysis/figures/inputs/questionnaire/question_dictionary.tsv",
+      "bytes": 1199,
+      "sha256": "defa5d32178942f97c05439cb408dba3f007ae8eca1ae279f0743561764e4f58"
+    },
+    {
+      "path": "evidence/analysis/figures/inputs/questionnaire/survey_confirmed.tsv",
+      "bytes": 2449,
+      "sha256": "0a7f2680c95ebbd1a2bd29859ff1e4c3327352c2a2a88f2bb083cb9e938ed87d"
+    },
+    {
+      "path": "evidence/analysis/figures/inputs/self_revision_frames/G01_R02_0280.0_crop.png",
+      "bytes": 371507,
+      "sha256": "a602fafff0987d52f6d19b5d5372fedf3e248eb1f530a067e74625e3537008b3"
+    },
+    {
+      "path": "evidence/analysis/figures/inputs/self_revision_frames/G01_R02_0363.0_crop.png",
+      "bytes": 376743,
+      "sha256": "280d9e4076f48cc29eee0756e0a74b8f12422a0879d7b43c12fd6daa12bc96b5"
+    },
+    {
+      "path": "evidence/analysis/figures/inputs/self_revision_frames/G01_R02_0388.0_crop.png",
+      "bytes": 360469,
+      "sha256": "7387fa0992fd04915bb088c2aad0cd4a8a9876483895b843106dc289b8380a24"
+    },
+    {
+      "path": "evidence/analysis/figures/inputs/self_revision_frames/frame_provenance.json",
+      "bytes": 7864,
+      "sha256": "44525ae5a6be8784d9d365ed23e08866211bcffc737f799e78ae10777f0c4135"
+    },
+    {
+      "path": "evidence/analysis/figures/provenance/author_corrections_20261102.json",
+      "bytes": 976,
+      "sha256": "883fc66b01d91b4815e3172e55c60e99fe9d678b9154c8a563376119c2dc76d3"
+    },
+    {
+      "path": "evidence/analysis/figures/provenance/division_evidence.txt",
+      "bytes": 7515,
+      "sha256": "66326029afeff44df8a6d32ada56e53b05b31b7e193d5bbba5cabd252d440b08"
+    },
+    {
+      "path": "evidence/analysis/figures/provenance/evidence_g06_author_revision_20261102.json",
+      "bytes": 16913,
+      "sha256": "74901267c701b7c0f11dc2061a92aace944b49e40a4c3300e0fc0d113e6a7e64"
+    },
+    {
+      "path": "evidence/analysis/figures/provenance/figure_caption_suggestions.json",
+      "bytes": 5130,
+      "sha256": "64920340373a0334e10a0b090ff32e0b5f9a48d7cc7be149cbbdbc4e71d733a0"
+    },
+    {
+      "path": "evidence/analysis/figures/provenance/figure_g03_identity_audit.json",
+      "bytes": 9156,
+      "sha256": "a45f708d49c4812239326424d1213b5e6fa19c2d8c2e020a60267f4c72333f00"
+    },
+    {
+      "path": "evidence/analysis/figures/provenance/figure_g03_piece_continuation_evidence.json",
+      "bytes": 50707,
+      "sha256": "8c309d09b3f0ded1258c0ceb1c72c850803064fdc71bc85b5e5c47ed5bcef81b"
+    },
+    {
+      "path": "evidence/analysis/figures/provenance/figure_geometry_precision_audit.json",
+      "bytes": 6862,
+      "sha256": "3359fcecc7efe934c37e0ba3e1e3dd56d517ed47493630e336e6c4df044b46aa"
+    },
+    {
+      "path": "evidence/analysis/figures/provenance/file_manifest.json",
+      "bytes": 51322,
+      "sha256": "8958915ed873cd5f277bb44f102cc2ee98b5aa290483c6d75f0a2706608d20bd"
+    },
+    {
+      "path": "evidence/analysis/figures/provenance/mapping/00_先读_行为核对结论.txt",
+      "bytes": 8082,
+      "sha256": "3f53417998f6ddf894de2b571b361582d9acc0f031c237ca54de68dc4143f463"
+    },
+    {
+      "path": "evidence/analysis/figures/provenance/mapping/04_Skills执行与方法说明.txt",
+      "bytes": 1996,
+      "sha256": "6435572125f2eedbedb8197306cbed88f2b323419ef4dc615492b10e772e75d6"
+    },
+    {
+      "path": "evidence/analysis/figures/provenance/output_retention.json",
+      "bytes": 4911,
+      "sha256": "6974a82566c3802c795150f4027052a0a211ee3d0d6b25261aad7a673ddbadf5"
+    },
+    {
+      "path": "evidence/analysis/figures/provenance/questionnaire_support.json",
+      "bytes": 40387,
+      "sha256": "efb3d119a1510911199ce9cf9437a6ca7998c259bb5c883a8bb77d0ce2beff5d"
+    },
+    {
+      "path": "evidence/analysis/figures/provenance/self_revision_evidence.json",
+      "bytes": 111420,
+      "sha256": "78126b3826a2ee5a2c49666a7600052b3e7b2cce13e83c6f4badcb131f695330"
+    },
+    {
+      "path": "evidence/analysis/figures/provenance/visual_review.json",
+      "bytes": 1128,
+      "sha256": "a25aaf92662ca91a6e17deac7139c06ab27039f1673c17a893197b01be2fc4ff"
+    },
+    {
+      "path": "evidence/analysis/figures/reproduce.py",
+      "bytes": 667,
+      "sha256": "e84515316f6a1521ccaedd7201fc53dbbaa9181613df8353d83b9d95b24e788d"
+    },
+    {
+      "path": "evidence/analysis/figures/requirements.txt",
+      "bytes": 47,
+      "sha256": "99fb48fb4512c271a508e1dc1be869f9e73ffe5542c5325c216cc9a57deb5bcc"
+    },
+    {
+      "path": "evidence/analysis/figures/scripts/build_auxiliary_figures.py",
+      "bytes": 11670,
+      "sha256": "abab4acf093ece5bd2fe14e1e835c1d9b586a121b230e7f6862105619876e318"
+    },
+    {
+      "path": "evidence/analysis/figures/scripts/build_geometry.py",
+      "bytes": 13739,
+      "sha256": "a63350c7fae63155fb6598d64bdfac9167321c47c9a0e7c134e13f0bdb20c93b"
+    },
+    {
+      "path": "evidence/analysis/figures/scripts/draw_method_figures.py",
+      "bytes": 8146,
+      "sha256": "7f33a7d3c060ccd7c3c0eea115ecf7f18910d8793500839d2a5a2dd1f06f9036"
+    },
+    {
+      "path": "evidence/analysis/figures/scripts/extract_saved_geometry.py",
+      "bytes": 1816,
+      "sha256": "7772f64f28aadb41e79d281aaa2593c65e3f1f5bdadd83b61f19d676317f9fb2"
+    },
+    {
+      "path": "evidence/analysis/figures/scripts/plot_goose.py",
+      "bytes": 3135,
+      "sha256": "90a21c2056c1b58fffc73c72e4b25f323936a0b7c45aacf96eea7d4c6f3d93da"
+    },
+    {
+      "path": "evidence/analysis/figures/scripts/plot_self_revision.py",
+      "bytes": 2965,
+      "sha256": "2e348ce3fc324c6ae8bb429b72707dd6926c8fcc7f520c68f10573d41374ab3a"
+    },
+    {
+      "path": "evidence/analysis/figures/scripts/plot_timeline.py",
+      "bytes": 5824,
+      "sha256": "3d5e8609e37b831c66d3aec533a328bb5cb632a20d63abcb7697c56ee7ff9bdf"
+    },
+    {
+      "path": "evidence/analysis/figures/scripts/portable_metadata.py",
+      "bytes": 577,
+      "sha256": "e96e8af817df2d1b74fdd6964d4a06b6e558dc809c3ca658471f945f1c0af2ef"
+    },
+    {
+      "path": "evidence/analysis/figures/scripts/redraw_final_schematics.py",
+      "bytes": 5362,
+      "sha256": "b4e8b70d5381ca7443499fcf55ab9f28e8c11bc36bdc8d262ecdd58921fc30f6"
+    },
+    {
+      "path": "evidence/analysis/figures/specs/analysis_flow_figure_spec.json",
+      "bytes": 4844,
+      "sha256": "0dad0f9a4941c2a5e660d28f6b3139f519b7d779b8b6279a0eb3c5797ba19dbe"
+    },
+    {
+      "path": "evidence/analysis/figures/specs/apparatus_figure_spec.json",
+      "bytes": 7921,
+      "sha256": "852657c94c9a3660395848908af015a64320d5e796a02182c05236fac75fd6b1"
+    },
+    {
+      "path": "evidence/analysis/figures/specs/current_figure_pixels.json",
+      "bytes": 4680,
+      "sha256": "170f5cfe8cf4aa22280c3145207994b812232f6f526c7806c6e215a04253539c"
+    },
+    {
+      "path": "evidence/analysis/figures/specs/figure_to_D.json",
+      "bytes": 3096,
+      "sha256": "43beee1f81ef57bb65969fd11b283cbb0756d5ba1e4fd703f654704eac681eb6"
+    },
+    {
+      "path": "evidence/analysis/figures/specs/trace_selection.json",
+      "bytes": 2841,
+      "sha256": "11a4ffb608f8ac1bd1e49c570636dccde058a2b0988b07b506bddf9c4870f0d9"
+    },
+    {
+      "path": "evidence/analysis/figures/validate.py",
+      "bytes": 6916,
+      "sha256": "54d6e80cd49dbb5e148ada20a825bad01c0ba5271cc0df684f3f125d7284af5f"
+    },
+    {
+      "path": "evidence/analysis/log_alignment/01_六组四轮严格事件核对.tsv",
+      "bytes": 8490,
+      "sha256": "08c253130c920a8d764147b328e7f06a211a6c91ef7c7c1d6ccf020ad9919ef0"
+    },
+    {
+      "path": "evidence/analysis/log_alignment/02_G06蜡烛形成与接续时间线.tsv",
+      "bytes": 2540,
+      "sha256": "a824251eba10c010c1982cc9bae04a4ed9e31624d858ca5be40b7720e3429e14"
+    },
+    {
+      "path": "evidence/analysis/log_alignment/03_逐项主张核验.tsv",
+      "bytes": 2523,
+      "sha256": "5c57fe861308972210fb50d8aec7647948186b8d649815f5720277bc3dbe9c68"
+    },
+    {
+      "path": "evidence/analysis/log_alignment/README.md",
+      "bytes": 2468,
+      "sha256": "c6c18a8dcb95a9d499c502a63e5f6ec5d4557566d2f7ff2856eb5f783bd6ac31"
+    },
+    {
+      "path": "evidence/analysis/log_alignment/V16_V21蜡烛双端与计时核验_v060.txt",
+      "bytes": 2710,
+      "sha256": "17b3504458ae4db97d7370d91405e113c198545484d54091ea48d344c85138b6"
+    },
+    {
+      "path": "evidence/analysis/log_alignment/V16_V21蜡烛来源核验_v060.json",
+      "bytes": 4879,
+      "sha256": "37621082809451b2cad16c7a99d0254f2c0bdbb3ba84000e450fbc20e3be30d8"
+    },
+    {
+      "path": "evidence/analysis/log_alignment/all_researchv2_log_manifest.json",
+      "bytes": 3078,
+      "sha256": "0d57e7eab95d4e7b513b21f2b8fc8c7c69879eca39e243ae6e0b643a62df2b14"
+    },
+    {
+      "path": "evidence/analysis/log_alignment/nine_matched_rounds.json",
+      "bytes": 152179,
+      "sha256": "541049939f4c393730e292d8fa54b7ba1184e818f4d28efb472cd4efb16bb0f1"
+    },
+    {
+      "path": "evidence/analysis/log_alignment/六组VR正式尝试定位_v032.tsv",
+      "bytes": 13527,
+      "sha256": "31fa6556e82558909d13bddab98a79b78c9f8f521afe8b13089bc6362351a11e"
+    },
+    {
+      "path": "evidence/analysis/log_alignment/日志媒体锚点_v032.tsv",
+      "bytes": 871,
+      "sha256": "c3be8402bf3a818d8b54e395c423cebae9153523fe2795ddd952fc6eb500d077"
+    },
+    {
+      "path": "evidence/analysis/log_alignment/软件端点与研究参与者映射_v02.tsv",
+      "bytes": 1267,
+      "sha256": "853c01be478c0098ef26fe0e0b4e6f2bbd12f0c6a2d447371c4d6120665af89d"
+    },
+    {
+      "path": "evidence/analysis/log_traces/G01_R03.csv",
+      "bytes": 1791432,
+      "sha256": "07cea7e522c05cc87f41025bbcc41dc21f22e60684ae17272bb4aa41fd0e6fac"
+    },
+    {
+      "path": "evidence/analysis/log_traces/G03_R03.csv",
+      "bytes": 926236,
+      "sha256": "4d387aaf38d0e370731f116adc750c4c9fa6228ccc5f0d23bd34a0a0c7cf78ab"
+    },
+    {
+      "path": "evidence/analysis/log_traces/G03_R04.csv",
+      "bytes": 2728756,
+      "sha256": "4859efa98cf043f90217dbb5a147bfb6e2a46a873133dc541e27596884c40cba"
+    },
+    {
+      "path": "evidence/analysis/log_traces/G04_R03.csv",
+      "bytes": 824105,
+      "sha256": "23049ede73d1cc0191577c79d89985c7c053c6c764a7abf9f06de8d845f9fed4"
+    },
+    {
+      "path": "evidence/analysis/log_traces/G04_R04.csv",
+      "bytes": 1452120,
+      "sha256": "bc8b09404be0c8aabf00bdcb8201aa14105e10569e6bee359d76512f94657d9d"
+    },
+    {
+      "path": "evidence/analysis/log_traces/G05_R03.csv",
+      "bytes": 4168281,
+      "sha256": "c3193f8c4f55c21b3eece15a93e999247339c5815ea4860ffe140197bd5c995f"
+    },
+    {
+      "path": "evidence/analysis/log_traces/G05_R04.csv",
+      "bytes": 637571,
+      "sha256": "1956d2b7d6d72c3b1434b32b21ec0c9d8600503e9bc89ab75eff89dd7e0d80ec"
+    },
+    {
+      "path": "evidence/analysis/log_traces/G06_R03.csv",
+      "bytes": 1457188,
+      "sha256": "875d9d274868717b4f982fd8338479aa5965eb3e620fba330e9bb0c6de225f33"
+    },
+    {
+      "path": "evidence/analysis/log_traces/G06_R04.csv",
+      "bytes": 987387,
+      "sha256": "f057fe62cd721145a78692e38d7e0d934505c701192aa22f736f1ee6c5e77418"
+    },
+    {
+      "path": "evidence/manifests/source_copy_manifest.tsv",
+      "bytes": 47096,
+      "sha256": "2b1b205d016c05b4067dc1020309e5d3b6dcda4adb015abee6286723b050a51f"
+    },
+    {
+      "path": "evidence/manifests/source_references.json",
+      "bytes": 32488,
+      "sha256": "50443f96f1e5baf184e67635a15518065cc38f916b3e17dfa1a3564486d4417d"
+    },
+    {
+      "path": "evidence/observations/README.md",
+      "bytes": 1441,
+      "sha256": "487587ebcaab53147437f2f5930b2577678b95cb01f552c6a2be8927581e2140"
+    },
+    {
+      "path": "evidence/observations/coded_episodes/E20.txt",
+      "bytes": 3783,
+      "sha256": "9009a4d16a543b344c2d644f8037395317713e3bae478802915a183c13e69870"
+    },
+    {
+      "path": "evidence/observations/coded_episodes/E22.txt",
+      "bytes": 3661,
+      "sha256": "e8b79d3ffff2c2d824ec7a1060efcbfb961340ddcc05f691305ed8ad4c683f39"
+    },
+    {
+      "path": "evidence/observations/coded_episodes/E23.txt",
+      "bytes": 9108,
+      "sha256": "c8e415847d0e7d975f2fdf47c8889d8512a4a188848524d32f84c7193f4b2437"
+    },
+    {
+      "path": "evidence/observations/coded_episodes/E24.txt",
+      "bytes": 3527,
+      "sha256": "680531c5551d4f32ac60b46edd9c0f4d9b7c497ba75de60202711139830ae3fb"
+    },
+    {
+      "path": "evidence/observations/coded_episodes/E25.txt",
+      "bytes": 5000,
+      "sha256": "959b999d7d86dcc521fa287561c5e48b1790c106307f8a3cb17e550061cd0fb6"
+    },
+    {
+      "path": "evidence/observations/coded_episodes/E27.txt",
+      "bytes": 2793,
+      "sha256": "c88a43be386d4ef4a4c38cd6d101055ea8f6df1c9581f31a98b73dc2e187bcf3"
+    },
+    {
+      "path": "evidence/observations/coded_episodes/E28.txt",
+      "bytes": 2372,
+      "sha256": "ea07682073eeba123755cb130e1f09fba35d8801777bb541265d9e77b443a975"
+    },
+    {
+      "path": "evidence/observations/coded_episodes/E29.txt",
+      "bytes": 2599,
+      "sha256": "a58f15366bd825b9bd9826d5a53d25182f4018c7992b270d32b10ac10d6235d4"
+    },
+    {
+      "path": "evidence/observations/coded_episodes/E30.txt",
+      "bytes": 2028,
+      "sha256": "29f28109d356d38f6a602327b8b626dffae0aa4f675186d357dcfb30b607083a"
+    },
+    {
+      "path": "evidence/observations/coded_episodes/E31.txt",
+      "bytes": 2101,
+      "sha256": "f9d57fa5da74e9150df60e25123741494b14b163db6c46e618e5bb9a614b522e"
+    },
+    {
+      "path": "evidence/observations/coded_episodes/E32.txt",
+      "bytes": 1552,
+      "sha256": "87dd8d575f3e0f7cd8bdd4ae64256f67a6dd8c7ed0c5a7c5722e25eb5dfa5b04"
+    },
+    {
+      "path": "evidence/observations/coded_episodes/E33.txt",
+      "bytes": 2561,
+      "sha256": "68ff508f7cc12159b0feb957cc801060351de6335401bea7b84ab7ab71669597"
+    },
+    {
+      "path": "evidence/observations/coded_episodes/E34.txt",
+      "bytes": 2671,
+      "sha256": "e643bcfc787f03444887891b0741ee24d36474934af37757149875d72469c70e"
+    },
+    {
+      "path": "evidence/observations/coded_episodes/E35.txt",
+      "bytes": 3041,
+      "sha256": "00e170835980aa7eb77dceedcfcc63b94ab57444b00694a5112dc363104e152b"
+    },
+    {
+      "path": "evidence/observations/coded_episodes/E36.txt",
+      "bytes": 2328,
+      "sha256": "61326ff8c66974bc35bebe0f7fcd84e8b6fa92215e2bffb151ca71769e330048"
+    },
+    {
+      "path": "evidence/observations/coded_episodes/E37.txt",
+      "bytes": 1821,
+      "sha256": "9bb5e9ae0d42bcb31eb90526e88f0634a0aaee302e90730cb650d5dac8be0dcd"
+    },
+    {
+      "path": "evidence/observations/coded_episodes/E38.txt",
+      "bytes": 1691,
+      "sha256": "4d7c1311b2b0daebaa7d4af54692b174046158b334228257751321d0dd73135a"
+    },
+    {
+      "path": "evidence/observations/coded_episodes/E39.txt",
+      "bytes": 1890,
+      "sha256": "da4a91bf0af797715f477bfe8defab12ce6cb6f9ad457b617d1b4b652c0ba087"
+    },
+    {
+      "path": "evidence/observations/coded_episodes/E40.txt",
+      "bytes": 1635,
+      "sha256": "0aa592e23e1fbe8a180cc37681c3f962f603fd59b6a3d780e9bbcbe5b4de15ae"
+    },
+    {
+      "path": "evidence/observations/coded_episodes/E41.txt",
+      "bytes": 1320,
+      "sha256": "fbadf08c8ccf90cd84ed5ad6e6f58f06e02949a3f25d12ffca0aab8bc900dec1"
+    },
+    {
+      "path": "evidence/observations/coded_episodes/E42.txt",
+      "bytes": 2139,
+      "sha256": "d8b7082661184ea9416f12fffd24502a9f4ea837ffcbe3355721ade5e33a7d43"
+    },
+    {
+      "path": "evidence/observations/coded_episodes/E43.txt",
+      "bytes": 1697,
+      "sha256": "da22e02f5757c4676697ecffefcdd199baaa3f531894c15f8f67c2c3a368e56c"
+    },
+    {
+      "path": "evidence/observations/coded_episodes/E44.txt",
+      "bytes": 1065,
+      "sha256": "39f3da594d871b0706176b50bff4c8f7aa3493e7fbb8813521a0ed4ef78fbcee"
+    },
+    {
+      "path": "evidence/observations/coded_episodes/E45.txt",
+      "bytes": 1361,
+      "sha256": "91044c8c7c67febacadf966ca09bf0820c430132d3e3a6fc4b5e37a3805d0844"
+    },
+    {
+      "path": "evidence/observations/coded_episodes/E46.txt",
+      "bytes": 2863,
+      "sha256": "e24a0171ef0ef5a4f79207d0d2d4af6601142802927983c49a7eac5141876c31"
+    },
+    {
+      "path": "evidence/observations/coded_episodes/E47.txt",
+      "bytes": 2588,
+      "sha256": "6f3a9e22abc191ee8cec39327267ae641be1e6a3dc7d3be17c9201999fcfdfac"
+    },
+    {
+      "path": "evidence/observations/interviews/G01.txt",
+      "bytes": 7091,
+      "sha256": "2f965ae8c6ab536544a618eaab0e7f6b633ebe0eb2c4d955adba02e0dff86235"
+    },
+    {
+      "path": "evidence/observations/interviews/G02.txt",
+      "bytes": 2911,
+      "sha256": "6a0dd830bd38550f28adb1335e0dc8f729c0ad841bd1514dd393f94088c79a48"
+    },
+    {
+      "path": "evidence/observations/interviews/G03.txt",
+      "bytes": 5459,
+      "sha256": "64264a570b8ce6db66169ae465bb09c6ad7002257bb44046a75423a48f733ae1"
+    },
+    {
+      "path": "evidence/observations/interviews/G04.txt",
+      "bytes": 5241,
+      "sha256": "501a53d095234bf61481e067fcce735c9714a035d11b2041bbdc7890acaf5644"
+    },
+    {
+      "path": "evidence/observations/interviews/G05.txt",
+      "bytes": 7040,
+      "sha256": "6358235ba8b9bf309a2262a16677b76d46e0b3bdf7abe57d7ff746a3fd69e42d"
+    },
+    {
+      "path": "evidence/observations/interviews/G06.txt",
+      "bytes": 3154,
+      "sha256": "166c98b634b1db4fdaab4301dd5ced66d992e5ca9e0a20e9e191aedc8e3c34c4"
+    },
+    {
+      "path": "evidence/observations/source_records/00_先读_G06完成判定更正.txt",
+      "bytes": 3117,
+      "sha256": "e887b2ac3385f817f2a6aeed1be2caa12d56be4644cb03d5e41fa907efda6f39"
+    },
+    {
+      "path": "evidence/observations/source_records/00_审读意见与替换建议.txt",
+      "bytes": 4570,
+      "sha256": "82cc8b050f826fd5cafa994480b12991ac2088527adcfec0216259aa8f8487af"
+    },
+    {
+      "path": "evidence/observations/source_records/26视频覆盖与语音质量_v038.tsv",
+      "bytes": 20345,
+      "sha256": "05f7068a263c38be60ebc309851d3a58d4bce647068f44794b9e6dc3b778254a"
+    },
+    {
+      "path": "evidence/observations/source_records/E23_V07提议与实操事件链_待核.txt",
+      "bytes": 9108,
+      "sha256": "c8e415847d0e7d975f2fdf47c8889d8512a4a188848524d32f84c7193f4b2437"
+    },
+    {
+      "path": "evidence/observations/source_records/E24_V01正确局部解与后续改动.txt",
+      "bytes": 3527,
+      "sha256": "680531c5551d4f32ac60b46edd9c0f4d9b7c497ba75de60202711139830ae3fb"
+    },
+    {
+      "path": "evidence/observations/source_records/E25_V20余块展示与共同试换.txt",
+      "bytes": 5000,
+      "sha256": "959b999d7d86dcc521fa287561c5e48b1790c106307f8a3cb17e550061cd0fb6"
+    },
+    {
+      "path": "evidence/observations/source_records/E26_V20蜡烛朝向协商.txt",
+      "bytes": 2372,
+      "sha256": "ad6ae3992ef22ba2fe2f518065f1d7afe88ae315937a714b42acd8e70edd7509"
+    },
+    {
+      "path": "evidence/observations/source_records/E27_G01人物底座分歧与局部认同.txt",
+      "bytes": 2793,
+      "sha256": "c88a43be386d4ef4a4c38cd6d101055ea8f6df1c9581f31a98b73dc2e187bcf3"
+    },
+    {
+      "path": "evidence/observations/source_records/E28_G02实体直视建议与操作接续.txt",
+      "bytes": 2372,
+      "sha256": "ea07682073eeba123755cb130e1f09fba35d8801777bb541265d9e77b443a975"
+    },
+    {
+      "path": "evidence/observations/source_records/E29_G02牛角构型修正与整理.txt",
+      "bytes": 2599,
+      "sha256": "a58f15366bd825b9bd9826d5a53d25182f4018c7992b270d32b10ac10d6235d4"
+    },
+    {
+      "path": "evidence/observations/source_records/E30_G02补录人物底座协商与分工.txt",
+      "bytes": 2028,
+      "sha256": "29f28109d356d38f6a602327b8b626dffae0aa4f675186d357dcfb30b607083a"
+    },
+    {
+      "path": "evidence/observations/source_records/E31_G02补录同侧调整与船段接续.txt",
+      "bytes": 2101,
+      "sha256": "f9d57fa5da74e9150df60e25123741494b14b163db6c46e618e5bb9a614b522e"
+    },
+    {
+      "path": "evidence/observations/source_records/E32_G03实体直视局部修订与接续.txt",
+      "bytes": 1552,
+      "sha256": "87dd8d575f3e0f7cd8bdd4ae64256f67a6dd8c7ed0c5a7c5722e25eb5dfa5b04"
+    },
+    {
+      "path": "evidence/observations/source_records/E33_G03兔耳请求接续与身体修订.txt",
+      "bytes": 2561,
+      "sha256": "68ff508f7cc12159b0feb957cc801060351de6335401bea7b84ab7ab71669597"
+    },
+    {
+      "path": "evidence/observations/source_records/E34_G03蜡烛同侧与局部拼法分歧.txt",
+      "bytes": 2671,
+      "sha256": "e643bcfc787f03444887891b0741ee24d36474934af37757149875d72469c70e"
+    },
+    {
+      "path": "evidence/observations/source_records/E35_G03椅子指令执行与研究者提示.txt",
+      "bytes": 3041,
+      "sha256": "00e170835980aa7eb77dceedcfcc63b94ab57444b00694a5112dc363104e152b"
+    },
+    {
+      "path": "evidence/observations/source_records/E36_G04实体直视探索与三次干预.txt",
+      "bytes": 2328,
+      "sha256": "61326ff8c66974bc35bebe0f7fcd84e8b6fa92215e2bffb151ca71769e330048"
+    },
+    {
+      "path": "evidence/observations/source_records/E37_G04实体俯视牛角修订与自行放置.txt",
+      "bytes": 1821,
+      "sha256": "9bb5e9ae0d42bcb31eb90526e88f0634a0aaee302e90730cb650d5dac8be0dcd"
+    },
+    {
+      "path": "evidence/observations/source_records/E38_G04蜡烛结构说明与互补放置.txt",
+      "bytes": 1691,
+      "sha256": "4d7c1311b2b0daebaa7d4af54692b174046158b334228257751321d0dd73135a"
+    },
+    {
+      "path": "evidence/observations/source_records/E39_G04游泳者抓取困难与任务接续.txt",
+      "bytes": 1890,
+      "sha256": "da4a91bf0af797715f477bfe8defab12ce6cb6f9ad457b617d1b4b652c0ba087"
+    },
+    {
+      "path": "evidence/observations/source_records/E40_G05实体直视怀疑与自行修正.txt",
+      "bytes": 1635,
+      "sha256": "0aa592e23e1fbe8a180cc37681c3f962f603fd59b6a3d780e9bbcbe5b4de15ae"
+    },
+    {
+      "path": "evidence/observations/source_records/E41_G05实体俯视接续与完成后核对.txt",
+      "bytes": 1320,
+      "sha256": "fbadf08c8ccf90cd84ed5ad6e6f58f06e02949a3f25d12ffca0aab8bc900dec1"
+    },
+    {
+      "path": "evidence/observations/source_records/E42_G05椅子共同尝试与方案修订.txt",
+      "bytes": 2139,
+      "sha256": "d8b7082661184ea9416f12fffd24502a9f4ea837ffcbe3355721ade5e33a7d43"
+    },
+    {
+      "path": "evidence/observations/source_records/E43_G05人物建议执行与局部协助.txt",
+      "bytes": 1697,
+      "sha256": "da22e02f5757c4676697ecffefcdd199baaa3f531894c15f8f67c2c3a368e56c"
+    },
+    {
+      "path": "evidence/observations/source_records/E44_G06马图案局部尝试与建议接续.txt",
+      "bytes": 1065,
+      "sha256": "39f3da594d871b0706176b50bff4c8f7aa3493e7fbb8813521a0ed4ef78fbcee"
+    },
+    {
+      "path": "evidence/observations/source_records/E45_G06实体俯视局部接续与核对.txt",
+      "bytes": 1361,
+      "sha256": "91044c8c7c67febacadf966ca09bf0820c430132d3e3a6fc4b5e37a3805d0844"
+    },
+    {
+      "path": "evidence/observations/source_records/E46_G06蜡烛重构与主动切换请求.txt",
+      "bytes": 2863,
+      "sha256": "e24a0171ef0ef5a4f79207d0d2d4af6601142802927983c49a7eac5141876c31"
+    },
+    {
+      "path": "evidence/observations/source_records/G04人物适应阶段用户澄清_仅本地_v065.txt",
+      "bytes": 37,
+      "sha256": "f9b1bf6edd8083d952dc30ec2c1bf37a5fb18e566faa47baa299e64966da6e46"
+    },
+    {
+      "path": "evidence/observations/source_records/G04设备熟悉与正式开始_实施澄清_v064.txt",
+      "bytes": 1515,
+      "sha256": "00bc16f9a8a47f7ee93de82e40a2c2e89e9ab4c2a0e8ce6b31459819b88823eb"
+    },
+    {
+      "path": "evidence/observations/source_records/G05_N06_N08原笔记恢复_v067.txt",
+      "bytes": 2429,
+      "sha256": "e6eb0f95ccf215df02f0a9b8c36d37bf1d4bbf49fc779fca7e47db42f306ef97"
+    },
+    {
+      "path": "evidence/observations/source_records/V01用户补证回报_仅本地_v047.txt",
+      "bytes": 503,
+      "sha256": "4a56823f4fb19a47552c6d8ee5db7234463e06966c177e1c625f7b102b0b5895"
+    },
+    {
+      "path": "evidence/observations/source_records/V02牛角外轮廓澄清_仅本地_v052a.txt",
+      "bytes": 1370,
+      "sha256": "4dcec6866d9ab293fc5094ec0d9f0d3100accda7b31dcfb2defec9836d600df1"
+    },
+    {
+      "path": "evidence/observations/source_records/V02用户过程与澄清原始回报_仅本地_v052.txt",
+      "bytes": 1643,
+      "sha256": "3a38212648af07e5f6461c6615a4e2a061884ccee8d0d4d2b8ae418c89cb7bbf"
+    },
+    {
+      "path": "evidence/observations/source_records/V03用户回报原文_仅本地_v058.txt",
+      "bytes": 1124,
+      "sha256": "5edaba0b5be4a23b39d2eda9e8b63c3713ae88923863dbe8d3eb7512a279abec"
+    },
+    {
+      "path": "evidence/observations/source_records/V04用户原回报_仅本地_v063.txt",
+      "bytes": 932,
+      "sha256": "daedb53c8888aabaa5d5260ca59af53df050926944d848b891bbf3e8355af749"
+    },
+    {
+      "path": "evidence/observations/source_records/V05末段与提示规则用户原回报_仅本地_v067.txt",
+      "bytes": 296,
+      "sha256": "c414eba1f4395d57473498a13e595ec37c3e02e350c8abf680e9edecd453d4e3"
+    },
+    {
+      "path": "evidence/observations/source_records/V06用户原回报_仅本地_v069.txt",
+      "bytes": 721,
+      "sha256": "5e6191a0b575ca75619dcec6407f6601891c187adda3da98930abb053ca4b0aa"
+    },
+    {
+      "path": "evidence/observations/source_records/V07用户事件回报_仅本地_20261018.txt",
+      "bytes": 1193,
+      "sha256": "e9b6e3d514c640f17acab7f79e4bb51e95397e6ad7a532d554c433142cfdeaaa"
+    },
+    {
+      "path": "evidence/observations/source_records/V08用户过程回报_仅本地_v051.txt",
+      "bytes": 796,
+      "sha256": "d0dec91a5b347100c09d598e845c0b5343d19074114286b04de85badeb93e88c"
+    },
+    {
+      "path": "evidence/observations/source_records/V09用户简记原始回报_仅本地_v055.txt",
+      "bytes": 1059,
+      "sha256": "33718ed62e312c06e3dee3fb55225d3703fca770347d63b3a7d3f8c909778f12"
+    },
+    {
+      "path": "evidence/observations/source_records/V10用户原回报_仅本地_v062.txt",
+      "bytes": 992,
+      "sha256": "4d58d7a4482f8b33624ae721f26e34a688402ed5d6ecf4a52606a92c1c095f33"
+    },
+    {
+      "path": "evidence/observations/source_records/V11末段用户原回报_仅本地_v066.txt",
+      "bytes": 343,
+      "sha256": "44d640b92f7bf1e05fdfe1a28712cba1e73c67bfc1d8e23cea5172a1ebe6132a"
+    },
+    {
+      "path": "evidence/observations/source_records/V12用户原回报_仅本地_v068.txt",
+      "bytes": 482,
+      "sha256": "21245afbae873435d9250fd759f54665b86e4fa2b88ab39a0fe027400aae84d2"
+    },
+    {
+      "path": "evidence/observations/source_records/V13伙伴言语动作原始回报_仅本地_20261018.txt",
+      "bytes": 902,
+      "sha256": "8fc65a327365a6edcbd1cdab316366a85a1966665de14658eae5fc493b249b47"
+    },
+    {
+      "path": "evidence/observations/source_records/V16_V21蜡烛用户原回报_仅本地_v060.txt",
+      "bytes": 1165,
+      "sha256": "bf163effc85f79a7579b75feb759bce0024fd6f7b78b840db79ab8fe83e3d73a"
+    },
+    {
+      "path": "evidence/observations/source_records/V16_V22椅子提示澄清_仅本地_v061.txt",
+      "bytes": 148,
+      "sha256": "fa983913d8203a7552f00ec767c9d70feac955a2dc82117741e64ce6f76c2caa"
+    },
+    {
+      "path": "evidence/observations/source_records/V16_V22椅子用户原回报_仅本地_v061.txt",
+      "bytes": 1364,
+      "sha256": "05dc51814a2222146dc1406c070b4cd8e2746f69a30a1dee059f046e1241b89b"
+    },
+    {
+      "path": "evidence/observations/source_records/V17_V23蜡烛用户原回报_仅本地_v064.txt",
+      "bytes": 820,
+      "sha256": "b2137ef8de5fbccd2cc2c720cac2106287ba8111a597d32e2aae796617d1d506"
+    },
+    {
+      "path": "evidence/observations/source_records/V19人物用户原回报_仅本地_v074.txt",
+      "bytes": 492,
+      "sha256": "eabe012220c5d4990fa7d37c111ac9786cbf4b6215ce88f88435bf30603d51d4"
+    },
+    {
+      "path": "evidence/observations/source_records/V19蜡烛用户原回报_仅本地_v073.txt",
+      "bytes": 1126,
+      "sha256": "484e9de1c7bc133647c0dd365a1afe4888fd160759e5a5fdee68bd071f48a3b9"
+    },
+    {
+      "path": "evidence/observations/source_records/V20余块试换用户原始回报_仅本地_v048.txt",
+      "bytes": 665,
+      "sha256": "b6caa99c3d97319b90759250b1d1b402184165072affdee1859a22f2263fad88"
+    },
+    {
+      "path": "evidence/observations/source_records/V20用户听核原始回报_仅本地_20261018.txt",
+      "bytes": 945,
+      "sha256": "6bc80e56cda94afef23d34e90acfea206d441c5d6a4cef773846274bf1e002c9"
+    },
+    {
+      "path": "evidence/observations/source_records/V20蜡烛段用户原始回报_仅本地_v049.txt",
+      "bytes": 769,
+      "sha256": "7816ad49531f3805435158301870090e0952a5154b12844fd2c657e66fe1e0d3"
+    },
+    {
+      "path": "evidence/observations/source_records/V23游泳者用户原回报_仅本地_v065.txt",
+      "bytes": 488,
+      "sha256": "66ca1a64b59b14708b989f089aca72221b7c051325c9cf50b03647837f0e4abd"
+    },
+    {
+      "path": "evidence/observations/source_records/V25V15人物段用户回报_仅本地_v053.txt",
+      "bytes": 1148,
+      "sha256": "b8755b8899b9a4da081e5502877f476aa72e2d7d2134f589a807974bb23ae14e"
+    },
+    {
+      "path": "evidence/observations/source_records/V25V15调视角与船段用户回报_仅本地_v054.txt",
+      "bytes": 1325,
+      "sha256": "61658e9d4a34b571089d6a71ad5e60b18628779f3b2edf568bddea583b04c30e"
+    },
+    {
+      "path": "evidence/observations/source_records/V26_V13底座讨论原始回报_仅本地_v050.txt",
+      "bytes": 1981,
+      "sha256": "1cfc41a46c043a6a25bc59d51a65edc44e8328e38368414639e03a3cff4b1f0b"
+    },
+    {
+      "path": "evidence/observations/source_records/V26用户听核及录音范围原始回报_仅本地_20261018.txt",
+      "bytes": 464,
+      "sha256": "d9da6808ff66587c6261b96c276a2d95468aff091b8675acdc1f8ff846db2c59"
+    },
+    {
+      "path": "evidence/observations/source_records/人工收集进度.txt",
+      "bytes": 6170,
+      "sha256": "d0541005b9854cbe8d72558f5469cf821aa914b82fd1fa747b63ba281acba028"
+    },
+    {
+      "path": "evidence/observations/source_records/六组VR与七巧板既往经历_v075.tsv",
+      "bytes": 951,
+      "sha256": "a869c62ba2629482b130da32ddbfaf2a00458cb3184af56deba50f2f1912bfc7"
+    },
+    {
+      "path": "evidence/observations/source_records/六组实际流程与混杂_v037.tsv",
+      "bytes": 3046,
+      "sha256": "f740a4c90d6fcdac90962b193aef3f4f31864bff4056e82d5005e1751c6d9592"
+    },
+    {
+      "path": "evidence/observations/source_records/六组目标呈现版本分层_v037.tsv",
+      "bytes": 1615,
+      "sha256": "b254b3bef8d523dde886e70c3480221944e10a55f758f9da41ade6080273611c"
+    },
+    {
+      "path": "evidence/observations/source_records/固定俯视与操作方向_实施核验_v071.txt",
+      "bytes": 2458,
+      "sha256": "f4d278d2514590d702dff8325cb73d8c388da217f7f0dedf9e4a5b69de184d2d"
+    },
+    {
+      "path": "evidence/observations/source_records/日志协议版本_v037.tsv",
+      "bytes": 4323,
+      "sha256": "043b0ae2b5b1a256cba4bb62df2e7030b9c2cd621aa7c934dbb328b6d9e80228"
+    },
+    {
+      "path": "evidence/observations/source_records/最后实施澄清三项_已答_v076.json",
+      "bytes": 4739,
+      "sha256": "6a160a5e7e44b7e3834f7d32db679a59c4be1747bde82679857db09b854565f3"
+    },
+    {
+      "path": "evidence/observations/source_records/正式轮与VR俯视实施澄清_用户原文_仅本地_v071.txt",
+      "bytes": 590,
+      "sha256": "65cbaa12501a862e947acbc81f3241bf5bdaa0cab0421b1d7d50791bd33eeac6"
+    },
+    {
+      "path": "evidence/observations/source_records/正式轮纳入与非正式尝试处理规则_v071.txt",
+      "bytes": 2146,
+      "sha256": "0331618acd9392af4697d68ea593b313141a754b5211a8d5a14c0c8469e258cd"
+    },
+    {
+      "path": "evidence/observations/source_records/站位安排与自主调整_实施澄清_v063.txt",
+      "bytes": 1626,
+      "sha256": "5c7e2779b9704b5a389d0bcf76fabda7cb496606471dcea22d2a814b48844c92"
+    },
+    {
+      "path": "evidence/protocol/README.md",
+      "bytes": 1485,
+      "sha256": "9b5545461b43489687b2886079837d116265b439edb192cc0a9a2d54ae1c79ff"
+    },
+    {
+      "path": "evidence/protocol/author_corrections_20261102.json",
+      "bytes": 976,
+      "sha256": "883fc66b01d91b4815e3172e55c60e99fe9d678b9154c8a563376119c2dc76d3"
+    },
+    {
+      "path": "evidence/protocol/figure_g03_identity_audit.json",
+      "bytes": 8375,
+      "sha256": "517469ac6a7deed462b47c4cd33157de61afb52638dfd4037513fee178778d2e"
+    },
+    {
+      "path": "evidence/protocol/figure_geometry_measurements.json",
+      "bytes": 1654,
+      "sha256": "6bfebd6ea9ba6f676601e9b6df5ab6dab2391b6d1c6da3f80040c9339d47a7fd"
+    },
+    {
+      "path": "evidence/protocol/figure_geometry_precision_audit.json",
+      "bytes": 6782,
+      "sha256": "3ecb9a08991994acb67152e8ae287af41fe5d2a8bfb1901b663ddf29c91d1919"
+    },
+    {
+      "path": "evidence/protocol/implementation/TangramResearchLog.cs",
+      "bytes": 3640,
+      "sha256": "52a54e1f60d8b2b2f8dc770520c1bf1779db070fbb191438ba08bc356d60e53e"
+    },
+    {
+      "path": "evidence/protocol/implementation/TangramSession_20261010.cs",
+      "bytes": 20909,
+      "sha256": "c8547f4aa9bb578f1a31852441780d8ffe5bcf10775096f893823d4aab4584ac"
+    },
+    {
+      "path": "evidence/questionnaire/README.md",
+      "bytes": 909,
+      "sha256": "c1cf6a451f6ca8e8cbdb9ed68853c8877a7abfce7b4bda151dc060e75a8018e4"
+    },
+    {
+      "path": "evidence/questionnaire/question_dictionary.tsv",
+      "bytes": 1199,
+      "sha256": "defa5d32178942f97c05439cb408dba3f007ae8eca1ae279f0743561764e4f58"
+    },
+    {
+      "path": "evidence/questionnaire/survey_confirmed.tsv",
+      "bytes": 2449,
+      "sha256": "0a7f2680c95ebbd1a2bd29859ff1e4c3327352c2a2a88f2bb083cb9e938ed87d"
+    },
+    {
+      "path": "evidence/questionnaire/survey_normalized.tsv",
+      "bytes": 7310,
+      "sha256": "189cb6c0512ae1a0a3d8740d263b33a23932560b70ebce5e9d4760c4739b2d29"
+    },
+    {
+      "path": "evidence/questionnaire/survey_raw.csv",
+      "bytes": 13374,
+      "sha256": "53062fba3f8372851b88944727724befd8b34f4842baec2f0bdc1a6a16a201dc"
+    },
+    {
+      "path": "evidence/questionnaire/问卷来源说明.txt",
+      "bytes": 513,
+      "sha256": "187d2faf398abb86934bbcb7343ff12e2398258932f16f393bee0de0f38cc3f0"
+    },
+    {
+      "path": "evidence/questionnaire/问卷确认记录.json",
+      "bytes": 2523,
+      "sha256": "1cd35f44a457d77dcf600062daa330e47736a4f32aa925f1a66fa5760ef4fa31"
+    },
+    {
+      "path": "evidence/raw/vr/README.md",
+      "bytes": 6443,
+      "sha256": "e1ed5e371d5e7ff166f669343bbfb8b77563fb131a01215a77e75502947d8632"
+    },
+    {
+      "path": "evidence/raw/vr/REIT_Tangram/ResearchV2/G01_20261008T050538_fe2222fe_events_v2.csv",
+      "bytes": 30182,
+      "sha256": "ad49d0056e184f33de390d7ec4dc3d3c0a269805dcb683a7c0f41875eb11ffc9"
+    },
+    {
+      "path": "evidence/raw/vr/REIT_Tangram/ResearchV2/TECHNICAL_TEST_20261007T073110_b3992186_events_v2.csv",
+      "bytes": 213721,
+      "sha256": "28d90aeb063109ffa90fea2a2b936a219cdb310b0dfbed874368a1bb37105651"
+    },
+    {
+      "path": "evidence/raw/vr/REIT_Tangram/ResearchV2/TECHNICAL_TEST_20261007T073616_da594fa6_events_v2.csv",
+      "bytes": 9249439,
+      "sha256": "1035a600eb4b5ff04691a2c4e38f3657ff0574c0f11e69b6fa54f2aeb658290d"
+    },
+    {
+      "path": "evidence/raw/vr/REIT_Tangram/ResearchV2/TECHNICAL_TEST_20261007T093401_a9cf223e_events_v2.csv",
+      "bytes": 382033,
+      "sha256": "4b7883aa5ab2a4ac15ec1af8f22c5ab976a278915bd092b02b19ffda85e341c2"
+    },
+    {
+      "path": "evidence/raw/vr/REIT_Tangram/ResearchV2/TECHNICAL_TEST_20261007T102325_390346f9_events_v2.csv",
+      "bytes": 2535592,
+      "sha256": "34a3dca33f93b2c587ef2fa3a538d12cd4a8e037b2897b2e0eb29136f6e8138c"
+    },
+    {
+      "path": "evidence/raw/vr/REIT_Tangram/ResearchV2/TECHNICAL_TEST_20261008T050322_1acce4df_events_v2.csv",
+      "bytes": 119326,
+      "sha256": "4311654c94da1bc414d2f8dba8d99b0aed584b14da227642479ea82fa84fa06f"
+    },
+    {
+      "path": "evidence/raw/vr/REIT_Tangram/ResearchV2/TECHNICAL_TEST_20261009T035445_fede18ca_events_v2.csv",
+      "bytes": 6617623,
+      "sha256": "516623c52fcb2348d20a06f227ac6a08cd0a566166b1cd969117b7180ddd4351"
+    },
+    {
+      "path": "evidence/raw/vr/REIT_Tangram/ResearchV2/TECHNICAL_TEST_20261009T070503_5a0ebbc4_events_v2.csv",
+      "bytes": 3885656,
+      "sha256": "44fcb8445caf82883fa9f00b95606c4b82406afb4bf5e3b0878ff520ad8e0450"
+    },
+    {
+      "path": "evidence/raw/vr/REIT_Tangram/ResearchV2/TECHNICAL_TEST_20261009T084000_593a8c65_events_v2.csv",
+      "bytes": 5939588,
+      "sha256": "6479622e6e3bde58b030ed28877faaf01843c01b839c838cf66a492a4070157f"
+    },
+    {
+      "path": "evidence/raw/vr/REIT_Tangram/ResearchV2/TECHNICAL_TEST_20261010T024954_0023fdf8_events_v2.csv",
+      "bytes": 11680,
+      "sha256": "39e95f40b51a50298469007cb6c776529fa9a8480e6858180a1263aee062baea"
+    },
+    {
+      "path": "evidence/raw/vr/REIT_Tangram/ResearchV2/TECHNICAL_TEST_20261010T062552_3260dfc6_events_v2.csv",
+      "bytes": 3538,
+      "sha256": "775773668fc75a13d0b089d8471b82f991d0becbd134963668b6c2ce9adb0523"
+    },
+    {
+      "path": "evidence/raw/vr/REIT_Tangram/ResearchV2/TECHNICAL_TEST_20261010T084712_3a9476c5_events_v2.csv",
+      "bytes": 4530419,
+      "sha256": "eef4acf3a2465d9786e03bd12d2f82ef0f5e9fae08bd4d420fa7252be78f2e52"
+    },
+    {
+      "path": "evidence/raw/vr/REIT_Tangram/ResearchV2/TECHNICAL_TEST_20261010T111851_95ec3dd3_events_v2.csv",
+      "bytes": 10607,
+      "sha256": "91f08d1f061f686c82506937981cc5a79d7f0645c0279469d2b9408560116629"
+    },
+    {
+      "path": "evidence/raw/vr/REIT_Tangram/TECHNICAL_TEST_20260920_114200.csv",
+      "bytes": 3217,
+      "sha256": "baa2aaa4d3bb5806885a89639432f28b5cd14a0402749991396f66dcf65c8584"
+    },
+    {
+      "path": "evidence/raw/vr/REIT_Tangram/TECHNICAL_TEST_20260922_124918.csv",
+      "bytes": 4412,
+      "sha256": "f7ba2ffc8c75d1aaeb17733155f5a4d0d6734e481772eb329e071c265793eeb3"
+    },
+    {
+      "path": "evidence/raw/vr/REIT_Tangram/TECHNICAL_TEST_20260922_135543.csv",
+      "bytes": 293,
+      "sha256": "5e2768fb8c450036971b54171a561a054318b70f79f4ebb470cf6ce42830c316"
+    },
+    {
+      "path": "evidence/raw/vr/REIT_Tangram/TECHNICAL_TEST_20260922_140106.csv",
+      "bytes": 293,
+      "sha256": "c5cadfd9d243b26d62b9c54aeea6b395234f02e3444149b5590148544141b4a4"
+    },
+    {
+      "path": "evidence/raw/vr/REIT_Tangram/TECHNICAL_TEST_20260922_153610.csv",
+      "bytes": 1570,
+      "sha256": "abc3afb8e488411ee9ae7d71999953eff4df41de28b7f26e08861efc3555c229"
+    },
+    {
+      "path": "evidence/raw/vr/REIT_Tangram/TECHNICAL_TEST_20260922_153727.csv",
+      "bytes": 2032,
+      "sha256": "5edd842772738227eaf4e518d692dbd52997edeb7baea47ece364c97594d9fa9"
+    },
+    {
+      "path": "evidence/raw/vr/REIT_Tangram/TECHNICAL_TEST_20260922_154329.csv",
+      "bytes": 311,
+      "sha256": "5197e3cd0c658110d5ecd1d937d1ed1a3e3ec42e3121dff9e6482b1827b948f9"
+    },
+    {
+      "path": "evidence/raw/vr/REIT_Tangram/TECHNICAL_TEST_20261007_073110.csv",
+      "bytes": 8199,
+      "sha256": "f6dbef73ee2d16f5faca3d5e2bec54aff5e467db5ab54ef8ba8b4bfc92d1ac26"
+    },
+    {
+      "path": "evidence/raw/vr/REIT_Tangram/TECHNICAL_TEST_20261007_073616.csv",
+      "bytes": 110651,
+      "sha256": "f8062ee264862e6d5effd3514bcdbb23d7a93d7bd81a3a146578aa165a561e4d"
+    },
+    {
+      "path": "evidence/raw/vr/REIT_Tangram/TECHNICAL_TEST_20261007_093401.csv",
+      "bytes": 11185,
+      "sha256": "179a21977a629c0d2170caed5cfad624675b49f78d96c7c8df64d4567b914749"
+    },
+    {
+      "path": "evidence/raw/vr/REIT_Tangram/TECHNICAL_TEST_20261007_102325.csv",
+      "bytes": 45779,
+      "sha256": "e679117db7e0059c807284de41dfc6cfa8c4fa7f6c510bfa69ca004472a162a7"
+    },
+    {
+      "path": "evidence/raw/vr/REIT_Tangram/TECHNICAL_TEST_20261008_050322.csv",
+      "bytes": 6595,
+      "sha256": "132c311ba90cf5bf28e5fc037a3bdbe1553716a769c98ff61d60a3838dca6614"
+    },
+    {
+      "path": "evidence/raw/vr/REIT_Tangram/TECHNICAL_TEST_20261009_035445.csv",
+      "bytes": 76194,
+      "sha256": "b98abf09d641c738e99adfd9d4a4fe83d421917f2de0bc55824ed84016ea28d4"
+    },
+    {
+      "path": "evidence/raw/vr/REIT_Tangram/TECHNICAL_TEST_20261009_070503.csv",
+      "bytes": 34561,
+      "sha256": "7c7262e3841a359f9b4cd19d3bd505fbb804c385267991f391c917afb0dcd4ff"
+    },
+    {
+      "path": "evidence/raw/vr/REIT_Tangram/TECHNICAL_TEST_20261009_084000.csv",
+      "bytes": 79983,
+      "sha256": "4b6367e734901927cbd30fc2045ab06ec4c84abb0a2c7d30ad4208c1fb9e6879"
+    },
+    {
+      "path": "evidence/raw/vr/REIT_Tangram/TECHNICAL_TEST_20261010_024954.csv",
+      "bytes": 750,
+      "sha256": "330f3e5f69596b3661ca6bf6ee0f0619db08e7d4591f2af6670257b01194ba84"
+    },
+    {
+      "path": "evidence/raw/vr/REIT_Tangram/TECHNICAL_TEST_20261010_062552.csv",
+      "bytes": 382,
+      "sha256": "f49d41d0690895cf1f46d896788eabf44078315e7b6509022cdff2d1cabad16e"
+    },
+    {
+      "path": "evidence/raw/vr/REIT_Tangram/TECHNICAL_TEST_20261010_084712.csv",
+      "bytes": 66926,
+      "sha256": "bcf4b6c1b94a22ff4baf558182d8e42b495f53e65fef3e9bfe58e755f696c6c5"
+    },
+    {
+      "path": "evidence/raw/vr/REIT_Tangram/TECHNICAL_TEST_20261010_111851.csv",
+      "bytes": 910,
+      "sha256": "d2ce5346d9078843695a0f5b813f41e37db2b26e8eebdeedc7c7bba8204e6b3e"
+    },
+    {
+      "path": "evidence/raw/vr/manifest.json",
+      "bytes": 26913,
+      "sha256": "6b200e957eaa3667f26009f02492b16099f47cf0c9ef13726178013b867e2baa"
+    },
+    {
+      "path": "evidence/raw/vr/schema.json",
+      "bytes": 962,
+      "sha256": "91f48638e9394d472e1dcc60e59e60912dff8285b235f81bf31a7f07849aa337"
+    },
+    {
+      "path": "evidence/verify_evidence.py",
+      "bytes": 2228,
+      "sha256": "72c1e27039f4dee5ba54787c091c82889913b967e416a998b141a2e1607da896"
+    }
+  ],
+  "note": "This inventory excludes itself. Original-source hashes are in source_copy_manifest.tsv; figure provenance is in analysis/figures/provenance."
+}
