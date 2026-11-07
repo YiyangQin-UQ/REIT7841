@@ -1,0 +1,72 @@
+{
+  "date": "2026-11-07",
+  "scope": "Files added or updated for transcript provenance, retained blank ethics documents, and recording navigation. Six viewing copies prepared locally; no OneDrive publication asserted.",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 1810,
+      "sha256": "31061dc9537c37a36f4894b060e4553afc9c9a8c02ca3f53df7b2514d82322c3",
+      "git_blob_sha": "130356d7d728cf938e7faecb2d90713b864a11f6"
+    },
+    {
+      "path": "evidence/ethics/README.md",
+      "bytes": 1276,
+      "sha256": "e7d8f5c349a60710ce4a61ce12d664a9b21a052e557cf0f629837a18ae7ef9f2",
+      "git_blob_sha": "8c818cf253f9215ab137ba07fd53fa92e96b947c"
+    },
+    {
+      "path": "evidence/ethics/participant_consent_form_blank_v1.pdf",
+      "bytes": 126010,
+      "sha256": "44335b38fc326995fb2aeefdfc62f48d6ec0f7bc39d57f92ecb61228e3907876",
+      "git_blob_sha": "95b49c5c0c0c72e4dd459fe76c35ffe3e4f75e65"
+    },
+    {
+      "path": "evidence/ethics/participant_information_sheet_v1.pdf",
+      "bytes": 256223,
+      "sha256": "8dc3421bab4c3340ed87fac8aa7ca30772cb5c5265a6c24e79c5bd2b40eaf407",
+      "git_blob_sha": "434b948b44fd90898718173f2055bcc4e9a330e2"
+    },
+    {
+      "path": "evidence/manifests/source_references.json",
+      "bytes": 36997,
+      "sha256": "8ced0a6f878bc21067085798dd21bb84da58c65735fbd83afc87017e6f318042",
+      "git_blob_sha": "f0dd9f97878c6fe5ccfb8992d2bd87f551cad939"
+    },
+    {
+      "path": "evidence/observations/interviews/README.md",
+      "bytes": 1685,
+      "sha256": "8cf585fb22bd29525c39d03dd8c7ed59fda6873bbcb9f6033a69fb4372a130b8",
+      "git_blob_sha": "58352d42b2f3349f150aa11590761418fd862d81"
+    },
+    {
+      "path": "evidence/videos/README.md",
+      "bytes": 5168,
+      "sha256": "fb44b88dd207824487c1823bc7fb22757edf861d81d430c16663a82a79270acb",
+      "git_blob_sha": "713c7e066fbaa621c712e3ea5b8c12fa2e6a40aa"
+    },
+    {
+      "path": "evidence/videos/video_manifest.json",
+      "bytes": 26557,
+      "sha256": "2a3c5dbd34ec4a8215c15122a793c5d1e41931a2c7e212ea59651696c94c190d",
+      "git_blob_sha": "45e3b3af9e5323fa68d172f5c0d828d6f2bb025b"
+    },
+    {
+      "path": "evidence/videos/video_segments.json",
+      "bytes": 72430,
+      "sha256": "58ac8c5e4ab654b57d63a3a1653ba2d59695023ba1492c6ab0b3916fc28ff3bf",
+      "git_blob_sha": "abf0218822e3060a311b41efc8c28d54c67b52a8"
+    },
+    {
+      "path": "evidence/videos/video_segments.tsv",
+      "bytes": 33187,
+      "sha256": "33e1f6765720f304577c75e9d291b46b4389267ab9d484b04f597d70508c0d66",
+      "git_blob_sha": "1e38afad72e295160eddb23ba950e5ae736a7bcb"
+    },
+    {
+      "path": "evidence/videos/viewing_copy_processing.json",
+      "bytes": 3922,
+      "sha256": "7440f9b0d9b034b214135408c3af719279e0189db0fe6697200c91497fbdd970",
+      "git_blob_sha": "4ee9e88f5585213e9372c13afd5568b010918bd9"
+    }
+  ]
+}

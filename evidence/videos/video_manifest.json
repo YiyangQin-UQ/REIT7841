@@ -1,0 +1,630 @@
+{
+  "schema": "reit-video-manifest/1",
+  "updated_at": "2026-11-07T22:55:21.598490+10:00",
+  "status": "six_local_viewing_copies_ready_upload_pending_twenty_retained_locally",
+  "intended_access": "University-authorised viewing copies; no public recording access is asserted.",
+  "files": [
+    {
+      "asset_id": "V01",
+      "group": "G01",
+      "recording_family": "physical_overhead",
+      "endpoint": "workspace_camera",
+      "conditions_present": [
+        "R02"
+      ],
+      "original_duration_s": 497.1587074829932,
+      "viewing_copy_relative_path": "physical_overhead/G01/V01_G01_R02.mp4",
+      "viewing_url": null,
+      "access_status": "local_viewing_copy_ready_upload_pending",
+      "intended_access": "UQ-authorised viewers only",
+      "privacy_review_status": "interface_redacted_and_sample_checked",
+      "viewing_copy_sha256": "69fe5a7173b056a547e3fbadc53f5e92f07e0c38ebc58da07aae3599f4f49f9a",
+      "viewing_copy_bytes": 665894904,
+      "source_d_ids": [
+        "D03"
+      ],
+      "audio_context": "No recoverable speech in decoded audio",
+      "timeline_policy": "Keep the original file clock for the viewing copy, or provide a separate time mapping before using this segment index.",
+      "viewing_duration_s": 497.16,
+      "privacy_review_scope": "Full source overview samples, 10-second output samples and selected transition checks; not a continuous audiovisual audit.",
+      "processing_record": "viewing_copy_processing.json"
+    },
+    {
+      "asset_id": "V02",
+      "group": "G02",
+      "recording_family": "physical_overhead",
+      "endpoint": "workspace_camera",
+      "conditions_present": [
+        "R02"
+      ],
+      "original_duration_s": 183.01410430839002,
+      "viewing_copy_relative_path": "physical_overhead/G02/V02_G02_R02.mp4",
+      "viewing_url": null,
+      "access_status": "local_viewing_copy_ready_upload_pending",
+      "intended_access": "UQ-authorised viewers only",
+      "privacy_review_status": "interface_redacted_and_sample_checked",
+      "viewing_copy_sha256": "3ce0d2ffba5fe30cbd2849a1047744dbebded7c35980ffc9941241893b1c9886",
+      "viewing_copy_bytes": 337046144,
+      "source_d_ids": [
+        "D53"
+      ],
+      "audio_context": "No recoverable speech in decoded audio",
+      "timeline_policy": "Keep the original file clock for the viewing copy, or provide a separate time mapping before using this segment index.",
+      "viewing_duration_s": 183.01333333333332,
+      "privacy_review_scope": "Full source overview samples, 10-second output samples and selected transition checks; not a continuous audiovisual audit.",
+      "processing_record": "viewing_copy_processing.json"
+    },
+    {
+      "asset_id": "V03",
+      "group": "G03",
+      "recording_family": "physical_overhead",
+      "endpoint": "workspace_camera",
+      "conditions_present": [
+        "R02"
+      ],
+      "original_duration_s": 349.91684807256235,
+      "viewing_copy_relative_path": "physical_overhead/G03/V03_G03_R02.mp4",
+      "viewing_url": null,
+      "access_status": "local_viewing_copy_ready_upload_pending",
+      "intended_access": "UQ-authorised viewers only",
+      "privacy_review_status": "interface_redacted_and_sample_checked",
+      "viewing_copy_sha256": "d15ada84eda969c00521772045481da4fe84ce795b25d0602b4b76faa34ce0ee",
+      "viewing_copy_bytes": 647092985,
+      "source_d_ids": [
+        "D57"
+      ],
+      "audio_context": "No recoverable speech in decoded audio",
+      "timeline_policy": "Keep the original file clock for the viewing copy, or provide a separate time mapping before using this segment index.",
+      "viewing_duration_s": 349.9166666666667,
+      "privacy_review_scope": "Full source overview samples, 10-second output samples and selected transition checks; not a continuous audiovisual audit.",
+      "processing_record": "viewing_copy_processing.json"
+    },
+    {
+      "asset_id": "V04",
+      "group": "G04",
+      "recording_family": "physical_overhead",
+      "endpoint": "workspace_camera",
+      "conditions_present": [
+        "R02"
+      ],
+      "original_duration_s": 192.09897959183672,
+      "viewing_copy_relative_path": "physical_overhead/G04/V04_G04_R02.mp4",
+      "viewing_url": null,
+      "access_status": "local_viewing_copy_ready_upload_pending",
+      "intended_access": "UQ-authorised viewers only",
+      "privacy_review_status": "interface_redacted_and_sample_checked",
+      "viewing_copy_sha256": "64f848690053737042b4e9c4a817a8d2021fcebe0ddb4e0beba41e0e8558f34f",
+      "viewing_copy_bytes": 353910615,
+      "source_d_ids": [
+        "D60"
+      ],
+      "audio_context": "No recoverable speech in decoded audio",
+      "timeline_policy": "Keep the original file clock for the viewing copy, or provide a separate time mapping before using this segment index.",
+      "viewing_duration_s": 192.115,
+      "privacy_review_scope": "Full source overview samples, 10-second output samples and selected transition checks; not a continuous audiovisual audit.",
+      "processing_record": "viewing_copy_processing.json"
+    },
+    {
+      "asset_id": "V05",
+      "group": "G05",
+      "recording_family": "physical_overhead",
+      "endpoint": "workspace_camera",
+      "conditions_present": [
+        "R02"
+      ],
+      "original_duration_s": 89.98179138321996,
+      "viewing_copy_relative_path": "physical_overhead/G05/V05_G05_R02.mp4",
+      "viewing_url": null,
+      "access_status": "local_viewing_copy_ready_upload_pending",
+      "intended_access": "UQ-authorised viewers only",
+      "privacy_review_status": "interface_redacted_and_sample_checked",
+      "viewing_copy_sha256": "8369054aba0c67e0a98c49dfebd0c0c3044da9afa079c018a8d532a18fccf952",
+      "viewing_copy_bytes": 162038018,
+      "source_d_ids": [
+        "D62"
+      ],
+      "audio_context": "No recoverable speech in decoded audio",
+      "timeline_policy": "Keep the original file clock for the viewing copy, or provide a separate time mapping before using this segment index.",
+      "viewing_duration_s": 89.98333333333333,
+      "privacy_review_scope": "Full source overview samples, 10-second output samples and selected transition checks; not a continuous audiovisual audit.",
+      "processing_record": "viewing_copy_processing.json"
+    },
+    {
+      "asset_id": "V06",
+      "group": "G06",
+      "recording_family": "physical_overhead",
+      "endpoint": "workspace_camera",
+      "conditions_present": [
+        "R02"
+      ],
+      "original_duration_s": 106.45702947845805,
+      "viewing_copy_relative_path": "physical_overhead/G06/V06_G06_R02.mp4",
+      "viewing_url": null,
+      "access_status": "local_viewing_copy_ready_upload_pending",
+      "intended_access": "UQ-authorised viewers only",
+      "privacy_review_status": "interface_redacted_and_sample_checked",
+      "viewing_copy_sha256": "14442ed419339b6822111875b95836aab4769f4a7d8f848e82b2be2a1354ba79",
+      "viewing_copy_bytes": 182439939,
+      "source_d_ids": [
+        "D12"
+      ],
+      "audio_context": "No recoverable speech in decoded audio",
+      "timeline_policy": "Keep the original file clock for the viewing copy, or provide a separate time mapping before using this segment index.",
+      "viewing_duration_s": 106.46,
+      "privacy_review_scope": "Full source overview samples, 10-second output samples and selected transition checks; not a continuous audiovisual audit.",
+      "processing_record": "viewing_copy_processing.json"
+    },
+    {
+      "asset_id": "V07",
+      "group": "G01",
+      "recording_family": "physical_direct",
+      "endpoint": "workspace_camera",
+      "conditions_present": [
+        "R01"
+      ],
+      "original_duration_s": 132.525,
+      "viewing_copy_relative_path": "physical_direct/G01/V07_G01_R01.mp4",
+      "viewing_url": null,
+      "access_status": "restricted_local_pending_privacy_review",
+      "intended_access": "UQ-authorised viewers only",
+      "privacy_review_status": "pending_full_privacy_review",
+      "viewing_copy_sha256": null,
+      "viewing_copy_bytes": null,
+      "source_d_ids": [
+        "D01"
+      ],
+      "audio_context": "Audio exists; automatic transcripts are not independently verified quotations",
+      "timeline_policy": "Keep the original file clock for the viewing copy, or provide a separate time mapping before using this segment index."
+    },
+    {
+      "asset_id": "V08",
+      "group": "G02",
+      "recording_family": "physical_direct",
+      "endpoint": "workspace_camera",
+      "conditions_present": [
+        "R01"
+      ],
+      "original_duration_s": 58.53,
+      "viewing_copy_relative_path": "physical_direct/G02/V08_G02_R01.mp4",
+      "viewing_url": null,
+      "access_status": "restricted_local_pending_privacy_review",
+      "intended_access": "UQ-authorised viewers only",
+      "privacy_review_status": "pending_full_privacy_review",
+      "viewing_copy_sha256": null,
+      "viewing_copy_bytes": null,
+      "source_d_ids": [
+        "D52"
+      ],
+      "audio_context": "Audio exists; automatic transcripts are not independently verified quotations",
+      "timeline_policy": "Keep the original file clock for the viewing copy, or provide a separate time mapping before using this segment index."
+    },
+    {
+      "asset_id": "V09",
+      "group": "G03",
+      "recording_family": "physical_direct",
+      "endpoint": "workspace_camera",
+      "conditions_present": [
+        "R01"
+      ],
+      "original_duration_s": 30.596666666666668,
+      "viewing_copy_relative_path": "physical_direct/G03/V09_G03_R01.mp4",
+      "viewing_url": null,
+      "access_status": "restricted_local_pending_privacy_review",
+      "intended_access": "UQ-authorised viewers only",
+      "privacy_review_status": "pending_full_privacy_review",
+      "viewing_copy_sha256": null,
+      "viewing_copy_bytes": null,
+      "source_d_ids": [
+        "D05"
+      ],
+      "audio_context": "Audio exists; automatic transcripts are not independently verified quotations",
+      "timeline_policy": "Keep the original file clock for the viewing copy, or provide a separate time mapping before using this segment index."
+    },
+    {
+      "asset_id": "V10",
+      "group": "G04",
+      "recording_family": "physical_direct",
+      "endpoint": "workspace_camera",
+      "conditions_present": [
+        "R01"
+      ],
+      "original_duration_s": 441.74,
+      "viewing_copy_relative_path": "physical_direct/G04/V10_G04_R01.mp4",
+      "viewing_url": null,
+      "access_status": "restricted_local_pending_privacy_review",
+      "intended_access": "UQ-authorised viewers only",
+      "privacy_review_status": "pending_full_privacy_review",
+      "viewing_copy_sha256": null,
+      "viewing_copy_bytes": null,
+      "source_d_ids": [
+        "D07"
+      ],
+      "audio_context": "Audio exists; automatic transcripts are not independently verified quotations",
+      "timeline_policy": "Keep the original file clock for the viewing copy, or provide a separate time mapping before using this segment index."
+    },
+    {
+      "asset_id": "V11",
+      "group": "G05",
+      "recording_family": "physical_direct",
+      "endpoint": "workspace_camera",
+      "conditions_present": [
+        "R01"
+      ],
+      "original_duration_s": 45.73,
+      "viewing_copy_relative_path": "physical_direct/G05/V11_G05_R01.mp4",
+      "viewing_url": null,
+      "access_status": "restricted_local_pending_privacy_review",
+      "intended_access": "UQ-authorised viewers only",
+      "privacy_review_status": "pending_full_privacy_review",
+      "viewing_copy_sha256": null,
+      "viewing_copy_bytes": null,
+      "source_d_ids": [
+        "D09"
+      ],
+      "audio_context": "Audio exists; automatic transcripts are not independently verified quotations",
+      "timeline_policy": "Keep the original file clock for the viewing copy, or provide a separate time mapping before using this segment index."
+    },
+    {
+      "asset_id": "V12",
+      "group": "G06",
+      "recording_family": "physical_direct",
+      "endpoint": "workspace_camera",
+      "conditions_present": [
+        "R01"
+      ],
+      "original_duration_s": 66.93,
+      "viewing_copy_relative_path": "physical_direct/G06/V12_G06_R01.mp4",
+      "viewing_url": null,
+      "access_status": "restricted_local_pending_privacy_review",
+      "intended_access": "UQ-authorised viewers only",
+      "privacy_review_status": "pending_full_privacy_review",
+      "viewing_copy_sha256": null,
+      "viewing_copy_bytes": null,
+      "source_d_ids": [
+        "D63"
+      ],
+      "audio_context": "Audio exists; automatic transcripts are not independently verified quotations",
+      "timeline_policy": "Keep the original file clock for the viewing copy, or provide a separate time mapping before using this segment index."
+    },
+    {
+      "asset_id": "V13",
+      "group": "G01",
+      "recording_family": "VR_recordings",
+      "endpoint": "primary",
+      "conditions_present": [
+        "R04"
+      ],
+      "original_duration_s": 407.987,
+      "viewing_copy_relative_path": "VR_recordings/G01/V13_G01_VR.mp4",
+      "viewing_url": null,
+      "access_status": "restricted_local_pending_privacy_review",
+      "intended_access": "UQ-authorised viewers only",
+      "privacy_review_status": "pending_full_privacy_review",
+      "viewing_copy_sha256": null,
+      "viewing_copy_bytes": null,
+      "source_d_ids": [
+        "D51"
+      ],
+      "audio_context": "Audio exists; automatic transcripts are not independently verified quotations",
+      "timeline_policy": "Keep the original file clock for the viewing copy, or provide a separate time mapping before using this segment index."
+    },
+    {
+      "asset_id": "V14",
+      "group": "G01",
+      "recording_family": "VR_recordings",
+      "endpoint": "primary",
+      "conditions_present": [
+        "R03"
+      ],
+      "original_duration_s": 1454.528,
+      "viewing_copy_relative_path": "VR_recordings/G01/V14_G01_VR.mp4",
+      "viewing_url": null,
+      "access_status": "restricted_local_pending_privacy_review",
+      "intended_access": "UQ-authorised viewers only",
+      "privacy_review_status": "pending_full_privacy_review",
+      "viewing_copy_sha256": null,
+      "viewing_copy_bytes": null,
+      "source_d_ids": [
+        "D04"
+      ],
+      "audio_context": "Near-silent recording; sparse nonzero samples are not confirmed speech",
+      "timeline_policy": "Keep the original file clock for the viewing copy, or provide a separate time mapping before using this segment index."
+    },
+    {
+      "asset_id": "V15",
+      "group": "G02",
+      "recording_family": "VR_recordings",
+      "endpoint": "primary",
+      "conditions_present": [
+        "R03",
+        "R04"
+      ],
+      "original_duration_s": 334.487,
+      "viewing_copy_relative_path": "VR_recordings/G02/V15_G02_VR.mp4",
+      "viewing_url": null,
+      "access_status": "restricted_local_pending_privacy_review",
+      "intended_access": "UQ-authorised viewers only",
+      "privacy_review_status": "pending_full_privacy_review",
+      "viewing_copy_sha256": null,
+      "viewing_copy_bytes": null,
+      "source_d_ids": [
+        "D55",
+        "D56"
+      ],
+      "audio_context": "Audio exists; automatic transcripts are not independently verified quotations",
+      "timeline_policy": "Keep the original file clock for the viewing copy, or provide a separate time mapping before using this segment index.",
+      "recording_context": "G02 later recording with new targets; retained in the six-group evidence. Questionnaire responses describe the original session, not a simultaneous recording."
+    },
+    {
+      "asset_id": "V16",
+      "group": "G03",
+      "recording_family": "VR_recordings",
+      "endpoint": "primary",
+      "conditions_present": [
+        "R03",
+        "R04"
+      ],
+      "original_duration_s": 1219.195,
+      "viewing_copy_relative_path": "VR_recordings/G03/V16_G03_VR.mp4",
+      "viewing_url": null,
+      "access_status": "restricted_local_pending_privacy_review",
+      "intended_access": "UQ-authorised viewers only",
+      "privacy_review_status": "pending_full_privacy_review",
+      "viewing_copy_sha256": null,
+      "viewing_copy_bytes": null,
+      "source_d_ids": [
+        "D06",
+        "D58"
+      ],
+      "audio_context": "Audio exists; automatic transcripts are not independently verified quotations",
+      "timeline_policy": "Keep the original file clock for the viewing copy, or provide a separate time mapping before using this segment index."
+    },
+    {
+      "asset_id": "V17",
+      "group": "G04",
+      "recording_family": "VR_recordings",
+      "endpoint": "primary",
+      "conditions_present": [
+        "R03",
+        "R04"
+      ],
+      "original_duration_s": 673.931,
+      "viewing_copy_relative_path": "VR_recordings/G04/V17_G04_VR.mp4",
+      "viewing_url": null,
+      "access_status": "restricted_local_pending_privacy_review",
+      "intended_access": "UQ-authorised viewers only",
+      "privacy_review_status": "pending_full_privacy_review",
+      "viewing_copy_sha256": null,
+      "viewing_copy_bytes": null,
+      "source_d_ids": [
+        "D08",
+        "D66"
+      ],
+      "audio_context": "Audio exists; automatic transcripts are not independently verified quotations",
+      "timeline_policy": "Keep the original file clock for the viewing copy, or provide a separate time mapping before using this segment index.",
+      "recording_context": "Includes first-person VR and earlier overhead familiarisation; formal G04 R04 swimmer is outside this recording."
+    },
+    {
+      "asset_id": "V18",
+      "group": "G05",
+      "recording_family": "VR_recordings",
+      "endpoint": "primary",
+      "conditions_present": [
+        "R03",
+        "R04"
+      ],
+      "original_duration_s": 850.889,
+      "viewing_copy_relative_path": "VR_recordings/G05/V18_G05_VR.mp4",
+      "viewing_url": null,
+      "access_status": "restricted_local_pending_privacy_review",
+      "intended_access": "UQ-authorised viewers only",
+      "privacy_review_status": "pending_full_privacy_review",
+      "viewing_copy_sha256": null,
+      "viewing_copy_bytes": null,
+      "source_d_ids": [
+        "D10",
+        "D11"
+      ],
+      "audio_context": "Audio exists; automatic transcripts are not independently verified quotations",
+      "timeline_policy": "Keep the original file clock for the viewing copy, or provide a separate time mapping before using this segment index."
+    },
+    {
+      "asset_id": "V19",
+      "group": "G06",
+      "recording_family": "VR_recordings",
+      "endpoint": "primary",
+      "conditions_present": [
+        "R03",
+        "R04"
+      ],
+      "original_duration_s": 1265.93,
+      "viewing_copy_relative_path": "VR_recordings/G06/V19_G06_VR.mp4",
+      "viewing_url": null,
+      "access_status": "restricted_local_pending_privacy_review",
+      "intended_access": "UQ-authorised viewers only",
+      "privacy_review_status": "pending_full_privacy_review",
+      "viewing_copy_sha256": null,
+      "viewing_copy_bytes": null,
+      "source_d_ids": [
+        "D14",
+        "D15"
+      ],
+      "audio_context": "Audio exists; automatic transcripts are not independently verified quotations",
+      "timeline_policy": "Keep the original file clock for the viewing copy, or provide a separate time mapping before using this segment index.",
+      "recording_context": "G06 single-endpoint recording; no partner recording exists. Interrupted and restarted R04 attempts are indexed separately."
+    },
+    {
+      "asset_id": "V20",
+      "group": "G01",
+      "recording_family": "VR_recordings",
+      "endpoint": "partner",
+      "conditions_present": [
+        "R03"
+      ],
+      "original_duration_s": 1589.584,
+      "viewing_copy_relative_path": "VR_recordings/G01/V20_G01_VR.mp4",
+      "viewing_url": null,
+      "access_status": "restricted_local_pending_privacy_review",
+      "intended_access": "UQ-authorised viewers only",
+      "privacy_review_status": "pending_full_privacy_review",
+      "viewing_copy_sha256": null,
+      "viewing_copy_bytes": null,
+      "source_d_ids": [
+        "D04"
+      ],
+      "audio_context": "Audio exists; automatic transcripts are not independently verified quotations",
+      "timeline_policy": "Keep the original file clock for the viewing copy, or provide a separate time mapping before using this segment index."
+    },
+    {
+      "asset_id": "V21",
+      "group": "G03",
+      "recording_family": "VR_recordings",
+      "endpoint": "partner",
+      "conditions_present": [
+        "R03",
+        "R04"
+      ],
+      "original_duration_s": 420.501,
+      "viewing_copy_relative_path": "VR_recordings/G03/V21_G03_VR.mp4",
+      "viewing_url": null,
+      "access_status": "restricted_local_pending_privacy_review",
+      "intended_access": "UQ-authorised viewers only",
+      "privacy_review_status": "pending_full_privacy_review",
+      "viewing_copy_sha256": null,
+      "viewing_copy_bytes": null,
+      "source_d_ids": [
+        "D06"
+      ],
+      "audio_context": "Audio exists; automatic transcripts are not independently verified quotations",
+      "timeline_policy": "Keep the original file clock for the viewing copy, or provide a separate time mapping before using this segment index.",
+      "recording_context": "G03 partner files leave an approximately 113.85 s recording gap; a file name does not by itself define the study condition."
+    },
+    {
+      "asset_id": "V22",
+      "group": "G03",
+      "recording_family": "VR_recordings",
+      "endpoint": "partner",
+      "conditions_present": [
+        "R04"
+      ],
+      "original_duration_s": 687.917,
+      "viewing_copy_relative_path": "VR_recordings/G03/V22_G03_VR.mp4",
+      "viewing_url": null,
+      "access_status": "restricted_local_pending_privacy_review",
+      "intended_access": "UQ-authorised viewers only",
+      "privacy_review_status": "pending_full_privacy_review",
+      "viewing_copy_sha256": null,
+      "viewing_copy_bytes": null,
+      "source_d_ids": [
+        "D58"
+      ],
+      "audio_context": "Audio exists; automatic transcripts are not independently verified quotations",
+      "timeline_policy": "Keep the original file clock for the viewing copy, or provide a separate time mapping before using this segment index.",
+      "recording_context": "G03 partner files leave an approximately 113.85 s recording gap; a file name does not by itself define the study condition."
+    },
+    {
+      "asset_id": "V23",
+      "group": "G04",
+      "recording_family": "VR_recordings",
+      "endpoint": "partner",
+      "conditions_present": [
+        "R03",
+        "R04"
+      ],
+      "original_duration_s": 922.084,
+      "viewing_copy_relative_path": "VR_recordings/G04/V23_G04_VR.mp4",
+      "viewing_url": null,
+      "access_status": "restricted_local_pending_privacy_review",
+      "intended_access": "UQ-authorised viewers only",
+      "privacy_review_status": "pending_full_privacy_review",
+      "viewing_copy_sha256": null,
+      "viewing_copy_bytes": null,
+      "source_d_ids": [
+        "D08",
+        "D61",
+        "D67"
+      ],
+      "audio_context": "Audio exists; automatic transcripts are not independently verified quotations",
+      "timeline_policy": "Keep the original file clock for the viewing copy, or provide a separate time mapping before using this segment index."
+    },
+    {
+      "asset_id": "V24",
+      "group": "G05",
+      "recording_family": "VR_recordings",
+      "endpoint": "partner",
+      "conditions_present": [
+        "R03",
+        "R04"
+      ],
+      "original_duration_s": 826.02,
+      "viewing_copy_relative_path": "VR_recordings/G05/V24_G05_VR.mp4",
+      "viewing_url": null,
+      "access_status": "restricted_local_pending_privacy_review",
+      "intended_access": "UQ-authorised viewers only",
+      "privacy_review_status": "pending_full_privacy_review",
+      "viewing_copy_sha256": null,
+      "viewing_copy_bytes": null,
+      "source_d_ids": [
+        "D10",
+        "D11"
+      ],
+      "audio_context": "Audio exists; automatic transcripts are not independently verified quotations",
+      "timeline_policy": "Keep the original file clock for the viewing copy, or provide a separate time mapping before using this segment index."
+    },
+    {
+      "asset_id": "V25",
+      "group": "G02",
+      "recording_family": "VR_recordings",
+      "endpoint": "partner",
+      "conditions_present": [
+        "R03",
+        "R04"
+      ],
+      "original_duration_s": 443.795,
+      "viewing_copy_relative_path": "VR_recordings/G02/V25_G02_VR.mp4",
+      "viewing_url": null,
+      "access_status": "restricted_local_pending_privacy_review",
+      "intended_access": "UQ-authorised viewers only",
+      "privacy_review_status": "pending_full_privacy_review",
+      "viewing_copy_sha256": null,
+      "viewing_copy_bytes": null,
+      "source_d_ids": [
+        "D55",
+        "D56"
+      ],
+      "audio_context": "Audio exists; automatic transcripts are not independently verified quotations",
+      "timeline_policy": "Keep the original file clock for the viewing copy, or provide a separate time mapping before using this segment index.",
+      "recording_context": "G02 later recording with new targets; retained in the six-group evidence. Questionnaire responses describe the original session, not a simultaneous recording."
+    },
+    {
+      "asset_id": "V26",
+      "group": "G01",
+      "recording_family": "VR_recordings",
+      "endpoint": "partner",
+      "conditions_present": [
+        "R04"
+      ],
+      "original_duration_s": 601.829,
+      "viewing_copy_relative_path": "VR_recordings/G01/V26_G01_VR.mp4",
+      "viewing_url": null,
+      "access_status": "restricted_local_pending_privacy_review",
+      "intended_access": "UQ-authorised viewers only",
+      "privacy_review_status": "pending_full_privacy_review",
+      "viewing_copy_sha256": null,
+      "viewing_copy_bytes": null,
+      "source_d_ids": [
+        "D51"
+      ],
+      "audio_context": "Audio exists; automatic transcripts are not independently verified quotations",
+      "timeline_policy": "Keep the original file clock for the viewing copy, or provide a separate time mapping before using this segment index."
+    }
+  ],
+  "recording_count": 26,
+  "links_configured": 0,
+  "questionnaire_status": "48 confirmed records, including 3 participant-confirmed researcher entries; original values retained.",
+  "authority": [
+    "../protocol/author_corrections_20261102.json",
+    "../manifests/source_references.json"
+  ],
+  "segments_file": "video_segments.json"
+}

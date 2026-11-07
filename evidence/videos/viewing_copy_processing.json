@@ -1,0 +1,177 @@
+{
+  "coordinate_system": "upright original pixels; top-left x, y, width, height",
+  "original_width": 1206,
+  "original_height": 2622,
+  "timeline": "Original file clock retained; no cuts, reordering or speed change. Output duration rounds by at most one frame.",
+  "audio": "Existing audio tracks retained; prior full PCM decode of these six originals yielded zero nonzero samples.",
+  "masking": "Opaque black rectangles remove interface identifiers and the V01 phone display; V06 is black from 103.000 seconds to the end. No explanatory text is burned into the video.",
+  "visual_check": "150 output frames at 10-second intervals and ends, plus 4 V06 boundary samples, inspected; not a continuous review of every frame.",
+  "files": [
+    {
+      "asset_id": "V01",
+      "sha256": "69fe5a7173b056a547e3fbadc53f5e92f07e0c38ebc58da07aae3599f4f49f9a",
+      "bytes": 665894904,
+      "duration_s": 497.16,
+      "width": 1206.0,
+      "height": 1204.0,
+      "frame_rate": 35.342865,
+      "audio_tracks": 1,
+      "crop": [
+        0,
+        324,
+        1206,
+        1204
+      ],
+      "black_from_s": null,
+      "masks": [
+        [
+          16,
+          1418,
+          290,
+          96
+        ],
+        [
+          980,
+          1418,
+          210,
+          96
+        ],
+        [
+          950,
+          470,
+          256,
+          260
+        ]
+      ]
+    },
+    {
+      "asset_id": "V02",
+      "sha256": "3ce0d2ffba5fe30cbd2849a1047744dbebded7c35980ffc9941241893b1c9886",
+      "bytes": 337046144,
+      "duration_s": 183.01333333333332,
+      "width": 1206.0,
+      "height": 1204.0,
+      "frame_rate": 59.99016,
+      "audio_tracks": 1,
+      "crop": [
+        0,
+        324,
+        1206,
+        1204
+      ],
+      "black_from_s": null,
+      "masks": [
+        [
+          16,
+          1440,
+          180,
+          56
+        ],
+        [
+          980,
+          1418,
+          210,
+          96
+        ]
+      ]
+    },
+    {
+      "asset_id": "V03",
+      "sha256": "d15ada84eda969c00521772045481da4fe84ce795b25d0602b4b76faa34ce0ee",
+      "bytes": 647092985,
+      "duration_s": 349.9166666666667,
+      "width": 1206.0,
+      "height": 1204.0,
+      "frame_rate": 59.988564,
+      "audio_tracks": 1,
+      "crop": [
+        0,
+        324,
+        1206,
+        1204
+      ],
+      "black_from_s": null,
+      "masks": [
+        [
+          16,
+          1440,
+          180,
+          56
+        ],
+        [
+          980,
+          1418,
+          210,
+          96
+        ]
+      ]
+    },
+    {
+      "asset_id": "V04",
+      "sha256": "64f848690053737042b4e9c4a817a8d2021fcebe0ddb4e0beba41e0e8558f34f",
+      "bytes": 353910615,
+      "duration_s": 192.115,
+      "width": 1206.0,
+      "height": 1204.0,
+      "frame_rate": 59.99011,
+      "audio_tracks": 1,
+      "crop": [
+        0,
+        324,
+        1206,
+        1204
+      ],
+      "black_from_s": null,
+      "masks": [
+        [
+          16,
+          1440,
+          180,
+          56
+        ],
+        [
+          980,
+          1418,
+          210,
+          96
+        ]
+      ]
+    },
+    {
+      "asset_id": "V05",
+      "sha256": "8369054aba0c67e0a98c49dfebd0c0c3044da9afa079c018a8d532a18fccf952",
+      "bytes": 162038018,
+      "duration_s": 89.98333333333333,
+      "width": 1100.0,
+      "height": 1100.0,
+      "frame_rate": 59.978886,
+      "audio_tracks": 1,
+      "crop": [
+        50,
+        510,
+        1100,
+        1100
+      ],
+      "black_from_s": null,
+      "masks": []
+    },
+    {
+      "asset_id": "V06",
+      "sha256": "14442ed419339b6822111875b95836aab4769f4a7d8f848e82b2be2a1354ba79",
+      "bytes": 182439939,
+      "duration_s": 106.46,
+      "width": 1100.0,
+      "height": 1100.0,
+      "frame_rate": 59.91916,
+      "audio_tracks": 1,
+      "crop": [
+        50,
+        510,
+        1100,
+        1100
+      ],
+      "black_from_s": 103,
+      "masks": []
+    }
+  ]
+}

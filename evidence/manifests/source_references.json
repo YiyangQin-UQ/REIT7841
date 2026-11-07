@@ -12,7 +12,11 @@
       "evidence/observations/source_records/E23_V07提议与实操事件链_待核.txt",
       "evidence/observations/source_records/V07用户事件回报_仅本地_20261018.txt"
     ],
-    "unpublished_historical_or_restricted_records": 1
+    "unpublished_historical_or_restricted_records": 1,
+    "video_asset_ids": [
+      "V07"
+    ],
+    "recording_catalogue": "evidence/videos/video_manifest.json"
   },
   {
     "source_id": "D02",
@@ -24,7 +28,8 @@
       "evidence/analysis/cases/self_revision_evidence.json",
       "evidence/analysis/cases/evidence_g06_author_revision_20261102.json"
     ],
-    "unpublished_historical_or_restricted_records": 0
+    "unpublished_historical_or_restricted_records": 0,
+    "video_asset_ids": []
   },
   {
     "source_id": "D03",
@@ -39,7 +44,11 @@
       "evidence/observations/source_records/E24_V01正确局部解与后续改动.txt",
       "evidence/observations/source_records/V01用户补证回报_仅本地_v047.txt"
     ],
-    "unpublished_historical_or_restricted_records": 1
+    "unpublished_historical_or_restricted_records": 1,
+    "video_asset_ids": [
+      "V01"
+    ],
+    "recording_catalogue": "evidence/videos/video_manifest.json"
   },
   {
     "source_id": "D04",
@@ -53,7 +62,12 @@
       "evidence/observations/source_records/E25_V20余块展示与共同试换.txt",
       "evidence/observations/source_records/V20余块试换用户原始回报_仅本地_v048.txt"
     ],
-    "unpublished_historical_or_restricted_records": 0
+    "unpublished_historical_or_restricted_records": 0,
+    "video_asset_ids": [
+      "V14",
+      "V20"
+    ],
+    "recording_catalogue": "evidence/videos/video_manifest.json"
   },
   {
     "source_id": "D05",
@@ -67,7 +81,11 @@
       "evidence/observations/source_records/E32_G03实体直视局部修订与接续.txt",
       "evidence/observations/source_records/V09用户简记原始回报_仅本地_v055.txt"
     ],
-    "unpublished_historical_or_restricted_records": 0
+    "unpublished_historical_or_restricted_records": 0,
+    "video_asset_ids": [
+      "V09"
+    ],
+    "recording_catalogue": "evidence/videos/video_manifest.json"
   },
   {
     "source_id": "D06",
@@ -83,7 +101,12 @@
       "evidence/observations/source_records/V16_V21蜡烛用户原回报_仅本地_v060.txt",
       "evidence/raw/vr/REIT_Tangram/ResearchV2/TECHNICAL_TEST_20261009T035445_fede18ca_events_v2.csv"
     ],
-    "unpublished_historical_or_restricted_records": 0
+    "unpublished_historical_or_restricted_records": 0,
+    "video_asset_ids": [
+      "V16",
+      "V21"
+    ],
+    "recording_catalogue": "evidence/videos/video_manifest.json"
   },
   {
     "source_id": "D07",
@@ -97,7 +120,11 @@
       "evidence/observations/source_records/E36_G04实体直视探索与三次干预.txt",
       "evidence/observations/source_records/V10用户原回报_仅本地_v062.txt"
     ],
-    "unpublished_historical_or_restricted_records": 0
+    "unpublished_historical_or_restricted_records": 0,
+    "video_asset_ids": [
+      "V10"
+    ],
+    "recording_catalogue": "evidence/videos/video_manifest.json"
   },
   {
     "source_id": "D08",
@@ -113,7 +140,12 @@
       "evidence/observations/source_records/V17_V23蜡烛用户原回报_仅本地_v064.txt",
       "evidence/raw/vr/REIT_Tangram/ResearchV2/TECHNICAL_TEST_20261009T070503_5a0ebbc4_events_v2.csv"
     ],
-    "unpublished_historical_or_restricted_records": 0
+    "unpublished_historical_or_restricted_records": 0,
+    "video_asset_ids": [
+      "V17",
+      "V23"
+    ],
+    "recording_catalogue": "evidence/videos/video_manifest.json"
   },
   {
     "source_id": "D09",
@@ -127,7 +159,11 @@
       "evidence/observations/source_records/E40_G05实体直视怀疑与自行修正.txt",
       "evidence/observations/source_records/V11末段用户原回报_仅本地_v066.txt"
     ],
-    "unpublished_historical_or_restricted_records": 0
+    "unpublished_historical_or_restricted_records": 0,
+    "video_asset_ids": [
+      "V11"
+    ],
+    "recording_catalogue": "evidence/videos/video_manifest.json"
   },
   {
     "source_id": "D10",
@@ -142,7 +178,12 @@
       "evidence/observations/source_records/E42_G05椅子共同尝试与方案修订.txt",
       "evidence/observations/source_records/G05_N06_N08原笔记恢复_v067.txt"
     ],
-    "unpublished_historical_or_restricted_records": 1
+    "unpublished_historical_or_restricted_records": 1,
+    "video_asset_ids": [
+      "V18",
+      "V24"
+    ],
+    "recording_catalogue": "evidence/videos/video_manifest.json"
   },
   {
     "source_id": "D11",
@@ -156,7 +197,12 @@
       "evidence/observations/source_records/E43_G05人物建议执行与局部协助.txt",
       "evidence/observations/source_records/G05_N06_N08原笔记恢复_v067.txt"
     ],
-    "unpublished_historical_or_restricted_records": 0
+    "unpublished_historical_or_restricted_records": 0,
+    "video_asset_ids": [
+      "V18",
+      "V24"
+    ],
+    "recording_catalogue": "evidence/videos/video_manifest.json"
   },
   {
     "source_id": "D12",
@@ -171,7 +217,11 @@
       "evidence/observations/source_records/E45_G06实体俯视局部接续与核对.txt",
       "evidence/observations/source_records/V06用户原回报_仅本地_v069.txt"
     ],
-    "unpublished_historical_or_restricted_records": 1
+    "unpublished_historical_or_restricted_records": 1,
+    "video_asset_ids": [
+      "V06"
+    ],
+    "recording_catalogue": "evidence/videos/video_manifest.json"
   },
   {
     "source_id": "D13",
@@ -184,7 +234,8 @@
       "evidence/analysis/cases/evidence_g06_author_revision_20261102.json",
       "evidence/observations/interviews/G06.txt"
     ],
-    "unpublished_historical_or_restricted_records": 0
+    "unpublished_historical_or_restricted_records": 0,
+    "video_asset_ids": []
   },
   {
     "source_id": "D14",
@@ -201,7 +252,11 @@
       "evidence/observations/source_records/V19蜡烛用户原回报_仅本地_v073.txt",
       "evidence/raw/vr/REIT_Tangram/ResearchV2/TECHNICAL_TEST_20261010T084712_3a9476c5_events_v2.csv"
     ],
-    "unpublished_historical_or_restricted_records": 1
+    "unpublished_historical_or_restricted_records": 1,
+    "video_asset_ids": [
+      "V19"
+    ],
+    "recording_catalogue": "evidence/videos/video_manifest.json"
   },
   {
     "source_id": "D15",
@@ -214,7 +269,11 @@
       "evidence/analysis/cases/evidence_g06_author_revision_20261102.json",
       "evidence/observations/source_records/V19人物用户原回报_仅本地_v074.txt"
     ],
-    "unpublished_historical_or_restricted_records": 0
+    "unpublished_historical_or_restricted_records": 0,
+    "video_asset_ids": [
+      "V19"
+    ],
+    "recording_catalogue": "evidence/videos/video_manifest.json"
   },
   {
     "source_id": "D16",
@@ -228,7 +287,8 @@
       "evidence/analysis/cases/evidence_g06_author_revision_20261102.json",
       "evidence/analysis/figures/inputs/geometry/geometry_from_backup.json"
     ],
-    "unpublished_historical_or_restricted_records": 1
+    "unpublished_historical_or_restricted_records": 1,
+    "video_asset_ids": []
   },
   {
     "source_id": "D17",
@@ -242,7 +302,8 @@
       "evidence/observations/source_records/正式轮纳入与非正式尝试处理规则_v071.txt",
       "evidence/observations/source_records/正式轮与VR俯视实施澄清_用户原文_仅本地_v071.txt"
     ],
-    "unpublished_historical_or_restricted_records": 0
+    "unpublished_historical_or_restricted_records": 0,
+    "video_asset_ids": []
   },
   {
     "source_id": "D18",
@@ -255,7 +316,8 @@
       "evidence/observations/source_records/最后实施澄清三项_已答_v076.json",
       "evidence/observations/source_records/六组VR与七巧板既往经历_v075.tsv"
     ],
-    "unpublished_historical_or_restricted_records": 0
+    "unpublished_historical_or_restricted_records": 0,
+    "video_asset_ids": []
   },
   {
     "source_id": "D19",
@@ -266,7 +328,8 @@
     "published_paths": [
       "evidence/observations/source_records/26视频覆盖与语音质量_v038.tsv"
     ],
-    "unpublished_historical_or_restricted_records": 0
+    "unpublished_historical_or_restricted_records": 0,
+    "video_asset_ids": []
   },
   {
     "source_id": "D20",
@@ -282,7 +345,8 @@
       "evidence/questionnaire/问卷来源说明.txt",
       "evidence/questionnaire/question_dictionary.tsv"
     ],
-    "unpublished_historical_or_restricted_records": 0
+    "unpublished_historical_or_restricted_records": 0,
+    "video_asset_ids": []
   },
   {
     "source_id": "D21",
@@ -296,7 +360,8 @@
       "evidence/analysis/cases/self_revision_evidence.json",
       "evidence/analysis/cases/evidence_g06_author_revision_20261102.json"
     ],
-    "unpublished_historical_or_restricted_records": 1
+    "unpublished_historical_or_restricted_records": 1,
+    "video_asset_ids": []
   },
   {
     "source_id": "D22",
@@ -304,9 +369,14 @@
       "CONSENT12",
       "MAIL-OCT06"
     ],
-    "description": "Retained consent forms and the supervisor's educational-use correspondence.",
-    "published_paths": [],
-    "unpublished_historical_or_restricted_records": 4
+    "description": "Retained blank participant information and consent forms; completed consent records and educational-use correspondence remain local and restricted.",
+    "published_paths": [
+      "evidence/ethics/README.md",
+      "evidence/ethics/participant_information_sheet_v1.pdf",
+      "evidence/ethics/participant_consent_form_blank_v1.pdf"
+    ],
+    "unpublished_historical_or_restricted_records": 4,
+    "video_asset_ids": []
   },
   {
     "source_id": "D23",
@@ -318,7 +388,8 @@
       "evidence/analysis/figures/reproduce.py",
       "evidence/analysis/figures/provenance/file_manifest.json"
     ],
-    "unpublished_historical_or_restricted_records": 3
+    "unpublished_historical_or_restricted_records": 3,
+    "video_asset_ids": []
   },
   {
     "source_id": "D24",
@@ -327,7 +398,8 @@
     ],
     "description": "Implemented three-smartphone Discord apparatus and two-headset VR arrangement, with viewing and control mappings.",
     "published_paths": [],
-    "unpublished_historical_or_restricted_records": 2
+    "unpublished_historical_or_restricted_records": 2,
+    "video_asset_ids": []
   },
   {
     "source_id": "D25",
@@ -340,7 +412,8 @@
       "evidence/observations/source_records/日志协议版本_v037.tsv",
       "evidence/protocol/implementation/TangramSession_20261010.cs"
     ],
-    "unpublished_historical_or_restricted_records": 2
+    "unpublished_historical_or_restricted_records": 2,
+    "video_asset_ids": []
   },
   {
     "source_id": "D26",
@@ -356,7 +429,8 @@
       "evidence/analysis/figures/specs/trace_selection.json",
       "evidence/analysis/figures/validate.py"
     ],
-    "unpublished_historical_or_restricted_records": 4
+    "unpublished_historical_or_restricted_records": 4,
+    "video_asset_ids": []
   },
   {
     "source_id": "D27",
@@ -370,7 +444,8 @@
       "evidence/observations/source_records/E42_G05椅子共同尝试与方案修订.txt",
       "evidence/observations/source_records/00_先读_G06完成判定更正.txt"
     ],
-    "unpublished_historical_or_restricted_records": 1
+    "unpublished_historical_or_restricted_records": 1,
+    "video_asset_ids": []
   },
   {
     "source_id": "D28",
@@ -379,7 +454,8 @@
     ],
     "description": "Original supervisor project description: collaborative behaviour, communication, coordination and workspace awareness in third-person VR.",
     "published_paths": [],
-    "unpublished_historical_or_restricted_records": 2
+    "unpublished_historical_or_restricted_records": 2,
+    "video_asset_ids": []
   },
   {
     "source_id": "D29",
@@ -388,7 +464,8 @@
     ],
     "description": "Early physical Tangram study plan (StudyTestPlan\\_Iteration\\_1); a planning record preceding the implemented study.",
     "published_paths": [],
-    "unpublished_historical_or_restricted_records": 2
+    "unpublished_historical_or_restricted_records": 2,
+    "video_asset_ids": []
   },
   {
     "source_id": "D30",
@@ -397,7 +474,8 @@
     ],
     "description": "Early thesis project roadmap, covering the planned progression from physical collaboration to a VR prototype.",
     "published_paths": [],
-    "unpublished_historical_or_restricted_records": 2
+    "unpublished_historical_or_restricted_records": 2,
+    "video_asset_ids": []
   },
   {
     "source_id": "D31",
@@ -406,7 +484,8 @@
     ],
     "description": "August thesis plan, including the shared spatial representation rationale and proposed physical and VR tasks.",
     "published_paths": [],
-    "unpublished_historical_or_restricted_records": 2
+    "unpublished_historical_or_restricted_records": 2,
+    "video_asset_ids": []
   },
   {
     "source_id": "D32",
@@ -415,7 +494,8 @@
     ],
     "description": "Student email of 19 August 2026 discussing the thesis plan and how to examine collaboration beyond spatial overlap or activity counts.",
     "published_paths": [],
-    "unpublished_historical_or_restricted_records": 2
+    "unpublished_historical_or_restricted_records": 2,
+    "video_asset_ids": []
   },
   {
     "source_id": "D33",
@@ -424,7 +504,8 @@
     ],
     "description": "Supervisor response of 20 August 2026 on task comparability and the possibility of both separate and joint work.",
     "published_paths": [],
-    "unpublished_historical_or_restricted_records": 2
+    "unpublished_historical_or_restricted_records": 2,
+    "video_asset_ids": []
   },
   {
     "source_id": "D34",
@@ -433,7 +514,8 @@
     ],
     "description": "Supervisor meeting transcript indexed to 22 April 2026; discussion of the research aim and prototype development.",
     "published_paths": [],
-    "unpublished_historical_or_restricted_records": 2
+    "unpublished_historical_or_restricted_records": 2,
+    "video_asset_ids": []
   },
   {
     "source_id": "D35",
@@ -442,7 +524,8 @@
     ],
     "description": "Supervisor meeting transcript indexed to 12 June 2026; discussion of separate work and joint responsibility within a collaborative task.",
     "published_paths": [],
-    "unpublished_historical_or_restricted_records": 2
+    "unpublished_historical_or_restricted_records": 2,
+    "video_asset_ids": []
   },
   {
     "source_id": "D36",
@@ -451,7 +534,8 @@
     ],
     "description": "Supervisor meeting transcript indexed to 1 September 2026; comparison of task options and selection of a common Tangram task family.",
     "published_paths": [],
-    "unpublished_historical_or_restricted_records": 2
+    "unpublished_historical_or_restricted_records": 2,
+    "video_asset_ids": []
   },
   {
     "source_id": "D37",
@@ -460,7 +544,8 @@
     ],
     "description": "Intermediate eight-condition test plan, including assigned-role and free-collaboration variants; retained as design history.",
     "published_paths": [],
-    "unpublished_historical_or_restricted_records": 1
+    "unpublished_historical_or_restricted_records": 1,
+    "video_asset_ids": []
   },
   {
     "source_id": "D38",
@@ -469,7 +554,8 @@
     ],
     "description": "Final Chinese researcher procedure manual, version 3, used to document the study procedure.",
     "published_paths": [],
-    "unpublished_historical_or_restricted_records": 1
+    "unpublished_historical_or_restricted_records": 1,
+    "video_asset_ids": []
   },
   {
     "source_id": "D39",
@@ -478,7 +564,8 @@
     ],
     "description": "Submitted conference paper, particularly its method description of the physical and VR configurations.",
     "published_paths": [],
-    "unpublished_historical_or_restricted_records": 2
+    "unpublished_historical_or_restricted_records": 2,
+    "video_asset_ids": []
   },
   {
     "source_id": "D40",
@@ -489,7 +576,8 @@
     "published_paths": [
       "evidence/observations/source_records/正式轮与VR俯视实施澄清_用户原文_仅本地_v071.txt"
     ],
-    "unpublished_historical_or_restricted_records": 0
+    "unpublished_historical_or_restricted_records": 0,
+    "video_asset_ids": []
   },
   {
     "source_id": "D41",
@@ -500,7 +588,8 @@
     "published_paths": [
       "evidence/observations/source_records/固定俯视与操作方向_实施核验_v071.txt"
     ],
-    "unpublished_historical_or_restricted_records": 0
+    "unpublished_historical_or_restricted_records": 0,
+    "video_asset_ids": []
   },
   {
     "source_id": "D42",
@@ -512,7 +601,8 @@
       "evidence/observations/source_records/六组实际流程与混杂_v037.tsv",
       "evidence/protocol/author_corrections_20261102.json"
     ],
-    "unpublished_historical_or_restricted_records": 0
+    "unpublished_historical_or_restricted_records": 0,
+    "video_asset_ids": []
   },
   {
     "source_id": "D43",
@@ -524,7 +614,8 @@
       "evidence/observations/source_records/六组目标呈现版本分层_v037.tsv",
       "evidence/protocol/author_corrections_20261102.json"
     ],
-    "unpublished_historical_or_restricted_records": 0
+    "unpublished_historical_or_restricted_records": 0,
+    "video_asset_ids": []
   },
   {
     "source_id": "D44",
@@ -535,7 +626,8 @@
     "published_paths": [
       "evidence/analysis/coding/methods.txt"
     ],
-    "unpublished_historical_or_restricted_records": 0
+    "unpublished_historical_or_restricted_records": 0,
+    "video_asset_ids": []
   },
   {
     "source_id": "D45",
@@ -547,7 +639,8 @@
       "evidence/observations/source_records/G04设备熟悉与正式开始_实施澄清_v064.txt",
       "evidence/observations/source_records/G04人物适应阶段用户澄清_仅本地_v065.txt"
     ],
-    "unpublished_historical_or_restricted_records": 0
+    "unpublished_historical_or_restricted_records": 0,
+    "video_asset_ids": []
   },
   {
     "source_id": "D46",
@@ -558,7 +651,8 @@
     "published_paths": [
       "evidence/observations/source_records/站位安排与自主调整_实施澄清_v063.txt"
     ],
-    "unpublished_historical_or_restricted_records": 0
+    "unpublished_historical_or_restricted_records": 0,
+    "video_asset_ids": []
   },
   {
     "source_id": "D47",
@@ -567,7 +661,8 @@
     ],
     "description": "Four-condition table and implementation description linking R01--R04 to the physical and virtual viewing arrangements.",
     "published_paths": [],
-    "unpublished_historical_or_restricted_records": 1
+    "unpublished_historical_or_restricted_records": 1,
+    "video_asset_ids": []
   },
   {
     "source_id": "D48",
@@ -578,7 +673,8 @@
     "published_paths": [
       "evidence/observations/source_records/V20用户听核原始回报_仅本地_20261018.txt"
     ],
-    "unpublished_historical_or_restricted_records": 0
+    "unpublished_historical_or_restricted_records": 0,
+    "video_asset_ids": []
   },
   {
     "source_id": "D49",
@@ -592,7 +688,8 @@
       "evidence/observations/source_records/V26用户听核及录音范围原始回报_仅本地_20261018.txt",
       "evidence/observations/source_records/V13伙伴言语动作原始回报_仅本地_20261018.txt"
     ],
-    "unpublished_historical_or_restricted_records": 0
+    "unpublished_historical_or_restricted_records": 0,
+    "video_asset_ids": []
   },
   {
     "source_id": "D50",
@@ -604,7 +701,8 @@
       "evidence/observations/source_records/E26_V20蜡烛朝向协商.txt",
       "evidence/observations/source_records/V20蜡烛段用户原始回报_仅本地_v049.txt"
     ],
-    "unpublished_historical_or_restricted_records": 0
+    "unpublished_historical_or_restricted_records": 0,
+    "video_asset_ids": []
   },
   {
     "source_id": "D51",
@@ -616,7 +714,12 @@
       "evidence/observations/source_records/E27_G01人物底座分歧与局部认同.txt",
       "evidence/observations/source_records/V26_V13底座讨论原始回报_仅本地_v050.txt"
     ],
-    "unpublished_historical_or_restricted_records": 0
+    "unpublished_historical_or_restricted_records": 0,
+    "video_asset_ids": [
+      "V13",
+      "V26"
+    ],
+    "recording_catalogue": "evidence/videos/video_manifest.json"
   },
   {
     "source_id": "D52",
@@ -628,7 +731,11 @@
       "evidence/observations/source_records/E28_G02实体直视建议与操作接续.txt",
       "evidence/observations/source_records/V08用户过程回报_仅本地_v051.txt"
     ],
-    "unpublished_historical_or_restricted_records": 0
+    "unpublished_historical_or_restricted_records": 0,
+    "video_asset_ids": [
+      "V08"
+    ],
+    "recording_catalogue": "evidence/videos/video_manifest.json"
   },
   {
     "source_id": "D53",
@@ -640,7 +747,11 @@
       "evidence/observations/source_records/V02用户过程与澄清原始回报_仅本地_v052.txt",
       "evidence/observations/source_records/E29_G02牛角构型修正与整理.txt"
     ],
-    "unpublished_historical_or_restricted_records": 0
+    "unpublished_historical_or_restricted_records": 0,
+    "video_asset_ids": [
+      "V02"
+    ],
+    "recording_catalogue": "evidence/videos/video_manifest.json"
   },
   {
     "source_id": "D54",
@@ -653,7 +764,8 @@
       "evidence/observations/source_records/E29_G02牛角构型修正与整理.txt",
       "evidence/observations/source_records/V02用户过程与澄清原始回报_仅本地_v052.txt"
     ],
-    "unpublished_historical_or_restricted_records": 0
+    "unpublished_historical_or_restricted_records": 0,
+    "video_asset_ids": []
   },
   {
     "source_id": "D55",
@@ -665,7 +777,12 @@
       "evidence/observations/source_records/E30_G02补录人物底座协商与分工.txt",
       "evidence/observations/source_records/V25V15人物段用户回报_仅本地_v053.txt"
     ],
-    "unpublished_historical_or_restricted_records": 0
+    "unpublished_historical_or_restricted_records": 0,
+    "video_asset_ids": [
+      "V15",
+      "V25"
+    ],
+    "recording_catalogue": "evidence/videos/video_manifest.json"
   },
   {
     "source_id": "D56",
@@ -677,7 +794,12 @@
       "evidence/observations/source_records/E31_G02补录同侧调整与船段接续.txt",
       "evidence/observations/source_records/V25V15调视角与船段用户回报_仅本地_v054.txt"
     ],
-    "unpublished_historical_or_restricted_records": 0
+    "unpublished_historical_or_restricted_records": 0,
+    "video_asset_ids": [
+      "V15",
+      "V25"
+    ],
+    "recording_catalogue": "evidence/videos/video_manifest.json"
   },
   {
     "source_id": "D57",
@@ -689,7 +811,11 @@
       "evidence/observations/source_records/E33_G03兔耳请求接续与身体修订.txt",
       "evidence/observations/source_records/V03用户回报原文_仅本地_v058.txt"
     ],
-    "unpublished_historical_or_restricted_records": 0
+    "unpublished_historical_or_restricted_records": 0,
+    "video_asset_ids": [
+      "V03"
+    ],
+    "recording_catalogue": "evidence/videos/video_manifest.json"
   },
   {
     "source_id": "D58",
@@ -701,7 +827,12 @@
       "evidence/observations/source_records/V16_V22椅子用户原回报_仅本地_v061.txt",
       "evidence/observations/source_records/E35_G03椅子指令执行与研究者提示.txt"
     ],
-    "unpublished_historical_or_restricted_records": 0
+    "unpublished_historical_or_restricted_records": 0,
+    "video_asset_ids": [
+      "V16",
+      "V22"
+    ],
+    "recording_catalogue": "evidence/videos/video_manifest.json"
   },
   {
     "source_id": "D59",
@@ -714,7 +845,8 @@
       "evidence/observations/source_records/E35_G03椅子指令执行与研究者提示.txt",
       "evidence/observations/source_records/V16_V22椅子用户原回报_仅本地_v061.txt"
     ],
-    "unpublished_historical_or_restricted_records": 0
+    "unpublished_historical_or_restricted_records": 0,
+    "video_asset_ids": []
   },
   {
     "source_id": "D60",
@@ -726,7 +858,11 @@
       "evidence/observations/source_records/E37_G04实体俯视牛角修订与自行放置.txt",
       "evidence/observations/source_records/V04用户原回报_仅本地_v063.txt"
     ],
-    "unpublished_historical_or_restricted_records": 0
+    "unpublished_historical_or_restricted_records": 0,
+    "video_asset_ids": [
+      "V04"
+    ],
+    "recording_catalogue": "evidence/videos/video_manifest.json"
   },
   {
     "source_id": "D61",
@@ -738,7 +874,11 @@
       "evidence/observations/source_records/E39_G04游泳者抓取困难与任务接续.txt",
       "evidence/observations/source_records/V23游泳者用户原回报_仅本地_v065.txt"
     ],
-    "unpublished_historical_or_restricted_records": 0
+    "unpublished_historical_or_restricted_records": 0,
+    "video_asset_ids": [
+      "V23"
+    ],
+    "recording_catalogue": "evidence/videos/video_manifest.json"
   },
   {
     "source_id": "D62",
@@ -750,7 +890,11 @@
       "evidence/observations/source_records/E41_G05实体俯视接续与完成后核对.txt",
       "evidence/observations/source_records/V05末段与提示规则用户原回报_仅本地_v067.txt"
     ],
-    "unpublished_historical_or_restricted_records": 0
+    "unpublished_historical_or_restricted_records": 0,
+    "video_asset_ids": [
+      "V05"
+    ],
+    "recording_catalogue": "evidence/videos/video_manifest.json"
   },
   {
     "source_id": "D63",
@@ -762,7 +906,11 @@
       "evidence/observations/source_records/E44_G06马图案局部尝试与建议接续.txt",
       "evidence/observations/source_records/V12用户原回报_仅本地_v068.txt"
     ],
-    "unpublished_historical_or_restricted_records": 0
+    "unpublished_historical_or_restricted_records": 0,
+    "video_asset_ids": [
+      "V12"
+    ],
+    "recording_catalogue": "evidence/videos/video_manifest.json"
   },
   {
     "source_id": "D64",
@@ -773,7 +921,8 @@
     "published_paths": [
       "evidence/observations/source_records/G05_N06_N08原笔记恢复_v067.txt"
     ],
-    "unpublished_historical_or_restricted_records": 0
+    "unpublished_historical_or_restricted_records": 0,
+    "video_asset_ids": []
   },
   {
     "source_id": "D65",
@@ -784,7 +933,8 @@
     "published_paths": [
       "evidence/observations/source_records/G05_N06_N08原笔记恢复_v067.txt"
     ],
-    "unpublished_historical_or_restricted_records": 0
+    "unpublished_historical_or_restricted_records": 0,
+    "video_asset_ids": []
   },
   {
     "source_id": "D66",
@@ -793,7 +943,11 @@
     ],
     "description": "G04 endpoint video containing first-person VR and earlier overhead familiarisation; the surviving segment does not cover the formal swimmer round.",
     "published_paths": [],
-    "unpublished_historical_or_restricted_records": 1
+    "unpublished_historical_or_restricted_records": 1,
+    "video_asset_ids": [
+      "V17"
+    ],
+    "recording_catalogue": "evidence/videos/video_manifest.json"
   },
   {
     "source_id": "D67",
@@ -802,7 +956,11 @@
     ],
     "description": "G04 partner-endpoint video covering the formal shared-overhead swimmer round, used for the E39 process account.",
     "published_paths": [],
-    "unpublished_historical_or_restricted_records": 1
+    "unpublished_historical_or_restricted_records": 1,
+    "video_asset_ids": [
+      "V23"
+    ],
+    "recording_catalogue": "evidence/videos/video_manifest.json"
   },
   {
     "source_id": "D68",
@@ -811,7 +969,8 @@
     ],
     "description": "Supervisor discussion indexed to 13 October 2026: analysing interactions and revisiting hypotheses.",
     "published_paths": [],
-    "unpublished_historical_or_restricted_records": 1
+    "unpublished_historical_or_restricted_records": 1,
+    "video_asset_ids": []
   },
   {
     "source_id": "D69",
@@ -820,7 +979,8 @@
     ],
     "description": "Researcher original planning message: remove prescribed roles after trying the study; retain freely negotiated work.",
     "published_paths": [],
-    "unpublished_historical_or_restricted_records": 1
+    "unpublished_historical_or_restricted_records": 1,
+    "video_asset_ids": []
   },
   {
     "source_id": "D70",
@@ -829,7 +989,8 @@
     ],
     "description": "Researcher original message on qualitative/quantitative records, interviews and explanations for each method.",
     "published_paths": [],
-    "unpublished_historical_or_restricted_records": 1
+    "unpublished_historical_or_restricted_records": 1,
+    "video_asset_ids": []
   },
   {
     "source_id": "D71",
@@ -838,7 +999,8 @@
     ],
     "description": "Archived conversation 论文规划建议, including the four-layer data-collection rationale.",
     "published_paths": [],
-    "unpublished_historical_or_restricted_records": 1
+    "unpublished_historical_or_restricted_records": 1,
+    "video_asset_ids": []
   },
   {
     "source_id": "D72",
@@ -847,7 +1009,8 @@
     ],
     "description": "Original proposal: method selection and anticipated outcomes.",
     "published_paths": [],
-    "unpublished_historical_or_restricted_records": 1
+    "unpublished_historical_or_restricted_records": 1,
+    "video_asset_ids": []
   },
   {
     "source_id": "D73",
@@ -856,7 +1019,8 @@
     ],
     "description": "Data-collection rationale and Unity logging plan V3.",
     "published_paths": [],
-    "unpublished_historical_or_restricted_records": 1
+    "unpublished_historical_or_restricted_records": 1,
+    "video_asset_ids": []
   },
   {
     "source_id": "D74",
@@ -867,6 +1031,7 @@
     "published_paths": [
       "evidence/protocol/author_corrections_20261102.json"
     ],
-    "unpublished_historical_or_restricted_records": 0
+    "unpublished_historical_or_restricted_records": 0,
+    "video_asset_ids": []
   }
 ]
